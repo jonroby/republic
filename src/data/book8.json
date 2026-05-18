@@ -1,0 +1,3989 @@
+{
+  "book": 8,
+  "title": {
+    "es": "Libro VIII",
+    "en": "Book VIII"
+  },
+  "sourceLang": "es",
+  "translations": [],
+  "segments": [
+    {
+      "id": "b8-0001",
+      "stephanus": "543a",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien. Hemos convenido, Glaucón, que el Estado que haya de alcanzar la más elevada forma de gobierno debe contar con la comunidad de las mujeres, la comunidad de los hijos, y la educación íntegra debe ser común, del mismo modo que las ocupaciones en común, tanto en la guerra como en la paz, y sus reyes han de ser los que se hayan acreditado como los mejores respecto de la filosofía y respecto de la guerra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0002",
+      "stephanus": "543b",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo hemos convenido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0003",
+      "stephanus": "543b",
+      "kind": "speech",
+      "text": {
+        "es": "—También quedamos de acuerdo en que, una vez puestos en funciones los gobernantes, conducirán a los soldados y los instalarán en moradas tales como las que hemos descrito, no teniendo nada en privado, sino todo en común. Y además de lo referente a las moradas, convinimos en cuanto a las propiedades, si recuerdas, cuáles clases de ellas podrán tener.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0004",
+      "stephanus": "543b",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que lo recuerdo; pensábamos, al menos, que no deberían poseer nada de lo que poseen ahora los demás gobernantes, sino que, como atletas de la guerra y guardianes, recibirían de los demás, a modo de salario por su servicio como guardianes, el alimento que para ello requieren anualmente, debiendo ocuparse de sí mismos y del resto del Estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0005",
+      "stephanus": "543c",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo que dices es correcto. Pero ahora adelante, puesto que hemos concluido con eso, y recordemos el punto en que nos desviamos hacia aquí, para retomar el mismo camino.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0006",
+      "stephanus": "543c",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso no es difícil —contestó Glaucón—. Casi al igual que ahora, discurrías dando por descrito el Estado, señalando que postulabas como bueno un Estado tal como el que habías descrito, y bueno el hombre similar a aquél, y, según parece, que podías hablar de un Estado y de un hombre mejores aún. Pero los otros Estados, afirmabas, debían ser deficientes, si éste era correcto; en cuanto a las restantes constituciones declarabas, según recuerdo, que eran cuatro las especies dignas de mención, y que había que observar sus defectos y los hombres semejantes a cada una de ellas, a fin de que, tras observar todo ello y ponernos de acuerdo en cuál sería el hombre mejor y cuál el peor, examináramos si el mejor es el más feliz y el peor el más desdichado, o bien si sucede de otro modo. Y cuando te pregunté a qué cuatro constituciones te referías, nos interrumpieron Polemarco y Adimanto, y así tomaste tú la palabra hasta llegar aquí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0007",
+      "stephanus": "544b",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo recuerdas correctísimamente —dije—.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0008",
+      "stephanus": "544b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces ofréceme la misma toma, como un luchador, y cuando yo te pregunte lo mismo, intenta tú decirme lo que en ese momento estabas a punto de decir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0009",
+      "stephanus": "544b",
+      "kind": "speech",
+      "text": {
+        "es": "—Siempre que pueda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0010",
+      "stephanus": "544b",
+      "kind": "speech",
+      "text": {
+        "es": "—En lo que hace a mí, anhelo escucharte cuáles son esos cuatro regímenes a que te referías.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0011",
+      "stephanus": "544c",
+      "kind": "speech",
+      "text": {
+        "es": "—No será difícil que lo escuches. En efecto, aquellos a los que me refiero tienen también su nombre: aquel que es elogiado por muchos, el de Creta y Lacedemonia; después el segundo en recibir elogios, la llamada oligarquía, régimen cargado de abundantes males; en divergencia con éste le sigue la democracia, y la ‘noble’ tiranía, que sobrepasa a todos éstos, y que es la cuarta y última enfermedad del Estado. ¿O hallas alguna otra forma de organización política que esté situada en una especie distinta? Pues las monarquías hereditarias y las que se venden al mejor postor, y otras organizaciones políticas de tal índole, son sin duda intermedias entre aquéllas, y no se las halla en menor número entre los bárbaros que entre los griegos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0012",
+      "stephanus": "544d",
+      "kind": "speech",
+      "text": {
+        "es": "—Se habla de muchas y muy extrañas, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0013",
+      "stephanus": "544d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Sabes que hay necesariamente tantas especies de caracteres humanos como de regímenes políticos? ¿O piensas que los regímenes nacen de una encina o de piedras, y no del comportamiento de aquellos ciudadanos que, al inclinarse hacia un lado, arrastran allí a todos los demás?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0014",
+      "stephanus": "544e",
+      "kind": "speech",
+      "text": {
+        "es": "—De ninguna otra parte que de ese comportamiento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0015",
+      "stephanus": "544e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, si las clases de Estados son cinco, también han de ser cinco las modalidades de las almas de los individuos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0016",
+      "stephanus": "544e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0017",
+      "stephanus": "544e",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, al hombre similar a la aristocracia ya lo hemos descrito, y dijimos que era bueno y justo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0018",
+      "stephanus": "545a",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo hemos descrito.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0019",
+      "stephanus": "545a",
+      "kind": "speech",
+      "text": {
+        "es": "—Después de él, debemos pasar revista a los hombres inferiores, al amante del triunfo y del honor, conforme a la constitución espartana, luego al oligárquico, al democrático y al tiránico, a fin de que, tras mirar al más injusto, lo contrapongamos al más justo, y sea completo nuestro examen de cómo ha de ser la justicia extrema en relación con la extrema injusticia respecto de la felicidad y desdicha de quien las alcanza, de modo que, haciendo caso a Trasímaco, persigamos la injusticia, o, según lo que ahora el argumento nos hace manifiesto, la justicia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0020",
+      "stephanus": "545b",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo en que debemos obrar así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0021",
+      "stephanus": "545b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, tal como comenzamos por examinar los comportamientos en la organización del Estado antes que en los particulares, por ser así más claro, también ahora hay que examinar en primer lugar el régimen político basado en el amor al honor —no conozco otro nombre que se le dé; lo llamaremos ‘timocracia’ o ‘timarquía’—, e inspeccionaremos al hombre de esa índole en relación con él; después la oligarquía y el hombre oligárquico y, a su vez, dirigiendo la mirada a la democracia, contemplaremos el hombre democrático; y en cuarto lugar, tras marchar hacia el Estado tiránico y haberlo mirado, dirigir la mirada esta vez al alma tiránica, tratando de convertirnos en jueces idóneos de la cuestión que hemos propuesto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0022",
+      "stephanus": "545c",
+      "kind": "speech",
+      "text": {
+        "es": "—Al menos así se llegará, conforme a razón, a la contemplación y al veredicto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0023",
+      "stephanus": "545c",
+      "kind": "speech",
+      "text": {
+        "es": "—Vamos, entonces, y tratemos de decir de qué modo la timocracia nace a partir de la aristocracia. ¿O no es un hecho muy simple el que todo régimen político se transforma a partir de los que detentan el poder, cuando entre ellos mismos se produce la disensión, y que mientras están en armonía, por pocos que sean, es imposible que cambie algo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0024",
+      "stephanus": "545d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es, efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0025",
+      "stephanus": "545d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué modo, Glaucón, será perturbado nuestro Estado? ¿Cómo entrarán en discordia los gobernantes y los auxiliares unos con otros y consigo mismos? ¿Quieres que imploremos a las Musas, como Homero, para que nos digan «cómo se produjo por primera vez» la discordia, y nosotros narremos que ellas, con aire de tragedia y como si estuvieran hablando seriamente, ponen un tono solemne en la voz, cuando en realidad están jugando y divirtiéndose con nosotros como con niños?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0026",
+      "stephanus": "546a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué manera?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0027",
+      "stephanus": "546a",
+      "kind": "speech",
+      "text": {
+        "es": "—Más o menos de esta manera: es difícil que un Estado así constituido sea perturbado, pero, dado que todo lo generado es corruptible, esta constitución no durará la totalidad del tiempo, sino que se disolverá. Y la disolución se producirá de esta forma: no sólo en el caso de las plantas que viven en la tierra, sino también en el de los seres vivos que se mueven sobre la tierra, hay fecundidad e infecundidad de almas y de cuerpos, cuando las rotaciones completan los movimientos circulares para cada una de las especies; los movimientos circulares de corto recorrido para las especies de corta vida, y los opuestos para las especies opuestas. Ahora bien, dicen las Musas, «en cuanto a vuestra raza humana, aquellos que habéis educado como conductores del Estado, aun cuando sean sabios, tampoco lograrán controlar la fecundidad y la esterilidad por medio del cálculo acompañado de percepción sensible, sino que les pasarán inadvertidas, y procrearán en momentos no propicios. Para una criatura divina hay un período comprendido por el número perfecto; para una criatura humana, en cambio, el número es el primero en el cual se producen crecimientos, al elevarse al cuadrado y aumentar esta potencia, comprendiendo tres intervalos y cuatro términos dentro de proporciones numéricas que son similares o no similares, que aumentan y disminuyen y ponen de manifiesto que todas las cosas se corresponden entre sí y son racionales. La base mínima de estos números proporcionales es la relación del cuatro al tres, conjugada con el cinco, la cual, tras haber crecido tres veces, produce dos armonías. Una, que resulta de factores iguales, multiplicada por cien cuantas veces sea menester; la otra armonía, en cambio, puede descomponerse en alguna medida en factores iguales, pero oblonga en conjunto, por resultar de factores desiguales, a saber, de cien números de diagonales racionales de cuadrados de lado 5, disminuido en 1 en cada caso, o de diagonales irracionales de cuadrados de lado 5, disminuido cada número en 2, y de cien cubos de tres. Ahora bien, este número geométrico total tiene tal poder respecto de que los nacimientos sean mejores o peores, que, cuando lo desconozcan, vuestros guardianes casarán a las doncellas con mancebos en momentos no propicios, y nacerán niños no favorecidos por la naturaleza ni por la fortuna. Los mejores de ellos serán designados por sus predecesores; no obstante, dada su falta de mérito, una vez que hayan alcanzado los poderes de sus padres, comenzarán, aun siendo guardianes, por descuidarnos a nosotras, las Musas; primeramente, al estimar menos de lo que se debe la música, en segundo lugar, la gimnasia. De ahí que vuestros jóvenes se tornarán más incultos, y los hombres que sean designados gobernantes no serán muy apropiados para la condición de guardianes respecto de la discriminación de las razas de Hesíodo y las que hay entre vosotros: la de oro, la de plata, la de bronce y la de hierro. Y si se mezcla a la de hierro con la de plata y a la de bronce con la de oro se generará una desemejanza y una anomalía inarmónica, lo cual, allí donde surge, procrea siempre guerra y odio. «Tal es la genealogía de la discordia —hay que decirlo— dondequiera se produce.»",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0028",
+      "stephanus": "547a",
+      "kind": "speech",
+      "text": {
+        "es": "—Diremos que ellas han hablado correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0029",
+      "stephanus": "547a",
+      "kind": "speech",
+      "text": {
+        "es": "—Forzosamente, puesto que son Musas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0030",
+      "stephanus": "547b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y después de eso, ¿qué dicen las Musas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0031",
+      "stephanus": "547b",
+      "kind": "speech",
+      "text": {
+        "es": "—Una vez suscitada la discordia, cada una de las razas empujaba: la de hierro y bronce hacia el lucro y la adquisición de tierra y casas de oro y plata, mientras las razas de oro y plata, que no eran por naturaleza pobres sino ricas en sus almas, inducían hacia la excelencia y hacia la antigua constitución. Pero tras hacerse violencia y luchar entre sí, arribaron a un compromiso por el cual, apropiándose tierra y casas, se las repartieron, y, a los anteriormente cuidados por ellos como amigos libres y proveedores de alimento, los esclavizaron, teniéndolos por dependientes y sirvientes, ocupándose ellos mismos de la guerra y de la vigilancia de aquéllos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0032",
+      "stephanus": "547c",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que es a partir de allí que se produce el cambio.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0033",
+      "stephanus": "547c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y este régimen político, ¿no es intermedio entre la aristocracia y la oligarquía?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0034",
+      "stephanus": "547c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0035",
+      "stephanus": "547c",
+      "kind": "speech",
+      "text": {
+        "es": "—El tránsito se producirá de ese modo; mas después del cambio, ¿cómo será gobernado el Estado? ¿No está claro que, por ser un régimen intermedio, imitará en parte al anterior, en parte a la oligarquía, pero poseerá algo peculiar?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0036",
+      "stephanus": "547d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así será.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0037",
+      "stephanus": "547d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien; en lo concerniente al honor debido a los gobernantes y la abstención de la clase guerrera respecto de la agricultura, las artes manuales y de las lucrativas en general, así como en cuanto a la disposición de comidas en común y a la dedicación a la gimnasia y a las prácticas militares: en todos estos casos, ¿no imitarán al régimen anterior?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0038",
+      "stephanus": "547d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0039",
+      "stephanus": "547e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero en lo que respecta a temer llevar hombres sabios a las funciones gubernamentales, por no contar ya con hombres de tal índole, simples e inflexibles, sino mixtos, e inclinarse hacia otros fogosos y más simples, por naturaleza aptos para la guerra antes que para la paz, y tener en mucho los correspondientes engaños y estratagemas y pasar siempre el tiempo guerreando, ¿no serán propios de tal régimen, a su vez, la mayoría de los rasgos de esa índole?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0040",
+      "stephanus": "548a",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0041",
+      "stephanus": "548a",
+      "kind": "speech",
+      "text": {
+        "es": "—Tales hombres, entonces, estarán sedientos de riquezas, como en las oligarquías, y reverenciarán salvajemente el oro y la plata a escondidas, por ser poseedores de cámaras y tesoros particulares, donde mantendrán oculto lo que depositen, y tendrán residencias cerradas por muros, verdaderamente nidos privados en que malgastarán gran cantidad de dinero en mujeres y otras cosas que les plazca.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0042",
+      "stephanus": "548b",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0043",
+      "stephanus": "548b",
+      "kind": "speech",
+      "text": {
+        "es": "—Serán también avaros, puesto que reverencian el dinero y lo poseen ocultamente, aunque pródigos con las riquezas ajenas para colmar sus apetitos, y disfrutarán sus placeres en secreto, escapando de la ley como niños de sus padres, por no haber sido educados mediante la persuasión sino la fuerza, en razón de haber descuidado la verdadera Musa, la que se acompaña de argumentos y de filosofía, y por haber acordado mayor dignidad a la gimnasia que a la música.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0044",
+      "stephanus": "548c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto, hablas de un régimen político en que el mal y el bien se hallan mezclados.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0045",
+      "stephanus": "548c",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy mezclados, en efecto. Pero lo más manifiesto en él es una sola cosa, debido a la prevalencia de la fogosidad: el deseo de imponerse y ser venerado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0046",
+      "stephanus": "548c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Y con mucho!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0047",
+      "stephanus": "548d",
+      "kind": "speech",
+      "text": {
+        "es": "—De tal índole, pues, es este régimen político, y así se ha originado, en la medida en que bosquejamos con palabras el esquema de una constitución, sin completarlo con precisión, por ser suficiente para divisar, incluso a partir de un bosquejo, al hombre más justo y al más injusto; y sería una tarea impracticablemente larga describir todos los regímenes y todos los caracteres, sin omitir nada.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0048",
+      "stephanus": "548d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y es correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0049",
+      "stephanus": "548d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, ¿cuál es el hombre acorde a este régimen? ¿Cómo se ha originado y cuál es su índole?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0050",
+      "stephanus": "548d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso —dijo Adimanto— que ha de estar próximo a Glaucón en cuanto a las ansias de sobresalir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0051",
+      "stephanus": "548e",
+      "kind": "speech",
+      "text": {
+        "es": "—Tal vez, pero me parece que su naturaleza es distinta en estos aspectos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0052",
+      "stephanus": "548e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuáles?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0053",
+      "stephanus": "548e",
+      "kind": "speech",
+      "text": {
+        "es": "—Ha de ser más obstinado y algo más ajeno a las Musas, aunque las ame y también gustará oír conversaciones, pero de ningún modo será un retórico. Semejante hombre será feroz con los esclavos, por no sentirse superior a ellos, como el que ha sido suficientemente educado; gentil con los hombres libres y muy sumiso con los gobernantes, amará el poder y los honores, no basando su pretensión de mando en su elocuencia ni en nada de tal índole, sino en las acciones guerreras y en las cosas relativas a éstas; gustará de la gimnasia y de la caza.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0054",
+      "stephanus": "549a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ese es, en efecto, el carácter que corresponde a aquel régimen.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0055",
+      "stephanus": "549b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y desdeñará las riquezas mientras sea joven, pero cuanto más edad tenga mejor les dará la bienvenida, por participar de la naturaleza del codicioso y no estar incontaminado respecto de la excelencia, a raíz de faltarle el mejor guardián.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0056",
+      "stephanus": "549b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Quién es éste?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0057",
+      "stephanus": "549b",
+      "kind": "speech",
+      "text": {
+        "es": "—La razón, que se mezcla con la música, y que es lo único que, allí donde aparece, reside preservando de por vida la excelencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0058",
+      "stephanus": "549b",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0059",
+      "stephanus": "549b",
+      "kind": "speech",
+      "text": {
+        "es": "—Aquél, pues, es el joven timocrático, similar al Estado que le corresponde.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0060",
+      "stephanus": "549c",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0061",
+      "stephanus": "549c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y este hombre se forma del modo siguiente. En ocasiones, es hijo de un padre bueno, que vive en un Estado mal organizado y huye de los honores, cargos, procesos y de todos los embrollos de esa índole, y que está dispuesto a sufrir menoscabo con tal de no tener problemas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0062",
+      "stephanus": "549c",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien, pero ¿de qué modo se forma?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0063",
+      "stephanus": "549c",
+      "kind": "speech",
+      "text": {
+        "es": "—Cuando primeramente oye a su madre quejarse de que el padre no se cuenta entre los gobernantes, por lo cual se ve disminuida ante las demás mujeres, así como porque ella ve que no se esfuerza intensamente por conseguir riquezas, ni pelea, recurriendo a injurias, en los tribunales, privadamente o en público, sino que toma todo esto a la ligera, y siente que pone siempre su pensamiento en sí mismo, pero que a ella no la aprecia mucho ni la desprecia; quejándose de todas estas cosas, dice que el padre es sumamente descuidado y que no es un verdadero marido, y cuantas otras cosas de esa índole les encanta a las mujeres repetir una y otra vez acerca de esto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0064",
+      "stephanus": "549c",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente —dijo Adimanto—, muchas y similares cosas son propias de ellas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0065",
+      "stephanus": "549c",
+      "kind": "speech",
+      "text": {
+        "es": "—Tú sabes que a veces también de esa manera hablan a los hijos los servidores de aquéllos, a hurtadillas, aunque pasen por ser leales; y si ven a algún deudor o alguno que haya perjudicado al padre y éste no procede contra él, aconsejan al hijo para que, cuando llegue a adulto, castigue a todos esos y sea más hombre que el padre. Y cuando el hijo sale a la calle oye otras cosas por el estilo, y ve que los que en el Estado se ocupan de sus propios asuntos son llamados ‘tontos’ y tenidos en poca estima, mientras que los que se ocupan de los asuntos de los otros son reverenciados y elogiados. Entonces el joven que oye y ve todo esto, pero a su vez oye las palabras de su padre y ve sus preocupaciones de cerca y las compara con las de los demás, es arrastrado en ambas direcciones, por su padre, que irriga y hace crecer lo que de racional hay en su alma, y por los demás, que cultivan lo apetitivo y lo fogoso; y en razón de no ser mal hombre por naturaleza sino de andar en malas compañías, al ser arrastrado en ambas direcciones, llega a un compromiso, y ofrece el gobierno de sí mismo al principio intermedio ambicioso y fogoso, y se convierte en un hombre altanero y amante de los honores.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0066",
+      "stephanus": "550a",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece que has descrito exactamente la formación de este hombre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0067",
+      "stephanus": "550c",
+      "kind": "speech",
+      "text": {
+        "es": "—Tenemos ya, por consiguiente, el segundo régimen político y el segundo hombre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0068",
+      "stephanus": "550c",
+      "kind": "speech",
+      "text": {
+        "es": "—Los tenemos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0069",
+      "stephanus": "550c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No diremos, después de esto, con Esquilo: «veamos otro hombre colocado ante otro Estado,» o, más bien, de acuerdo con nuestra propuesta, en primer lugar el Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0070",
+      "stephanus": "550c",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0071",
+      "stephanus": "550c",
+      "kind": "speech",
+      "text": {
+        "es": "—Después de aquel régimen político, pienso, vendría la oligarquía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0072",
+      "stephanus": "550c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿A cuál constitución llamas ‘oligarquía’?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0073",
+      "stephanus": "550d",
+      "kind": "speech",
+      "text": {
+        "es": "—Al régimen basado en la tasación de la fortuna, en el cual mandan los ricos, y los pobres no participan del gobierno.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0074",
+      "stephanus": "550d",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprendo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0075",
+      "stephanus": "550d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No debemos decir en primer lugar cómo se produce el tránsito desde la timarquía hasta la oligarquía?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0076",
+      "stephanus": "550d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0077",
+      "stephanus": "550d",
+      "kind": "speech",
+      "text": {
+        "es": "—Bueno; hasta para un ciego es evidente cómo se produce.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0078",
+      "stephanus": "550d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0079",
+      "stephanus": "550d",
+      "kind": "speech",
+      "text": {
+        "es": "—Aquella cámara que cada uno tenía repleta de oro es lo que pierde a aquel régimen político. Primeramente, porque descubren otras maneras de gastar el dinero, y corrompen para eso las leyes, desacatándolas tanto ellos como sus esposas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0080",
+      "stephanus": "550d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es natural.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0081",
+      "stephanus": "550e",
+      "kind": "speech",
+      "text": {
+        "es": "—Después, al mirar cada uno al otro y ponerse a imitarlo, logran que la mayoría de ellos sean del mismo modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0082",
+      "stephanus": "550e",
+      "kind": "speech",
+      "text": {
+        "es": "—Probablemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0083",
+      "stephanus": "550e",
+      "kind": "speech",
+      "text": {
+        "es": "—A partir de ese momento, al avanzar en busca de más riquezas, cuanto más estiman eso, más menosprecian la excelencia. ¿O no se oponen la riqueza y la excelencia de modo tal que, como colocada cada una en uno de los platillos de la balanza, se inclinan siempre en dirección opuesta?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0084",
+      "stephanus": "550e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0085",
+      "stephanus": "551a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por ende, cuanto más se veneran en un Estado las riquezas y los hombres ricos, en menos se tiene la excelencia y los hombres buenos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0086",
+      "stephanus": "551a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0087",
+      "stephanus": "551a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, se cultiva lo que siempre se venera, se descuida lo que se tiene en menos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0088",
+      "stephanus": "551a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0089",
+      "stephanus": "551a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, de hombres que ansiaban imponerse y recibir honores, terminan por convertirse en amigos de la riqueza y del acrecentamiento de ésta; alaban al rico, lo admiran y lo llevan al gobierno, despreciando al pobre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0090",
+      "stephanus": "551a",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0091",
+      "stephanus": "551a",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces implantan por ley los límites del régimen oligárquico, fijando una cantidad de dinero, mayor donde la oligarquía se impone más, menor donde se impone menos, prohibiendo participar del gobierno a aquellos cuya fortuna no llegue a la tasación estipulada. Y esto lo hacen cumplir mediante la fuerza armada, o bien, antes de llegar a eso, instituyen tal constitución mediante el temor. ¿No es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0092",
+      "stephanus": "551b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así, seguramente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0093",
+      "stephanus": "551b",
+      "kind": "speech",
+      "text": {
+        "es": "—Podríamos decir que ésta es la constitución.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0094",
+      "stephanus": "551b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí —dijo Adimanto—. Pero ¿cuál es el carácter de este régimen? ¿Y cuáles son los defectos que decimos que tiene?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0095",
+      "stephanus": "551b",
+      "kind": "speech",
+      "text": {
+        "es": "—En primer lugar, es el mismo límite que se le ha impuesto. Mira qué pasaría si se procediera así con los pilotos de naves, en base a la tasación de su fortuna, y se impidiese timonear al pobre, aun cuando fuera mejor piloto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0096",
+      "stephanus": "551b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sería una navegación pésima la que tendría lugar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0097",
+      "stephanus": "551b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no sucedería lo mismo con cualquier otro tipo de mando?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0098",
+      "stephanus": "551b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0099",
+      "stephanus": "551b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Excepto en el caso del Estado?; ¿o también respecto del Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0100",
+      "stephanus": "551b",
+      "kind": "speech",
+      "text": {
+        "es": "—Más que en cualquier otro caso, por cuanto es el gobierno más difícil y más importante.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0101",
+      "stephanus": "551d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, de tal tamaño es ese defecto en la oligarquía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0102",
+      "stephanus": "551d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0103",
+      "stephanus": "551d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y este otro? ¿Te parece que es menor?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0104",
+      "stephanus": "551d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuál?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0105",
+      "stephanus": "551d",
+      "kind": "speech",
+      "text": {
+        "es": "—El de que necesariamente semejante Estado sea doble, no único: el Estado de los pobres y el de los ricos, que conviven en el mismo lugar y conspiran siempre unos contra otros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0106",
+      "stephanus": "551d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Por Zeus que este defecto no es menor!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0107",
+      "stephanus": "551d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y tampoco es algo positivo la probable incapacidad de llevar a cabo guerra alguna, a raíz de verse compelidos a servirse de la multitud armada, a la cual se teme más que a los enemigos, o, en caso de no servirse de ella, mostrarse en la misma batalla como realmente son, ‘oligarcas’; aparte de que, por ser amantes de la riqueza, no estarán dispuestos a contribuir a la guerra con dinero.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0108",
+      "stephanus": "551e",
+      "kind": "speech",
+      "text": {
+        "es": "—No es positivo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0109",
+      "stephanus": "551e",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien; en cuanto a lo que antes censurábamos, el ocuparse de muchas cosas, por ejemplo, que las mismas personas al mismo tiempo labren, hagan negocios y guerreen, en semejante régimen político, ¿te parece que es correcto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0110",
+      "stephanus": "552a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Ni por asomo!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0111",
+      "stephanus": "552a",
+      "kind": "speech",
+      "text": {
+        "es": "—Mira ahora si el siguiente no es el más grande de todos los males, y si este régimen no es el primero en admitirlo en sí mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0112",
+      "stephanus": "552a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuál?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0113",
+      "stephanus": "552a",
+      "kind": "speech",
+      "text": {
+        "es": "—El de permitir a uno vender todo lo suyo y a otro adquirirlo, y al que ha vendido vivir en el Estado sin pertenecer a ningún sector del Estado, no siendo negociante ni artesano, caballero ni hoplita, a simple título de pobre e indigente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0114",
+      "stephanus": "552b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente, es el primer régimen al que le sucede eso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0115",
+      "stephanus": "552b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero es que en los Estados oligárquicos nada impide algo de esa índole; de otro modo no serían unos excesivamente ricos y otros absolutamente pobres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0116",
+      "stephanus": "552b",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0117",
+      "stephanus": "552b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora observa esto: cuando semejante hombre, siendo rico, derrochaba su dinero, ¿resultaba útil al Estado en algo respecto a lo que hace un momento decíamos? ¿O no sucedía acaso que, pasando por ser uno de los gobernantes, en realidad no era gobernante ni servidor del Estado, sino sólo derrochador de lo que tenía?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0118",
+      "stephanus": "552c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es: pasaba por ser eso, pero no era nada más que un derrochador.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0119",
+      "stephanus": "552c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Quieres que digamos, entonces, que, así como el zángano nace en su celdilla, como aflicción del enjambre, así también tal hombre nace en su casa como zángano, aflicción del Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0120",
+      "stephanus": "552c",
+      "kind": "speech",
+      "text": {
+        "es": "—Absolutamente cierto, Sócrates.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0121",
+      "stephanus": "552c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no sucede, Adimanto, que a todos los zánganos con alas el dios los ha hecho desprovistos de aguijón, a los zánganos con patas los ha hecho a unos desprovistos de aguijón pero a otros con aguijones formidables? ¿Y que los desprovistos de aguijón concluyen en la vejez como mendigos, en tanto los que cuentan con aguijón son cuantos son llamados malhechores?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0122",
+      "stephanus": "552d",
+      "kind": "speech",
+      "text": {
+        "es": "—Una gran verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0123",
+      "stephanus": "552d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es entonces manifiesto que, allí donde ves mendigos en un Estado, sin duda en el mismo lugar están escondidos ladrones, salteadores, profanadores y artífices de todos los males de esa índole.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0124",
+      "stephanus": "552d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es manifiesto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0125",
+      "stephanus": "552d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, ¿no ves que en los Estados oligárquicos hay mendigos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0126",
+      "stephanus": "552d",
+      "kind": "speech",
+      "text": {
+        "es": "—Casi todos, a excepción de los que gobiernan.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0127",
+      "stephanus": "552e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No pensaremos, entonces, que también hay en tales Estados muchos malhechores que cuentan con aguijón, y a quienes los magistrados se preocupan de contener por la fuerza?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0128",
+      "stephanus": "552e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que lo pensaremos!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0129",
+      "stephanus": "552e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no diremos que es por falta de educación, por mala crianza y por la constitución del régimen político por lo que allí surgen tales hombres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0130",
+      "stephanus": "552e",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo diremos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0131",
+      "stephanus": "552e",
+      "kind": "speech",
+      "text": {
+        "es": "—De esta índole, pues, será el Estado oligárquico y aquellos males que contiene, aunque probablemente hay más.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0132",
+      "stephanus": "552e",
+      "kind": "speech",
+      "text": {
+        "es": "—Podemos suponerlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0133",
+      "stephanus": "553a",
+      "kind": "speech",
+      "text": {
+        "es": "—Demos entonces por completo el trazado de este régimen llamado ‘oligarquía’, cuyos gobernantes se constituyen a partir de la tasación de las fortunas. Después de esto examinemos al hombre que le es similar, para ver cómo se origina y cómo es una vez originado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0134",
+      "stephanus": "553a",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0135",
+      "stephanus": "553a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No es de este modo como sobre todo se produce el tránsito desde el hombre timocrático hacia el oligárquico?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0136",
+      "stephanus": "553a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De cuál modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0137",
+      "stephanus": "553a",
+      "kind": "speech",
+      "text": {
+        "es": "—Cuando del hombre timocrático ha nacido un hijo, éste primeramente imita a su padre y sigue sus huellas, pero después lo ve tropezar contra el Estado como contra una roca y, tras reducirse a escombros sus bienes y él mismo al frente de un ejército o desempeñando algún otro cargo importante, va a parar a los tribunales perjudicado por sicofantes, o es ejecutado o desterrado o se lo priva de derechos cívicos y pierde toda la fortuna.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0138",
+      "stephanus": "553b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lógico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0139",
+      "stephanus": "553b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y al ver esto, y sufrir y perder los bienes, el hijo, pienso, se atemoriza y pronto arroja de cabeza, del trono que hay en su alma, a la ambición y la fogosidad, y, humillado por la pobreza, se vuelve hacia el lucro y, cuidadosamente, ahorrando poco a poco y trabajando, amontona dinero. ¿No piensas que semejante hombre entronizará su parte codiciosa y amante de las riquezas, haciéndola rey dentro de sí mismo, con tiara, collar y cimitarra ceñida?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0140",
+      "stephanus": "553c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0141",
+      "stephanus": "553d",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto a la parte racional y a la fogosa, pienso, las hará agacharse sobre el suelo a ambos lados de aquel trono, y las esclavizará, no dejando a una reflexionar ni examinar algo que no sea de dónde hará que su riqueza se acreciente, ni a la otra entusiasmarse y venerar otra cosa que el dinero y los ricos, ni ambicionar otra cosa que la posesión de riquezas y lo que lleve hacia ello.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0142",
+      "stephanus": "553d",
+      "kind": "speech",
+      "text": {
+        "es": "—No hay otro tránsito más rápido y vigoroso desde un joven ambicioso hasta uno amante de las riquezas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0143",
+      "stephanus": "553d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No es este hombre ya uno oligárquico? Pues el cambio tiene lugar a partir de un hombre similar al régimen político a partir del cual se constituyó la oligarquía. Examinemos entonces si es similar a ésta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0144",
+      "stephanus": "553d",
+      "kind": "speech",
+      "text": {
+        "es": "—Examinémoslo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0145",
+      "stephanus": "554a",
+      "kind": "speech",
+      "text": {
+        "es": "—En primer lugar, ¿no es similar a ella por la gran estima que tiene por las riquezas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0146",
+      "stephanus": "554a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que sí!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0147",
+      "stephanus": "554a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y también por ser ahorrador y laborioso; sólo satisface los apetitos necesarios, sin producir otros gastos, sino manteniendo en esclavitud a los otros apetitos, como superfluos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0148",
+      "stephanus": "554a",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0149",
+      "stephanus": "554a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es un hombre escuálido, que en todo busca hacer ganancia, y atesorador, como los que la multitud elogia. ¿No es este hombre similar a la constitución de la índole descrita?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0150",
+      "stephanus": "554b",
+      "kind": "speech",
+      "text": {
+        "es": "—A mí me parece que sí, pues para alguien de esa índole, como para el Estado respectivo, la riqueza es lo de mayor estima.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0151",
+      "stephanus": "554b",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, pienso que semejante hombre no ha parado mientes en la educación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0152",
+      "stephanus": "554b",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que no —dijo Adimanto—; de otro modo no habría puesto a un ciego como conductor del coro y como lo de mayor estima.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0153",
+      "stephanus": "554c",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien —proseguí—; examina ahora esto: ¿no diremos que la falta de educación ha hecho surgir en él apetitos de la índole del zángano, unos del tipo de los mendigos, otros del de los malhechores, a los cuales reprime violentamente la atención de otros intereses?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0154",
+      "stephanus": "554c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0155",
+      "stephanus": "554c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y sabes adónde debes dirigir la mirada para advertir la maldad de estos hombres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0156",
+      "stephanus": "554c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Adónde?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0157",
+      "stephanus": "554c",
+      "kind": "speech",
+      "text": {
+        "es": "—Hacia la tutela de huérfanos y cualquier otra cosa similar que caiga en sus manos y les dé plena libertad para obrar injustamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0158",
+      "stephanus": "554c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0159",
+      "stephanus": "554d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es evidente con ello que semejante hombre, cuando se halla en reuniones en las que su buena reputación le hace parecer justo, por una razonable violencia que se hace a sí mismo reprime otros malos apetitos que hay en él, sin persuadirlos de que no son lo mejor ni dulcificando el razonamiento, sino mediante la coerción y el miedo, temblando por el resto de su fortuna?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0160",
+      "stephanus": "554d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda alguna.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0161",
+      "stephanus": "554e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y ¡por Zeus!, querido mío, que descubrirás, cuando sea necesario gastar lo ajeno, que en la mayoría de ellos hay deseos afines a los del zángano.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0162",
+      "stephanus": "554e",
+      "kind": "speech",
+      "text": {
+        "es": "—Con toda seguridad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0163",
+      "stephanus": "554e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, tal hombre no carecerá de disensiones en su interior, por no ser un solo hombre sino dos; pero en la mayoría de los casos prevalecerán los mejores deseos sobre los peores.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0164",
+      "stephanus": "554e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0165",
+      "stephanus": "554e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por eso, pienso, parecerá más respetable que muchos otros; pero la verdadera excelencia de un alma concorde y armónica huirá lejos de él.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0166",
+      "stephanus": "554e",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0167",
+      "stephanus": "555a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y dada su avaricia, no será rival de cuidado en el Estado para obtener una victoria personal o para ambicionar otros honores: no estará dispuesto a gastar dinero en vista a alcanzar renombre en tales competencias, temeroso de despertar sus deseos de dispendio y de invitarlos a ser sus aliados en la lucha por el triunfo; combate así, a la manera oligárquica, gastando poco de sí mismo, con lo cual las más de las veces es derrotado pero se hace rico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0168",
+      "stephanus": "555a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0169",
+      "stephanus": "555b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Puede quedar aún alguna duda de que este hombre avaro y afanoso de riquezas corresponde al Estado regido oligárquicamente, por ser su semejante?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0170",
+      "stephanus": "555b",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0171",
+      "stephanus": "555b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, parece que a continuación debemos examinar la democracia, de qué modo se genera y cómo es una vez que se genera, para que, después de conocer el carácter del hombre similar a ella, los coloquemos uno al lado del otro para su juicio.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0172",
+      "stephanus": "555b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así procederíamos de una manera similar a la de hasta ahora.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0173",
+      "stephanus": "555b",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos, entonces, si el tránsito de la oligarquía hacia la democracia no tiene lugar del siguiente modo: por la codicia insaciable de lo que se ha propuesto como bien, a saber, llegar a ser lo más rico posible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0174",
+      "stephanus": "555c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0175",
+      "stephanus": "555c",
+      "kind": "speech",
+      "text": {
+        "es": "—Dado que los gobernantes del Estado oligárquico son gobernantes por poseer cuantiosos bienes, no estarán dispuestos a poner freno mediante ley a los jóvenes que se vuelvan licenciosos y prohibirles que gasten su patrimonio y se arruinen, sino que les comprarán sus propiedades y les prestarán a interés para llegar así a ser más ricos y tenidos en más.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0176",
+      "stephanus": "555c",
+      "kind": "speech",
+      "text": {
+        "es": "—Más que cualquier otra cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0177",
+      "stephanus": "555d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿no resulta patente que es imposible que en el Estado los ciudadanos veneren la riqueza y posean al mismo tiempo la debida moderación, sino que necesariamente han de descuidar a una o a la otra?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0178",
+      "stephanus": "555d",
+      "kind": "speech",
+      "text": {
+        "es": "—Resulta bien patente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0179",
+      "stephanus": "555d",
+      "kind": "speech",
+      "text": {
+        "es": "—Al ser entonces negligentes, en la oligarquía, y tolerantes con la licenciosidad, fuerzan a ser pobres, a veces, a hombres no desprovistos de nobleza.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0180",
+      "stephanus": "555d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0181",
+      "stephanus": "555e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y éstos andan en el país sin hacer nada, provistos de aguijón y bien armados, unos cargados de deudas, otros privados de derechos políticos, otros de las dos cosas; y odian y conspiran contra los que poseen patrimonio propio y contra los demás, anhelando una revolución.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0182",
+      "stephanus": "555e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0183",
+      "stephanus": "556a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por su parte, los negociantes caminan agachados, haciendo como que no los ven, hieren con el aguijón de su dinero a cualquiera de los demás que se les ofrece, y recogen, multiplicados, los intereses que ha procreado el capital, y así hacen que abunde en el Estado tanto el zángano como el mendigo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0184",
+      "stephanus": "556a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo no habrían de abundar?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0185",
+      "stephanus": "556a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y no están dispuestos a apagar el mal que ha sido encendido, ni impidiendo que cada uno se vuelva hacia lo suyo como le da la gana, ni por medio de otra ley que terminaría con este tipo de cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0186",
+      "stephanus": "556a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué otra ley?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0187",
+      "stephanus": "556b",
+      "kind": "speech",
+      "text": {
+        "es": "—La que viene en segundo lugar, después de aquélla, y que obliga a los ciudadanos a prestar atención a la excelencia. Pues si se dispusiera que la mayor parte de los contratos voluntarios corrieran por cuenta y riesgo del contratista, en el Estado se enriquecerían de modo menos desvergonzado y crecerían menos en él males tales como los que acabamos de describir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0188",
+      "stephanus": "556b",
+      "kind": "speech",
+      "text": {
+        "es": "—Mucho menos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0189",
+      "stephanus": "556c",
+      "kind": "speech",
+      "text": {
+        "es": "—En la actualidad, en cambio, por todas estas cosas los gobernantes disponen de tal manera a los gobernados. Y en lo que hace a ellos mismos y a los suyos, de modo tal que los jóvenes vivan lujosamente y perezosos tanto respecto de los trabajos del cuerpo como de los del alma, así como blandos para resistir al placer y al dolor, y ociosos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0190",
+      "stephanus": "556c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0191",
+      "stephanus": "556c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y también de modo tal, que ellos mismos descuidan todo excepto el hacer dinero, y no ponen más atención que los pobres en lo tocante a la excelencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0192",
+      "stephanus": "556c",
+      "kind": "speech",
+      "text": {
+        "es": "—No, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0193",
+      "stephanus": "556d",
+      "kind": "speech",
+      "text": {
+        "es": "—Estando así dispuestos, entonces, cuando se encuentran entre sí los gobernantes y los gobernados durante una travesía o en algún otro tipo de reunión, en una peregrinación religiosa o en una expedición militar, sea como compañeros de nave o camaradas de guerra, o bien al contemplarse unos a otros en los mismos peligros, de ningún modo son los pobres quienes serán menospreciados por los ricos; al contrario, con frecuencia será un hombre pobre, enjuto y asoleado, al estar apostado en la batalla al lado de un rico, criado a la sombra y cargado de carnes superfluas, quien lo vea sin aliento y lleno de dificultades. ¿No piensas que, si esto sucede, el pobre considerará que tales hombres enriquecen debido a la cobardía de los pobres, y que, cuando se reúna con éstos en privado, se transmitirán unos a otros: «estos hombres son nuestros, pues no son de valía alguna»?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0194",
+      "stephanus": "557a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sé muy bien que obran así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0195",
+      "stephanus": "557a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues así como un cuerpo enfermizo necesita sólo un pequeño estímulo externo para volcarse hacia la enfermedad, y a veces incluso sin lo externo estalla una revuelta en su interior, así también el Estado que se halle igual que aquél, mientras invocan unos la alianza con un Estado oligárquico, otros con un Estado democrático, al menor pretexto enferma y arde en lucha interna, aunque a veces esta revuelta estalla también sin necesidad de nada exterior.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0196",
+      "stephanus": "557a",
+      "kind": "speech",
+      "text": {
+        "es": "—Seguramente es así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0197",
+      "stephanus": "557a",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces la democracia surge, pienso, cuando los pobres, tras lograr la victoria, matan a unos, destierran a otros, y hacen partícipes a los demás del gobierno y las magistraturas, las cuales la mayor parte de las veces se establecen en este tipo de régimen por sorteo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0198",
+      "stephanus": "557a",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto —dijo Adimanto—, así es como se instituye la democracia, tanto si procede por medio de las armas o porque los otros, por miedo, se baten en retirada.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0199",
+      "stephanus": "557b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y de qué modo —pregunté yo— se rigen, y cómo es semejante organización política? Porque es evidente que el hombre que sea similar a él se revelará como hombre democrático.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0200",
+      "stephanus": "557b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es evidente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0201",
+      "stephanus": "557b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No sucede que son primeramente libres los ciudadanos, y que en el Estado abunda la libertad, particularmente la libertad de palabra y la libertad de hacer en el Estado lo que a cada uno le da la gana?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0202",
+      "stephanus": "557b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo que se dice, al menos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0203",
+      "stephanus": "557b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y donde hay tal libertad es claro que cada uno impulsará la organización particular de su modo de vida tal como le guste.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0204",
+      "stephanus": "557c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0205",
+      "stephanus": "557c",
+      "kind": "speech",
+      "text": {
+        "es": "—En ese caso, pienso que los hombres que se desarrollen en este régimen político serán de toda variedad, más que en cualquier otro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0206",
+      "stephanus": "557c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo no habrían de serlo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0207",
+      "stephanus": "557c",
+      "kind": "speech",
+      "text": {
+        "es": "—Puede ser que éste sea el más bello de todos los regímenes. Tal como un manto multicolor con todas las flores bordadas, también este régimen con todos los caracteres bordados podría parecer el más bello. Y probablemente, tal como los niños y las mujeres que contemplan objetos polícromos, muchos lo juzgarían el más bello.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0208",
+      "stephanus": "557c",
+      "kind": "speech",
+      "text": {
+        "es": "—Con toda seguridad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0209",
+      "stephanus": "557d",
+      "kind": "speech",
+      "text": {
+        "es": "—Además, bienaventurado amigo, este régimen es muy apropiado para indagar dentro de él una organización política.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0210",
+      "stephanus": "557d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Por qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0211",
+      "stephanus": "557d",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque cuenta con todo género de constituciones, debido a la libertad; y es posible que quien quiera organizar un Estado, como nosotros acabamos de hacer, deba dirigirse a un Estado democrático, y allí, como si hubiese llegado a un bazar de constituciones, escoger el tipo que más le agrade, y, una vez escogido, proceder a su fundación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0212",
+      "stephanus": "557e",
+      "kind": "speech",
+      "text": {
+        "es": "—Probablemente no estará en apuros por falta de modelos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0213",
+      "stephanus": "557e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así, pues: no tener obligación alguna de gobernar en este Estado, ni aun cuando seas capaz de hacerlo, ni de obedecer si no quieres, ni entrar en guerra cuando los demás están en guerra, ni guardar la paz cuando los demás la guardan, si no la deseas; a su vez, aun cuando una ley te prohíba gobernar y ser juez, no por eso dejar de gobernar y ser juez, si se te ocurre, ¿no es éste un modo de pasar el tiempo divino y delicioso, aunque sea de momento?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0214",
+      "stephanus": "558a",
+      "kind": "speech",
+      "text": {
+        "es": "—De momento tal vez.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0215",
+      "stephanus": "558a",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien; ¿no es exquisita la tranquilidad de algunos hombres tras haber sido juzgados? ¿O no has visto aún en un régimen de esa índole a hombres condenados a muerte o al exilio, que no por eso dejan de quedarse y dar vueltas en medio de la gente, y que, como si nadie se preocupara por ellos o siquiera los viese, se pasean como si fueran héroes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0216",
+      "stephanus": "558a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí que he visto, y muchos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0217",
+      "stephanus": "558b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Esta tolerancia que existe en la democracia, esta despreocupación por nuestras minucias, ese desdén hacia los principios que pronunciamos solemnemente cuando fundamos el Estado, como el de que, salvo que un hombre cuente con una naturaleza excepcional, jamás llegará a ser bueno si desde la tierna infancia no ha jugado con cosas valiosas ni se ha ocupado con todo lo de esa índole; la soberbia con que se pisotean todos esos principios, sin preocuparse por cuáles estudios se encamina un hombre hacia la política, sino rindiendo honores a alguien con sólo que diga que es amigo del pueblo!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0218",
+      "stephanus": "558c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Es ése un noble régimen!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0219",
+      "stephanus": "558c",
+      "kind": "speech",
+      "text": {
+        "es": "—Estas y otras afines son las cualidades de la democracia, que parece ser una organización política agradable, anárquica y polícroma, que asigna igualdad similarmente a las cosas iguales y a las desiguales.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0220",
+      "stephanus": "558c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto que esto que dices es bien conocido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0221",
+      "stephanus": "558c",
+      "kind": "speech",
+      "text": {
+        "es": "—Observa ahora al individuo respectivo. ¿No hay que examinar, en primer lugar, tal como hicimos con su régimen político, de qué modo se genera?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0222",
+      "stephanus": "558c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0223",
+      "stephanus": "558d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No será de este modo? Aquel hombre oligárquico y avaro, pienso, tendrá un hijo, que será educado por aquél con sus hábitos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0224",
+      "stephanus": "558d",
+      "kind": "speech",
+      "text": {
+        "es": "—Seguramente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0225",
+      "stephanus": "558d",
+      "kind": "speech",
+      "text": {
+        "es": "—También éste dominará los deseos de placer que hay en él, en cuanto propenden al gasto y no al lucro, y que son llamados ‘innecesarios’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0226",
+      "stephanus": "558d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0227",
+      "stephanus": "558d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Quieres que, para que la conversación no resulte oscura, delimitemos primeramente los apetitos necesarios de los que no lo son?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0228",
+      "stephanus": "558d",
+      "kind": "speech",
+      "text": {
+        "es": "—Quiero.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0229",
+      "stephanus": "558e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No es justo denominar ‘necesarios’ a aquellos que no podemos reprimir y que, al ser satisfechos, nos benefician? Pues estas dos clases de apetitos son incitados necesariamente por nuestra naturaleza. ¿No es verdad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0230",
+      "stephanus": "558e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0231",
+      "stephanus": "559a",
+      "kind": "speech",
+      "text": {
+        "es": "—Con justicia, entonces, diremos respecto de ellos la palabra ‘necesario’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0232",
+      "stephanus": "559a",
+      "kind": "speech",
+      "text": {
+        "es": "—Con justicia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0233",
+      "stephanus": "559a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y respecto de aquellos de los cuales uno podría desembarazarse si se ha adiestrado desde la juventud, y que en nada benefician al individuo cuando están presentes en él, si decimos que todos éstos son innecesarios, ¿no hablaremos correctamente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0234",
+      "stephanus": "559a",
+      "kind": "speech",
+      "text": {
+        "es": "—Correctamente, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0235",
+      "stephanus": "559a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Seleccionamos un ejemplo de cada una de estas dos clases, para que contemos con una pauta de ellas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0236",
+      "stephanus": "559a",
+      "kind": "speech",
+      "text": {
+        "es": "—Se hace necesario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0237",
+      "stephanus": "559b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No es el deseo de comer, ya sea un alimento simple o un condimento, en cuanto conviene a la salud y el bienestar, un deseo necesario?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0238",
+      "stephanus": "559b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0239",
+      "stephanus": "559b",
+      "kind": "speech",
+      "text": {
+        "es": "—El deseo del alimento es, pues, de algún modo necesario, por dos motivos: porque es beneficioso y porque, si no es satisfecho, puede poner fin a la vida.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0240",
+      "stephanus": "559b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0241",
+      "stephanus": "559b",
+      "kind": "speech",
+      "text": {
+        "es": "—El del condimento también, en cuanto ofrezca algún beneficio para el estado general del cuerpo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0242",
+      "stephanus": "559b",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0243",
+      "stephanus": "559b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y al que va más allá de éstos, el deseo de comidas distintas a las aludidas, del cual la mayoría puede desembarazarse si lo reprime y educa desde joven, que es perjudicial al cuerpo y perjudicial al alma, tanto respecto de la sabiduría como de la moderación, ¿no lo llamaremos correctamente ‘innecesario’?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0244",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—Más correctamente imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0245",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No diremos que éstos son deseos despilfarradores, mientras los primeros son productivos en razón de ser útiles para la actividad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0246",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0247",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no diremos lo mismo de los apetitos sexuales y de los demás?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0248",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0249",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no decíamos hace un momento que aquel al que llamamos ‘zángano’ está colmado de tales placeres y apetitos y es gobernado por los deseos innecesarios, mientras el hombre avaro y oligárquico por los necesarios?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0250",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué otra cosa cabe?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0251",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—Regresemos, pues, a nuestro hombre, y digamos cómo, de oligárquico, pasa a ser democrático. Me parece que la mayor parte de las veces sucede de este modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0252",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De cuál modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0253",
+      "stephanus": "559d",
+      "kind": "speech",
+      "text": {
+        "es": "—Cuando un joven que se ha criado, como hace un momento decíamos, sin cultura y con avaricia, gusta la miel de los zánganos y convive con estas feroces y terribles bestias, capaces de proveer toda variedad de placeres, de múltiples colores y especies, entonces puedes pensar que dentro de él se opera el tránsito desde la oligarquía hacia la democracia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0254",
+      "stephanus": "559e",
+      "kind": "speech",
+      "text": {
+        "es": "—Necesariamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0255",
+      "stephanus": "559e",
+      "kind": "speech",
+      "text": {
+        "es": "—En ese caso, así como el Estado se transforma al ser auxiliado uno de los partidos por un aliado externo que es similar a él, así también el joven se transforma al ser auxiliada desde afuera una de las especies de apetitos que hay en él por algo similar y congénere a ella.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0256",
+      "stephanus": "559e",
+      "kind": "speech",
+      "text": {
+        "es": "—En todo de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0257",
+      "stephanus": "560a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si corre a su vez algún aliado para rescatar a su parte oligárquica, pienso, sea su padre o los demás parientes que acuden a amonestarlo y reprocharle, se produce entonces en él una revuelta y una contrarrevuelta y un combate consigo mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0258",
+      "stephanus": "560a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0259",
+      "stephanus": "560a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y pienso que alguna vez la parte democrática puede ceder a la oligárquica, y algunos deseos son extirpados, otros desterrados, en razón de haberse suscitado un cierto pudor en el alma del joven, y ésta recupera su ordenamiento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0260",
+      "stephanus": "560a",
+      "kind": "speech",
+      "text": {
+        "es": "—Algunas veces sucede.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0261",
+      "stephanus": "560b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y a su vez, creo, una vez expulsados aquellos deseos, a raíz de la impericia de la educación paterna, crecen en exceso otros de índole similar, y se multiplican y fortalecen.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0262",
+      "stephanus": "560b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así suele ocurrir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0263",
+      "stephanus": "560b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo arrastran hacia las mismas compañías y, en secreta cópula, engendran una multitud.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0264",
+      "stephanus": "560b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0265",
+      "stephanus": "560b",
+      "kind": "speech",
+      "text": {
+        "es": "—Además opino que terminan por apoderarse de la acrópolis del alma del joven, al percibir que está vacía de conocimientos y preocupaciones rectas y de discursos verdaderos, que son los mejores centinelas y guardianes que puede haber en el espíritu de los hombres amados por los dioses.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0266",
+      "stephanus": "560c",
+      "kind": "speech",
+      "text": {
+        "es": "—Con mucho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0267",
+      "stephanus": "560c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y, en vez de ellos, corren al asalto discursos y opiniones falsas y petulantes, que ocupan su lugar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0268",
+      "stephanus": "560c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0269",
+      "stephanus": "560c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y entonces retorna a aquellos Lotófagos y habita abiertamente con ellos; y si de su parentela acude alguien en auxilio de la parte avara de su alma, aquellos discursos petulantes cierran las puertas de la fortaleza real ante él, y no permiten el acceso al aliado, ni admiten las palabras que, como embajadores, le dirigen privadamente personas mayores. Dichos discursos son los que prevalecen en el combate; denominan ‘idiotez’ al pudor y lo arrojan afuera, convirtiéndolo en fugitivo deshonorable; al control de sí mismo lo llaman ‘falta de virilidad’, lo injurian y lo destierran, y lo convencen de que la moderación y la mesura en los gastos son ‘rusticidad’ y ‘servilismo’, y, en alianza con muchos apetitos nocivos, las echan por la borda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0270",
+      "stephanus": "560d",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0271",
+      "stephanus": "560e",
+      "kind": "speech",
+      "text": {
+        "es": "—Vacían y purifican de estas cosas el alma del joven poseído por ellos, a la que inician así en los grandes misterios; después de lo cual reintroducen la desmesura, la anarquía, la prodigalidad y la impudicia, resplandecientes, coronadas y acompañadas por un gran coro; las elogian, y llaman eufemísticamente ‘cultura’ a la desmesura, ‘liberalidad’ a la anarquía, ‘grandeza de espíritu’ a la prodigalidad y ‘virilidad’ a la impudicia. ¿No es de este modo como en el joven se produce el tránsito desde que fuera educado en la satisfacción de los apetitos necesarios hasta que libera y relaja los deseos innecesarios y los placeres perjudiciales?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0272",
+      "stephanus": "561a",
+      "kind": "speech",
+      "text": {
+        "es": "—Está muy claro que así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0273",
+      "stephanus": "561a",
+      "kind": "speech",
+      "text": {
+        "es": "—Después de ello, pienso, semejante hombre vive sin gastar más dinero, esfuerzos y tiempo en los placeres necesarios que en los innecesarios. En caso de tener la fortuna de que su frenesí no sea excesivo y de que con el correr de los años pase el tumulto, vuelve a acoger una parte de los exiliados, no se entrega del todo a los intrusos y pone los placeres en pie de igualdad; vive así transfiriendo sin cesar el mando de sí mismo al que caiga a su lado, como si fuera cuestión de azar, hasta que se sacia, y luego se vuelve hacia otro, sin desdeñar a ninguno, sino alimentando a todos por igual.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0274",
+      "stephanus": "561b",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0275",
+      "stephanus": "561b",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto al discurso verdadero, no lo acoge ni le permite el acceso a su ciudadela. Si alguien le dice que hay placeres provenientes de deseos nobles y buenos y otros de deseos perversos y que debe cultivar y honrar unos pero reprimir y someter a los otros, en todos estos casos sacude la cabeza y declara que todos son semejantes y que hay que honrarlos por igual.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0276",
+      "stephanus": "561b",
+      "kind": "speech",
+      "text": {
+        "es": "—Con toda seguridad que el que se halla en tal disposición procede así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0277",
+      "stephanus": "561c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y de este modo vive, día tras día, satisfaciendo cada apetito que le sobreviene, algunas veces embriagándose y abandonándose al encanto de la flauta, otras bebiendo agua y adelgazando, tanto practicando gimnasia como holgazaneando y descuidando todas las cosas, o bien como si se dedicara a la filosofía. Con frecuencia actúa en política, lanzándose a decir y hacer lo que le salga. Alguna vez admira a los guerreros y se inclina hacia ese lado, o bien a negociantes, y se inclina hacia allí; no hay orden ni obligación alguna en su vida, sino que, teniendo este modo de vida por libre y dichoso, lo lleva a fondo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0278",
+      "stephanus": "561c",
+      "kind": "speech",
+      "text": {
+        "es": "—Has descrito perfectamente el modo de vida del varón partiendo de la igualdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0279",
+      "stephanus": "561c",
+      "kind": "speech",
+      "text": {
+        "es": "—Al menos, pienso, el de un hombre diversificado y pleno de múltiples caracteres y que, como aquel Estado, es bello y colorido. Muchos hombres y muchas mujeres envidian este modo de vida, que cuenta en su seno con numerosos modelos de constituciones y caracteres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0280",
+      "stephanus": "561c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es, efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0281",
+      "stephanus": "562a",
+      "kind": "speech",
+      "text": {
+        "es": "—Asignemos este hombre a la democracia, dado que es correcto denominarlo ‘democrático’",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0282",
+      "stephanus": "562a",
+      "kind": "speech",
+      "text": {
+        "es": "—Asignémoslo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0283",
+      "stephanus": "562a",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo que resta describir ahora es el más bello régimen político y el más bello hombre: la tiranía y el tirano.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0284",
+      "stephanus": "562a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni más ni menos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0285",
+      "stephanus": "562a",
+      "kind": "speech",
+      "text": {
+        "es": "—Vamos a ver ahora, querido amigo, con qué carácter surge la tiranía; pues es bastante claro que surge por un tránsito a partir de la democracia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0286",
+      "stephanus": "562a",
+      "kind": "speech",
+      "text": {
+        "es": "—Suficientemente claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0287",
+      "stephanus": "562b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no surge del mismo modo la tiranía de la democracia que la democracia de la oligarquía?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0288",
+      "stephanus": "562b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De cuál modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0289",
+      "stephanus": "562b",
+      "kind": "speech",
+      "text": {
+        "es": "—El bien que se proponía la oligarquía, y por el cual ésta fue instituida, ¿no era acaso la riqueza en exceso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0290",
+      "stephanus": "562b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0291",
+      "stephanus": "562b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y el deseo insaciable de riqueza, y el descuido de todo lo demás por lucrar, es lo que la ha perdido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0292",
+      "stephanus": "562b",
+      "kind": "speech",
+      "text": {
+        "es": "—Verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0293",
+      "stephanus": "562b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es a su vez el deseo insaciable de aquello que la democracia define como su bien lo que hace sucumbir a ésta?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0294",
+      "stephanus": "562b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué es lo que dices que define como su bien?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0295",
+      "stephanus": "562c",
+      "kind": "speech",
+      "text": {
+        "es": "—La libertad; pues en un Estado democrático oirás, seguramente, que es tenida por lo más bello, y que, para quien sea libre por naturaleza, es el único Estado digno de vivir en él.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0296",
+      "stephanus": "562c",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, es una frase que se dice mucho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0297",
+      "stephanus": "562c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, como iba a decir ahora, el deseo insaciable de la libertad y el descuido por las otras cosas es lo que altera este régimen político y lo predispone para necesitar de la tiranía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0298",
+      "stephanus": "562c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0299",
+      "stephanus": "562d",
+      "kind": "speech",
+      "text": {
+        "es": "—Cuando un Estado democrático sediento de libertad llega a tener como jefes malos escanciadores, y se embriaga más de la cuenta con ese vino puro, entonces, pienso, castiga a los gobernantes que no son muy flexibles ni proporcionan libertad en abundancia, y los acusa de criminales y oligárquicos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0300",
+      "stephanus": "562d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así procede, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0301",
+      "stephanus": "562d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y a los que son sumisos con los gobernantes los injuria, como a esclavos voluntarios y gente sin valor; a los gobernantes que son similares a gobernados, y a los gobernados que son similares a gobernantes es a quienes se alaba y rinde honores en público y en privado. ¿No es forzoso que en semejante Estado la libertad avance en todas direcciones?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0302",
+      "stephanus": "562e",
+      "kind": "speech",
+      "text": {
+        "es": "—No podría ser de otro modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0303",
+      "stephanus": "562e",
+      "kind": "speech",
+      "text": {
+        "es": "—Si esto es así, amigo mío, la anarquía se desliza incluso dentro de las casas particulares, y concluye introduciéndose hasta en los animales.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0304",
+      "stephanus": "562e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué es lo que quieres decir con esto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0305",
+      "stephanus": "563a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por ejemplo, que el padre se acostumbra a que el niño sea su semejante, y a temer a los hijos, y el hijo a ser semejante al padre y a no respetar ni temer a sus progenitores, a fin de ser efectivamente libre; el meteco es igualado al ciudadano, el ciudadano al meteco, y del mismo modo el extranjero.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0306",
+      "stephanus": "563a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así sucede, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0307",
+      "stephanus": "563a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sucede eso y otras menudencias como las siguientes: en semejante Estado el maestro teme y adula a los alumnos y los alumnos hacen caso omiso de los maestros, así como de sus preceptores, y en general los jóvenes hacen lo mismo que los adultos y rivalizan con ellos en palabras y acciones; y los mayores, para complacerlos, rebosan de jocosidad y afán de hacer bromas, imitando a los jóvenes, para no parecer antipáticos y mandones.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0308",
+      "stephanus": "563b",
+      "kind": "speech",
+      "text": {
+        "es": "—En todo de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0309",
+      "stephanus": "563b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y el momento culminante de esta libertad de las mayorías se produce en tal Estado cuando los hombres y mujeres que han sido comprados no son menos libres que quienes los han adquirido. Y por poco nos olvidamos de decir cuánta libertad e igualdad ante la ley existe allí en la relación de hombres con mujeres y de mujeres con hombres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0310",
+      "stephanus": "563c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Acaso, con Esquilo, no «diremos lo que ahora nos viene a la boca»?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0311",
+      "stephanus": "563c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto, es lo que yo digo. Y que los animales sujetos al hombre son allí más libres que en cualquier otra parte, no lo creería alguien que no hubiera tenido la experiencia; pues, tal como dice el proverbio, realmente «las perras llegan a ser como sus amas»; y así también los caballos y los asnos se acostumbran a andar con toda libertad y solemnidad, arrollando a quien les salga al paso, si no se hace a un lado; y del mismo modo todo lo demás se halla pletórico de libertad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0312",
+      "stephanus": "563d",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo que describes es mi propio sueño; pues con frecuencia me sucede eso cuando marcho al campo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0313",
+      "stephanus": "563d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no te percatas que, como resultado de la acumulación de todas estas cosas, el alma de los ciudadanos se torna tan delicada que, si alguien le proporciona siquiera una pizca de esclavitud, se irrita y no lo soporta? Pues bien sabes que de algún modo terminan por no prestar atención ni siquiera a las leyes orales o escritas, para que de ningún modo tengan amo alguno.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0314",
+      "stephanus": "563e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto que lo sé bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0315",
+      "stephanus": "563e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues éste es, según me parece, el bello y vigoroso principio de donde nace la tiranía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0316",
+      "stephanus": "563e",
+      "kind": "speech",
+      "text": {
+        "es": "—Vigoroso, ciertamente, pero ¿qué le sigue después?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0317",
+      "stephanus": "564a",
+      "kind": "speech",
+      "text": {
+        "es": "—La misma enfermedad que, al declararse en la oligarquía, entraña la perdición de ésta, en mayor grado y con mayor fuerza, debido a la libertad, esclavizada a la democracia. Y en verdad el exceso en el obrar suele revertir en un cambio en sentido opuesto, tanto en las estaciones como en las plantas y en los cuerpos y, no en último término, en las organizaciones políticas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0318",
+      "stephanus": "564a",
+      "kind": "speech",
+      "text": {
+        "es": "—Probablemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0319",
+      "stephanus": "564a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, la libertad en exceso parece que no deriva en otra cosa que en la esclavitud en exceso para el individuo y para el Estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0320",
+      "stephanus": "564a",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso también es razonable.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0321",
+      "stephanus": "564a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es razonable, entonces, que la tiranía no se establezca a partir de otro régimen político que la democracia, y que sea a partir de la libertad extrema que surja la mayor y más salvaje esclavitud.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0322",
+      "stephanus": "564a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lógico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0323",
+      "stephanus": "564b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero no es eso lo que preguntas, creo, sino cuál es esa enfermedad que, siendo la misma en la oligarquía que en la democracia, esclaviza a ésta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0324",
+      "stephanus": "564b",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices la verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0325",
+      "stephanus": "564b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues me refería a aquella raza de hombres haraganes y despilfarradores, los más viriles de los cuales conducen y los menos viriles los siguen, y que comparábamos con zánganos, de los que cuentan con aguijón en el primer caso y de los que no lo tienen, en el segundo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0326",
+      "stephanus": "564b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo hacíamos correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0327",
+      "stephanus": "564b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en cualquier régimen en que nazcan producen una perturbación análoga a la de la flema y la bilis en el cuerpo; contra esto último el buen médico y legislador del Estado deben precaverse con mucho tiempo, no menos que el apicultor hábil, tratando al máximo que no aparezcan, pero si llegan a aparecer, eliminándolos juntos con los panales mismos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0328",
+      "stephanus": "564c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por Zeus, absolutamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0329",
+      "stephanus": "564c",
+      "kind": "speech",
+      "text": {
+        "es": "—Hagamos ahora lo siguiente, para ver con mayor claridad lo que queremos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0330",
+      "stephanus": "564c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0331",
+      "stephanus": "564d",
+      "kind": "speech",
+      "text": {
+        "es": "—Dividamos en teoría el Estado democrático en tres partes, tal como ellas se dan. Una es tal vez aquel género que surge en él por causa de la licencia, no menos que en el Estado oligárquico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0332",
+      "stephanus": "564d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0333",
+      "stephanus": "564d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero con mucha mayor ferocidad aquí que allí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0334",
+      "stephanus": "564d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo es eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0335",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—Allí, en razón de no recibir honores y estar alejados de los cargos, no se ejercitaba y no llegaba a ser vigoroso; en la democracia, en cambio, marcha a la cabeza del Estado, con pocas excepciones, y es su sector más feroz el que habla y actúa, mientras el resto zumba sentado cerca de la tribuna, y no tolera que se diga otra cosa, de modo que, en un régimen de tal índole, todo es administrado por este tipo de gente, salvo contados casos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0336",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0337",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y hay otro grupo similar que en todo momento se separa de la muchedumbre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0338",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuál?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0339",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—Al tener todos afán de lucro, los más ordenados por naturaleza llegan a ser con mucho los más ricos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0340",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es probable.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0341",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que de allí sacan los zánganos la mayor cantidad de miel y del modo más fácil.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0342",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo habrían de sacarla de los que tienen poco o nada?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0343",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y los ricos de esta especie son los llamados ‘pasto de los zánganos’, creo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0344",
+      "stephanus": "564e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0345",
+      "stephanus": "565a",
+      "kind": "speech",
+      "text": {
+        "es": "—El tercer género será el del pueblo, o sea, cuantos trabajan para sí mismos y no ocupan cargos públicos, poseyendo pocos bienes; es el género más numeroso y con mayor autoridad que hay en la democracia cuando se congrega.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0346",
+      "stephanus": "565a",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto —dijo Adimanto—, pero con frecuencia no está dispuesto a hacerlo, a menos que participe en algo de la miel.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0347",
+      "stephanus": "565a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y participa siempre en la medida que les es posible a los que están a su cabeza, cuando a los que tienen fortuna se la quitan y la distribuyen al pueblo, conservando ellos la mayor parte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0348",
+      "stephanus": "565b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es como participa, efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0349",
+      "stephanus": "565b",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces aquellos a quienes se quita la fortuna se ven forzados a defenderse, pienso, hablando al pueblo y haciendo cuanto pueden.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0350",
+      "stephanus": "565b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo no habrán de hacerlo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0351",
+      "stephanus": "565b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y, aunque no deseen introducir novedad alguna, reciben de los otros la acusación de que conspiran contra el pueblo y son oligárquicos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0352",
+      "stephanus": "565b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0353",
+      "stephanus": "565c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y después de ver al pueblo tratando de hacerles mal, no voluntariamente sino por ignorancia y por haber sido engañado por los difamadores, entonces, quiéranlo o no, terminan por convertirse en oligárquicos de veras, no voluntariamente, sino que aquel zángano produce este mal picándolos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0354",
+      "stephanus": "565c",
+      "kind": "speech",
+      "text": {
+        "es": "—Exactamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0355",
+      "stephanus": "565c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y entonces se producen denuncias, juicios y acciones legales de unos contra otros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0356",
+      "stephanus": "565c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0357",
+      "stephanus": "565c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, ¿no acostumbra siempre el pueblo a poner a su cabeza preferentemente a un individuo, y a alimentarlo y hacerle crecer en grandeza?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0358",
+      "stephanus": "565c",
+      "kind": "speech",
+      "text": {
+        "es": "—Acostumbra a eso, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0359",
+      "stephanus": "565d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, es evidente que, dondequiera aparece un tirano, es de la raíz del liderazgo de donde brota, y no de otra parte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0360",
+      "stephanus": "565d",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy evidente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0361",
+      "stephanus": "565d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cuál es el comienzo de este tránsito de un líder hacia un tirano? ¿No es patente que cuando el líder comienza a hacer lo que se narra en el mito respecto del templo de Zeus Liceo en Arcadia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0362",
+      "stephanus": "565d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué es lo que se narra?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0363",
+      "stephanus": "565e",
+      "kind": "speech",
+      "text": {
+        "es": "—Que cuando alguien gusta de entrañas humanas descuartizadas entre otras de otras víctimas, necesariamente se ha de convertir en lobo. ¿O no has escuchado el relato?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0364",
+      "stephanus": "565e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0365",
+      "stephanus": "565e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así también cuando el que está a la cabeza del pueblo recibe una masa obediente y no se abstiene de sangre tribal, sino que, con injustas acusaciones —tal como suele pasar— lleva a la gente a los tribunales y la asesina, poniendo fin a vidas humanas y gustando con lengua y boca sacrílegas sangre familiar, y así mata y destierra, y sugiere abolición de deudas y partición de tierras, ¿no es después de esto forzosamente fatal que semejante individuo perezca a manos de sus adversarios o que se haga tirano y de hombre se convierta en lobo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0366",
+      "stephanus": "566a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es de toda necesidad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0367",
+      "stephanus": "566a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así llega a ser el que hace estallar la revuelta contra los que tienen fortuna.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0368",
+      "stephanus": "566a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así, efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0369",
+      "stephanus": "566a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y cuando tras haber sido desterrado regresa a pesar de sus enemigos, ¿su retorno no será el de un tirano consumado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0370",
+      "stephanus": "566a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es evidente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0371",
+      "stephanus": "566b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si no pueden hacerlo desterrar ni matarlo tras desprestigiarlo en el Estado, conspiran para asesinarlo violentamente a escondidas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0372",
+      "stephanus": "566b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo que suele suceder.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0373",
+      "stephanus": "566b",
+      "kind": "speech",
+      "text": {
+        "es": "—De ahí que todos los que han llegado a este punto recurren a aquella demanda del tirano de la que tanto se ha hablado, por la que se pide al pueblo una custodia personal para preservarles al defensor del pueblo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0374",
+      "stephanus": "566b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que pasa eso!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0375",
+      "stephanus": "566c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y se la dan, pienso, por temer por él y estar confiado en lo que respecta a sí mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0376",
+      "stephanus": "566c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0377",
+      "stephanus": "566c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y cuando ve esto el varón que posee riquezas y que, conforme a sus riquezas, recibe la acusación del ‘enemigo del pueblo’, entonces, amigo mío, de acuerdo con el oráculo que se le hizo a Creso, huye junto al Hermo rico en guijarros, no se queda ni tiene vergüenza de ser cobarde.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0378",
+      "stephanus": "566c",
+      "kind": "speech",
+      "text": {
+        "es": "—Si fuera de otro modo, no podría avergonzarse una segunda vez.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0379",
+      "stephanus": "566c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que al que es capturado le dan muerte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0380",
+      "stephanus": "566c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es forzoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0381",
+      "stephanus": "566d",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto a aquel caudillo, es evidente que no yace «majestuosamente con su gran cuerpo», sino que, tras destronar a muchos otros, se establece en el carro del Estado, perfeccionando la transformación de líder en tirano.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0382",
+      "stephanus": "566d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo no ha de ser así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0383",
+      "stephanus": "566d",
+      "kind": "speech",
+      "text": {
+        "es": "—Describamos ahora la felicidad de ese hombre y la del Estado en que se ha generado un mortal semejante.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0384",
+      "stephanus": "566d",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo, describámoslo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0385",
+      "stephanus": "566e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No pasa que durante los primeros días y el primer momento sonríe y saluda a todo aquel que encuentra, dice no ser tirano, promete muchas cosas en privado y público, libera de deudas y reparte tierras entre el pueblo y los de su séquito, y trata de pasar por tener modales amables y suaves con todos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0386",
+      "stephanus": "566e",
+      "kind": "speech",
+      "text": {
+        "es": "—Necesariamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0387",
+      "stephanus": "566e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero cuando se reconcilia con algunos de sus enemigos de fuera, mientras que a otros los extermina, y que por ese lado tiene tranquilidad, pienso que promueve ante todo algunas guerras, para que el pueblo tenga necesidad de un conductor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0388",
+      "stephanus": "566e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es probable.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0389",
+      "stephanus": "567a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y también para que el pago de los impuestos de guerra haga pobres a los ciudadanos y los obligue a dedicarse a los cuidados de cada día, de modo que conspiren menos contra él.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0390",
+      "stephanus": "567a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es evidente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0391",
+      "stephanus": "567a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y se me ocurre que, si sospecha que algunos tienen pensamientos liberales de modo tal que no confían en su mando, con cualquier pretexto los hará perecer poniéndolos en manos del enemigo; en vista a todas estas cosas, el tirano estará siempre forzado a suscitar la guerra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0392",
+      "stephanus": "567a",
+      "kind": "speech",
+      "text": {
+        "es": "—Estará forzado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0393",
+      "stephanus": "567b",
+      "kind": "speech",
+      "text": {
+        "es": "—Haciendo tales cosas, ¿no queda expuesto a ser odiado por los ciudadanos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0394",
+      "stephanus": "567b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que sí!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0395",
+      "stephanus": "567b",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces algunos de los que han colaborado para establecerlo y que tienen poder hablan francamente con él o entre sí, censurando lo que sucede, al menos los que se da el caso de que son los más viriles.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0396",
+      "stephanus": "567b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es probable.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0397",
+      "stephanus": "567b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, el tirano debe eliminar a todos éstos, si es que va a gobernar, hasta que no quede nadie de valor entre sus amigos y enemigos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0398",
+      "stephanus": "567b",
+      "kind": "speech",
+      "text": {
+        "es": "—Evidente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0399",
+      "stephanus": "567c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ha de mirar entonces con agudeza quién es valiente, quién de grandeza de espíritu, quién sabio, quién rico; y el grado de su felicidad es tal que, quiéralo o no, le será necesario combatir y conspirar contra todos, hasta purificar el Estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0400",
+      "stephanus": "567c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Bella purificación!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0401",
+      "stephanus": "567c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, la opuesta a la que practican los médicos con los cuerpos, ya que éstos suprimen lo peor y conservan lo mejor, mientras aquél a la inversa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0402",
+      "stephanus": "567c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues parece que necesitan hacerlo, si han de gobernar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0403",
+      "stephanus": "567d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Es en tal caso una bienaventurada necesidad la que lo obliga, que le prescribe vivir en compañía de muchos hombres de baja estofa, y ser odiado por ellos, o no vivir!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0404",
+      "stephanus": "567d",
+      "kind": "speech",
+      "text": {
+        "es": "—De tal índole es su necesidad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0405",
+      "stephanus": "567d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No sucederá entonces que, cuanto más sea odiado por los ciudadanos al hacer estas cosas, necesitará de una custodia tanto mayor y más digna de confianza?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0406",
+      "stephanus": "567d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que sí!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0407",
+      "stephanus": "567d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y quiénes serán esos hombres confiables? ¿Y adónde los mandará buscar?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0408",
+      "stephanus": "567d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por sí solos vendrán muchos volando, si se les da su paga.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0409",
+      "stephanus": "567e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Por el perro! —exclamé—. Parece que te estás refiriendo nuevamente a cierto tipo de zánganos, pero éstos extranjeros y procedentes de todas partes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0410",
+      "stephanus": "567e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo que te parece es verdad —respondió Adimanto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0411",
+      "stephanus": "567e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y a los del país no los querría?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0412",
+      "stephanus": "567e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0413",
+      "stephanus": "567e",
+      "kind": "speech",
+      "text": {
+        "es": "—Despojando de los esclavos a los ciudadanos, liberándolos e integrándolos a su custodia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0414",
+      "stephanus": "567e",
+      "kind": "speech",
+      "text": {
+        "es": "—Con seguridad, puesto que ellos serían los más felices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0415",
+      "stephanus": "568a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Hablas de algo dichoso para el tirano, si recurre a tales amigos y hombres de confianza tras hacer perecer a los anteriores!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0416",
+      "stephanus": "568a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues en efecto, a ellos recurre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0417",
+      "stephanus": "568a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y estos amigos son los que lo admiran y conviven con él como nuevos ciudadanos, mientras los que son honestos lo odian y le huyen.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0418",
+      "stephanus": "568a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo no habían de hacerlo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0419",
+      "stephanus": "568a",
+      "kind": "speech",
+      "text": {
+        "es": "—No en vano la tragedia en general parece ser algo sabio, destacándose Eurípides en ella.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0420",
+      "stephanus": "568a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Por qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0421",
+      "stephanus": "568a",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque por contar con una mente perspicaz pronunció aquello de que «los tiranos son sabios por la compañía de los sabios». Pues es manifiesto que los sabios que acompañan al tirano son de la índole que hemos descrito.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0422",
+      "stephanus": "568b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, elogia a la tiranía diciendo que hace «igual a los dioses», y muchas otras cosas, no sólo él, sino también los demás poetas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0423",
+      "stephanus": "568c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo mismo que los poetas trágicos son sabios, han de perdonarnos a nosotros y a cuantos gobiernen en consonancia con nosotros, porque no los admitamos en nuestro Estado, por cantar elogios a la tiranía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0424",
+      "stephanus": "568c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que al menos los más sutiles de ellos nos perdonarán.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0425",
+      "stephanus": "568c",
+      "kind": "speech",
+      "text": {
+        "es": "—De todos modos, creo que van de gira por los otros Estados, congregando a las masas y contratando actores de voces bellas, potentes y persuasivas, que empujan a las organizaciones políticas hacia la tiranía y la democracia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0426",
+      "stephanus": "568c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0427",
+      "stephanus": "568d",
+      "kind": "speech",
+      "text": {
+        "es": "—Además de esto reciben buena paga y honores, sobre todo, como es natural, por parte de los tiranos y, en segundo lugar, de la democracia; pero cuanto más arriba marchan hacia la cima de las constituciones, tanto más cede su honra, como si no pudieran andar por la falta de aliento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0428",
+      "stephanus": "568d",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0429",
+      "stephanus": "568d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero esto era una digresión. Regresemos a aquel bello, numeroso, multicolor y cambiante ejército del tirano, para ver de qué se alimenta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0430",
+      "stephanus": "568d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es evidente —respondió Adimanto— que, si hay en el Estado tesoros sacros, los gastará en la medida que duren, así como los bienes de aquellos a los que ha aniquilado, necesitando menos, consiguientemente, cargar con impuestos al pueblo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0431",
+      "stephanus": "568e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿y cuando falten estos recursos? —pregunté.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0432",
+      "stephanus": "568e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es claro que se nutrirá del patrimonio paterno, y no sólo él sino, también sus comensales, amigos y queridas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0433",
+      "stephanus": "568e",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprendo: el pueblo que ha engendrado al tirano lo alimenta a él y a su séquito.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0434",
+      "stephanus": "568e",
+      "kind": "speech",
+      "text": {
+        "es": "—Le será muy necesario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0435",
+      "stephanus": "568e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué dirás en caso de que el pueblo se irrite y diga que no es justo que un hijo en la flor de la edad sea alimentado por su padre sino al contrario, el padre por su hijo, y que su padre no lo engendró y estableció para que, una vez que llegara a grande, debiera éste, como esclavo de sus propios esclavos, alimentarlo a él y a sus esclavos, con todo el resto de su comparsa; sino para que el pueblo fuera liberado, con él a su cabeza, de los ricos y de los denominados ‘hombres de bien’? ¿Qué dirás si entonces le ordena marcharse del Estado con su séquito, tal como el padre echa de la casa al hijo con sus comensales inoportunos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0436",
+      "stephanus": "569a",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces ¡por Zeus! el pueblo se dará cuenta de qué criatura ha engendrado, acariciado y hecho crecer, y a la que trata de expulsar cuando él es más débil y ella más fuerte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0437",
+      "stephanus": "569b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué quieres decir? ¿Se atreverá el tirano a hacer violencia a su padre, y, si no lo persuade, a golpearlo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0438",
+      "stephanus": "569b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, tras haberle quitado las armas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0439",
+      "stephanus": "569b",
+      "kind": "speech",
+      "text": {
+        "es": "—Quieres decir, pues, que el tirano es parricida y un temible cuidador de la vejez. Y, según parece, esto es lo que actualmente se admite que es la tiranía; y el pueblo, al huir del humo —como se dice— de la sumisión a hombres libres, va a parar al fuego del despotismo de los esclavos; y en lugar de aquella libertad abundante e intempestiva se viste con la esclavitud más dura y más amarga, la de los esclavos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0440",
+      "stephanus": "569c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente, es lo que ocurre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0441",
+      "stephanus": "569c",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien, entonces ¿no hablaremos armoniosamente si decimos que hemos descrito de modo suficiente el tránsito de la democracia a la tiranía, y cómo es ésta, una vez generada?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b8-0442",
+      "stephanus": "569c",
+      "kind": "speech",
+      "text": {
+        "es": "—Más que suficientemente.",
+        "en": ""
+      }
+    }
+  ]
+}
