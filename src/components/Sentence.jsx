@@ -12,26 +12,32 @@ export default function Sentence({ segment, targetLang }) {
   const hasGloss = Boolean(gloss);
 
   if (!hasGloss) {
-    return <span className="sentence is-plain">{sourceText}</span>;
+    return (
+      <>
+        <span className="sentence is-plain">{sourceText}</span>{" "}
+      </>
+    );
   }
 
   return (
-    <span
-      className={`sentence${open ? " is-active" : ""}`}
-      tabIndex={0}
-      role="button"
-      aria-describedby={open ? tipId : undefined}
-      onMouseEnter={() => setOpen(true)}
-      onMouseLeave={() => setOpen(false)}
-      onFocus={() => setOpen(true)}
-      onBlur={() => setOpen(false)}
-    >
-      {sourceText}
-      {open && (
-        <span className="tooltip" id={tipId} role="tooltip">
-          {gloss}
-        </span>
-      )}
-    </span>
+    <>
+      <span
+        className={`sentence${open ? " is-active" : ""}`}
+        tabIndex={0}
+        role="button"
+        aria-describedby={open ? tipId : undefined}
+        onMouseEnter={() => setOpen(true)}
+        onMouseLeave={() => setOpen(false)}
+        onFocus={() => setOpen(true)}
+        onBlur={() => setOpen(false)}
+      >
+        {sourceText}
+        {open && (
+          <span className="tooltip" id={tipId} role="tooltip">
+            {gloss}
+          </span>
+        )}
+      </span>{" "}
+    </>
   );
 }

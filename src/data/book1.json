@@ -16,7 +16,29 @@
       "text": {
         "es": "Ayer bajé al Pireo, junto a Glaucón, hijo de Aristón, para hacer una plegaria a la diosa, y al mismo tiempo con deseos de contemplar cómo hacían la fiesta, que entonces celebraban por primera vez. Ciertamente, me pareció hermosa la procesión de los lugareños, aunque no menos brillo mostró la que llevaron a cabo los tracios. Tras orar y contemplar el espectáculo, marchamos hacia la ciudad. Entonces Polemarco, hijo de Céfalo, al ver desde lejos que partíamos a nuestra casa, ordenó a su esclavo que corriera y nos exhortara a esperarlo. Y el esclavo llegó a asirme el manto por detrás, y dijo:",
         "en": "I went down yesterday to the Piraeus with Glaucon, the son of Ariston, to offer a prayer to the goddess, and at the same time wishing to observe how they would conduct the festival, since they were now celebrating it for the first time. The procession of the local inhabitants seemed to me indeed a fine one, though the one carried out by the Thracians displayed no less splendor. After we had prayed and watched the spectacle, we set off toward the city. Then Polemarchus, the son of Cephalus, having caught sight of us from a distance as we were departing for home, ordered his slave to run and bid us wait for him. And the slave, taking hold of my cloak from behind, said:"
-      }
+      },
+      "sentences": [
+        {
+          "es": "Ayer bajé al Pireo, junto a Glaucón, hijo de Aristón, para hacer una plegaria a la diosa, y al mismo tiempo con deseos de contemplar cómo hacían la fiesta, que entonces celebraban por primera vez.",
+          "en": "I went down yesterday to the Piraeus with Glaucon, the son of Ariston, to offer a prayer to the goddess, and at the same time wishing to observe how they would conduct the festival, since they were now celebrating it for the first time."
+        },
+        {
+          "es": "Ciertamente, me pareció hermosa la procesión de los lugareños, aunque no menos brillo mostró la que llevaron a cabo los tracios.",
+          "en": "The procession of the local inhabitants seemed to me indeed a fine one, though the one carried out by the Thracians displayed no less splendor."
+        },
+        {
+          "es": "Tras orar y contemplar el espectáculo, marchamos hacia la ciudad.",
+          "en": "After we had prayed and watched the spectacle, we set off toward the city."
+        },
+        {
+          "es": "Entonces Polemarco, hijo de Céfalo, al ver desde lejos que partíamos a nuestra casa, ordenó a su esclavo que corriera y nos exhortara a esperarlo.",
+          "en": "Then Polemarchus, the son of Cephalus, having caught sight of us from a distance as we were departing for home, ordered his slave to run and bid us wait for him."
+        },
+        {
+          "es": "Y el esclavo llegó a asirme el manto por detrás, y dijo:",
+          "en": "And the slave, taking hold of my cloak from behind, said:"
+        }
+      ]
     },
     {
       "id": "b1-0002",
@@ -169,7 +191,21 @@
       "text": {
         "es": "—¿A caballo? Eso sí que es nuevo —exclamé—. ¿Los competidores mantendrán sus antorchas a caballo y se las pasarán unos a otros? ¿A ese modo te refieres?",
         "en": "\"On horseback?\" I exclaimed. \"That is something new. Will the competitors hold their torches on horseback and pass them to one another? Is that the manner you mean?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¿A caballo? Eso sí que es nuevo —exclamé—.",
+          "en": "\"On horseback?\" I exclaimed. \"That is something new."
+        },
+        {
+          "es": "¿Los competidores mantendrán sus antorchas a caballo y se las pasarán unos a otros?",
+          "en": "Will the competitors hold their torches on horseback and pass them to one another?"
+        },
+        {
+          "es": "¿A ese modo te refieres?",
+          "en": "Is that the manner you mean?\""
+        }
+      ]
     },
     {
       "id": "b1-0019",
@@ -178,7 +214,25 @@
       "text": {
         "es": "—Así es —contestó Polemarco—. Y después celebrarán un festival nocturno, así como digno de verse. Una vez que cenemos, pues, saldremos y presenciaremos el festival, y allí nos hemos de reunir con muchos jóvenes y dialogaremos. Quedaos y dejad de lado cualquier otra cosa.",
         "en": "\"That is so,\" answered Polemarchus. \"And afterward they will hold a nocturnal festival, well worth seeing. Once we have had dinner, then, we will go out and watch the festival, and there we shall meet with many young men and converse. So stay, and set aside any other plan.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Así es —contestó Polemarco—.",
+          "en": "\"That is so,\" answered Polemarchus."
+        },
+        {
+          "es": "Y después celebrarán un festival nocturno, así como digno de verse.",
+          "en": "\"And afterward they will hold a nocturnal festival, well worth seeing."
+        },
+        {
+          "es": "Una vez que cenemos, pues, saldremos y presenciaremos el festival, y allí nos hemos de reunir con muchos jóvenes y dialogaremos.",
+          "en": "Once we have had dinner, then, we will go out and watch the festival, and there we shall meet with many young men and converse."
+        },
+        {
+          "es": "Quedaos y dejad de lado cualquier otra cosa.",
+          "en": "So stay, and set aside any other plan.\""
+        }
+      ]
     },
     {
       "id": "b1-0020",
@@ -214,7 +268,29 @@
       "text": {
         "es": "Fuimos entonces a casa de Polemarco, y allí nos encontramos con sus hermanos Lisias y Eutidemo, así como también con Trasímaco de Calcedonia, Carmántides de Peania y Clitofonte, hijo de Aristónomo. En la casa estaba también Céfalo, el padre de Polemarco, quien me pareció muy avejentado, pues hacía mucho tiempo que no lo veía. Estaba sentado en un sillón provisto de una almohada para reclinar la cabeza, en la que llevaba una corona, dado que acababa de hacer un sacrificio en el atrio. Y nosotros nos sentamos a su lado; había allí, en efecto, algunos asientos colocados en círculo. En cuanto Céfalo me vio, me saludó con estas palabras:",
         "en": "We went, then, to the house of Polemarchus, and there we found his brothers Lysias and Euthydemus, as well as Thrasymachus of Chalcedon, Charmantides of Paeania, and Clitophon, the son of Aristonymus. In the house was also Cephalus, the father of Polemarchus, who seemed to me very aged, for it had been a long time since I had last seen him. He was seated on a chair fitted with a cushion to rest his head, on which he wore a garland, since he had just performed a sacrifice in the courtyard. And we sat down beside him, for there were some seats placed there in a circle. As soon as Cephalus saw me, he greeted me with these words:"
-      }
+      },
+      "sentences": [
+        {
+          "es": "Fuimos entonces a casa de Polemarco, y allí nos encontramos con sus hermanos Lisias y Eutidemo, así como también con Trasímaco de Calcedonia, Carmántides de Peania y Clitofonte, hijo de Aristónomo.",
+          "en": "We went, then, to the house of Polemarchus, and there we found his brothers Lysias and Euthydemus, as well as Thrasymachus of Chalcedon, Charmantides of Paeania, and Clitophon, the son of Aristonymus."
+        },
+        {
+          "es": "En la casa estaba también Céfalo, el padre de Polemarco, quien me pareció muy avejentado, pues hacía mucho tiempo que no lo veía.",
+          "en": "In the house was also Cephalus, the father of Polemarchus, who seemed to me very aged, for it had been a long time since I had last seen him."
+        },
+        {
+          "es": "Estaba sentado en un sillón provisto de una almohada para reclinar la cabeza, en la que llevaba una corona, dado que acababa de hacer un sacrificio en el atrio.",
+          "en": "He was seated on a chair fitted with a cushion to rest his head, on which he wore a garland, since he had just performed a sacrifice in the courtyard."
+        },
+        {
+          "es": "Y nosotros nos sentamos a su lado; había allí, en efecto, algunos asientos colocados en círculo.",
+          "en": "And we sat down beside him, for there were some seats placed there in a circle."
+        },
+        {
+          "es": "En cuanto Céfalo me vio, me saludó con estas palabras:",
+          "en": "As soon as Cephalus saw me, he greeted me with these words:"
+        }
+      ]
     },
     {
       "id": "b1-0024",
@@ -223,7 +299,33 @@
       "text": {
         "es": "—Oh Sócrates, no es frecuente que bajes al Pireo a vernos. No obstante, tendría que ser frecuente. Porque si yo tuviera aún fuerzas como para caminar con facilidad hacia la ciudad, no sería necesario que vinieras hasta aquí, sino que nosotros iríamos a tu casa. Pero ahora eres tú quien debe venir aquí con mayor asiduidad. Y es bueno que sepas que, cuanto más se esfuman para mí los placeres del cuerpo, tanto más crecen los deseos y placeres en lo que hace a la conversación. No se trata de que dejes de reunirte con estos jóvenes, sino de que también vengas aquí con nosotros, como viejos amigos.",
         "en": "\"Socrates, it is not often that you come down to the Piraeus to see us. Yet it ought to be often. For if I still had the strength to walk easily to the city, there would be no need for you to come here; rather, we would go to your house. But as things are, it is you who must come here more frequently. And you should know that, the more the pleasures of the body fade away for me, the more the desires and pleasures connected with conversation grow. So do not refuse to spend time with these young men, but also come here to us, as to old friends.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Oh Sócrates, no es frecuente que bajes al Pireo a vernos.",
+          "en": "\"Socrates, it is not often that you come down to the Piraeus to see us."
+        },
+        {
+          "es": "No obstante, tendría que ser frecuente.",
+          "en": "Yet it ought to be often."
+        },
+        {
+          "es": "Porque si yo tuviera aún fuerzas como para caminar con facilidad hacia la ciudad, no sería necesario que vinieras hasta aquí, sino que nosotros iríamos a tu casa.",
+          "en": "For if I still had the strength to walk easily to the city, there would be no need for you to come here; rather, we would go to your house."
+        },
+        {
+          "es": "Pero ahora eres tú quien debe venir aquí con mayor asiduidad.",
+          "en": "But as things are, it is you who must come here more frequently."
+        },
+        {
+          "es": "Y es bueno que sepas que, cuanto más se esfuman para mí los placeres del cuerpo, tanto más crecen los deseos y placeres en lo que hace a la conversación.",
+          "en": "And you should know that, the more the pleasures of the body fade away for me, the more the desires and pleasures connected with conversation grow."
+        },
+        {
+          "es": "No se trata de que dejes de reunirte con estos jóvenes, sino de que también vengas aquí con nosotros, como viejos amigos.",
+          "en": "So do not refuse to spend time with these young men, but also come here to us, as to old friends.\""
+        }
+      ]
     },
     {
       "id": "b1-0025",
@@ -241,7 +343,17 @@
       "text": {
         "es": "—Por cierto, Céfalo, que me es grato dialogar con los más ancianos, pues me parece necesario enterarme por ellos, como gente que ya ha avanzado por un camino que también nosotros tal vez debamos recorrer, si es un camino escabroso y difícil, o bien fácil y transitable. Y en particular me agradaría conocer qué te parece a ti —dado que te hallas en tal edad— lo que los poetas llaman «umbral de la vejez»: si lo declaras como la parte penosa de la vida, o de qué otro modo.",
         "en": "\"Indeed, Cephalus, I take pleasure in conversing with the very old, for it seems to me necessary to learn from them, as from people who have already traveled along a road that we too may perhaps have to travel, whether it is a rough and difficult road, or an easy and passable one. And in particular I would gladly learn from you—since you are at such an age—what you make of what the poets call the 'threshold of old age': whether you declare it to be the painful part of life, or in some other way.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Por cierto, Céfalo, que me es grato dialogar con los más ancianos, pues me parece necesario enterarme por ellos, como gente que ya ha avanzado por un camino que también nosotros tal vez debamos recorrer, si es un camino escabroso y difícil, o bien fácil y transitable.",
+          "en": "\"Indeed, Cephalus, I take pleasure in conversing with the very old, for it seems to me necessary to learn from them, as from people who have already traveled along a road that we too may perhaps have to travel, whether it is a rough and difficult road, or an easy and passable one."
+        },
+        {
+          "es": "Y en particular me agradaría conocer qué te parece a ti —dado que te hallas en tal edad— lo que los poetas llaman «umbral de la vejez»: si lo declaras como la parte penosa de la vida, o de qué otro modo.",
+          "en": "And in particular I would gladly learn from you—since you are at such an age—what you make of what the poets call the 'threshold of old age': whether you declare it to be the painful part of life, or in some other way.\""
+        }
+      ]
     },
     {
       "id": "b1-0027",
@@ -250,7 +362,53 @@
       "text": {
         "es": "—Por Zeus, Sócrates —exclamó Céfalo—, te diré cuál es mi parecer. Con frecuencia nos reunimos algunos que tenemos prácticamente la misma edad, para preservar el antiguo proverbio; y al estar juntos, la mayoría de nosotros se lamenta, echando de menos los placeres de la juventud y rememorando tanto los goces sexuales como las borracheras y festines, y otras cosas de índole similar, y se irritan como si se vieran privados de grandes bienes, con los cuales habían vivido bien, mientras ahora ni siquiera les parece que viven. Algunos se quejan también del trato irrespetuoso debido a su vejez, reciben de sus familiares, y en base a esto declaman contra la vejez como causa de cuantos males padecen. Pero a mí, Sócrates, me parece que ellos toman por causa lo que no es causa; pues si ésa fuera la causa, también yo habría padecido por efecto de la vejez las mismas cosas, y del mismo modo todos cuantos han llegado a esa etapa de la vida. Pues bien, yo mismo me he encontrado con otros para quienes las cosas no son así. Por ejemplo, cierta vez estaba junto al poeta Sófocles cuando alguien le preguntó: «¿Cómo eres, Sófocles, en relación con los placeres sexuales? ¿Eres capaz aún de acostarte con una mujer?» Y él respondió: «Cuida tu lenguaje, hombre; me he liberado de ello tan agradablemente como si me hubiera liberado de un amo loco y salvaje.» En ese momento me pareció muy bello, y ahora más aún; pues en lo tocante a esas cosas, en la vejez se produce mucha paz y libertad. Cuando los apetitos cesan en su vehemencia y aflojan su tensión, se realiza por completo lo que decía Sófocles: nos desembarazamos de multitudes de amos enloquecidos. Pero respecto de tales quejas y de lo que concierne al trato con los familiares, hay una sola causa, Sócrates, y no es la vejez sino el carácter de los hombres. En efecto, si son moderados y tolerantes, también la vejez es una molestia mesurada; en caso contrario, Sócrates, tanto la vejez como la juventud resultarán difíciles a quien así sea.",
         "en": "\"By Zeus, Socrates,\" exclaimed Cephalus, \"I will tell you what my opinion is. Often a number of us who are practically of the same age gather together, keeping up the old proverb; and when we are together, most of us lament, longing for the pleasures of youth and recalling both the pleasures of sex and the drinking parties and feasts, and other things of a similar kind, and they grow irritated as though they had been deprived of great goods, with which they had lived well, while now they do not even seem to themselves to be living at all. Some also complain of the disrespectful treatment they receive from their relatives on account of their old age, and on this basis they rail against old age as the cause of all the evils they suffer. But to me, Socrates, it seems that they take for the cause what is not the cause; for if that were the cause, I too would have suffered the same things through old age, and so would all others who have reached that stage of life. Now I myself have met with others for whom things are not so. For instance, I was once present with the poet Sophocles when someone asked him: 'How are you, Sophocles, in regard to the pleasures of sex? Are you still able to lie with a woman?' And he answered: 'Mind your words, man; I have escaped from it as gladly as if I had escaped from a mad and savage master.' At the time it seemed to me a fine thing to say, and now even more so; for in regard to such things, in old age there comes much peace and freedom. When the appetites cease in their vehemence and slacken their tension, what Sophocles said comes entirely true: we are rid of a multitude of frenzied masters. But concerning such complaints, and concerning what has to do with one's treatment by relatives, there is a single cause, Socrates, and it is not old age but the character of men. For if they are moderate and good-tempered, old age too is only a measured burden; otherwise, Socrates, both old age and youth will prove difficult for such a man.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Por Zeus, Sócrates —exclamó Céfalo—, te diré cuál es mi parecer.",
+          "en": "\"By Zeus, Socrates,\" exclaimed Cephalus, \"I will tell you what my opinion is."
+        },
+        {
+          "es": "Con frecuencia nos reunimos algunos que tenemos prácticamente la misma edad, para preservar el antiguo proverbio; y al estar juntos, la mayoría de nosotros se lamenta, echando de menos los placeres de la juventud y rememorando tanto los goces sexuales como las borracheras y festines, y otras cosas de índole similar, y se irritan como si se vieran privados de grandes bienes, con los cuales habían vivido bien, mientras ahora ni siquiera les parece que viven.",
+          "en": "Often a number of us who are practically of the same age gather together, keeping up the old proverb; and when we are together, most of us lament, longing for the pleasures of youth and recalling both the pleasures of sex and the drinking parties and feasts, and other things of a similar kind, and they grow irritated as though they had been deprived of great goods, with which they had lived well, while now they do not even seem to themselves to be living at all."
+        },
+        {
+          "es": "Algunos se quejan también del trato irrespetuoso debido a su vejez, reciben de sus familiares, y en base a esto declaman contra la vejez como causa de cuantos males padecen.",
+          "en": "Some also complain of the disrespectful treatment they receive from their relatives on account of their old age, and on this basis they rail against old age as the cause of all the evils they suffer."
+        },
+        {
+          "es": "Pero a mí, Sócrates, me parece que ellos toman por causa lo que no es causa; pues si ésa fuera la causa, también yo habría padecido por efecto de la vejez las mismas cosas, y del mismo modo todos cuantos han llegado a esa etapa de la vida.",
+          "en": "But to me, Socrates, it seems that they take for the cause what is not the cause; for if that were the cause, I too would have suffered the same things through old age, and so would all others who have reached that stage of life."
+        },
+        {
+          "es": "Pues bien, yo mismo me he encontrado con otros para quienes las cosas no son así.",
+          "en": "Now I myself have met with others for whom things are not so."
+        },
+        {
+          "es": "Por ejemplo, cierta vez estaba junto al poeta Sófocles cuando alguien le preguntó: «¿Cómo eres, Sófocles, en relación con los placeres sexuales? ¿Eres capaz aún de acostarte con una mujer?»",
+          "en": "For instance, I was once present with the poet Sophocles when someone asked him: 'How are you, Sophocles, in regard to the pleasures of sex? Are you still able to lie with a woman?'"
+        },
+        {
+          "es": "Y él respondió: «Cuida tu lenguaje, hombre; me he liberado de ello tan agradablemente como si me hubiera liberado de un amo loco y salvaje.»",
+          "en": "And he answered: 'Mind your words, man; I have escaped from it as gladly as if I had escaped from a mad and savage master.'"
+        },
+        {
+          "es": "En ese momento me pareció muy bello, y ahora más aún; pues en lo tocante a esas cosas, en la vejez se produce mucha paz y libertad.",
+          "en": "At the time it seemed to me a fine thing to say, and now even more so; for in regard to such things, in old age there comes much peace and freedom."
+        },
+        {
+          "es": "Cuando los apetitos cesan en su vehemencia y aflojan su tensión, se realiza por completo lo que decía Sófocles: nos desembarazamos de multitudes de amos enloquecidos.",
+          "en": "When the appetites cease in their vehemence and slacken their tension, what Sophocles said comes entirely true: we are rid of a multitude of frenzied masters."
+        },
+        {
+          "es": "Pero respecto de tales quejas y de lo que concierne al trato con los familiares, hay una sola causa, Sócrates, y no es la vejez sino el carácter de los hombres.",
+          "en": "But concerning such complaints, and concerning what has to do with one's treatment by relatives, there is a single cause, Socrates, and it is not old age but the character of men."
+        },
+        {
+          "es": "En efecto, si son moderados y tolerantes, también la vejez es una molestia mesurada; en caso contrario, Sócrates, tanto la vejez como la juventud resultarán difíciles a quien así sea.",
+          "en": "For if they are moderate and good-tempered, old age too is only a measured burden; otherwise, Socrates, both old age and youth will prove difficult for such a man.\""
+        }
+      ]
     },
     {
       "id": "b1-0028",
@@ -277,7 +435,29 @@
       "text": {
         "es": "—Lo que dices es cierto —respondió—, no darán su aprobación. Y razón tienen, aunque no tanta como creen. Pero aquí viene bien el caso y la frase de Temístocles, a quien injuriaba un serifio y le decía que no debía su renombre a sí mismo sino a su patria. Temístocles le respondió: «Ni yo me haría famoso si fuera de Sérifo, ni tú aunque fueras de Atenas.» Esta frase viene bien para aquellos que no son ricos y pasan penosamente la vejez, porque ni el hombre razonable soportaría con mucha facilidad una vejez en la pobreza, ni el insensato se volvería a esa edad tolerante por ser rico.",
         "en": "\"What you say is true,\" he answered; \"they will not give their assent. And they have reason on their side, though not as much as they think. But here the case and the saying of Themistocles fit well, when a man of Seriphos abused him and told him that he owed his renown not to himself but to his country. Themistocles answered him: 'Neither would I have become famous if I were from Seriphos, nor you even if you were from Athens.' This saying fits well for those who are not rich and who pass their old age painfully, because neither would the reasonable man bear old age in poverty very easily, nor would the foolish man become good-tempered at that age by being rich.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Lo que dices es cierto —respondió—, no darán su aprobación.",
+          "en": "\"What you say is true,\" he answered; \"they will not give their assent."
+        },
+        {
+          "es": "Y razón tienen, aunque no tanta como creen.",
+          "en": "And they have reason on their side, though not as much as they think."
+        },
+        {
+          "es": "Pero aquí viene bien el caso y la frase de Temístocles, a quien injuriaba un serifio y le decía que no debía su renombre a sí mismo sino a su patria.",
+          "en": "But here the case and the saying of Themistocles fit well, when a man of Seriphos abused him and told him that he owed his renown not to himself but to his country."
+        },
+        {
+          "es": "Temístocles le respondió: «Ni yo me haría famoso si fuera de Sérifo, ni tú aunque fueras de Atenas.»",
+          "en": "Themistocles answered him: 'Neither would I have become famous if I were from Seriphos, nor you even if you were from Athens.'"
+        },
+        {
+          "es": "Esta frase viene bien para aquellos que no son ricos y pasan penosamente la vejez, porque ni el hombre razonable soportaría con mucha facilidad una vejez en la pobreza, ni el insensato se volvería a esa edad tolerante por ser rico.",
+          "en": "This saying fits well for those who are not rich and who pass their old age painfully, because neither would the reasonable man bear old age in poverty very easily, nor would the foolish man become good-tempered at that age by being rich.\""
+        }
+      ]
     },
     {
       "id": "b1-0031",
@@ -295,7 +475,25 @@
       "text": {
         "es": "—¿Quieres saber, Sócrates, qué es lo que he acrecentado yo? —dijo a su vez Céfalo—. En cuestión de hacer dinero he resultado intermedio entre mi abuelo y mi padre. En efecto, mi abuelo, cuyo mismo nombre llevo yo, heredó una fortuna poco más o menos a la que poseo actualmente, y aumentó su cantidad muchas veces; en cambio, mi padre, Lisanias, la disminuyó a una cantidad inferior a la actual. En cuanto a mí, estaré contento si no la dejo a mis hijos menor en cantidad, sino siquiera un poco mayor que la que heredé.",
         "en": "\"Do you want to know, Socrates, how much I have increased it?\" said Cephalus in turn. \"In the matter of making money I have turned out to be midway between my grandfather and my father. For my grandfather, whose very name I bear, inherited a fortune more or less equal to the one I now possess, and increased it many times over; whereas my father, Lysanias, diminished it to an amount less than the present one. As for me, I shall be content if I leave it to my sons not smaller in amount, but even a little greater than the one I inherited.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¿Quieres saber, Sócrates, qué es lo que he acrecentado yo? —dijo a su vez Céfalo—.",
+          "en": "\"Do you want to know, Socrates, how much I have increased it?\" said Cephalus in turn."
+        },
+        {
+          "es": "En cuestión de hacer dinero he resultado intermedio entre mi abuelo y mi padre.",
+          "en": "\"In the matter of making money I have turned out to be midway between my grandfather and my father."
+        },
+        {
+          "es": "En efecto, mi abuelo, cuyo mismo nombre llevo yo, heredó una fortuna poco más o menos a la que poseo actualmente, y aumentó su cantidad muchas veces; en cambio, mi padre, Lisanias, la disminuyó a una cantidad inferior a la actual.",
+          "en": "For my grandfather, whose very name I bear, inherited a fortune more or less equal to the one I now possess, and increased it many times over; whereas my father, Lysanias, diminished it to an amount less than the present one."
+        },
+        {
+          "es": "En cuanto a mí, estaré contento si no la dejo a mis hijos menor en cantidad, sino siquiera un poco mayor que la que heredé.",
+          "en": "As for me, I shall be content if I leave it to my sons not smaller in amount, but even a little greater than the one I inherited.\""
+        }
+      ]
     },
     {
       "id": "b1-0033",
@@ -304,7 +502,25 @@
       "text": {
         "es": "—El motivo por el cual te lo preguntaba —dije—, es el de que me parecía que no amabas demasiado las riquezas, y así obran por lo general los que no las han adquirido por sí mismos. Los que las han adquirido, en cambio, se apegan a ellas doblemente que los demás. Por un lado, en efecto, tal como los poetas aman a sus poemas y los padres a sus hijos, análogamente los que se han enriquecido ponen su celo en las riquezas, como obra de ellos; y por otro lado, como los demás, por la utilidad que les prestan. Son gente difícil de tratar, por no estar dispuestos a hablar bien de nada que no sea el dinero.",
         "en": "\"The reason I asked you,\" I said, \"is that it seemed to me that you did not love riches too much, and this is generally how those behave who have not acquired them by themselves. Those who have acquired them, on the other hand, are attached to them twice as much as the rest. For on the one hand, just as poets love their poems and fathers their children, in like manner those who have enriched themselves devote their zeal to riches, as their own work; and on the other hand, like the rest, for the usefulness they provide. They are difficult people to deal with, since they are not willing to speak well of anything but money.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—El motivo por el cual te lo preguntaba —dije—, es el de que me parecía que no amabas demasiado las riquezas, y así obran por lo general los que no las han adquirido por sí mismos.",
+          "en": "\"The reason I asked you,\" I said, \"is that it seemed to me that you did not love riches too much, and this is generally how those behave who have not acquired them by themselves."
+        },
+        {
+          "es": "Los que las han adquirido, en cambio, se apegan a ellas doblemente que los demás.",
+          "en": "Those who have acquired them, on the other hand, are attached to them twice as much as the rest."
+        },
+        {
+          "es": "Por un lado, en efecto, tal como los poetas aman a sus poemas y los padres a sus hijos, análogamente los que se han enriquecido ponen su celo en las riquezas, como obra de ellos; y por otro lado, como los demás, por la utilidad que les prestan.",
+          "en": "For on the one hand, just as poets love their poems and fathers their children, in like manner those who have enriched themselves devote their zeal to riches, as their own work; and on the other hand, like the rest, for the usefulness they provide."
+        },
+        {
+          "es": "Son gente difícil de tratar, por no estar dispuestos a hablar bien de nada que no sea el dinero.",
+          "en": "They are difficult people to deal with, since they are not willing to speak well of anything but money.\""
+        }
+      ]
     },
     {
       "id": "b1-0034",
@@ -331,7 +547,41 @@
       "text": {
         "es": "—Algo con lo cual, si lo digo, no persuadiré a mucha gente —respondió—. Pues debes saber, Sócrates, que, en aquellos momentos en que se avecina el pensamiento de que va a morir, le entra miedo y preocupación por cosas que antes no tenía en mente. Así, pues, los mitos que se narran acerca de los que en el Hades, en el sentido de que allí debe expiar su culpa el que ha sido injusto aquí, antes movían a risa, pero entonces atormentan al alma con el temor de que sean ciertos. Y uno mismo, sea por la debilidad provocada por la vejez, o bien por hallarse más próximo al Hades, percibe mejor los mitos. En esos momentos uno se llena de temores y desconfianzas, y se aboca a reflexionar y examinar si ha cometido alguna injusticia contra alguien. Así, el que descubre en sí mismo muchos actos injustos, frecuentemente se despierta de los sueños asustado, como los niños, y vive en una desdichada expectativa. En cambio, al que sabe que no ha hecho nada injusto lo acompaña siempre una agradable esperanza, una buena ‘nodriza de la vejez’, como dice Píndaro. Pues en efecto, Sócrates, bellamente ha dicho éste que a aquel que ha pasado la vida justa y piadosamente, lo acompaña, alimentando su corazón, una buena esperanza, nodriza de la vejez, la cual mejor guía el versátil juicio de los mortales.",
         "en": "\"Something which, if I say it, will not persuade many people,\" he answered. \"For you should know, Socrates, that in those moments when the thought draws near that he is going to die, fear and concern come over a man about things he had not previously had in mind. Thus the myths that are told about those in Hades—to the effect that there the one who has been unjust here must pay the penalty for his guilt—formerly moved him to laughter, but then they torment the soul with the fear that they may be true. And one's own self, whether through the weakness brought on by old age, or because of being nearer to Hades, perceives these myths more clearly. At such moments one is filled with fears and misgivings, and sets oneself to reflecting and examining whether one has committed any injustice against anyone. Thus the man who discovers in himself many unjust deeds frequently wakes from his dreams in terror, like children, and lives in a wretched expectation. The man who knows, on the other hand, that he has done nothing unjust is always accompanied by a pleasant hope, a good 'nurse of old age,' as Pindar says. For indeed, Socrates, he has finely said that whoever has passed his life justly and piously is accompanied, nourishing his heart, by a good hope, nurse of old age, which best guides the changeable judgment of mortals.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Algo con lo cual, si lo digo, no persuadiré a mucha gente —respondió—.",
+          "en": "\"Something which, if I say it, will not persuade many people,\" he answered."
+        },
+        {
+          "es": "Pues debes saber, Sócrates, que, en aquellos momentos en que se avecina el pensamiento de que va a morir, le entra miedo y preocupación por cosas que antes no tenía en mente.",
+          "en": "\"For you should know, Socrates, that in those moments when the thought draws near that he is going to die, fear and concern come over a man about things he had not previously had in mind."
+        },
+        {
+          "es": "Así, pues, los mitos que se narran acerca de los que en el Hades, en el sentido de que allí debe expiar su culpa el que ha sido injusto aquí, antes movían a risa, pero entonces atormentan al alma con el temor de que sean ciertos.",
+          "en": "Thus the myths that are told about those in Hades—to the effect that there the one who has been unjust here must pay the penalty for his guilt—formerly moved him to laughter, but then they torment the soul with the fear that they may be true."
+        },
+        {
+          "es": "Y uno mismo, sea por la debilidad provocada por la vejez, o bien por hallarse más próximo al Hades, percibe mejor los mitos.",
+          "en": "And one's own self, whether through the weakness brought on by old age, or because of being nearer to Hades, perceives these myths more clearly."
+        },
+        {
+          "es": "En esos momentos uno se llena de temores y desconfianzas, y se aboca a reflexionar y examinar si ha cometido alguna injusticia contra alguien.",
+          "en": "At such moments one is filled with fears and misgivings, and sets oneself to reflecting and examining whether one has committed any injustice against anyone."
+        },
+        {
+          "es": "Así, el que descubre en sí mismo muchos actos injustos, frecuentemente se despierta de los sueños asustado, como los niños, y vive en una desdichada expectativa.",
+          "en": "Thus the man who discovers in himself many unjust deeds frequently wakes from his dreams in terror, like children, and lives in a wretched expectation."
+        },
+        {
+          "es": "En cambio, al que sabe que no ha hecho nada injusto lo acompaña siempre una agradable esperanza, una buena ‘nodriza de la vejez’, como dice Píndaro.",
+          "en": "The man who knows, on the other hand, that he has done nothing unjust is always accompanied by a pleasant hope, a good 'nurse of old age,' as Pindar says."
+        },
+        {
+          "es": "Pues en efecto, Sócrates, bellamente ha dicho éste que a aquel que ha pasado la vida justa y piadosamente, lo acompaña, alimentando su corazón, una buena esperanza, nodriza de la vejez, la cual mejor guía el versátil juicio de los mortales.",
+          "en": "For indeed, Socrates, he has finely said that whoever has passed his life justly and piously is accompanied, nourishing his heart, by a good hope, nurse of old age, which best guides the changeable judgment of mortals.\""
+        }
+      ]
     },
     {
       "id": "b1-0037",
@@ -340,7 +590,25 @@
       "text": {
         "es": "Algo admirablemente bien dicho. Es en este respecto que considero de mucho valor la posesión de las riquezas, no para cualquier hombre, sino para el sensato. En efecto, la posesión de riquezas contribuye en gran parte a no engañar ni mentir involuntariamente, así como a no adeudar sacrificios a un dios o dinero a un hombre, y, por consiguiente, a no marcharse con temores hacia el Hades. Las riquezas, por supuesto, tienen muchas otras ventajas; pero comparando unas con otras, Sócrates, no consideraría a las mencionadas como las de menor importancia para que la riqueza sea de máxima utilidad a un hombre inteligente.",
         "en": "\"Something admirably well said. It is in this respect that I consider the possession of riches to be of great value—not for just any man, but for the sensible one. For the possession of riches contributes in great part to not deceiving or lying involuntarily, and to not owing sacrifices to a god or money to a man, and consequently to not departing for Hades in fear. Riches, of course, have many other advantages; but comparing one with another, Socrates, I would not regard the ones I have mentioned as the least important for riches to be of the greatest use to an intelligent man.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "Algo admirablemente bien dicho.",
+          "en": "\"Something admirably well said."
+        },
+        {
+          "es": "Es en este respecto que considero de mucho valor la posesión de las riquezas, no para cualquier hombre, sino para el sensato.",
+          "en": "It is in this respect that I consider the possession of riches to be of great value—not for just any man, but for the sensible one."
+        },
+        {
+          "es": "En efecto, la posesión de riquezas contribuye en gran parte a no engañar ni mentir involuntariamente, así como a no adeudar sacrificios a un dios o dinero a un hombre, y, por consiguiente, a no marcharse con temores hacia el Hades.",
+          "en": "For the possession of riches contributes in great part to not deceiving or lying involuntarily, and to not owing sacrifices to a god or money to a man, and consequently to not departing for Hades in fear."
+        },
+        {
+          "es": "Las riquezas, por supuesto, tienen muchas otras ventajas; pero comparando unas con otras, Sócrates, no consideraría a las mencionadas como las de menor importancia para que la riqueza sea de máxima utilidad a un hombre inteligente.",
+          "en": "Riches, of course, have many other advantages; but comparing one with another, Socrates, I would not regard the ones I have mentioned as the least important for riches to be of the greatest use to an intelligent man.\""
+        }
+      ]
     },
     {
       "id": "b1-0038",
@@ -349,7 +617,25 @@
       "text": {
         "es": "—Hablas con palabras muy bellas, Céfalo —dije—. Ahora bien, en cuanto a esto mismo que has mencionado, la justicia, ¿declararemos, como tú, que en todos los casos consiste en decir la verdad y en devolver lo que se recibe? ¿O bien éstas son cosas que algunas veces se hacen justamente y otras veces injustamente? Me refiero a casos como éste: si alguien recibiera armas de un amigo en su sano juicio, pero si éste enloqueciera y las reclamara, cualquiera estaría de acuerdo en que no se las debe devolver, y que aquel que las devolviera no sería justo, ni tampoco si quisiera decir toda la verdad a quien estuviera en tal estado.",
         "en": "\"You speak with very fine words, Cephalus,\" I said. \"Now, with regard to this very thing you have mentioned, justice, shall we declare, as you do, that in all cases it consists in telling the truth and in returning what one has received? Or are these things that are sometimes done justly and sometimes unjustly? I mean cases like this: if someone received weapons from a friend who was of sound mind, but the friend then went mad and demanded them back, anyone would agree that they ought not to be returned to him, and that the one who returned them would not be just, nor would he be if he wished to tell the whole truth to someone in such a state.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Hablas con palabras muy bellas, Céfalo —dije—.",
+          "en": "\"You speak with very fine words, Cephalus,\" I said."
+        },
+        {
+          "es": "Ahora bien, en cuanto a esto mismo que has mencionado, la justicia, ¿declararemos, como tú, que en todos los casos consiste en decir la verdad y en devolver lo que se recibe?",
+          "en": "\"Now, with regard to this very thing you have mentioned, justice, shall we declare, as you do, that in all cases it consists in telling the truth and in returning what one has received?"
+        },
+        {
+          "es": "¿O bien éstas son cosas que algunas veces se hacen justamente y otras veces injustamente?",
+          "en": "Or are these things that are sometimes done justly and sometimes unjustly?"
+        },
+        {
+          "es": "Me refiero a casos como éste: si alguien recibiera armas de un amigo en su sano juicio, pero si éste enloqueciera y las reclamara, cualquiera estaría de acuerdo en que no se las debe devolver, y que aquel que las devolviera no sería justo, ni tampoco si quisiera decir toda la verdad a quien estuviera en tal estado.",
+          "en": "I mean cases like this: if someone received weapons from a friend who was of sound mind, but the friend then went mad and demanded them back, anyone would agree that they ought not to be returned to him, and that the one who returned them would not be just, nor would he be if he wished to tell the whole truth to someone in such a state.\""
+        }
+      ]
     },
     {
       "id": "b1-0039",
@@ -439,7 +725,25 @@
       "text": {
         "es": "—Ciertamente —dije—, no es fácil dudar de lo que dice Simónides, pues es un varón sabio y divino. No obstante, qué es lo que quiere decir, tal vez tú lo sepas, Polemarco, mas yo lo ignoro. Porque es evidente que no se refiere a aquello de que acabamos de hablar: el caso de devolver a alguien que, no estando en su sano juicio, reclama lo que ha entregado en depósito. Sin embargo, eso que se ha depositado es algo que se debe, ¿no es así?",
         "en": "\"Certainly,\" I said, \"it is not easy to doubt what Simonides says, for he is a wise and divine man. Nevertheless, what he means—perhaps you know it, Polemarchus, but I do not. For it is evident that he is not referring to what we were just speaking of: the case of returning something to someone who, not being of sound mind, demands what he has given over in deposit. And yet what has been deposited is something that is owed, is it not?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Ciertamente —dije—, no es fácil dudar de lo que dice Simónides, pues es un varón sabio y divino.",
+          "en": "\"Certainly,\" I said, \"it is not easy to doubt what Simonides says, for he is a wise and divine man."
+        },
+        {
+          "es": "No obstante, qué es lo que quiere decir, tal vez tú lo sepas, Polemarco, mas yo lo ignoro.",
+          "en": "Nevertheless, what he means—perhaps you know it, Polemarchus, but I do not."
+        },
+        {
+          "es": "Porque es evidente que no se refiere a aquello de que acabamos de hablar: el caso de devolver a alguien que, no estando en su sano juicio, reclama lo que ha entregado en depósito.",
+          "en": "For it is evident that he is not referring to what we were just speaking of: the case of returning something to someone who, not being of sound mind, demands what he has given over in deposit."
+        },
+        {
+          "es": "Sin embargo, eso que se ha depositado es algo que se debe, ¿no es así?",
+          "en": "And yet what has been deposited is something that is owed, is it not?\""
+        }
+      ]
     },
     {
       "id": "b1-0049",
@@ -547,7 +851,17 @@
       "text": {
         "es": "—¡En nombre de Zeus! —exclamé—. Si alguien le preguntara: «Simónides, el arte que se llama medicina, ¿a quiénes da lo que se debe y corresponde y qué es lo que da?», ¿qué crees que respondería?",
         "en": "\"In the name of Zeus!\" I exclaimed. \"If someone were to ask him: 'Simonides, the craft that is called medicine—to whom does it give what is owed and fitting, and what is it that it gives?'—what do you think he would answer?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¡En nombre de Zeus! —exclamé—.",
+          "en": "\"In the name of Zeus!\" I exclaimed."
+        },
+        {
+          "es": "Si alguien le preguntara: «Simónides, el arte que se llama medicina, ¿a quiénes da lo que se debe y corresponde y qué es lo que da?», ¿qué crees que respondería?",
+          "en": "\"If someone were to ask him: 'Simonides, the craft that is called medicine—to whom does it give what is owed and fitting, and what is it that it gives?'—what do you think he would answer?\""
+        }
+      ]
     },
     {
       "id": "b1-0061",
@@ -1141,7 +1455,25 @@
       "text": {
         "es": "—Parece, pues, que el justo se revela como una suerte de ladrón; y me da la impresión de que eso lo has aprendido de Homero. Éste, en efecto, estima a Autólico, abuelo materno de Ulises, y dice que se ha destacado entre todos los hombres «por el latrocinio y el juramento». De este modo parece que, para ti, como para Homero y para Simónides, la justicia es un modo de robar, bien que para provecho de los amigos y perjuicio de los enemigos. ¿No es eso lo que dices?",
         "en": "\"It seems, then, that the just man turns out to be a kind of thief; and I have the impression that you have learned this from Homer. For he holds Autolycus, the maternal grandfather of Odysseus, in esteem, and says that he surpassed all men 'in thievery and the oath.' In this way it seems that, for you, as for Homer and for Simonides, justice is a kind of stealing, though for the benefit of friends and the harm of enemies. Is that not what you mean?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Parece, pues, que el justo se revela como una suerte de ladrón; y me da la impresión de que eso lo has aprendido de Homero.",
+          "en": "\"It seems, then, that the just man turns out to be a kind of thief; and I have the impression that you have learned this from Homer."
+        },
+        {
+          "es": "Éste, en efecto, estima a Autólico, abuelo materno de Ulises, y dice que se ha destacado entre todos los hombres «por el latrocinio y el juramento».",
+          "en": "For he holds Autolycus, the maternal grandfather of Odysseus, in esteem, and says that he surpassed all men 'in thievery and the oath.'"
+        },
+        {
+          "es": "De este modo parece que, para ti, como para Homero y para Simónides, la justicia es un modo de robar, bien que para provecho de los amigos y perjuicio de los enemigos.",
+          "en": "In this way it seems that, for you, as for Homer and for Simonides, justice is a kind of stealing, though for the benefit of friends and the harm of enemies."
+        },
+        {
+          "es": "¿No es eso lo que dices?",
+          "en": "Is that not what you mean?\""
+        }
+      ]
     },
     {
       "id": "b1-0127",
@@ -1150,7 +1482,21 @@
       "text": {
         "es": "—No, ¡por Zeus! Pero ya ni yo mismo sé lo que dije. De todos modos, sigo creyendo que la justicia consiste en beneficiar a los amigos y perjudicar a los enemigos.",
         "en": "\"No, by Zeus! But by now I no longer even know myself what I said. Still, I continue to believe that justice consists in benefiting friends and harming enemies.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—No, ¡por Zeus!",
+          "en": "\"No, by Zeus!"
+        },
+        {
+          "es": "Pero ya ni yo mismo sé lo que dije.",
+          "en": "But by now I no longer even know myself what I said."
+        },
+        {
+          "es": "De todos modos, sigo creyendo que la justicia consiste en beneficiar a los amigos y perjudicar a los enemigos.",
+          "en": "Still, I continue to believe that justice consists in benefiting friends and harming enemies.\""
+        }
+      ]
     },
     {
       "id": "b1-0128",
@@ -1294,7 +1640,17 @@
       "text": {
         "es": "—Así sucede, efectivamente —contestó Polemarco—. Pero retractémonos; pues es probable que no hayamos considerado correctamente al amigo y al enemigo.",
         "en": "\"That is indeed what follows,\" replied Polemarchus. \"But let us retract; for it is likely that we have not correctly conceived the friend and the enemy.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Así sucede, efectivamente —contestó Polemarco—.",
+          "en": "\"That is indeed what follows,\" replied Polemarchus."
+        },
+        {
+          "es": "Pero retractémonos; pues es probable que no hayamos considerado correctamente al amigo y al enemigo.",
+          "en": "\"But let us retract; for it is likely that we have not correctly conceived the friend and the enemy.\""
+        }
+      ]
     },
     {
       "id": "b1-0144",
@@ -1645,7 +2001,17 @@
       "text": {
         "es": "—En tal caso, si se dice que es justo dar a cada uno lo que se le debe, y con ello se quiere significar que el hombre justo debe perjudicar a los enemigos y beneficiar a los amigos, diremos que no es sabio hablar así, pues equivale a no decir la verdad, ya que se nos ha mostrado que en ningún caso es justo perjudicar a alguien.",
         "en": "\"In that case, if it is said that it is just to render to each what is owed to him, and by this one means that the just man must harm his enemies and benefit his friends, we shall say that it is not wise to speak so, for it amounts to not telling the truth, since it has been shown to us that in no case is it just to harm anyone.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—En tal caso, si se dice que es justo dar a cada uno lo que se le debe, y con ello se quiere significar que el hombre justo debe perjudicar a los enemigos y beneficiar a los amigos,",
+          "en": "\"In that case, if it is said that it is just to render to each what is owed to him, and by this one means that the just man must harm his enemies and benefit his friends,"
+        },
+        {
+          "es": "diremos que no es sabio hablar así, pues equivale a no decir la verdad, ya que se nos ha mostrado que en ningún caso es justo perjudicar a alguien.",
+          "en": "we shall say that it is not wise to speak so, for it amounts to not telling the truth, since it has been shown to us that in no case is it just to harm anyone.\""
+        }
+      ]
     },
     {
       "id": "b1-0183",
@@ -1726,7 +2092,17 @@
       "text": {
         "es": "Entonces Trasímaco —quien, mientras dialogábamos, había intentado varias veces adueñarse de la conversación, pero había sido impedido en ello por quienes estaban sentados a su lado y querían escucharla íntegramente—, en cuanto hicimos una pausa tras decir yo aquello, no se contuvo más, y, agazapándose como una fiera, se abalanzó sobre nosotros como si fuera a despedazarnos. Tanto Polemarco como yo nos estremecimos de pánico, pero Trasímaco profirió gritos en medio de todos, clamando:",
         "en": "Then Thrasymachus—who, while we were conversing, had several times tried to take command of the discussion, but had been prevented from doing so by those who were seated beside him and wanted to hear it through to the end—as soon as we paused after I said that, could no longer restrain himself, and, crouching like a wild beast, sprang upon us as though he meant to tear us to pieces. Both Polemarchus and I shuddered in panic, but Thrasymachus shouted out in the midst of everyone, exclaiming:"
-      }
+      },
+      "sentences": [
+        {
+          "es": "Entonces Trasímaco —quien, mientras dialogábamos, había intentado varias veces adueñarse de la conversación, pero había sido impedido en ello por quienes estaban sentados a su lado y querían escucharla íntegramente—, en cuanto hicimos una pausa tras decir yo aquello, no se contuvo más, y, agazapándose como una fiera, se abalanzó sobre nosotros como si fuera a despedazarnos.",
+          "en": "Then Thrasymachus—who, while we were conversing, had several times tried to take command of the discussion, but had been prevented from doing so by those who were seated beside him and wanted to hear it through to the end—as soon as we paused after I said that, could no longer restrain himself, and, crouching like a wild beast, sprang upon us as though he meant to tear us to pieces."
+        },
+        {
+          "es": "Tanto Polemarco como yo nos estremecimos de pánico, pero Trasímaco profirió gritos en medio de todos, clamando:",
+          "en": "Both Polemarchus and I shuddered in panic, but Thrasymachus shouted out in the midst of everyone, exclaiming:"
+        }
+      ]
     },
     {
       "id": "b1-0192",
@@ -1735,7 +2111,25 @@
       "text": {
         "es": "—¿Qué clase de idiotez hace presa de vosotros desde hace rato, Sócrates? ¿Y a qué juego de tontos hacéis uno con otro con eso de devolveros cumplidos entre vosotros mismos? Si realmente quieres saber lo que es justo, no preguntes solamente ni te envanezcas refutando cuando se te responde, sabedor de que es más fácil preguntar que responder, sino responde tú mismo y di qué es para ti lo justo. Pero no me vayas a decir que lo justo es lo necesario, lo provechoso, lo útil, lo ventajoso y lo conveniente; sino dime con claridad y exactitud qué es lo que significa, pues yo no he de tolerar que divagues de semejante modo.",
         "en": "\"What sort of nonsense has had hold of you for so long, Socrates? And what fools' game are you playing with one another, with this exchange of compliments between yourselves? If you really want to know what is just, do not merely ask questions, nor preen yourself by refuting whenever someone answers you, knowing that it is easier to ask than to answer, but answer yourself and say what you take what is just to be. And do not go telling me that what is just is the necessary, the profitable, the useful, the advantageous, and the expedient; rather, tell me clearly and exactly what it is you mean, for I will not put up with your rambling in such a fashion.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¿Qué clase de idiotez hace presa de vosotros desde hace rato, Sócrates?",
+          "en": "\"What sort of nonsense has had hold of you for so long, Socrates?"
+        },
+        {
+          "es": "¿Y a qué juego de tontos hacéis uno con otro con eso de devolveros cumplidos entre vosotros mismos?",
+          "en": "And what fools' game are you playing with one another, with this exchange of compliments between yourselves?"
+        },
+        {
+          "es": "Si realmente quieres saber lo que es justo, no preguntes solamente ni te envanezcas refutando cuando se te responde, sabedor de que es más fácil preguntar que responder, sino responde tú mismo y di qué es para ti lo justo.",
+          "en": "If you really want to know what is just, do not merely ask questions, nor preen yourself by refuting whenever someone answers you, knowing that it is easier to ask than to answer, but answer yourself and say what you take what is just to be."
+        },
+        {
+          "es": "Pero no me vayas a decir que lo justo es lo necesario, lo provechoso, lo útil, lo ventajoso y lo conveniente; sino dime con claridad y exactitud qué es lo que significa, pues yo no he de tolerar que divagues de semejante modo.",
+          "en": "And do not go telling me that what is just is the necessary, the profitable, the useful, the advantageous, and the expedient; rather, tell me clearly and exactly what it is you mean, for I will not put up with your rambling in such a fashion.\""
+        }
+      ]
     },
     {
       "id": "b1-0193",
@@ -1744,7 +2138,17 @@
       "text": {
         "es": "Al oírlo quedé azorado y lo contemplé con pavura; y creo que si no hubiese sido que yo lo miré a él antes que él a mí, habría perdido el habla. Pero en el momento en que comenzó a exasperarse por la conversación, yo había sido el primero que lo contempló, de modo que luego me fue posible responderle, y le dije, no sin un ligero temblor:",
         "en": "On hearing him I was dumbfounded and gazed at him in terror; and I believe that if I had not looked at him before he looked at me, I would have lost my speech. But at the moment when he began to grow exasperated with the conversation, I had been the first to gaze at him, so that afterward it was possible for me to answer him, and I said to him, not without a slight trembling:"
-      }
+      },
+      "sentences": [
+        {
+          "es": "Al oírlo quedé azorado y lo contemplé con pavura; y creo que si no hubiese sido que yo lo miré a él antes que él a mí, habría perdido el habla.",
+          "en": "On hearing him I was dumbfounded and gazed at him in terror; and I believe that if I had not looked at him before he looked at me, I would have lost my speech."
+        },
+        {
+          "es": "Pero en el momento en que comenzó a exasperarse por la conversación, yo había sido el primero que lo contempló, de modo que luego me fue posible responderle, y le dije, no sin un ligero temblor:",
+          "en": "But at the moment when he began to grow exasperated with the conversation, I had been the first to gaze at him, so that afterward it was possible for me to answer him, and I said to him, not without a slight trembling:"
+        }
+      ]
     },
     {
       "id": "b1-0194",
@@ -1753,7 +2157,29 @@
       "text": {
         "es": "—No seas duro con nosotros, Trasímaco, pues tanto Polemarco como yo, si erramos en el examen de estas cuestiones, has de saber que erramos sin quererlo. Pues si estuviéramos buscando oro, no creas que querríamos hacernos cumplidos el uno al otro en la búsqueda, echando a perder el hallazgo; menos aún, buscando la justicia, cosa de mucho mayor valor que el oro, nos haríamos concesiones uno al otro, insensatamente, en vez de esforzarnos al máximo en hacerla aparecer. Créeme, amigo. Lo que sucede es que no somos capaces de hacerla aparecer. Así es mucho más probable que seamos compadecidos por vosotros, los hábiles, en lugar de ser maltratados.",
         "en": "\"Do not be harsh with us, Thrasymachus, for if Polemarchus and I are in error in our examination of these questions, you must know that we err unwillingly. For if we were searching for gold, do not suppose that we would be willing to exchange compliments with one another in the search, ruining the discovery; still less, in searching for justice, a thing of much greater worth than gold, would we make concessions to one another, foolishly, instead of striving our utmost to bring it to light. Believe me, my friend. What is happening is that we are not capable of bringing it to light. So it is far more likely that we should be pitied by you clever men than treated harshly.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—No seas duro con nosotros, Trasímaco, pues tanto Polemarco como yo, si erramos en el examen de estas cuestiones, has de saber que erramos sin quererlo.",
+          "en": "\"Do not be harsh with us, Thrasymachus, for if Polemarchus and I are in error in our examination of these questions, you must know that we err unwillingly."
+        },
+        {
+          "es": "Pues si estuviéramos buscando oro, no creas que querríamos hacernos cumplidos el uno al otro en la búsqueda, echando a perder el hallazgo; menos aún, buscando la justicia, cosa de mucho mayor valor que el oro, nos haríamos concesiones uno al otro, insensatamente, en vez de esforzarnos al máximo en hacerla aparecer.",
+          "en": "For if we were searching for gold, do not suppose that we would be willing to exchange compliments with one another in the search, ruining the discovery; still less, in searching for justice, a thing of much greater worth than gold, would we make concessions to one another, foolishly, instead of striving our utmost to bring it to light."
+        },
+        {
+          "es": "Créeme, amigo.",
+          "en": "Believe me, my friend."
+        },
+        {
+          "es": "Lo que sucede es que no somos capaces de hacerla aparecer.",
+          "en": "What is happening is that we are not capable of bringing it to light."
+        },
+        {
+          "es": "Así es mucho más probable que seamos compadecidos por vosotros, los hábiles, en lugar de ser maltratados.",
+          "en": "So it is far more likely that we should be pitied by you clever men than treated harshly.\""
+        }
+      ]
     },
     {
       "id": "b1-0195",
@@ -1780,7 +2206,25 @@
       "text": {
         "es": "—Eres sabio, Trasímaco —respondí—. Bien sabías que, si preguntabas a alguien cuánto es doce, y al preguntarle te previnieras: «No me vayas a decir, amigo, que doce es dos veces seis ni tres veces cuatro ni seis veces dos ni cuatro veces tres, porque no he de tolerar que me digas tales idioteces», sería claro para ti, creo, que nadie respondería al que inquiriera de tal modo. Pero si te preguntara: «¿a qué apuntas, Trasímaco? ¿A que no responda ninguna de las cosas sobre las que me has prevenido, ni siquiera si alguna de ellas fuera la correcta, hombre asombroso, sino que debo decir alguna distinta de la correcta? ¿O a qué otra cosa te refieres?» ¿Qué contestarías a esto?",
         "en": "\"You are wise, Thrasymachus,\" I replied. \"You knew well that if you asked someone how much twelve is, and in asking him you warned him beforehand: 'Do not go telling me, my friend, that twelve is twice six, nor three times four, nor six times two, nor four times three, because I will not put up with your telling me such nonsense,' it would be clear to you, I think, that no one would answer someone who inquired in such a way. But if he said to you: 'What are you driving at, Thrasymachus? That I am to answer none of the things about which you have warned me, not even if one of them happens to be the correct one, you astonishing man, but that I must say something other than the correct answer? Or what else do you mean?' What would you reply to this?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Eres sabio, Trasímaco —respondí—.",
+          "en": "\"You are wise, Thrasymachus,\" I replied."
+        },
+        {
+          "es": "Bien sabías que, si preguntabas a alguien cuánto es doce, y al preguntarle te previnieras: «No me vayas a decir, amigo, que doce es dos veces seis ni tres veces cuatro ni seis veces dos ni cuatro veces tres, porque no he de tolerar que me digas tales idioteces», sería claro para ti, creo, que nadie respondería al que inquiriera de tal modo.",
+          "en": "\"You knew well that if you asked someone how much twelve is, and in asking him you warned him beforehand: 'Do not go telling me, my friend, that twelve is twice six, nor three times four, nor six times two, nor four times three, because I will not put up with your telling me such nonsense,' it would be clear to you, I think, that no one would answer someone who inquired in such a way."
+        },
+        {
+          "es": "Pero si te preguntara: «¿a qué apuntas, Trasímaco? ¿A que no responda ninguna de las cosas sobre las que me has prevenido, ni siquiera si alguna de ellas fuera la correcta, hombre asombroso, sino que debo decir alguna distinta de la correcta? ¿O a qué otra cosa te refieres?»",
+          "en": "But if he said to you: 'What are you driving at, Thrasymachus? That I am to answer none of the things about which you have warned me, not even if one of them happens to be the correct one, you astonishing man, but that I must say something other than the correct answer? Or what else do you mean?'"
+        },
+        {
+          "es": "¿Qué contestarías a esto?",
+          "en": "What would you reply to this?\""
+        }
+      ]
     },
     {
       "id": "b1-0198",
@@ -1834,7 +2278,21 @@
       "text": {
         "es": "—¿Qué otra pena que la que conviene a alguien que no sabe? Y sin duda lo que conviene al que no sabe es aprender del que sabe. Yo también merecería esa pena.",
         "en": "\"What other penalty than the one that befits a man who does not know? And surely what befits the man who does not know is to learn from the one who knows. So I too would deserve that penalty.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¿Qué otra pena que la que conviene a alguien que no sabe?",
+          "en": "\"What other penalty than the one that befits a man who does not know?"
+        },
+        {
+          "es": "Y sin duda lo que conviene al que no sabe es aprender del que sabe.",
+          "en": "And surely what befits the man who does not know is to learn from the one who knows."
+        },
+        {
+          "es": "Yo también merecería esa pena.",
+          "en": "So I too would deserve that penalty.\""
+        }
+      ]
     },
     {
       "id": "b1-0204",
@@ -1861,7 +2319,21 @@
       "text": {
         "es": "—Lo tienes —dijo Glaucón—. Si es por el dinero, Trasímaco, habla. Todos nosotros aportaremos por Sócrates.",
         "en": "\"You have it,\" said Glaucon. \"If it is a matter of money, Thrasymachus, speak. We will all contribute on Socrates' behalf.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Lo tienes —dijo Glaucón—.",
+          "en": "\"You have it,\" said Glaucon."
+        },
+        {
+          "es": "Si es por el dinero, Trasímaco, habla.",
+          "en": "\"If it is a matter of money, Thrasymachus, speak."
+        },
+        {
+          "es": "Todos nosotros aportaremos por Sócrates.",
+          "en": "We will all contribute on Socrates' behalf.\""
+        }
+      ]
     },
     {
       "id": "b1-0207",
@@ -1879,7 +2351,21 @@
       "text": {
         "es": "—¿Y cómo podría alguien responder, mi excelente amigo —señalé—, cuando, en primer lugar, uno no sabe, y después, si piensa algo, un hombre nada insignificante le prohíbe que hable de las cosas que está considerando? Más natural es que hables tú; ya que dices saber y tener algo que decir. No te niegues, pues, sino hazme el placer de contestar y no rehúses enseñar a Glaucón, que está aquí dispuesto, y a los demás.",
         "en": "\"And how could anyone answer, my excellent friend,\" I said, \"when, in the first place, one does not know, and then, if he has some opinion, a man who is no nobody forbids him to speak of the things he is considering? It is more fitting that you should speak; since you say you know and have something to say. Do not refuse, then, but do me the favor of answering, and do not decline to instruct Glaucon here, who is eager for it, and the others.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¿Y cómo podría alguien responder, mi excelente amigo —señalé—, cuando, en primer lugar, uno no sabe, y después, si piensa algo, un hombre nada insignificante le prohíbe que hable de las cosas que está considerando?",
+          "en": "\"And how could anyone answer, my excellent friend,\" I said, \"when, in the first place, one does not know, and then, if he has some opinion, a man who is no nobody forbids him to speak of the things he is considering?"
+        },
+        {
+          "es": "Más natural es que hables tú; ya que dices saber y tener algo que decir.",
+          "en": "It is more fitting that you should speak; since you say you know and have something to say."
+        },
+        {
+          "es": "No te niegues, pues, sino hazme el placer de contestar y no rehúses enseñar a Glaucón, que está aquí dispuesto, y a los demás.",
+          "en": "Do not refuse, then, but do me the favor of answering, and do not decline to instruct Glaucon here, who is eager for it, and the others.\""
+        }
+      ]
     },
     {
       "id": "b1-0209",
@@ -1906,7 +2392,25 @@
       "text": {
         "es": "—En lo de que aprendo de los demás dices verdad, Trasímaco —contesté—. Pero en cuanto a lo que dices que no lo agradezco, estás equivocado, pues retribuyo en la forma que puedo; y sólo puedo hacerlo en elogios, porque dinero no tengo. Y con cuánto celo cumplo en ello cuando me parece que alguien habla bien, has de saberlo inmediatamente, después de que respondas. Creo, en efecto, que hablarás bien.",
         "en": "\"In saying that I learn from others you speak the truth, Thrasymachus,\" I replied. \"But as for your saying that I do not give thanks for it, you are mistaken, for I repay in the way I can; and I can only do so in praise, because I have no money. And with how much zeal I do this when it seems to me that someone speaks well, you shall know at once, as soon as you answer. For I believe you will speak well.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—En lo de que aprendo de los demás dices verdad, Trasímaco —contesté—.",
+          "en": "\"In saying that I learn from others you speak the truth, Thrasymachus,\" I replied."
+        },
+        {
+          "es": "Pero en cuanto a lo que dices que no lo agradezco, estás equivocado, pues retribuyo en la forma que puedo; y sólo puedo hacerlo en elogios, porque dinero no tengo.",
+          "en": "\"But as for your saying that I do not give thanks for it, you are mistaken, for I repay in the way I can; and I can only do so in praise, because I have no money."
+        },
+        {
+          "es": "Y con cuánto celo cumplo en ello cuando me parece que alguien habla bien, has de saberlo inmediatamente, después de que respondas.",
+          "en": "And with how much zeal I do this when it seems to me that someone speaks well, you shall know at once, as soon as you answer."
+        },
+        {
+          "es": "Creo, en efecto, que hablarás bien.",
+          "en": "For I believe you will speak well.\""
+        }
+      ]
     },
     {
       "id": "b1-0212",
@@ -1915,7 +2419,25 @@
       "text": {
         "es": "—Escucha, pues —dijo Trasímaco—. Afirmo que lo justo no es otra cosa que lo que conviene al más fuerte. Y ahora ¿por qué no me elogias? Pero no, no estás dispuesto a ello.",
         "en": "\"Listen, then,\" said Thrasymachus. \"I affirm that what is just is nothing other than what is advantageous to the stronger. And now, why do you not praise me? But no, you are not willing to do so.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Escucha, pues —dijo Trasímaco—.",
+          "en": "\"Listen, then,\" said Thrasymachus."
+        },
+        {
+          "es": "Afirmo que lo justo no es otra cosa que lo que conviene al más fuerte.",
+          "en": "\"I affirm that what is just is nothing other than what is advantageous to the stronger."
+        },
+        {
+          "es": "Y ahora ¿por qué no me elogias?",
+          "en": "And now, why do you not praise me?"
+        },
+        {
+          "es": "Pero no, no estás dispuesto a ello.",
+          "en": "But no, you are not willing to do so.\""
+        }
+      ]
     },
     {
       "id": "b1-0213",
@@ -1924,7 +2446,25 @@
       "text": {
         "es": "—Primeramente debo comprender qué quieres decir, pues aún no lo sé. Afirmas que justo es lo que conviene al más fuerte. Y esto, Trasímaco, ¿qué significa? Porque sin duda lo que afirmas no es, por ejemplo, que si Polidamante, el pancraciasta, es más fuerte que nosotros, y le conviene —en lo concerniente al cuerpo— la carne de buey, este alimento es también conveniente y justo para nosotros, que somos más débiles que él.",
         "en": "\"First I must understand what you mean, for I do not yet know it. You affirm that what is just is what is advantageous to the stronger. And this, Thrasymachus, what does it mean? For surely what you affirm is not, for example, that if Polydamas the pancratiast is stronger than we are, and beef is advantageous to him—as regards the body—then this food is also advantageous and just for us, who are weaker than he.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Primeramente debo comprender qué quieres decir, pues aún no lo sé.",
+          "en": "\"First I must understand what you mean, for I do not yet know it."
+        },
+        {
+          "es": "Afirmas que justo es lo que conviene al más fuerte.",
+          "en": "You affirm that what is just is what is advantageous to the stronger."
+        },
+        {
+          "es": "Y esto, Trasímaco, ¿qué significa?",
+          "en": "And this, Thrasymachus, what does it mean?"
+        },
+        {
+          "es": "Porque sin duda lo que afirmas no es, por ejemplo, que si Polidamante, el pancraciasta, es más fuerte que nosotros, y le conviene —en lo concerniente al cuerpo— la carne de buey, este alimento es también conveniente y justo para nosotros, que somos más débiles que él.",
+          "en": "For surely what you affirm is not, for example, that if Polydamas the pancratiast is stronger than we are, and beef is advantageous to him—as regards the body—then this food is also advantageous and just for us, who are weaker than he.\""
+        }
+      ]
     },
     {
       "id": "b1-0214",
@@ -1987,7 +2527,25 @@
       "text": {
         "es": "—Bien. De este modo, pues, cada gobierno implanta las leyes en vista de lo que es conveniente para él: la democracia, leyes democráticas; la tiranía, leyes tiránicas, y así las demás. Una vez implantadas, manifiestan que lo que conviene a los gobernantes es justo para los gobernados, y al que se aparta de esto lo castigan por infringir las leyes y obrar injustamente. Esto, mi buen amigo, es lo que quiero decir; que en todos los Estados es justo lo mismo: lo que conviene al gobierno establecido, que es sin duda el que tiene la fuerza, de modo tal que, para quien razone correctamente, es justo lo mismo en todos lados, lo que conviene al más fuerte.",
         "en": "\"Good. In this way, then, each government enacts the laws with a view to what is advantageous for it: democracy, democratic laws; tyranny, tyrannical laws, and so the others. Once they have enacted them, they declare that what is advantageous to the rulers is just for the ruled, and the one who departs from this they punish for transgressing the laws and acting unjustly. This, my good friend, is what I mean; that in all cities the same thing is just: what is advantageous to the established government, which is no doubt the one that holds the power, so that, for anyone who reasons correctly, the same thing is just everywhere, namely what is advantageous to the stronger.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Bien.",
+          "en": "\"Good."
+        },
+        {
+          "es": "De este modo, pues, cada gobierno implanta las leyes en vista de lo que es conveniente para él: la democracia, leyes democráticas; la tiranía, leyes tiránicas, y así las demás.",
+          "en": "In this way, then, each government enacts the laws with a view to what is advantageous for it: democracy, democratic laws; tyranny, tyrannical laws, and so the others."
+        },
+        {
+          "es": "Una vez implantadas, manifiestan que lo que conviene a los gobernantes es justo para los gobernados, y al que se aparta de esto lo castigan por infringir las leyes y obrar injustamente.",
+          "en": "Once they have enacted them, they declare that what is advantageous to the rulers is just for the ruled, and the one who departs from this they punish for transgressing the laws and acting unjustly."
+        },
+        {
+          "es": "Esto, mi buen amigo, es lo que quiero decir; que en todos los Estados es justo lo mismo: lo que conviene al gobierno establecido, que es sin duda el que tiene la fuerza, de modo tal que, para quien razone correctamente, es justo lo mismo en todos lados, lo que conviene al más fuerte.",
+          "en": "This, my good friend, is what I mean; that in all cities the same thing is just: what is advantageous to the established government, which is no doubt the one that holds the power, so that, for anyone who reasons correctly, the same thing is just everywhere, namely what is advantageous to the stronger.\""
+        }
+      ]
     },
     {
       "id": "b1-0221",
@@ -1996,7 +2554,17 @@
       "text": {
         "es": "—Ahora he comprendido lo que querías decir; si es verdad o no, trataré de comprenderlo. Entonces, Trasímaco, también tú has respondido que ‘justo’ es lo conveniente, aunque a mí me habías prohibido que contestara eso; si bien a lo dicho le es ahora añades ‘para el más fuerte’.",
         "en": "\"Now I have understood what you meant; whether it is true or not, I shall try to understand. So then, Thrasymachus, you too have answered that 'just' is what is advantageous, although you had forbidden me to give that answer; though to what was said you now add 'for the stronger.'\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Ahora he comprendido lo que querías decir; si es verdad o no, trataré de comprenderlo.",
+          "en": "\"Now I have understood what you meant; whether it is true or not, I shall try to understand."
+        },
+        {
+          "es": "Entonces, Trasímaco, también tú has respondido que ‘justo’ es lo conveniente, aunque a mí me habías prohibido que contestara eso; si bien a lo dicho le es ahora añades ‘para el más fuerte’.",
+          "en": "So then, Thrasymachus, you too have answered that 'just' is what is advantageous, although you had forbidden me to give that answer; though to what was said you now add 'for the stronger.'\""
+        }
+      ]
     },
     {
       "id": "b1-0222",
@@ -2014,7 +2582,25 @@
       "text": {
         "es": "—Todavía no está claro si es importante. Pero lo que está claro es que hay que examinar si lo que dices es cierto. Porque estoy de acuerdo en que lo justo es algo conveniente, pero tú has añadido a esto la afirmación de que es conveniente para el más fuerte. Y esto lo ignoro, y debo examinarlo.",
         "en": "\"It is not yet clear whether it is important. But what is clear is that we must examine whether what you say is true. For I agree that what is just is something advantageous, but you have added to this the assertion that it is advantageous for the stronger. And this I do not know, and I must examine it.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Todavía no está claro si es importante.",
+          "en": "\"It is not yet clear whether it is important."
+        },
+        {
+          "es": "Pero lo que está claro es que hay que examinar si lo que dices es cierto.",
+          "en": "But what is clear is that we must examine whether what you say is true."
+        },
+        {
+          "es": "Porque estoy de acuerdo en que lo justo es algo conveniente, pero tú has añadido a esto la afirmación de que es conveniente para el más fuerte.",
+          "en": "For I agree that what is just is something advantageous, but you have added to this the assertion that it is advantageous for the stronger."
+        },
+        {
+          "es": "Y esto lo ignoro, y debo examinarlo.",
+          "en": "And this I do not know, and I must examine it.\""
+        }
+      ]
     },
     {
       "id": "b1-0224",
@@ -2140,7 +2726,25 @@
       "text": {
         "es": "—Lo mismo que tú, me parece. Pero examinémoslo mejor. Por un lado hemos acordado que, cuando los gobernantes ordenan a los gobernados que hagan ciertas cosas, a veces se equivocan respecto de lo que es mejor para sí mismos; por otro lado, hemos concordado en que es justo que los gobernados hagan lo que les ordenan los gobernantes. ¿No hemos convenido ambas cosas?",
         "en": "\"The same as you, it seems to me. But let us examine it better. On the one hand we have agreed that, when the rulers command the ruled to do certain things, they sometimes make mistakes as to what is best for themselves; on the other hand, we have concurred that it is just for the ruled to do what the rulers command them. Have we not agreed on both these things?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Lo mismo que tú, me parece.",
+          "en": "\"The same as you, it seems to me."
+        },
+        {
+          "es": "Pero examinémoslo mejor.",
+          "en": "But let us examine it better."
+        },
+        {
+          "es": "Por un lado hemos acordado que, cuando los gobernantes ordenan a los gobernados que hagan ciertas cosas, a veces se equivocan respecto de lo que es mejor para sí mismos; por otro lado, hemos concordado en que es justo que los gobernados hagan lo que les ordenan los gobernantes.",
+          "en": "On the one hand we have agreed that, when the rulers command the ruled to do certain things, they sometimes make mistakes as to what is best for themselves; on the other hand, we have concurred that it is just for the ruled to do what the rulers command them."
+        },
+        {
+          "es": "¿No hemos convenido ambas cosas?",
+          "en": "Have we not agreed on both these things?\""
+        }
+      ]
     },
     {
       "id": "b1-0238",
@@ -2158,7 +2762,21 @@
       "text": {
         "es": "—Piensa también que has estado de acuerdo en que es justo hacer lo que no conviene a los gobernantes —que son a la vez los más fuertes— cuando los gobernantes, sin querer, ordenan algo malo para sí mismos; y dices que para los gobernados es justo hacer lo que los gobernantes han ordenado. Entonces, sapientísimo Trasímaco, ¿no resulta así forzosamente que es justo hacer lo contrario de lo que tú dices? En efecto, de lo que afirmas resulta, sin duda, que se ordena a los más débiles que hagan lo que no conviene al más fuerte.",
         "en": "\"Then consider also that you have agreed that it is just to do what is not advantageous to the rulers—who are at the same time the stronger—when the rulers, unwillingly, command something bad for themselves; and you say that for the ruled it is just to do what the rulers have commanded. Then, most wise Thrasymachus, does it not necessarily follow in this way that it is just to do the contrary of what you say? For from what you affirm it follows, no doubt, that the weaker are commanded to do what is not advantageous to the stronger.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Piensa también que has estado de acuerdo en que es justo hacer lo que no conviene a los gobernantes —que son a la vez los más fuertes— cuando los gobernantes, sin querer, ordenan algo malo para sí mismos; y dices que para los gobernados es justo hacer lo que los gobernantes han ordenado.",
+          "en": "\"Then consider also that you have agreed that it is just to do what is not advantageous to the rulers—who are at the same time the stronger—when the rulers, unwillingly, command something bad for themselves; and you say that for the ruled it is just to do what the rulers have commanded."
+        },
+        {
+          "es": "Entonces, sapientísimo Trasímaco, ¿no resulta así forzosamente que es justo hacer lo contrario de lo que tú dices?",
+          "en": "Then, most wise Thrasymachus, does it not necessarily follow in this way that it is just to do the contrary of what you say?"
+        },
+        {
+          "es": "En efecto, de lo que afirmas resulta, sin duda, que se ordena a los más débiles que hagan lo que no conviene al más fuerte.",
+          "en": "For from what you affirm it follows, no doubt, that the weaker are commanded to do what is not advantageous to the stronger.\""
+        }
+      ]
     },
     {
       "id": "b1-0240",
@@ -2203,7 +2821,21 @@
       "text": {
         "es": "—Sí, pero también consideró justo, Clitofonte, lo que conviene al más fuerte. Y además de considerar ambas cosas, estuvo de acuerdo en que a veces los más fuertes ordenan lo que no les conviene a ellos mismos sea hecho por los gobernados, que son los más débiles. Y una vez acordadas tales cosas, en nada sería más justo lo que conviene al más fuerte que lo que no le conviene.",
         "en": "\"Yes, but he also held to be just, Cleitophon, what is advantageous to the stronger. And besides holding both things, he agreed that sometimes the stronger command that what is not advantageous to themselves be done by the ruled, who are the weaker. And once such things had been agreed, what is advantageous to the stronger would be no more just than what is not advantageous to him.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Sí, pero también consideró justo, Clitofonte, lo que conviene al más fuerte.",
+          "en": "\"Yes, but he also held to be just, Cleitophon, what is advantageous to the stronger."
+        },
+        {
+          "es": "Y además de considerar ambas cosas, estuvo de acuerdo en que a veces los más fuertes ordenan lo que no les conviene a ellos mismos sea hecho por los gobernados, que son los más débiles.",
+          "en": "And besides holding both things, he agreed that sometimes the stronger command that what is not advantageous to themselves be done by the ruled, who are the weaker."
+        },
+        {
+          "es": "Y una vez acordadas tales cosas, en nada sería más justo lo que conviene al más fuerte que lo que no le conviene.",
+          "en": "And once such things had been agreed, what is advantageous to the stronger would be no more just than what is not advantageous to him.\""
+        }
+      ]
     },
     {
       "id": "b1-0245",
@@ -2266,7 +2898,49 @@
       "text": {
         "es": "—Eres un tramposo en tus argumentos, Sócrates —contestó—. Veamos, por ejemplo, ¿llamas médico al que se equivoca respecto de los enfermos, en cuanto se equivoca en eso? ¿O calculador al que se equivoca en el cálculo, en el momento en que se equivoca, en cuanto a esa equivocación? Claro que usamos la expresión ‘el médico se equivocó’ o ‘el calculador se equivocó’ o ‘el gramático se equivocó’. Pero cada uno de éstos, en realidad, en la medida que es aquello por lo cual lo denominamos así, entiendo que jamás se equivoca. De este modo, en sentido estricto —ya que quieres que hablemos estrictamente— ningún artesano se equivoca, puesto que el que se equivoca al carecer del conocimiento respectivo se equivoca en algo en que no es artesano. Y así como el artesano o el experto, ningún gobernante se equivoca cuando es gobernante, aunque todos digan que se equivocó el médico o se equivocó el gobernante. Interpreta pues, de esa forma ahora lo que respondí entonces. Para decirlo en el sentido más estricto de los términos, el gobernante, en tanto es gobernante, no se equivoca, y no equivocarse establece lo mejor para sí mismo, y esto es lo que debe hacer el gobernado. De modo tal que, como afirmé desde un principio, declaro que es justo hacer lo que conviene al más fuerte.",
         "en": "\"You are a cheat in your arguments, Socrates,\" he answered. \"Let us see, for example: do you call a man a doctor who makes a mistake regarding the sick, insofar as he makes a mistake in that? Or a calculator the one who makes a mistake in calculation, at the moment when he makes a mistake, as regards that mistake? Of course we use the expression 'the doctor made a mistake' or 'the calculator made a mistake' or 'the grammarian made a mistake.' But each of these, in reality, insofar as he is that by which we so name him, never, I hold, makes a mistake. So that, in the strict sense—since you want us to speak strictly—no craftsman makes a mistake, since the one who makes a mistake does so through lacking the relevant knowledge, and so makes a mistake in something in which he is not a craftsman. And just as with the craftsman or the expert, no ruler makes a mistake when he is a ruler, although everyone says that the doctor made a mistake or the ruler made a mistake. Interpret, then, in that way, what I answered before. To put it in the strictest sense of the terms, the ruler, insofar as he is a ruler, does not make a mistake, and in not making a mistake he establishes what is best for himself, and this is what the ruled must do. So that, as I affirmed from the beginning, I declare that it is just to do what is advantageous to the stronger.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Eres un tramposo en tus argumentos, Sócrates —contestó—.",
+          "en": "\"You are a cheat in your arguments, Socrates,\" he answered."
+        },
+        {
+          "es": "Veamos, por ejemplo, ¿llamas médico al que se equivoca respecto de los enfermos, en cuanto se equivoca en eso?",
+          "en": "\"Let us see, for example: do you call a man a doctor who makes a mistake regarding the sick, insofar as he makes a mistake in that?"
+        },
+        {
+          "es": "¿O calculador al que se equivoca en el cálculo, en el momento en que se equivoca, en cuanto a esa equivocación?",
+          "en": "Or a calculator the one who makes a mistake in calculation, at the moment when he makes a mistake, as regards that mistake?"
+        },
+        {
+          "es": "Claro que usamos la expresión ‘el médico se equivocó’ o ‘el calculador se equivocó’ o ‘el gramático se equivocó’.",
+          "en": "Of course we use the expression 'the doctor made a mistake' or 'the calculator made a mistake' or 'the grammarian made a mistake.'"
+        },
+        {
+          "es": "Pero cada uno de éstos, en realidad, en la medida que es aquello por lo cual lo denominamos así, entiendo que jamás se equivoca.",
+          "en": "But each of these, in reality, insofar as he is that by which we so name him, never, I hold, makes a mistake."
+        },
+        {
+          "es": "De este modo, en sentido estricto —ya que quieres que hablemos estrictamente— ningún artesano se equivoca, puesto que el que se equivoca al carecer del conocimiento respectivo se equivoca en algo en que no es artesano.",
+          "en": "So that, in the strict sense—since you want us to speak strictly—no craftsman makes a mistake, since the one who makes a mistake does so through lacking the relevant knowledge, and so makes a mistake in something in which he is not a craftsman."
+        },
+        {
+          "es": "Y así como el artesano o el experto, ningún gobernante se equivoca cuando es gobernante, aunque todos digan que se equivocó el médico o se equivocó el gobernante.",
+          "en": "And just as with the craftsman or the expert, no ruler makes a mistake when he is a ruler, although everyone says that the doctor made a mistake or the ruler made a mistake."
+        },
+        {
+          "es": "Interpreta pues, de esa forma ahora lo que respondí entonces.",
+          "en": "Interpret, then, in that way, what I answered before."
+        },
+        {
+          "es": "Para decirlo en el sentido más estricto de los términos, el gobernante, en tanto es gobernante, no se equivoca, y no equivocarse establece lo mejor para sí mismo, y esto es lo que debe hacer el gobernado.",
+          "en": "To put it in the strictest sense of the terms, the ruler, insofar as he is a ruler, does not make a mistake, and in not making a mistake he establishes what is best for himself, and this is what the ruled must do."
+        },
+        {
+          "es": "De modo tal que, como afirmé desde un principio, declaro que es justo hacer lo que conviene al más fuerte.",
+          "en": "So that, as I affirmed from the beginning, I declare that it is just to do what is advantageous to the stronger.\""
+        }
+      ]
     },
     {
       "id": "b1-0252",
@@ -2311,7 +2985,17 @@
       "text": {
         "es": "—Ni lo intentaría, bendito amigo. Pero para que no nos suceda otra vez lo mismo, determina de cuál de estas dos maneras te refieres al que gobierna y que es más fuerte: si en la forma común de hablar o si en el sentido estricto de los términos, según el cual acabas de enunciarlo, a saber, aquel a quien, por ser el más fuerte, será justo que el más débil haga lo que conviene.",
         "en": "\"Nor would I attempt it, blessed friend. But so that the same thing may not happen to us again, determine in which of these two ways you refer to the one who rules and who is the stronger: whether in the common way of speaking or in the strict sense of the terms, according to which you have just stated it, namely, the one for whom, being the stronger, it will be just that the weaker should do what is advantageous.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Ni lo intentaría, bendito amigo.",
+          "en": "\"Nor would I attempt it, blessed friend."
+        },
+        {
+          "es": "Pero para que no nos suceda otra vez lo mismo, determina de cuál de estas dos maneras te refieres al que gobierna y que es más fuerte: si en la forma común de hablar o si en el sentido estricto de los términos, según el cual acabas de enunciarlo, a saber, aquel a quien, por ser el más fuerte, será justo que el más débil haga lo que conviene.",
+          "en": "But so that the same thing may not happen to us again, determine in which of these two ways you refer to the one who rules and who is the stronger: whether in the common way of speaking or in the strict sense of the terms, according to which you have just stated it, namely, the one for whom, being the stronger, it will be just that the weaker should do what is advantageous.\""
+        }
+      ]
     },
     {
       "id": "b1-0257",
@@ -2320,7 +3004,17 @@
       "text": {
         "es": "—Me refiero al que gobierna, en el sentido más estricto de los términos. Urde nuevas tretas y aprovecha lo dicho para desprestigiarme, si puedes; yo no te lo he de impedir, pero no serás capaz.",
         "en": "\"I refer to the one who rules, in the strictest sense of the terms. Contrive new tricks and exploit what has been said in order to discredit me, if you can; I shall not prevent you, but you will not be able to.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Me refiero al que gobierna, en el sentido más estricto de los términos.",
+          "en": "\"I refer to the one who rules, in the strictest sense of the terms."
+        },
+        {
+          "es": "Urde nuevas tretas y aprovecha lo dicho para desprestigiarme, si puedes; yo no te lo he de impedir, pero no serás capaz.",
+          "en": "Contrive new tricks and exploit what has been said in order to discredit me, if you can; I shall not prevent you, but you will not be able to.\""
+        }
+      ]
     },
     {
       "id": "b1-0258",
@@ -2347,7 +3041,21 @@
       "text": {
         "es": "—Suficiente, dejemos eso. Dime ahora: el médico, en el sentido estricto del término, como acabas de decir, ¿es un mercader o el que cura a los enfermos? Habla del verdadero médico.",
         "en": "\"Enough, let us leave that. Tell me now: the doctor, in the strict sense of the term, as you have just said, is he a tradesman or the one who cures the sick? Speak of the true doctor.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Suficiente, dejemos eso.",
+          "en": "\"Enough, let us leave that."
+        },
+        {
+          "es": "Dime ahora: el médico, en el sentido estricto del término, como acabas de decir, ¿es un mercader o el que cura a los enfermos?",
+          "en": "Tell me now: the doctor, in the strict sense of the term, as you have just said, is he a tradesman or the one who cures the sick?"
+        },
+        {
+          "es": "Habla del verdadero médico.",
+          "en": "Speak of the true doctor.\""
+        }
+      ]
     },
     {
       "id": "b1-0261",
@@ -2455,7 +3163,17 @@
       "text": {
         "es": "—Lo siguiente: si me preguntaras si al cuerpo le basta ser como es o si tiene necesidad de algo, y yo te respondiera: «Sin duda, está necesitado; precisamente por eso se ha inventado ahora el arte de la medicina: porque el cuerpo es deficiente y no le basta ser como es, ha sido organizado este arte, de modo que pueda procurarle las cosas que le convienen», ¿no te parece que al hablar así hablaría correctamente?",
         "en": "\"The following: if you were to ask me whether it is enough for the body to be as it is or whether it has need of something, and I were to answer you: 'Without a doubt, it is in need; precisely for this reason the craft of medicine has now been invented: because the body is deficient and it is not enough for it to be as it is, this craft has been organized, so that it may procure for it the things that are advantageous to it,' would it not seem to you that in speaking so I would speak correctly?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Lo siguiente: si me preguntaras si al cuerpo le basta ser como es o si tiene necesidad de algo, y yo te respondiera:",
+          "en": "\"The following: if you were to ask me whether it is enough for the body to be as it is or whether it has need of something, and I were to answer you:"
+        },
+        {
+          "es": "«Sin duda, está necesitado; precisamente por eso se ha inventado ahora el arte de la medicina: porque el cuerpo es deficiente y no le basta ser como es, ha sido organizado este arte, de modo que pueda procurarle las cosas que le convienen», ¿no te parece que al hablar así hablaría correctamente?",
+          "en": "'Without a doubt, it is in need; precisely for this reason the craft of medicine has now been invented: because the body is deficient and it is not enough for it to be as it is, this craft has been organized, so that it may procure for it the things that are advantageous to it,' would it not seem to you that in speaking so I would speak correctly?\""
+        }
+      ]
     },
     {
       "id": "b1-0273",
@@ -2473,7 +3191,33 @@
       "text": {
         "es": "—Veamos ahora, ¿es el arte de la medicina deficiente? ¿Hay algún arte que tiene necesidad de perfección, así como los ojos tienen necesidad de la vista y las orejas del oído, para lo cual se debe contar con algún arte que examine lo que es conveniente para ver y para oír y se lo procure? ¿Acaso en el arte mismo hay una cierta deficiencia, y cada arte necesita de otro arte que examine lo que es conveniente para aquél, y otro, a su vez, para que atienda a éste, y así hasta el infinito? ¿O aquél examinará a qué es lo que conviene a sí mismo? ¿No será que no tiene necesidad ni de sí mismo ni de ningún otro arte para examinar lo que conviene a su deficiencia, ya que en ningún arte existe deficiencia o necesidad alguna, y que a un arte no corresponde buscar otra cosa que lo que conviene a aquello de lo cual es arte, dado que el arte mismo es realmente incólume e incontaminado, y, mientras es arte, en sentido estricto, es íntegramente lo que es? Examinémoslo en sentido estricto: ¿es así o no?",
         "en": "\"Let us now see, is the craft of medicine deficient? Is there any craft that has need of perfection, just as the eyes have need of sight and the ears of hearing, for which one must have some craft that examines what is advantageous for seeing and for hearing and procures it? Is there perhaps in the craft itself a certain deficiency, and does each craft need another craft that examines what is advantageous for it, and another, in turn, to attend to this one, and so on to infinity? Or will that craft examine what is advantageous to itself? Is it not rather that it has need neither of itself nor of any other craft to examine what is advantageous to its deficiency, since in no craft does any deficiency or need exist, and that it does not belong to a craft to seek anything other than what is advantageous to that of which it is the craft, given that the craft itself is really sound and uncontaminated, and, while it is a craft, in the strict sense, it is integrally what it is? Let us examine it in the strict sense: is it so or not?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Veamos ahora, ¿es el arte de la medicina deficiente?",
+          "en": "\"Let us now see, is the craft of medicine deficient?"
+        },
+        {
+          "es": "¿Hay algún arte que tiene necesidad de perfección, así como los ojos tienen necesidad de la vista y las orejas del oído, para lo cual se debe contar con algún arte que examine lo que es conveniente para ver y para oír y se lo procure?",
+          "en": "Is there any craft that has need of perfection, just as the eyes have need of sight and the ears of hearing, for which one must have some craft that examines what is advantageous for seeing and for hearing and procures it?"
+        },
+        {
+          "es": "¿Acaso en el arte mismo hay una cierta deficiencia, y cada arte necesita de otro arte que examine lo que es conveniente para aquél, y otro, a su vez, para que atienda a éste, y así hasta el infinito?",
+          "en": "Is there perhaps in the craft itself a certain deficiency, and does each craft need another craft that examines what is advantageous for it, and another, in turn, to attend to this one, and so on to infinity?"
+        },
+        {
+          "es": "¿O aquél examinará a qué es lo que conviene a sí mismo?",
+          "en": "Or will that craft examine what is advantageous to itself?"
+        },
+        {
+          "es": "¿No será que no tiene necesidad ni de sí mismo ni de ningún otro arte para examinar lo que conviene a su deficiencia, ya que en ningún arte existe deficiencia o necesidad alguna, y que a un arte no corresponde buscar otra cosa que lo que conviene a aquello de lo cual es arte, dado que el arte mismo es realmente incólume e incontaminado, y, mientras es arte, en sentido estricto, es íntegramente lo que es?",
+          "en": "Is it not rather that it has need neither of itself nor of any other craft to examine what is advantageous to its deficiency, since in no craft does any deficiency or need exist, and that it does not belong to a craft to seek anything other than what is advantageous to that of which it is the craft, given that the craft itself is really sound and uncontaminated, and, while it is a craft, in the strict sense, it is integrally what it is?"
+        },
+        {
+          "es": "Examinémoslo en sentido estricto: ¿es así o no?",
+          "en": "Let us examine it in the strict sense: is it so or not?\""
+        }
+      ]
     },
     {
       "id": "b1-0275",
@@ -2563,7 +3307,21 @@
       "text": {
         "es": "—¿Acaso algún médico, en la medida en que es médico, examina y dispone lo que conviene al médico, no al enfermo? Hemos quedado de acuerdo, en efecto, en que el médico, en sentido estricto, es un gobernante de cuerpos y no un mercader. ¿No lo hemos acordado?",
         "en": "\"Does any doctor, then, insofar as he is a doctor, examine and dispose what is advantageous to the doctor, not to the sick man? We have agreed, in fact, that the doctor, in the strict sense, is a governor of bodies and not a tradesman. Have we not agreed on this?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¿Acaso algún médico, en la medida en que es médico, examina y dispone lo que conviene al médico, no al enfermo?",
+          "en": "\"Does any doctor, then, insofar as he is a doctor, examine and dispose what is advantageous to the doctor, not to the sick man?"
+        },
+        {
+          "es": "Hemos quedado de acuerdo, en efecto, en que el médico, en sentido estricto, es un gobernante de cuerpos y no un mercader.",
+          "en": "We have agreed, in fact, that the doctor, in the strict sense, is a governor of bodies and not a tradesman."
+        },
+        {
+          "es": "¿No lo hemos acordado?",
+          "en": "Have we not agreed on this?\""
+        }
+      ]
     },
     {
       "id": "b1-0285",
@@ -2671,7 +3429,69 @@
       "text": {
         "es": "—Porque crees que los pastores y los boyeros atienden al bien de las ovejas y las vacas, y las engordan y cuidan mirando a otra cosa que al bien de los amos y al de ellos mismos; así como también estimas que los gobernantes de los Estados —los que gobiernan verdaderamente— piensan acerca de los gobernados de otro modo que lo que se ha establecido respecto de las ovejas, y que los atienden día y noche de otra manera que de aquella que les aprovechará a ellos mismos. Y has ido tan lejos en lo concerniente a lo justo y a la justicia, a lo injusto y a la injusticia, que desconoces que la justicia y lo justo es un bien en realidad ajeno al que lo practica, ya que es lo conveniente para el más fuerte que gobierna, pero un perjuicio propio del que obedece y sirve; y que la injusticia es lo contrario y gobierna a los verdaderamente ingenuos y justos, y que los gobernados hacen lo que conviene a aquel que es más fuerte, y al servirle hacen feliz a éste, mas de ningún modo a sí mismos. Es necesario observar, mi muy cándido amigo Sócrates, que en todo sentido el hombre justo tiene menos que el injusto. En primer lugar, en los contratos entre unos y otros, allí donde éste se asocia con aquél, al disolverse la asociación nunca hallarás que el justo tenga más que el injusto, sino menos. Después, en los asuntos concernientes al Estado, cuando se establecen impuestos, aunque sus bienes sean iguales, el justo paga más, el injusto menos. Pero cuando se trata de cobranzas, aquél no recibe nada, éste cobra mucho. Y cuando cada uno de ellos ocupa un cargo, al justo le toca, a falta de otro perjuicio, vivir miserablemente por descuidar sus asuntos particulares, sin obtener provecho alguno de los asuntos públicos, en razón de ser justo; y además de eso, es aborrecido por sus parientes y conocidos, por no estar dispuesto a hacerles un servicio al margen de la justicia. Al injusto le sucede todo lo contrario. Hablo de aquel al que hace un momento me refería, que es capaz de alcanzar los más grandes privilegios. A éste debes observar, si es que quieres discernir cuánto más le conviene personalmente ser injusto que justo. Pues bien, lo aprenderás del modo más fácil si llegas a la injusticia más completa, la cual hace feliz al máximo al que obra injustamente y más desdichados a los que padecen injusticia y no están dispuestos a ser injustos. Esto es la tiranía, que se apodera de lo ajeno, no poco a poco, sino de un solo golpe, tanto con engaño como con violencia, trátese de lo sagrado o de lo piadoso, de lo privado o de lo público: cuando alguien es descubierto, tras obrar injustamente en uno solo de esos casos, es castigado y vituperado, pues los que cometen tales delitos parciales son llamados sacrílegos, secuestradores, asaltantes, estafadores o ladrones. Cuando alguien, en cambio, además de secuestrar las fortunas de los ciudadanos, secuestra también a éstos, esclavizándolos, en lugar de aquellos denigrantes calificativos es llamado ‘feliz’ y ‘bienaventurado’ no sólo por los ciudadanos, sino por todos aquellos que se han enterado de toda la injusticia que ha cometido. En efecto, los que censuran la injusticia la censuran no por temor a cometer obras injustas, sino por miedo a padecerlas. De este modo, Sócrates, la injusticia, cuando llega a serlo suficientemente, es más fuerte, más libre y de mayor autoridad que la justicia; y tal como dije desde un comienzo, lo justo es lo que conviene al más fuerte, y lo injusto lo que aprovecha y conviene a sí mismo.",
         "en": "\"Because you believe that shepherds and cowherds attend to the good of the sheep and the cattle, and fatten and care for them looking to something other than the good of their masters and of themselves; just as you also reckon that the rulers of cities—those who truly rule—think about the ruled in a way other than what has been established with respect to sheep, and that they attend to them day and night in some way other than that which will profit themselves. And you have gone so far concerning what is just and justice, the unjust and injustice, that you fail to recognize that justice and what is just is in reality a good belonging to another than the one who practices it, since it is what is advantageous for the stronger who governs, but a harm proper to the one who obeys and serves; and that injustice is the contrary, and governs those who are truly naive and just, and that the ruled do what is advantageous to the one who is stronger, and in serving him they make him happy, but in no way themselves. It is necessary to observe, my most guileless friend Socrates, that in every respect the just man has less than the unjust. In the first place, in the contracts between one another, wherever the one enters into partnership with the other, when the partnership is dissolved you will never find that the just man has more than the unjust, but less. Then, in the affairs concerning the city, when taxes are imposed, even though their goods be equal, the just man pays more, the unjust less. But when it is a matter of receipts, the one receives nothing, the other collects much. And when each of them holds an office, the just man's lot, even if he suffers no other harm, is to live wretchedly through neglecting his private affairs, while obtaining no profit from public affairs, by reason of being just; and besides that, he is detested by his relatives and acquaintances, for not being willing to do them a service contrary to justice. To the unjust man everything happens to the contrary. I speak of the one to whom I referred a moment ago, who is able to attain the greatest privileges. Him you must observe, if you wish to discern how much more personally advantageous it is to be unjust than just. Well then, you will learn this most easily if you arrive at the most complete injustice, which makes the one who acts unjustly happiest of all and most wretched those who suffer injustice and are not willing to be unjust. This is tyranny, which seizes what belongs to others, not little by little, but at a single stroke, both by deceit and by force, whether it be a matter of the sacred or the pious, the private or the public: when someone is discovered, after acting unjustly in only one of those cases, he is punished and reviled, for those who commit such partial crimes are called temple-robbers, kidnappers, burglars, swindlers, or thieves. When someone, on the other hand, besides seizing the fortunes of the citizens, also seizes the citizens themselves, enslaving them, instead of those degrading epithets he is called 'happy' and 'blessed' not only by the citizens, but by all those who have learned of all the injustice he has committed. For those who censure injustice censure it not from fear of committing unjust deeds, but from fear of suffering them. In this way, Socrates, injustice, when it comes to be sufficiently so, is stronger, freer, and of greater authority than justice; and just as I said from the beginning, what is just is what is advantageous to the stronger, and the unjust is what profits and is advantageous to oneself.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Porque crees que los pastores y los boyeros atienden al bien de las ovejas y las vacas, y las engordan y cuidan mirando a otra cosa que al bien de los amos y al de ellos mismos; así como también estimas que los gobernantes de los Estados —los que gobiernan verdaderamente— piensan acerca de los gobernados de otro modo que lo que se ha establecido respecto de las ovejas, y que los atienden día y noche de otra manera que de aquella que les aprovechará a ellos mismos.",
+          "en": "\"Because you believe that shepherds and cowherds attend to the good of the sheep and the cattle, and fatten and care for them looking to something other than the good of their masters and of themselves; just as you also reckon that the rulers of cities—those who truly rule—think about the ruled in a way other than what has been established with respect to sheep, and that they attend to them day and night in some way other than that which will profit themselves."
+        },
+        {
+          "es": "Y has ido tan lejos en lo concerniente a lo justo y a la justicia, a lo injusto y a la injusticia, que desconoces que la justicia y lo justo es un bien en realidad ajeno al que lo practica, ya que es lo conveniente para el más fuerte que gobierna, pero un perjuicio propio del que obedece y sirve; y que la injusticia es lo contrario y gobierna a los verdaderamente ingenuos y justos, y que los gobernados hacen lo que conviene a aquel que es más fuerte, y al servirle hacen feliz a éste, mas de ningún modo a sí mismos.",
+          "en": "And you have gone so far concerning what is just and justice, the unjust and injustice, that you fail to recognize that justice and what is just is in reality a good belonging to another than the one who practices it, since it is what is advantageous for the stronger who governs, but a harm proper to the one who obeys and serves; and that injustice is the contrary, and governs those who are truly naive and just, and that the ruled do what is advantageous to the one who is stronger, and in serving him they make him happy, but in no way themselves."
+        },
+        {
+          "es": "Es necesario observar, mi muy cándido amigo Sócrates, que en todo sentido el hombre justo tiene menos que el injusto.",
+          "en": "It is necessary to observe, my most guileless friend Socrates, that in every respect the just man has less than the unjust."
+        },
+        {
+          "es": "En primer lugar, en los contratos entre unos y otros, allí donde éste se asocia con aquél, al disolverse la asociación nunca hallarás que el justo tenga más que el injusto, sino menos.",
+          "en": "In the first place, in the contracts between one another, wherever the one enters into partnership with the other, when the partnership is dissolved you will never find that the just man has more than the unjust, but less."
+        },
+        {
+          "es": "Después, en los asuntos concernientes al Estado, cuando se establecen impuestos, aunque sus bienes sean iguales, el justo paga más, el injusto menos.",
+          "en": "Then, in the affairs concerning the city, when taxes are imposed, even though their goods be equal, the just man pays more, the unjust less."
+        },
+        {
+          "es": "Pero cuando se trata de cobranzas, aquél no recibe nada, éste cobra mucho.",
+          "en": "But when it is a matter of receipts, the one receives nothing, the other collects much."
+        },
+        {
+          "es": "Y cuando cada uno de ellos ocupa un cargo, al justo le toca, a falta de otro perjuicio, vivir miserablemente por descuidar sus asuntos particulares, sin obtener provecho alguno de los asuntos públicos, en razón de ser justo; y además de eso, es aborrecido por sus parientes y conocidos, por no estar dispuesto a hacerles un servicio al margen de la justicia.",
+          "en": "And when each of them holds an office, the just man's lot, even if he suffers no other harm, is to live wretchedly through neglecting his private affairs, while obtaining no profit from public affairs, by reason of being just; and besides that, he is detested by his relatives and acquaintances, for not being willing to do them a service contrary to justice."
+        },
+        {
+          "es": "Al injusto le sucede todo lo contrario.",
+          "en": "To the unjust man everything happens to the contrary."
+        },
+        {
+          "es": "Hablo de aquel al que hace un momento me refería, que es capaz de alcanzar los más grandes privilegios.",
+          "en": "I speak of the one to whom I referred a moment ago, who is able to attain the greatest privileges."
+        },
+        {
+          "es": "A éste debes observar, si es que quieres discernir cuánto más le conviene personalmente ser injusto que justo.",
+          "en": "Him you must observe, if you wish to discern how much more personally advantageous it is to be unjust than just."
+        },
+        {
+          "es": "Pues bien, lo aprenderás del modo más fácil si llegas a la injusticia más completa, la cual hace feliz al máximo al que obra injustamente y más desdichados a los que padecen injusticia y no están dispuestos a ser injustos.",
+          "en": "Well then, you will learn this most easily if you arrive at the most complete injustice, which makes the one who acts unjustly happiest of all and most wretched those who suffer injustice and are not willing to be unjust."
+        },
+        {
+          "es": "Esto es la tiranía, que se apodera de lo ajeno, no poco a poco, sino de un solo golpe, tanto con engaño como con violencia, trátese de lo sagrado o de lo piadoso, de lo privado o de lo público: cuando alguien es descubierto, tras obrar injustamente en uno solo de esos casos, es castigado y vituperado, pues los que cometen tales delitos parciales son llamados sacrílegos, secuestradores, asaltantes, estafadores o ladrones.",
+          "en": "This is tyranny, which seizes what belongs to others, not little by little, but at a single stroke, both by deceit and by force, whether it be a matter of the sacred or the pious, the private or the public: when someone is discovered, after acting unjustly in only one of those cases, he is punished and reviled, for those who commit such partial crimes are called temple-robbers, kidnappers, burglars, swindlers, or thieves."
+        },
+        {
+          "es": "Cuando alguien, en cambio, además de secuestrar las fortunas de los ciudadanos, secuestra también a éstos, esclavizándolos, en lugar de aquellos denigrantes calificativos es llamado ‘feliz’ y ‘bienaventurado’ no sólo por los ciudadanos, sino por todos aquellos que se han enterado de toda la injusticia que ha cometido.",
+          "en": "When someone, on the other hand, besides seizing the fortunes of the citizens, also seizes the citizens themselves, enslaving them, instead of those degrading epithets he is called 'happy' and 'blessed' not only by the citizens, but by all those who have learned of all the injustice he has committed."
+        },
+        {
+          "es": "En efecto, los que censuran la injusticia la censuran no por temor a cometer obras injustas, sino por miedo a padecerlas.",
+          "en": "For those who censure injustice censure it not from fear of committing unjust deeds, but from fear of suffering them."
+        },
+        {
+          "es": "De este modo, Sócrates, la injusticia, cuando llega a serlo suficientemente, es más fuerte, más libre y de mayor autoridad que la justicia; y tal como dije desde un comienzo, lo justo es lo que conviene al más fuerte, y lo injusto lo que aprovecha y conviene a sí mismo.",
+          "en": "In this way, Socrates, injustice, when it comes to be sufficiently so, is stronger, freer, and of greater authority than justice; and just as I said from the beginning, what is just is what is advantageous to the stronger, and the unjust is what profits and is advantageous to oneself.\""
+        }
+      ]
     },
     {
       "id": "b1-0291",
@@ -2707,7 +3527,37 @@
       "text": {
         "es": "—Parecía, al menos que no te importaba de nosotros, ni que te preocupara que fuéramos a vivir peor o mejor, desconociendo lo que dices saber. Pero anímate, mi buen amigo, a instruirnos, no será para ti una mala inversión lo que hagas en nuestro beneficio, siendo tantos como somos. En lo que a mí toca, te diré que no estoy convencido, y que no creo que la injusticia sea más provechosa que la justicia, ni aunque aquélla sea permitida y no se le impida hacer lo que quiera. Admitamos, mi amigo, que existe el hombre injusto y que puede obrar injustamente, sea en forma oculta o combatiendo a cara descubierta. Pero aun así no me persuado de que es más provechosa que la justicia. Y esto, seguramente, también ha sucedido a algún otro de nosotros, no sólo a mí. Persuádenos adecuadamente, mi bienaventurado amigo, de que no argumentamos correctamente cuando estimamos más a la justicia que a la injusticia.",
         "en": "\"It seemed, at least, that you did not care about us, nor were you concerned whether we were going to live worse or better, in ignorance of what you say you know. But take heart, my good friend, to instruct us; what you do for our benefit will not be a bad investment for you, being as many as we are. As for myself, I will tell you that I am not convinced, and that I do not believe that injustice is more profitable than justice, not even if it is permitted and not prevented from doing whatever it wishes. Let us grant, my friend, that the unjust man exists and that he can act unjustly, whether in a hidden manner or fighting in the open. But even so I am not persuaded that it is more profitable than justice. And this, surely, has also happened to some other of us, not only to me. Persuade us adequately, my blessed friend, that we do not argue correctly when we esteem justice more than injustice.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Parecía, al menos que no te importaba de nosotros, ni que te preocupara que fuéramos a vivir peor o mejor, desconociendo lo que dices saber.",
+          "en": "\"It seemed, at least, that you did not care about us, nor were you concerned whether we were going to live worse or better, in ignorance of what you say you know."
+        },
+        {
+          "es": "Pero anímate, mi buen amigo, a instruirnos, no será para ti una mala inversión lo que hagas en nuestro beneficio, siendo tantos como somos.",
+          "en": "But take heart, my good friend, to instruct us; what you do for our benefit will not be a bad investment for you, being as many as we are."
+        },
+        {
+          "es": "En lo que a mí toca, te diré que no estoy convencido, y que no creo que la injusticia sea más provechosa que la justicia, ni aunque aquélla sea permitida y no se le impida hacer lo que quiera.",
+          "en": "As for myself, I will tell you that I am not convinced, and that I do not believe that injustice is more profitable than justice, not even if it is permitted and not prevented from doing whatever it wishes."
+        },
+        {
+          "es": "Admitamos, mi amigo, que existe el hombre injusto y que puede obrar injustamente, sea en forma oculta o combatiendo a cara descubierta.",
+          "en": "Let us grant, my friend, that the unjust man exists and that he can act unjustly, whether in a hidden manner or fighting in the open."
+        },
+        {
+          "es": "Pero aun así no me persuado de que es más provechosa que la justicia.",
+          "en": "But even so I am not persuaded that it is more profitable than justice."
+        },
+        {
+          "es": "Y esto, seguramente, también ha sucedido a algún otro de nosotros, no sólo a mí.",
+          "en": "And this, surely, has also happened to some other of us, not only to me."
+        },
+        {
+          "es": "Persuádenos adecuadamente, mi bienaventurado amigo, de que no argumentamos correctamente cuando estimamos más a la justicia que a la injusticia.",
+          "en": "Persuade us adequately, my blessed friend, that we do not argue correctly when we esteem justice more than injustice.\""
+        }
+      ]
     },
     {
       "id": "b1-0295",
@@ -2716,7 +3566,21 @@
       "text": {
         "es": "—¿Y cómo he de persuadirte? Si con las cosas que he dicho no te has persuadido, ¿qué puedo hacer contigo aún? ¿Acaso llevaré mi argumento hasta tu alma haciéndotelo tragar?",
         "en": "\"And how am I to persuade you? If with the things I have said you have not been persuaded, what more can I do with you? Shall I perhaps carry my argument into your soul and make you swallow it?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¿Y cómo he de persuadirte?",
+          "en": "\"And how am I to persuade you?"
+        },
+        {
+          "es": "Si con las cosas que he dicho no te has persuadido, ¿qué puedo hacer contigo aún?",
+          "en": "If with the things I have said you have not been persuaded, what more can I do with you?"
+        },
+        {
+          "es": "¿Acaso llevaré mi argumento hasta tu alma haciéndotelo tragar?",
+          "en": "Shall I perhaps carry my argument into your soul and make you swallow it?\""
+        }
+      ]
     },
     {
       "id": "b1-0296",
@@ -2725,7 +3589,33 @@
       "text": {
         "es": "—No, ¡por Zeus!, ¡eso no! Más bien, en primer lugar, has de mantener aquellas cosas que digas, y si las cambias en algo, cámbialas abiertamente y no nos engañes. Ahora, Trasímaco —consideremos nuevamente lo dicho antes—, puedes ver que, tras haber definido al verdadero médico, no has pensado que era necesario después vigilar con precisión lo que concierne al verdadero pastor, sino que crees que éste apacienta a las ovejas, en tanto pastor, sin mirar a lo que es mejor para las ovejas: como un invitado a un banquete que está dispuesto para el festín, o como un mercader, para venderlas; pero no como pastor. Pues el arte del pastor no cuida sin duda de ninguna otra cosa que de aquella con respecto a la cual está organizado, a fin de procurarle lo mejor, ya que, en cuanto a sí misma, el arte del pastor ya está suficientemente provista mientras nada le falte para ser arte del pastor. Del mismo modo estoy convencido de que es forzoso estar de acuerdo en que todo gobierno, en tanto gobierno, no atiende a ninguna otra cosa que al bien de aquel que es su gobernado y está a su cuidado, trátese del gobierno del Estado o de ámbitos particulares. Pero ¿tú crees acaso que los que gobiernan los Estados lo hacen voluntariamente?",
         "en": "\"No, by Zeus! Not that! Rather, in the first place, you must maintain those things you say, and if you change them in any respect, change them openly and do not deceive us. Now, Thrasymachus—let us consider again what was said before—you can see that, after having defined the true doctor, you did not think it necessary afterward to watch precisely over what concerns the true shepherd, but you believe that he tends the sheep, insofar as he is a shepherd, without looking to what is best for the sheep: like a guest at a banquet who is ready for the feast, or like a tradesman, in order to sell them; but not like a shepherd. For the craft of the shepherd surely cares for nothing other than that with respect to which it is organized, in order to procure for it what is best, since, as regards itself, the craft of the shepherd is already sufficiently provided for so long as it lacks nothing for being the craft of the shepherd. In the same way I am convinced that one must necessarily agree that all government, insofar as it is government, attends to nothing other than the good of the one who is its governed and is under its care, whether it be the government of the city or of private domains. But do you perhaps believe that those who govern the cities do so voluntarily?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—No, ¡por Zeus!, ¡eso no!",
+          "en": "\"No, by Zeus! Not that!"
+        },
+        {
+          "es": "Más bien, en primer lugar, has de mantener aquellas cosas que digas, y si las cambias en algo, cámbialas abiertamente y no nos engañes.",
+          "en": "Rather, in the first place, you must maintain those things you say, and if you change them in any respect, change them openly and do not deceive us."
+        },
+        {
+          "es": "Ahora, Trasímaco —consideremos nuevamente lo dicho antes—, puedes ver que, tras haber definido al verdadero médico, no has pensado que era necesario después vigilar con precisión lo que concierne al verdadero pastor, sino que crees que éste apacienta a las ovejas, en tanto pastor, sin mirar a lo que es mejor para las ovejas: como un invitado a un banquete que está dispuesto para el festín, o como un mercader, para venderlas; pero no como pastor.",
+          "en": "Now, Thrasymachus—let us consider again what was said before—you can see that, after having defined the true doctor, you did not think it necessary afterward to watch precisely over what concerns the true shepherd, but you believe that he tends the sheep, insofar as he is a shepherd, without looking to what is best for the sheep: like a guest at a banquet who is ready for the feast, or like a tradesman, in order to sell them; but not like a shepherd."
+        },
+        {
+          "es": "Pues el arte del pastor no cuida sin duda de ninguna otra cosa que de aquella con respecto a la cual está organizado, a fin de procurarle lo mejor, ya que, en cuanto a sí misma, el arte del pastor ya está suficientemente provista mientras nada le falte para ser arte del pastor.",
+          "en": "For the craft of the shepherd surely cares for nothing other than that with respect to which it is organized, in order to procure for it what is best, since, as regards itself, the craft of the shepherd is already sufficiently provided for so long as it lacks nothing for being the craft of the shepherd."
+        },
+        {
+          "es": "Del mismo modo estoy convencido de que es forzoso estar de acuerdo en que todo gobierno, en tanto gobierno, no atiende a ninguna otra cosa que al bien de aquel que es su gobernado y está a su cuidado, trátese del gobierno del Estado o de ámbitos particulares.",
+          "en": "In the same way I am convinced that one must necessarily agree that all government, insofar as it is government, attends to nothing other than the good of the one who is its governed and is under its care, whether it be the government of the city or of private domains."
+        },
+        {
+          "es": "Pero ¿tú crees acaso que los que gobiernan los Estados lo hacen voluntariamente?",
+          "en": "But do you perhaps believe that those who govern the cities do so voluntarily?\""
+        }
+      ]
     },
     {
       "id": "b1-0297",
@@ -2743,7 +3633,21 @@
       "text": {
         "es": "—Pero Trasímaco —proseguí—, ¿no te percatas de que, en cuanto a los otros tipos de gobierno, nadie está dispuesto voluntariamente a gobernar, sino que demanda un salario, por pensar que del gobernar no obtendrá beneficio para sí mismo sino para los gobernados? En efecto, dime esto: ¿no es cada una de las artes distinta de las otras por tener un poder distinto? Respóndeme, bienaventurado amigo, no en contra de lo que piensas, para poder proseguir.",
         "en": "\"But, Thrasymachus,\" I continued, \"do you not perceive that, as regards the other kinds of government, no one is willing to govern voluntarily, but instead demands a wage, because he thinks that from governing he will obtain no benefit for himself but for the ruled? In fact, tell me this: is not each of the crafts distinct from the others by having a distinct power? Answer me, blessed friend, not contrary to what you think, so that we may proceed.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Pero Trasímaco —proseguí—, ¿no te percatas de que, en cuanto a los otros tipos de gobierno, nadie está dispuesto voluntariamente a gobernar, sino que demanda un salario, por pensar que del gobernar no obtendrá beneficio para sí mismo sino para los gobernados?",
+          "en": "\"But, Thrasymachus,\" I continued, \"do you not perceive that, as regards the other kinds of government, no one is willing to govern voluntarily, but instead demands a wage, because he thinks that from governing he will obtain no benefit for himself but for the ruled?"
+        },
+        {
+          "es": "En efecto, dime esto: ¿no es cada una de las artes distinta de las otras por tener un poder distinto?",
+          "en": "In fact, tell me this: is not each of the crafts distinct from the others by having a distinct power?"
+        },
+        {
+          "es": "Respóndeme, bienaventurado amigo, no en contra de lo que piensas, para poder proseguir.",
+          "en": "Answer me, blessed friend, not contrary to what you think, so that we may proceed.\""
+        }
+      ]
     },
     {
       "id": "b1-0299",
@@ -2779,7 +3683,21 @@
       "text": {
         "es": "—Y también el arte del mercenario, aporta un salario, ya que tal es su peculiaridad. Ahora ¿llamas a una misma arte medicina y pilotaje? O bien, si es que quieres delimitar con precisión los términos, como propusiste, en caso de que, al comandar una nave, un piloto se sane, porque le hace bien navegar en el mar, ¿llamarás al pilotaje ‘medicina’?",
         "en": "\"And the craft of the wage-earner, too, provides wages, since that is its distinctive feature. Now, do you call one and the same craft 'medicine' and 'navigation'? Or rather, if you wish to define the terms with precision, as you proposed, suppose that, in commanding a ship, a pilot becomes healthy because sailing the sea does him good—will you on that account call navigation 'medicine'?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Y también el arte del mercenario, aporta un salario, ya que tal es su peculiaridad.",
+          "en": "\"And the craft of the wage-earner, too, provides wages, since that is its distinctive feature."
+        },
+        {
+          "es": "Ahora ¿llamas a una misma arte medicina y pilotaje?",
+          "en": "Now, do you call one and the same craft 'medicine' and 'navigation'?"
+        },
+        {
+          "es": "O bien, si es que quieres delimitar con precisión los términos, como propusiste, en caso de que, al comandar una nave, un piloto se sane, porque le hace bien navegar en el mar, ¿llamarás al pilotaje ‘medicina’?",
+          "en": "Or rather, if you wish to define the terms with precision, as you proposed, suppose that, in commanding a ship, a pilot becomes healthy because sailing the sea does him good—will you on that account call navigation 'medicine'?\""
+        }
+      ]
     },
     {
       "id": "b1-0303",
@@ -2887,7 +3805,21 @@
       "text": {
         "es": "—Pues entonces, no es de su arte particular que cada uno obtiene ese beneficio que es la recepción del salario, sino que, si consideramos las cosas con el rigor que corresponde, la medicina produce la salud, y el arte del mercenario produce un salario, el de la arquitectura una casa; y el del mercenario que se añade a cada una, un salario; y así en todas las demás artes, cada una realiza su función y beneficia a aquello con respecto a lo cual está organizada. Y si no se le añade salario, ¿se beneficiará el artesano con su arte?",
         "en": "\"Then it is not from his own particular craft that each man obtains that benefit which is the receipt of wages; rather, if we consider matters with the rigor that is fitting, medicine produces health, and the craft of the wage-earner produces wages; the craft of building produces a house, and the wage-earner's craft, added to it, produces wages; and so it is with all the other crafts: each performs its own function and benefits that with respect to which it is organized. And if no wages are added to it, will the craftsman benefit from his craft?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Pues entonces, no es de su arte particular que cada uno obtiene ese beneficio que es la recepción del salario, sino que, si consideramos las cosas con el rigor que corresponde, la medicina produce la salud, y el arte del mercenario produce un salario, el de la arquitectura una casa;",
+          "en": "\"Then it is not from his own particular craft that each man obtains that benefit which is the receipt of wages; rather, if we consider matters with the rigor that is fitting, medicine produces health, and the craft of the wage-earner produces wages; the craft of building produces a house,"
+        },
+        {
+          "es": "y el del mercenario que se añade a cada una, un salario; y así en todas las demás artes, cada una realiza su función y beneficia a aquello con respecto a lo cual está organizada.",
+          "en": "and the wage-earner's craft, added to it, produces wages; and so it is with all the other crafts: each performs its own function and benefits that with respect to which it is organized."
+        },
+        {
+          "es": "Y si no se le añade salario, ¿se beneficiará el artesano con su arte?",
+          "en": "And if no wages are added to it, will the craftsman benefit from his craft?\""
+        }
+      ]
     },
     {
       "id": "b1-0315",
@@ -2923,7 +3855,21 @@
       "text": {
         "es": "—Pues bien, Trasímaco, ahora es evidente que ningún arte ni gobierno organiza lo que le beneficia a sí mismo, sino que, como decíamos antes, organiza y dispone lo que beneficia al gobernado: atiende a lo que conviene a aquel que es el más débil, no al que es el más fuerte. Por eso mismo, querido Trasímaco, decía hace un momento que nadie está dispuesto voluntariamente a gobernar y tomar en sus manos y corregir las deficiencias ajenas, sino que para ello reclama un salario; porque aquel que va a ejercer adecuadamente su arte jamás hace o dispone —si dispone de acuerdo con su arte— lo mejor para sí mismo sino para el gobernado.",
         "en": "\"Well then, Thrasymachus, it is now evident that no craft and no government organizes what benefits itself; rather, as we were saying before, it organizes and arranges what benefits the one who is governed: it attends to what is advantageous for the one who is weaker, not for the one who is stronger. For this very reason, my dear Thrasymachus, I said a moment ago that no one is willing to govern voluntarily and to take in hand and set right the deficiencies of others, but instead demands wages for doing so; because anyone who is going to exercise his craft properly never does or arranges—if he arranges in accordance with his craft—what is best for himself, but rather what is best for the one who is governed.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Pues bien, Trasímaco, ahora es evidente que ningún arte ni gobierno organiza lo que le beneficia a sí mismo, sino que, como decíamos antes, organiza y dispone lo que beneficia al gobernado: atiende a lo que conviene a aquel que es el más débil, no al que es el más fuerte.",
+          "en": "\"Well then, Thrasymachus, it is now evident that no craft and no government organizes what benefits itself; rather, as we were saying before, it organizes and arranges what benefits the one who is governed: it attends to what is advantageous for the one who is weaker, not for the one who is stronger."
+        },
+        {
+          "es": "Por eso mismo, querido Trasímaco, decía hace un momento que nadie está dispuesto voluntariamente a gobernar y tomar en sus manos y corregir las deficiencias ajenas, sino que para ello reclama un salario;",
+          "en": "For this very reason, my dear Thrasymachus, I said a moment ago that no one is willing to govern voluntarily and to take in hand and set right the deficiencies of others, but instead demands wages for doing so;"
+        },
+        {
+          "es": "porque aquel que va a ejercer adecuadamente su arte jamás hace o dispone —si dispone de acuerdo con su arte— lo mejor para sí mismo sino para el gobernado.",
+          "en": "because anyone who is going to exercise his craft properly never does or arranges—if he arranges in accordance with his craft—what is best for himself, but rather what is best for the one who is governed.\""
+        }
+      ]
     },
     {
       "id": "b1-0318b",
@@ -2941,7 +3887,17 @@
       "text": {
         "es": "—¿Qué quieres decir con eso, Sócrates? —preguntó Glaucón—. En cuanto a los dos tipos de remuneración, lo percibo, pero de qué castigo hablas y cómo lo incluyes en las clases de remuneraciones, no lo comprendo.",
         "en": "\"What do you mean by that, Socrates?\" Glaucon asked. \"As for the two kinds of payment, I understand them, but what punishment you are speaking of, and how you include it among the kinds of payment, I do not comprehend.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¿Qué quieres decir con eso, Sócrates? —preguntó Glaucón—.",
+          "en": "\"What do you mean by that, Socrates?\" Glaucon asked."
+        },
+        {
+          "es": "En cuanto a los dos tipos de remuneración, lo percibo, pero de qué castigo hablas y cómo lo incluyes en las clases de remuneraciones, no lo comprendo.",
+          "en": "\"As for the two kinds of payment, I understand them, but what punishment you are speaking of, and how you include it among the kinds of payment, I do not comprehend.\""
+        }
+      ]
     },
     {
       "id": "b1-0318d",
@@ -2968,7 +3924,65 @@
       "text": {
         "es": "—Por tales motivos, pues, los hombres de bien no están dispuestos a gobernar con miras a las riquezas ni a los honores. No quieren, en efecto, ser llamados mercenarios por exigir abiertamente un salario para gobernar, ni ser llamados ladrones por apoderarse de riquezas ocultamente, por sí mismos, desde el gobierno. Y tampoco por causa de los honores, pues no aman los honores. Por eso es necesario que se les imponga compulsión y castigo para que se presten a gobernar: de allí es probable que sea considerado vergonzoso el avance voluntario hacia el gobierno, sin aguardar una compulsión. Ahora bien, el mayor de los castigos es ser gobernado por alguien peor, cuando uno no se presta a gobernar. Y a mí me parece que es por temor a tal castigo que los más capaces gobiernan, cuando gobiernan. Y entonces acuden al gobierno no con la idea de que van a lograr algún beneficio para ellos ni con la de que lo pasarán bien allí, sino compulsivamente, por pensar que, de otro modo, no cuentan con sustitutos mejores o similares a ellos para cumplir la función. En efecto, si llegara a haber un Estado de hombres de bien, probablemente se desataría una lucha por no gobernar, tal como la hay ahora por gobernar, y allí se tornaría evidente que el verdadero gobernante, por su propia naturaleza, no atiende realmente a lo que le conviene a él, sino al gobernado; de manera que todo hombre inteligente preferiría ser beneficiado por otro antes que ocuparse de beneficiar a otro. Por todo eso, de ningún modo estoy de acuerdo con Trasímaco en que lo justo es lo que conviene al más fuerte. Pero esto lo examinaremos en otra oportunidad. Ahora me parece mucho mejor examinar lo que dice Trasímaco cuando afirma que el modo de vida del injusto vale más que el del justo. En lo que toca a ti, Glaucón, ¿cuál de ambos modos de vida eliges? ¿Cuál de las dos afirmaciones te parece más verdadera?",
         "en": "\"For these reasons, then, good men are not willing to govern with a view to riches or to honors. For they do not wish to be called wage-earners by openly demanding wages for governing, nor to be called thieves by secretly seizing riches for themselves from the government. Nor will they do it for the sake of honors, for they do not love honors. That is why it is necessary that compulsion and punishment be imposed upon them, so that they will consent to govern: hence it is likely that the voluntary advance toward governing, without waiting for compulsion, is considered shameful. Now, the greatest of punishments is to be governed by someone worse, when one does not consent to govern oneself. And it seems to me that it is out of fear of such a punishment that the most capable govern, when they do govern. And so they approach governing not with the idea that they will gain some benefit for themselves, nor that they will have a good time of it there, but under compulsion, because they think that, otherwise, they have no substitutes better than or similar to themselves to fulfill the function. For if there should come to be a city of good men, there would probably arise a struggle to avoid governing, just as there is now a struggle to govern, and there it would become evident that the true ruler, by his very nature, does not really attend to what is advantageous for himself, but to the one who is governed; so that every intelligent man would prefer to be benefited by another rather than to occupy himself with benefiting another. For all these reasons, I in no way agree with Thrasymachus that what is just is what is advantageous for the stronger. But this we shall examine on another occasion. For now it seems to me much better to examine what Thrasymachus says when he asserts that the way of life of the unjust man is worth more than that of the just man. As for you, Glaucon, which of the two ways of life do you choose? Which of the two assertions seems to you the truer?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Por tales motivos, pues, los hombres de bien no están dispuestos a gobernar con miras a las riquezas ni a los honores.",
+          "en": "\"For these reasons, then, good men are not willing to govern with a view to riches or to honors."
+        },
+        {
+          "es": "No quieren, en efecto, ser llamados mercenarios por exigir abiertamente un salario para gobernar, ni ser llamados ladrones por apoderarse de riquezas ocultamente, por sí mismos, desde el gobierno.",
+          "en": "For they do not wish to be called wage-earners by openly demanding wages for governing, nor to be called thieves by secretly seizing riches for themselves from the government."
+        },
+        {
+          "es": "Y tampoco por causa de los honores, pues no aman los honores.",
+          "en": "Nor will they do it for the sake of honors, for they do not love honors."
+        },
+        {
+          "es": "Por eso es necesario que se les imponga compulsión y castigo para que se presten a gobernar: de allí es probable que sea considerado vergonzoso el avance voluntario hacia el gobierno, sin aguardar una compulsión.",
+          "en": "That is why it is necessary that compulsion and punishment be imposed upon them, so that they will consent to govern: hence it is likely that the voluntary advance toward governing, without waiting for compulsion, is considered shameful."
+        },
+        {
+          "es": "Ahora bien, el mayor de los castigos es ser gobernado por alguien peor, cuando uno no se presta a gobernar.",
+          "en": "Now, the greatest of punishments is to be governed by someone worse, when one does not consent to govern oneself."
+        },
+        {
+          "es": "Y a mí me parece que es por temor a tal castigo que los más capaces gobiernan, cuando gobiernan.",
+          "en": "And it seems to me that it is out of fear of such a punishment that the most capable govern, when they do govern."
+        },
+        {
+          "es": "Y entonces acuden al gobierno no con la idea de que van a lograr algún beneficio para ellos ni con la de que lo pasarán bien allí, sino compulsivamente, por pensar que, de otro modo, no cuentan con sustitutos mejores o similares a ellos para cumplir la función.",
+          "en": "And so they approach governing not with the idea that they will gain some benefit for themselves, nor that they will have a good time of it there, but under compulsion, because they think that, otherwise, they have no substitutes better than or similar to themselves to fulfill the function."
+        },
+        {
+          "es": "En efecto, si llegara a haber un Estado de hombres de bien, probablemente se desataría una lucha por no gobernar, tal como la hay ahora por gobernar, y allí se tornaría evidente que el verdadero gobernante, por su propia naturaleza, no atiende realmente a lo que le conviene a él, sino al gobernado;",
+          "en": "For if there should come to be a city of good men, there would probably arise a struggle to avoid governing, just as there is now a struggle to govern, and there it would become evident that the true ruler, by his very nature, does not really attend to what is advantageous for himself, but to the one who is governed;"
+        },
+        {
+          "es": "de manera que todo hombre inteligente preferiría ser beneficiado por otro antes que ocuparse de beneficiar a otro.",
+          "en": "so that every intelligent man would prefer to be benefited by another rather than to occupy himself with benefiting another."
+        },
+        {
+          "es": "Por todo eso, de ningún modo estoy de acuerdo con Trasímaco en que lo justo es lo que conviene al más fuerte.",
+          "en": "For all these reasons, I in no way agree with Thrasymachus that what is just is what is advantageous for the stronger."
+        },
+        {
+          "es": "Pero esto lo examinaremos en otra oportunidad.",
+          "en": "But this we shall examine on another occasion."
+        },
+        {
+          "es": "Ahora me parece mucho mejor examinar lo que dice Trasímaco cuando afirma que el modo de vida del injusto vale más que el del justo.",
+          "en": "For now it seems to me much better to examine what Thrasymachus says when he asserts that the way of life of the unjust man is worth more than that of the just man."
+        },
+        {
+          "es": "En lo que toca a ti, Glaucón, ¿cuál de ambos modos de vida eliges?",
+          "en": "As for you, Glaucon, which of the two ways of life do you choose?"
+        },
+        {
+          "es": "¿Cuál de las dos afirmaciones te parece más verdadera?",
+          "en": "Which of the two assertions seems to you the truer?\""
+        }
+      ]
     },
     {
       "id": "b1-0318g",
@@ -3022,7 +4036,21 @@
       "text": {
         "es": "—Pues bien, si nos contrapusiéramos a él, efectuando un recuento —frente al suyo— de cuántos bienes ofrece el ser justo, y él, a su vez, replicara y nosotros a él, habría que enumerar los bienes y contar cuántos mencionamos de cada lado; y por ende necesitaríamos jueces que decidieran. Si hacemos el examen, en cambio, poniéndonos de acuerdo entre nosotros, como antes, nosotros mismos seremos a la vez jueces y oradores.",
         "en": "\"Well then, if we were to set ourselves against him, drawing up a count—against his own—of how many goods being just offers, and he in turn replied, and we replied to him, we would have to enumerate the goods and count how many we mentioned on each side; and consequently we would need judges to decide. But if we conduct the examination by reaching agreement among ourselves, as before, we ourselves will be at once both judges and speakers.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Pues bien, si nos contrapusiéramos a él, efectuando un recuento —frente al suyo— de cuántos bienes ofrece el ser justo, y él, a su vez, replicara y nosotros a él, habría que enumerar los bienes y contar cuántos mencionamos de cada lado;",
+          "en": "\"Well then, if we were to set ourselves against him, drawing up a count—against his own—of how many goods being just offers, and he in turn replied, and we replied to him, we would have to enumerate the goods and count how many we mentioned on each side;"
+        },
+        {
+          "es": "y por ende necesitaríamos jueces que decidieran.",
+          "en": "and consequently we would need judges to decide."
+        },
+        {
+          "es": "Si hacemos el examen, en cambio, poniéndonos de acuerdo entre nosotros, como antes, nosotros mismos seremos a la vez jueces y oradores.",
+          "en": "But if we conduct the examination by reaching agreement among ourselves, as before, we ourselves will be at once both judges and speakers.\""
+        }
+      ]
     },
     {
       "id": "b1-0318m",
@@ -3175,7 +4203,21 @@
       "text": {
         "es": "—Sí, al menos los que pueden obrar de modo completamente injusto, y que tienen el poder de someter a Estados y a pueblos enteros. Tú piensas, tal vez, que me refiero a los cortadores de bolsas; incluso esto da provecho, también, si pasa inadvertido, pero lo que es digno de mención no es eso, sino las cosas de que acabo de hablar.",
         "en": "\"Yes, at least those who are able to act in a completely unjust manner, and who have the power to subjugate whole cities and peoples. You think, perhaps, that I am referring to cut-purses; even this yields profit, too, if it goes unnoticed, but what is worthy of mention is not that, but rather the things of which I have just spoken.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Sí, al menos los que pueden obrar de modo completamente injusto, y que tienen el poder de someter a Estados y a pueblos enteros.",
+          "en": "\"Yes, at least those who are able to act in a completely unjust manner, and who have the power to subjugate whole cities and peoples."
+        },
+        {
+          "es": "Tú piensas, tal vez, que me refiero a los cortadores de bolsas;",
+          "en": "You think, perhaps, that I am referring to cut-purses;"
+        },
+        {
+          "es": "incluso esto da provecho, también, si pasa inadvertido, pero lo que es digno de mención no es eso, sino las cosas de que acabo de hablar.",
+          "en": "even this yields profit, too, if it goes unnoticed, but what is worthy of mention is not that, but rather the things of which I have just spoken.\""
+        }
+      ]
     },
     {
       "id": "b1-0332",
@@ -3202,7 +4244,21 @@
       "text": {
         "es": "—Esto es ahora algo más sólido, mi amigo, y ya no es fácil poder contestarlo. Si hubieses afirmado, en efecto, que la injusticia da provecho, pero concordaras con otros en que es maldad y algo vergonzoso, podríamos replicar hablando conforme al uso habitual de estas palabras. Pero ahora es patente que dirás que es una cosa bella y vigorosa y que le atribuirás todo lo demás que atribuimos a lo justo, ya que has tenido la audacia de colocar a la injusticia en la sección de la excelencia y de la sabiduría.",
         "en": "\"This is now something more solid, my friend, and it is no longer easy to know how to answer it. For if you had asserted that injustice yields profit, but agreed with others that it is wickedness and something shameful, we could reply by speaking in accordance with the customary use of these words. But as it is, it is clear that you will say that it is something fine and vigorous, and that you will attribute to it everything else that we attribute to what is just, since you have had the audacity to place injustice in the class of excellence and wisdom.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Esto es ahora algo más sólido, mi amigo, y ya no es fácil poder contestarlo.",
+          "en": "\"This is now something more solid, my friend, and it is no longer easy to know how to answer it."
+        },
+        {
+          "es": "Si hubieses afirmado, en efecto, que la injusticia da provecho, pero concordaras con otros en que es maldad y algo vergonzoso, podríamos replicar hablando conforme al uso habitual de estas palabras.",
+          "en": "For if you had asserted that injustice yields profit, but agreed with others that it is wickedness and something shameful, we could reply by speaking in accordance with the customary use of these words."
+        },
+        {
+          "es": "Pero ahora es patente que dirás que es una cosa bella y vigorosa y que le atribuirás todo lo demás que atribuimos a lo justo, ya que has tenido la audacia de colocar a la injusticia en la sección de la excelencia y de la sabiduría.",
+          "en": "But as it is, it is clear that you will say that it is something fine and vigorous, and that you will attribute to it everything else that we attribute to what is just, since you have had the audacity to place injustice in the class of excellence and wisdom.\""
+        }
+      ]
     },
     {
       "id": "b1-0335",
@@ -3751,7 +4807,21 @@
       "text": {
         "es": "Trasímaco convino en todo esto, pero no tan fácilmente como lo narro ahora, sino que lo hizo compelido y a regañadientes, con gran sudor, más aún por el calor que había. Entonces vi algo que nunca había visto antes: Trasímaco enrojeció. Ahora bien, después de que hubimos convenido en que la justicia es excelencia y sabiduría y la injusticia, en cambio, malogro e ignorancia, dije:",
         "en": "Thrasymachus agreed to all of this, but not as easily as I now relate it; rather, he did so under compulsion and reluctantly, with a great deal of sweat, all the more so because of the heat there was. Then I saw something I had never seen before: Thrasymachus blushed. Now, after we had agreed that justice is excellence and wisdom, and injustice, on the other hand, a defect and ignorance, I said:"
-      }
+      },
+      "sentences": [
+        {
+          "es": "Trasímaco convino en todo esto, pero no tan fácilmente como lo narro ahora, sino que lo hizo compelido y a regañadientes, con gran sudor, más aún por el calor que había.",
+          "en": "Thrasymachus agreed to all of this, but not as easily as I now relate it; rather, he did so under compulsion and reluctantly, with a great deal of sweat, all the more so because of the heat there was."
+        },
+        {
+          "es": "Entonces vi algo que nunca había visto antes: Trasímaco enrojeció.",
+          "en": "Then I saw something I had never seen before: Thrasymachus blushed."
+        },
+        {
+          "es": "Ahora bien, después de que hubimos convenido en que la justicia es excelencia y sabiduría y la injusticia, en cambio, malogro e ignorancia, dije:",
+          "en": "Now, after we had agreed that justice is excellence and wisdom, and injustice, on the other hand, a defect and ignorance, I said:"
+        }
+      ]
     },
     {
       "id": "b1-0396",
@@ -3760,7 +4830,21 @@
       "text": {
         "es": "—Bien, demos esto por establecido. Pero también hemos dicho que la injusticia es vigorosa. ¿Recuerdas, Trasímaco?",
         "en": "\"Well then, let us take this as established. But we have also said that injustice is vigorous. Do you remember, Thrasymachus?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Bien, demos esto por establecido.",
+          "en": "\"Well then, let us take this as established."
+        },
+        {
+          "es": "Pero también hemos dicho que la injusticia es vigorosa.",
+          "en": "But we have also said that injustice is vigorous."
+        },
+        {
+          "es": "¿Recuerdas, Trasímaco?",
+          "en": "Do you remember, Thrasymachus?\""
+        }
+      ]
     },
     {
       "id": "b1-0397",
@@ -3769,7 +4853,25 @@
       "text": {
         "es": "—Recuerdo —dijo—. Pero no estoy conforme con lo que acabas de decir, y tendría bastante que hablar de estas cosas. Claro que si lo hiciera, bien sé que dirías que estoy arengando. De modo que, o bien me dejas hablar como quiero, o bien, si quieres preguntar, pregunta, y yo te diré «está bien» —como a las viejas que cuentan leyendas—, asintiendo o disintiendo con la cabeza.",
         "en": "\"I remember,\" he said. \"But I am not satisfied with what you have just said, and I would have a good deal to say about these matters. Of course, if I were to do so, I know well that you would say I am haranguing. So either you let me speak as I wish, or, if you want to ask questions, ask them, and I will tell you 'very well'—as one does to old women telling tales—nodding or shaking my head in assent or dissent.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Recuerdo —dijo—.",
+          "en": "\"I remember,\" he said."
+        },
+        {
+          "es": "Pero no estoy conforme con lo que acabas de decir, y tendría bastante que hablar de estas cosas.",
+          "en": "\"But I am not satisfied with what you have just said, and I would have a good deal to say about these matters."
+        },
+        {
+          "es": "Claro que si lo hiciera, bien sé que dirías que estoy arengando.",
+          "en": "Of course, if I were to do so, I know well that you would say I am haranguing."
+        },
+        {
+          "es": "De modo que, o bien me dejas hablar como quiero, o bien, si quieres preguntar, pregunta, y yo te diré «está bien» —como a las viejas que cuentan leyendas—, asintiendo o disintiendo con la cabeza.",
+          "en": "So either you let me speak as I wish, or, if you want to ask questions, ask them, and I will tell you 'very well'—as one does to old women telling tales—nodding or shaking my head in assent or dissent.\""
+        }
+      ]
     },
     {
       "id": "b1-0398",
@@ -3796,7 +4898,21 @@
       "text": {
         "es": "—¡En nombre de Zeus, nada más! Si obras así, hazlo. Yo preguntaré.",
         "en": "\"By Zeus, nothing more! If you act in that way, do so. I will ask the questions.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¡En nombre de Zeus, nada más!",
+          "en": "\"By Zeus, nothing more!"
+        },
+        {
+          "es": "Si obras así, hazlo.",
+          "en": "If you act in that way, do so."
+        },
+        {
+          "es": "Yo preguntaré.",
+          "en": "I will ask the questions.\""
+        }
+      ]
     },
     {
       "id": "b1-0401",
@@ -3814,7 +4930,25 @@
       "text": {
         "es": "—Te preguntaré lo que te acabo de preguntar, a fin de examinar la cuestión ordenadamente: cuál es la relación entre la justicia y la injusticia. Hace un momento ha sido dicho que la injusticia es más poderosa y más fuerte que la justicia. Pero ahora, añadí, si la justicia es sabiduría y excelencia, pienso que se manifiesta fácilmente más fuerte que la injusticia, puesto que la injusticia es ignorancia: nadie lo desconocería. Mas no deseo valerme de algo tan simple, Trasímaco; prefiero examinarlo de otro modo: ¿dices que un Estado puede ser injusto e intentar someter injustamente a otros Estados —o haberlos sometido ya—, e incluso mantener sometidos bajo sí muchos Estados?",
         "en": "\"I will ask you what I just asked you, so that we may examine the matter in an orderly way: what is the relation between justice and injustice. A moment ago it was said that injustice is more powerful and stronger than justice. But now, I added, if justice is wisdom and excellence, I think it will easily show itself stronger than injustice, since injustice is ignorance: no one could fail to recognize this. But I do not wish to make use of anything so simple, Thrasymachus; I prefer to examine it in another way: do you say that a city can be unjust and attempt unjustly to subjugate other cities—or have already subjugated them—and even keep many cities in subjection beneath it?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Te preguntaré lo que te acabo de preguntar, a fin de examinar la cuestión ordenadamente: cuál es la relación entre la justicia y la injusticia.",
+          "en": "\"I will ask you what I just asked you, so that we may examine the matter in an orderly way: what is the relation between justice and injustice."
+        },
+        {
+          "es": "Hace un momento ha sido dicho que la injusticia es más poderosa y más fuerte que la justicia.",
+          "en": "A moment ago it was said that injustice is more powerful and stronger than justice."
+        },
+        {
+          "es": "Pero ahora, añadí, si la justicia es sabiduría y excelencia, pienso que se manifiesta fácilmente más fuerte que la injusticia, puesto que la injusticia es ignorancia: nadie lo desconocería.",
+          "en": "But now, I added, if justice is wisdom and excellence, I think it will easily show itself stronger than injustice, since injustice is ignorance: no one could fail to recognize this."
+        },
+        {
+          "es": "Mas no deseo valerme de algo tan simple, Trasímaco; prefiero examinarlo de otro modo: ¿dices que un Estado puede ser injusto e intentar someter injustamente a otros Estados —o haberlos sometido ya—, e incluso mantener sometidos bajo sí muchos Estados?",
+          "en": "But I do not wish to make use of anything so simple, Thrasymachus; I prefer to examine it in another way: do you say that a city can be unjust and attempt unjustly to subjugate other cities—or have already subjugated them—and even keep many cities in subjection beneath it?\""
+        }
+      ]
     },
     {
       "id": "b1-0403",
@@ -3823,7 +4957,17 @@
       "text": {
         "es": "—¡Claro! —contestó—. Y el mejor Estado, que es el injusto, lo llevará a cabo antes que ningún otro y del modo más perfecto.",
         "en": "\"Of course!\" he replied. \"And the best city, which is the unjust one, will accomplish this sooner than any other and in the most perfect way.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¡Claro! —contestó—.",
+          "en": "\"Of course!\" he replied."
+        },
+        {
+          "es": "Y el mejor Estado, que es el injusto, lo llevará a cabo antes que ningún otro y del modo más perfecto.",
+          "en": "\"And the best city, which is the unjust one, will accomplish this sooner than any other and in the most perfect way.\""
+        }
+      ]
     },
     {
       "id": "b1-0404",
@@ -3904,7 +5048,17 @@
       "text": {
         "es": "—En efecto, Trasímaco, la injusticia produce entre los hombres discordias, odios y disputas; la justicia, en cambio, concordia y amistad. ¿No es así?",
         "en": "\"Indeed, Thrasymachus, injustice produces among men discords, hatreds, and quarrels; justice, on the other hand, concord and friendship. Is it not so?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—En efecto, Trasímaco, la injusticia produce entre los hombres discordias, odios y disputas; la justicia, en cambio, concordia y amistad.",
+          "en": "\"Indeed, Thrasymachus, injustice produces among men discords, hatreds, and quarrels; justice, on the other hand, concord and friendship."
+        },
+        {
+          "es": "¿No es así?",
+          "en": "Is it not so?\""
+        }
+      ]
     },
     {
       "id": "b1-0413",
@@ -3976,7 +5130,17 @@
       "text": {
         "es": "—Por consiguiente, sea que surja en un Estado, en una familia, en un ejército o en donde sea, aparece siempre contando con la propiedad de producir, primeramente, la incapacidad de obrar en conjunto, a raíz de las disputas y discordias, y, en segundo lugar, la existencia de una enemistad tanto consigo mismo como con cualquier otro y con el justo. ¿No es así?",
         "en": "\"Consequently, whether it arises in a city, in a family, in an army, or wherever, it always appears possessing the property of producing, first, the incapacity to act in concert, owing to quarrels and discords, and, second, the existence of an enmity both with itself and with anyone else and with the just man. Is it not so?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Por consiguiente, sea que surja en un Estado, en una familia, en un ejército o en donde sea, aparece siempre contando con la propiedad de producir, primeramente, la incapacidad de obrar en conjunto, a raíz de las disputas y discordias, y, en segundo lugar, la existencia de una enemistad tanto consigo mismo como con cualquier otro y con el justo.",
+          "en": "\"Consequently, whether it arises in a city, in a family, in an army, or wherever, it always appears possessing the property of producing, first, the incapacity to act in concert, owing to quarrels and discords, and, second, the existence of an enmity both with itself and with anyone else and with the just man."
+        },
+        {
+          "es": "¿No es así?",
+          "en": "Is it not so?\""
+        }
+      ]
     },
     {
       "id": "b1-0421",
@@ -3994,7 +5158,21 @@
       "text": {
         "es": "—Y cuando se encuentra en un solo hombre, pienso, producirá todas las obras que corresponden a su naturaleza. Primeramente, la incapacidad para obrar, poniéndolo en conflicto y en desacuerdo consigo mismo, y, en segundo lugar, lo tornará hostil tanto consigo mismo como con los justos. ¿No es acaso así?",
         "en": "\"And when it is found in a single man, I think, it will produce all the works that belong to its nature. First, the incapacity to act, putting him in conflict and at variance with himself, and, second, it will make him hostile both to himself and to the just. Is it not indeed so?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Y cuando se encuentra en un solo hombre, pienso, producirá todas las obras que corresponden a su naturaleza.",
+          "en": "\"And when it is found in a single man, I think, it will produce all the works that belong to its nature."
+        },
+        {
+          "es": "Primeramente, la incapacidad para obrar, poniéndolo en conflicto y en desacuerdo consigo mismo, y, en segundo lugar, lo tornará hostil tanto consigo mismo como con los justos.",
+          "en": "First, the incapacity to act, putting him in conflict and at variance with himself, and, second, it will make him hostile both to himself and to the just."
+        },
+        {
+          "es": "¿No es acaso así?",
+          "en": "Is it not indeed so?\""
+        }
+      ]
     },
     {
       "id": "b1-0423",
@@ -4048,7 +5226,41 @@
       "text": {
         "es": "—Y bien —proseguí—, completa lo que queda del festín respondiéndome como hasta ahora. Pues los justos aparecen como más sabios, mejores y más capaces de actuar, mientras los injustos no pueden hacer nada juntos: y si decimos que algunas veces, aun siendo injustos, hacen algo juntos en común y con vigor, no diremos la verdad en ningún sentido. En efecto, si fueran completamente injustos, no se habrían abstenido de enfrentarse entre sí, sino que evidentemente anidaba en ellos algo de justicia, lo que les impedía atacarse entre sí mientras cometían injusticias contra otros, y gracias a ella han hecho lo que han hecho. Esto es, lo han abocado a obrar injustamente cuando estaban perjudicados sólo a medias por la injusticia, ya que los que estuvieran completamente depravados y fueran completamente injustos no hubiesen podido hacer nada. Que estas cosas sean así lo comprendo, pero no como tú las expusiste al comienzo. Ahora debemos examinar si los justos viven mejor que los injustos y si son más felices, que es lo que anteriormente propusimos. Por cierto, eso parece claro, al menos así lo creo, a partir de lo que hemos estado diciendo. No obstante, hay que examinarlo mejor, pues no es un tema cualquiera, sino que concierne a cuál es el modo en que se debe vivir.",
         "en": "\"Well then,\" I went on, \"complete what remains of the feast by answering me as you have until now. For the just appear as wiser, better, and more capable of acting, while the unjust cannot do anything together: and if we say that sometimes, even being unjust, they do something together in common and with vigor, we shall not be speaking the truth in any sense. For if they were completely unjust, they would not have refrained from coming into conflict with one another; rather, evidently there nested in them something of justice, which prevented them from attacking one another while they committed injustices against others, and thanks to it they have done what they have done. That is, it has impelled them to act unjustly when they were only half corrupted by injustice, since those who were completely depraved and completely unjust could not have done anything. That these things are so I understand, but not as you set them forth at the beginning. Now we must examine whether the just live better than the unjust and whether they are happier, which is what we proposed earlier. To be sure, this seems clear, at least so I believe, from what we have been saying. Nonetheless, it must be examined more thoroughly, for it is no trivial subject, but concerns what the manner is in which one ought to live.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Y bien —proseguí—, completa lo que queda del festín respondiéndome como hasta ahora.",
+          "en": "\"Well then,\" I went on, \"complete what remains of the feast by answering me as you have until now."
+        },
+        {
+          "es": "Pues los justos aparecen como más sabios, mejores y más capaces de actuar, mientras los injustos no pueden hacer nada juntos: y si decimos que algunas veces, aun siendo injustos, hacen algo juntos en común y con vigor, no diremos la verdad en ningún sentido.",
+          "en": "For the just appear as wiser, better, and more capable of acting, while the unjust cannot do anything together: and if we say that sometimes, even being unjust, they do something together in common and with vigor, we shall not be speaking the truth in any sense."
+        },
+        {
+          "es": "En efecto, si fueran completamente injustos, no se habrían abstenido de enfrentarse entre sí, sino que evidentemente anidaba en ellos algo de justicia, lo que les impedía atacarse entre sí mientras cometían injusticias contra otros, y gracias a ella han hecho lo que han hecho.",
+          "en": "For if they were completely unjust, they would not have refrained from coming into conflict with one another; rather, evidently there nested in them something of justice, which prevented them from attacking one another while they committed injustices against others, and thanks to it they have done what they have done."
+        },
+        {
+          "es": "Esto es, lo han abocado a obrar injustamente cuando estaban perjudicados sólo a medias por la injusticia, ya que los que estuvieran completamente depravados y fueran completamente injustos no hubiesen podido hacer nada.",
+          "en": "That is, it has impelled them to act unjustly when they were only half corrupted by injustice, since those who were completely depraved and completely unjust could not have done anything."
+        },
+        {
+          "es": "Que estas cosas sean así lo comprendo, pero no como tú las expusiste al comienzo.",
+          "en": "That these things are so I understand, but not as you set them forth at the beginning."
+        },
+        {
+          "es": "Ahora debemos examinar si los justos viven mejor que los injustos y si son más felices, que es lo que anteriormente propusimos.",
+          "en": "Now we must examine whether the just live better than the unjust and whether they are happier, which is what we proposed earlier."
+        },
+        {
+          "es": "Por cierto, eso parece claro, al menos así lo creo, a partir de lo que hemos estado diciendo.",
+          "en": "To be sure, this seems clear, at least so I believe, from what we have been saying."
+        },
+        {
+          "es": "No obstante, hay que examinarlo mejor, pues no es un tema cualquiera, sino que concierne a cuál es el modo en que se debe vivir.",
+          "en": "Nonetheless, it must be examined more thoroughly, for it is no trivial subject, but concerns what the manner is in which one ought to live.\""
+        }
+      ]
     },
     {
       "id": "b1-0429",
@@ -4228,7 +5440,21 @@
       "text": {
         "es": "—Bien. ¿Y no te parece que hay una excelencia para cada cosa que tiene asignada una función? Pero volvamos a lo dicho antes: ¿no decíamos que los ojos tienen una función?",
         "en": "\"Good. And does it not seem to you that there is an excellence for each thing that has a function assigned to it? But let us return to what was said before: did we not say that the eyes have a function?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Bien.",
+          "en": "\"Good."
+        },
+        {
+          "es": "¿Y no te parece que hay una excelencia para cada cosa que tiene asignada una función?",
+          "en": "And does it not seem to you that there is an excellence for each thing that has a function assigned to it?"
+        },
+        {
+          "es": "Pero volvamos a lo dicho antes: ¿no decíamos que los ojos tienen una función?",
+          "en": "But let us return to what was said before: did we not say that the eyes have a function?\""
+        }
+      ]
     },
     {
       "id": "b1-0449",
@@ -4327,7 +5553,17 @@
       "text": {
         "es": "—¡Claro que no! —contestó—. Ya que seguramente quieres decir que tienen la ceguera en lugar de la vista.",
         "en": "\"Of course not!\" he replied. \"Since you surely mean that they have blindness instead of sight.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—¡Claro que no! —contestó—.",
+          "en": "\"Of course not!\" he replied."
+        },
+        {
+          "es": "Ya que seguramente quieres decir que tienen la ceguera en lugar de la vista.",
+          "en": "\"Since you surely mean that they have blindness instead of sight.\""
+        }
+      ]
     },
     {
       "id": "b1-0460",
@@ -4390,7 +5626,21 @@
       "text": {
         "es": "—Bien. Después de eso, debemos examinar lo siguiente: hay funciones del alma que ninguna otra cosa distinta de ella podría cumplir. Por ejemplo, el prestar atención, el gobernar, el deliberar y todo lo de esa índole: ¿será correcto que atribuyamos estas funciones a otra cosa que al alma y diremos que son propias de ésta?",
         "en": "\"Good. After that, we must examine the following: there are functions of the soul that nothing else distinct from it could fulfill. For example, paying attention, governing, deliberating, and everything of that kind: would it be correct for us to attribute these functions to anything other than the soul and say that they are proper to it?\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—Bien.",
+          "en": "\"Good."
+        },
+        {
+          "es": "Después de eso, debemos examinar lo siguiente: hay funciones del alma que ninguna otra cosa distinta de ella podría cumplir.",
+          "en": "After that, we must examine the following: there are functions of the soul that nothing else distinct from it could fulfill."
+        },
+        {
+          "es": "Por ejemplo, el prestar atención, el gobernar, el deliberar y todo lo de esa índole: ¿será correcto que atribuyamos estas funciones a otra cosa que al alma y diremos que son propias de ésta?",
+          "en": "For example, paying attention, governing, deliberating, and everything of that kind: would it be correct for us to attribute these functions to anything other than the soul and say that they are proper to it?\""
+        }
+      ]
     },
     {
       "id": "b1-0467",
@@ -4588,7 +5838,29 @@
       "text": {
         "es": "—A ti te lo debo, Trasímaco —dije—, por haber sido tan amable conmigo y cesar de irritarte. Si a pesar de eso no lo disfruto, no es por tu causa, sino por la mía. En efecto, tal como los glotones engullen vorazmente cada nuevo manjar que les sirven, antes de saborear el anterior de modo adecuado, así me parece que yo, antes de hallar lo que debíamos examinar primeramente, o sea, qué es lo justo, lo he dejado de lado y me he abocado al examen de si lo justo es ignorancia o sabiduría y excelencia; y luego, al ocurrírseme la cuestión de si la injusticia es más provechosa que la justicia, no he podido abstenerme de pasar del asunto anterior a éste; de modo que el resultado del diálogo es que ahora no sé nada. En efecto, puesto que no sé qué es lo justo, mucho menos he de saber si es excelencia o no, ni si quien lo posee es feliz o infeliz.",
         "en": "\"I owe it to you, Thrasymachus,\" I said, \"for having been so kind to me and ceasing to be irritated. If, despite that, I do not enjoy it, it is not on your account, but on my own. For just as gluttons greedily devour each new dish that is served to them, before they have properly savored the previous one, so it seems to me that I, before finding what we ought to have examined first—namely, what is just—have set it aside and turned to the examination of whether what is just is ignorance or wisdom and excellence; and then, when the question occurred to me of whether injustice is more beneficial than justice, I could not refrain from passing from the earlier matter to this one; so that the result of the dialogue is that now I know nothing. For, since I do not know what is just, much less shall I know whether it is excellence or not, nor whether the one who possesses it is happy or unhappy.\""
-      }
+      },
+      "sentences": [
+        {
+          "es": "—A ti te lo debo, Trasímaco —dije—, por haber sido tan amable conmigo y cesar de irritarte.",
+          "en": "\"I owe it to you, Thrasymachus,\" I said, \"for having been so kind to me and ceasing to be irritated."
+        },
+        {
+          "es": "Si a pesar de eso no lo disfruto, no es por tu causa, sino por la mía.",
+          "en": "If, despite that, I do not enjoy it, it is not on your account, but on my own."
+        },
+        {
+          "es": "En efecto, tal como los glotones engullen vorazmente cada nuevo manjar que les sirven, antes de saborear el anterior de modo adecuado, así me parece que yo, antes de hallar lo que debíamos examinar primeramente, o sea, qué es lo justo, lo he dejado de lado y me he abocado al examen de si lo justo es ignorancia o sabiduría y excelencia;",
+          "en": "For just as gluttons greedily devour each new dish that is served to them, before they have properly savored the previous one, so it seems to me that I, before finding what we ought to have examined first—namely, what is just—have set it aside and turned to the examination of whether what is just is ignorance or wisdom and excellence;"
+        },
+        {
+          "es": "y luego, al ocurrírseme la cuestión de si la injusticia es más provechosa que la justicia, no he podido abstenerme de pasar del asunto anterior a éste; de modo que el resultado del diálogo es que ahora no sé nada.",
+          "en": "and then, when the question occurred to me of whether injustice is more beneficial than justice, I could not refrain from passing from the earlier matter to this one; so that the result of the dialogue is that now I know nothing."
+        },
+        {
+          "es": "En efecto, puesto que no sé qué es lo justo, mucho menos he de saber si es excelencia o no, ni si quien lo posee es feliz o infeliz.",
+          "en": "For, since I do not know what is just, much less shall I know whether it is excellence or not, nor whether the one who possesses it is happy or unhappy.\""
+        }
+      ]
     }
   ]
 }

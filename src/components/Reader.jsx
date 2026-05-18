@@ -56,7 +56,20 @@ export default function Reader({ book, onBack, availableTargets }) {
       <div className="text-body">
         {segments.map((seg) => (
           <p key={seg.id} className={blockClass(seg.kind)}>
-            <Sentence segment={seg} targetLang={targetLang} />
+            {seg.sentences ? (
+              seg.sentences.map((piece, i) => (
+                <Sentence
+                  key={`${seg.id}-${i}`}
+                  segment={{
+                    _sourceLang: seg._sourceLang,
+                    text: { [seg._sourceLang]: piece.es, [targetLang]: piece.en },
+                  }}
+                  targetLang={targetLang}
+                />
+              ))
+            ) : (
+              <Sentence segment={seg} targetLang={targetLang} />
+            )}
           </p>
         ))}
       </div>
