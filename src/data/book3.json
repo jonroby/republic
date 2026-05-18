@@ -1,0 +1,4106 @@
+{
+  "book": 3,
+  "title": {
+    "es": "Libro III",
+    "en": "Book III"
+  },
+  "sourceLang": "es",
+  "translations": [],
+  "segments": [
+    {
+      "id": "b3-0001",
+      "stephanus": "386a",
+      "kind": "speech",
+      "text": {
+        "es": "—En lo tocante a los dioses —proseguí—, me parece que esta índole de cosas es la que debemos permitir o prohibir que, ya desde niños, oigan quienes hayan de honrar a los dioses y a sus propios padres, así como quienes no vayan a tener en poco la amistad entre sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0002",
+      "stephanus": "386a",
+      "kind": "speech",
+      "text": {
+        "es": "—También a nosotros nos parece, y creo que correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0003",
+      "stephanus": "386a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues veamos; si deben ser valientes, ¿no conviene acaso que se les diga cosas que les hagan temer la muerte lo menos posible? ¿O consideras que alguien que dé cabida dentro de sí a ese temor alguna vez llegará a ser valiente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0004",
+      "stephanus": "386b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, por Zeus, no lo creo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0005",
+      "stephanus": "386b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y te parece que el que crea que el Hades existe y es terrible no ha de temer a la muerte y la preferirá en el combate antes que a la derrota y a la esclavitud?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0006",
+      "stephanus": "386b",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0007",
+      "stephanus": "386b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces será necesario, creo, que supervisemos también a los que se ponen a contar tales clases de mitos, y que les pidamos que no desacrediten tan absolutamente lo que concierne al Hades, sino que más bien lo elogien; ya que lo que relatan ahora no es cierto ni provechoso para los que vayan a ser combatientes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0008",
+      "stephanus": "386c",
+      "kind": "speech",
+      "text": {
+        "es": "—Será necesario, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0009",
+      "stephanus": "386c",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, borremos de nuestra mente todas las cosas de esa índole, comenzando por versos como éstos:\nPreferiría ser un labrador que fuera siervo de otro\nhombre, a su vez pobre y de muy pocos bienes,\nantes que reinar sobre todos los muertos.\nO éstos:\nque quede a la vista de mortales e inmortales la morada\nterrible y tenebrosa, a la cual incluso los dioses aborrecen.\nY también:\n¡Ay, por los dioses, es cierto, pues, que en la morada de Hades existe\nel alma como imagen, aunque en ella no haya mente en absoluto!.\nO aquel que dice:\npara él el ser sabio; las sombras, en cambio, lo rodean.\nY\nDesde los miembros el alma partió volando hacia el Hades,\nlamentando tal destino y abandonando la juventud en pleno vigor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0010",
+      "stephanus": "387a",
+      "kind": "speech",
+      "text": {
+        "es": "También éstos:\nY el alma se marchó bajo tierra, como si fuera humo,\nlanzando un chillido.\nY estos otros:\nasí como los murciélagos, en el fondo de la gruta sagrada,\nrevolotean chillando, cuando alguno de ellos se desprende\nde la fila adherida a la roca, y se aferran unos a otros,\nasí las [almas de los pretendientes] avanzaban chillando.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0011",
+      "stephanus": "387a",
+      "kind": "narration",
+      "text": {
+        "es": "Por ello solicitaremos a Homero y a los demás poetas que no se encolericen si tachamos los versos que hemos citado y todos los que sean de esa índole, no porque estimemos que no sean poéticos o que no agraden a la mayoría, sino, al contrario, porque cuanto más poéticos, tanto menos conviene que los escuchen niños y hombres que tienen que ser libres y temer más a la esclavitud que a la muerte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0012",
+      "stephanus": "387a",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo en todo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0013",
+      "stephanus": "387a",
+      "kind": "speech",
+      "text": {
+        "es": "—Debemos rechazar, además, todos los nombres terroríficos y temibles que hallamos en tales descripciones, como ‘los que se lamentan’, ‘las aborrecidas’, ‘los que están en las zonas inferiores’, ‘los manes’ y todas aquellas denominaciones del mismo tipo que hacen estremecer a todos los que los escuchan. Y tal vez eso convenga en otros casos; pero nosotros temeremos que, a raíz de un estremecimiento de esa índole, los guardianes se tornen más templados y suaves de lo necesario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0014",
+      "stephanus": "387c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y nuestros temores estarán fundados.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0015",
+      "stephanus": "387c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Suprimiremos, pues, aquellos nombres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0016",
+      "stephanus": "387c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0017",
+      "stephanus": "387c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No habrá que hablar y componer poemas según pautas opuestas a aquéllas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0018",
+      "stephanus": "387c",
+      "kind": "speech",
+      "text": {
+        "es": "—Evidentemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0019",
+      "stephanus": "387d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Omitiremos también las quejas y los lamentos por parte de varones de alta consideración?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0020",
+      "stephanus": "387d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es necesario, al menos si nos atenemos a lo dicho anteriormente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0021",
+      "stephanus": "387d",
+      "kind": "speech",
+      "text": {
+        "es": "—Examina ahora si hemos procedido correctamente en tales supresiones. ¿Afirmaremos que un hombre razonable no juzgará que, para otro hombre razonable del cual sea compañero, la muerte sea terrible?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0022",
+      "stephanus": "387d",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo afirmaremos, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0023",
+      "stephanus": "387d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por ende no ha de haber lamentos por él, como si le hubiese acontecido algo terrible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0024",
+      "stephanus": "387d",
+      "kind": "speech",
+      "text": {
+        "es": "—No, ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0025",
+      "stephanus": "387d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y a ello debemos añadir que el hombre que es de ese modo será el que más se baste a sí mismo para vivir bien; y que se diferencia de los demás en que es quien menos necesita de otro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0026",
+      "stephanus": "387e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0027",
+      "stephanus": "387e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y para él, menos que para nadie, será terrible verse privado de un hijo o de un hermano, o bien de riquezas o de cualquier otro bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0028",
+      "stephanus": "387e",
+      "kind": "speech",
+      "text": {
+        "es": "—Menos que para nadie, es cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0029",
+      "stephanus": "387e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y será también quien menos se lamente cuando le acontezca una desgracia de esa índole, y el que con mayor moderación la soportará.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0030",
+      "stephanus": "387e",
+      "kind": "speech",
+      "text": {
+        "es": "—Naturalmente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0031",
+      "stephanus": "387e",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso será correcto que eliminemos los lamentos de los varones de renombre, y que los refiramos a las mujeres —y no a aquellas que son valiosas— y a los hombres viles, de modo que, a quienes decimos que hemos de educar para la vigilancia del país, les desagrade parecerse a éstos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0032",
+      "stephanus": "388a",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0033",
+      "stephanus": "388a",
+      "kind": "speech",
+      "text": {
+        "es": "—Nuevamente a Homero, así como a los demás poetas, pediremos que no presenten a Aquiles, hijo de una diosa,\ntendido por momentos de costado, por momentos con el rostro hacia arriba,\npor momentos boca abajo, y tras levantarse,\na veces de pie, vagando agitadamente por la orilla del mar estéril;\nni tampoco\nrecogiendo con ambas manos negra ceniza\ny derramándola sobre su cabeza,\nni quejándose y lamentándose de tantas otras cosas como las que Homero ha descrito. Y que no presente a Príamo, próximo a los dioses por su genealogía,\nsuplicando y arrojándose en el fango,\nllamando a cada varón por su nombre.\nY mucho más que en estos casos, les pediremos que no representen a divinidades lamentándose y exclamando:\n¡Ay, desgraciada de mí! ¡Ay, desdichada madre del mejor de los héroes!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0034",
+      "stephanus": "388c",
+      "kind": "speech",
+      "text": {
+        "es": "Y si así retratan a los dioses, que al menos no se atrevan a presentar al más grande de los dioses tan distorsionadamente como para que exclame:\n¡Ay de mí, un hombre que me es querido es el que con mis ojos\nveo perseguido alrededor de la ciudad, y aflige mi corazón!\nO bien:\n¡Ay de mí; Sarpedón, el más amado por mí entre los hombres\nha sido destinado a morir a manos del menecíada Patroclo!\nEn efecto, mi querido Adimanto, si nuestros jóvenes escucharan seriamente tales cosas y no se echasen a reír por tratarse de palabras indignas, menos aún un hombre podría considerarlas indignas de sí mismo, y nadie le reprocharía si se le ocurriera decir o hacer algo de esa índole; tal hombre, por el contrario, ante los más pequeños infortunios, prorrumpiría en una multitud de quejas y lamentaciones, sin sentir vergüenza ni tener paciencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0035",
+      "stephanus": "388e",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo que dices es cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0036",
+      "stephanus": "388e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero no conviene que ocurra eso, tal como nuestro razonamiento acaba de mostrarnos, y a él debemos atenernos, por lo menos hasta que alguien nos convenza con otro mejor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0037",
+      "stephanus": "388e",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0038",
+      "stephanus": "388e",
+      "kind": "speech",
+      "text": {
+        "es": "—No obstante, no conviene que los guardianes sean gente pronta para reírse, ya que, por lo común, cuando alguien se abandona a una risa violenta, esto provoca a su vez una reacción violenta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0039",
+      "stephanus": "389a",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0040",
+      "stephanus": "389a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, es inaceptable que se presente a hombres de valía dominados por la risa, y mucho menos si se trata de dioses.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0041",
+      "stephanus": "389a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0042",
+      "stephanus": "389a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, tampoco aceptaremos a Homero cosas como éstas acerca de los dioses:\ny una risa interminable brotó entre los dioses bienaventurados,\ncuando vieron a Hefesto moverse presurosamente por toda la casa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0043",
+      "stephanus": "389a",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo con tu argumento, no se puede aceptar esto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0044",
+      "stephanus": "389b",
+      "kind": "speech",
+      "text": {
+        "es": "—Mío será si me lo quieres adjudicar —repuse—; de todos modos, en efecto, no se puede aceptar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0045",
+      "stephanus": "389b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero además la verdad debe ser muy estimada. Porque si hace un momento hemos hablado correctamente, y la mentira es en realidad inútil para los dioses, aunque útil para los hombres bajo la forma de un remedio, es evidente que semejante remedio debe ser reservado a los médicos, mientras que los profanos no deben tocarlos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0046",
+      "stephanus": "389b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es evidente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0047",
+      "stephanus": "389b",
+      "kind": "speech",
+      "text": {
+        "es": "—Si es adecuado que algunos hombres mientan, éstos serán los que gobiernan el Estado, y que frente a sus enemigos o frente a los ciudadanos mientan para beneficio del Estado; a todos los demás les estará vedado. Y si un particular miente a los gobernantes, diremos que su falta es igual o mayor que la del enfermo al médico o que la del atleta a su adiestrador cuando no les dicen la verdad respecto de las afecciones de su propio cuerpo; o que la del marinero que no dice al piloto la verdad acerca de la nave y su tripulación ni cuál es su condición o la de sus compañeros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0048",
+      "stephanus": "389d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0049",
+      "stephanus": "389d",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, si quien gobierna sorprende a otro mintiendo en el Estado\nentre los que son artesanos:\nun adivino, un médico de males, un carpintero en maderas,\nlo castigará por introducir una práctica capaz de subvertir y arruinar un Estado del mismo modo que una nave.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0050",
+      "stephanus": "389d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así será, siempre que los hechos se ajusten a nuestras palabras.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0051",
+      "stephanus": "389d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, ¿no necesitarán moderación nuestros jóvenes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0052",
+      "stephanus": "389d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que sí!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0053",
+      "stephanus": "389d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero la moderación, en lo que concierne a la multitud, ¿no consiste principalmente en obedecer a los que gobiernan y en gobernar uno mismo a los placeres que conciernen a las bebidas, a las comidas y al sexo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0054",
+      "stephanus": "389e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así me parece, al menos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0055",
+      "stephanus": "389e",
+      "kind": "speech",
+      "text": {
+        "es": "—Diremos, entonces, que están bien dichas palabras como las que Homero pone en boca de Diomedes:\nsiéntate callado, amigo, y obedece la orden,\ny los versos que siguen a éste:\nlos aqueos avanzaban respirando con ánimo vigoroso,\nlentamente, temiendo a sus comandantes,\ny las demás de esa índole.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0056",
+      "stephanus": "389e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, están bien dichos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0057",
+      "stephanus": "389e",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos este otro:\naloniado por el vino, poseedor de ojos de perro y de un corazón de ciervo.\n¿Están bien este verso y los que lo siguen, así como todas aquellas otras insolencias que, en prosa o en poesía, sean dichas por un ciudadano a los gobernantes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0058",
+      "stephanus": "390a",
+      "kind": "speech",
+      "text": {
+        "es": "—No, no están bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0059",
+      "stephanus": "390a",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, no creo que sean cosas adecuadas para que escuchen los jóvenes respecto de la moderación. Claro que no hay que asombrarse de que les produzcan alguna clase de placer. ¿Cuál es tu opinión sobre esto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0060",
+      "stephanus": "390a",
+      "kind": "speech",
+      "text": {
+        "es": "—La misma que la tuya.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0061",
+      "stephanus": "390a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien; cuando un poeta hace decir al más sabio de los hombres que lo que le parece más bello de todo es el momento cuando\nal lado están las mesas abundantes,\nen pan y carne, mientras el escanciador saca el vino de la crátera,\nlo lleva y lo vierte en las copas,\n¿crees que para un joven es apropiado escuchar tales cosas en cuanto a su templanza? ¿Y acaso podemos afirmarlo de aquel verso que dice que\nel destino más lamentable que pueda tocar en suerte es morir de hambre?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0062",
+      "stephanus": "390b",
+      "kind": "speech",
+      "text": {
+        "es": "¿O bien narrar que Zeus, el único despierto mientras los demás dioses dormían, tras olvidar fácilmente todas las maquinaciones que había ideado, impulsado por la pasión sexual, al ver a Hera se excitó de modo tal, que ni siquiera quiso llegar a su alcoba, sino que prefirió acostarse con ella sobre el piso, alegando que era presa de un deseo tal como no lo había poseído ni siquiera la primera vez que se acostaron juntos,\na escondidas de sus queridos padres,\no bien contar que Ares y Afrodita fueron encadenados por Hefesto por cosas de esa índole?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0063",
+      "stephanus": "390d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡No, por Zeus! No me parece que sea apropiado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0064",
+      "stephanus": "390d",
+      "kind": "speech",
+      "text": {
+        "es": "—Si se narra, por el contrario, cómo renombrados varones dan pruebas de perseverancia, de palabra o acto, como ésta:\ngolpeándose el pecho, increpó a su corazón con estas palabras:\nsopórtalo, corazón; ya otra vez afrontaste algo más horrible,\nhay que contemplarlas y escucharlas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0065",
+      "stephanus": "390d",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy totalmente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0066",
+      "stephanus": "390d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni tampoco debemos permitir que los varones que educamos sean sobornables o apegados a las riquezas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0067",
+      "stephanus": "390e",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0068",
+      "stephanus": "390e",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni que se les canten versos como el que dice:\nlos presentes persuaden a los dioses, así como a los reyes más respetables.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0069",
+      "stephanus": "390e",
+      "kind": "speech",
+      "text": {
+        "es": "Tampoco debe alabarse a Fénix, el maestro de Aquiles, como si hubiese hablado correctamente al aconsejarle que, si recibía los dones, acudiera en auxilio de los aqueos, pero que, si no los recibía, no dejara su ira de lado. Ni admitiremos considerar al mismo Aquiles apegado a las riquezas hasta el punto de recibir dones de Agamenón y estar así dispuesto a devolver un cadáver tras recibir una compensación, pero de otro modo no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0070",
+      "stephanus": "391a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto —dijo Adimanto— que no hemos de elogiar tales relatos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0071",
+      "stephanus": "391a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y dudo, sólo porque se trata de Homero, en afirmar que es impío hablar así de Aquiles y en creer a los otros que lo narran; como también que Aquiles dice a Apolo:\nMe engañaste, Apolo, el más funesto de todos los dioses;\ny, por cierto, te lo haría pagar si contara con el poder para ello.\nEn cuanto a que Aquiles obrara desobedeciendo al río, siendo éste un dios, y estuviera dispuesto a combatirlo; o que, respecto de sus cabellos, consagrados a otro río, el Esperqueo, dijera\ndesearía ofrecer mi cabellera al héroe Patroclo,\nque era ya cadáver, y haya procedido así, no debe ser creído. Y a su vez, en lo concerniente a las vueltas alrededor de la tumba de Patroclo, donde era arrastrado el cadáver de Héctor, y el sacrificio de cautivos vivos sobre la pira, diremos que todas estas cosas que se han contado no son ciertas. Tampoco permitiremos que se haga creer a nuestros jóvenes que Aquiles (hijo de una diosa y de Peleo —el más moderado de los hombres y descendiente de Zeus en tercer grado—, así como educado por el sapientísimo Quirón) haya sido presa de una confusión tal, que diera cabida dentro de sí a dos enfermedades opuestas entre sí: el servilismo que acompaña al apego a las riquezas, y el menosprecio tanto respecto de los dioses como de los hombres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0072",
+      "stephanus": "391d",
+      "kind": "speech",
+      "text": {
+        "es": "—Tienes razón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0073",
+      "stephanus": "391d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente —proseguí—, no debemos dejarnos convencer por estas cosas, ni consentir que se afirme que Teseo, hijo de Posidón, y Pirítoo, hijo de Zeus, hayan emprendido tan terribles raptos, o que cualquier otro héroe o hijo de un dios se haya atrevido a cometer obras horribles o sacrílegas como aquellas de las que ahora mendazmente se les acusa. Más bien hemos de obligar a los poetas a afirmar que esas obras no han sido cometidas por aquéllos, o bien que aquéllos no son hijos de dioses; pero no decir que ambas cosas son ciertas e intentar persuadir a nuestros jóvenes de que los dioses engendran algo malo y de que los héroes no son en nada mejores que los hombres. Tales afirmaciones, como acabamos de decir, son sacrílegas y falsas, puesto que hemos demostrado que es imposible que se generen males a partir de los dioses.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0074",
+      "stephanus": "391e",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0075",
+      "stephanus": "391e",
+      "kind": "speech",
+      "text": {
+        "es": "—Tales afirmaciones, además, son perniciosas para quienes las escuchan. Pues todo hombre se perdonará a sí mismo tras obrar mal, si está convencido de que cosas semejantes hacen y han hecho también\nlos parientes de los dioses,\nmás próximos a Zeus, de quienes hay, en el éter\ndel monte Ideo, un altar a Zeus paterno,\ny en quienes no se ha extinguido aún la sangre divina.\nPor esta razón hay que poner término a semejantes mitos, no sea que creen en nuestros jóvenes una fuerte inclinación hacia la vileza.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0076",
+      "stephanus": "392a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0077",
+      "stephanus": "392a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso ¿qué clase de discursos restan para delimitar aquellos que se deben relatar de aquellos que no? Ya ha sido expuesto, en efecto, cómo se debe hablar acerca de los dioses y acerca de los demonios, así como de los héroes y de los que habitan en el Hades.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0078",
+      "stephanus": "392a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0079",
+      "stephanus": "392a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo que resta ¿no será lo que concierne a los hombres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0080",
+      "stephanus": "392a",
+      "kind": "speech",
+      "text": {
+        "es": "—Evidentemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0081",
+      "stephanus": "392a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero nos es imposible ordenar esto, mi querido amigo, al menos por el momento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0082",
+      "stephanus": "392a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Por qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0083",
+      "stephanus": "392b",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque creo que, a partir de lo admitido, hemos de afirmar que los poetas y narradores hablan mal acerca de los hombres en los temas más importantes, al decir que hay muchos injustos felices y en cambio justos desdichados, y que cometer injusticias da provecho si pasa inadvertido, en tanto la justicia es un bien ajeno para el justo, y lo propio de éste su perjuicio. ¿Prohibiremos que se digan tales cosas y prescribiremos que se canten y cuenten mitos en sentido opuesto a aquéllas, o no te parece?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0084",
+      "stephanus": "392b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, bien lo sé.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0085",
+      "stephanus": "392b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en caso de que estés de acuerdo en que lo que digo es cierto, ¿podré afirmar que estás de acuerdo en lo que buscamos desde un comienzo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0086",
+      "stephanus": "392b",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo has pensado correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0087",
+      "stephanus": "392c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, dado que se debe hablar acerca de los hombres con discursos de tal índole, ¿nos pondremos de acuerdo en eso cuando descubramos qué es la justicia y cómo ésta, por su naturaleza, da provecho al que la posee, tanto si parece o no ser justo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0088",
+      "stephanus": "392c",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0089",
+      "stephanus": "392c",
+      "kind": "speech",
+      "text": {
+        "es": "—Finalicemos entonces lo concerniente a los discursos; en cuanto a su dicción, creo que debe ser examinada a continuación, de modo que nos quede perfectamente analizado tanto lo que debe decirse como el modo en que debe ser dicho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0090",
+      "stephanus": "392c",
+      "kind": "narration",
+      "text": {
+        "es": "Aquí me interrumpió Adimanto:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0091",
+      "stephanus": "392c",
+      "kind": "speech",
+      "text": {
+        "es": "—No comprendo qué es lo que quieres decir —manifestó.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0092",
+      "stephanus": "392d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin embargo —insistí—, debes comprenderlo; tal vez lo aprehendas mejor de esta manera: ¿acaso no sucede que todo cuanto es relatado por compositores de mitos o por poetas es una narración de cosas que han pasado, de cosas que pasan y cosas que pasarán?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0093",
+      "stephanus": "392d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y de qué otro modo podría ser?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0094",
+      "stephanus": "392d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero la narración que llevan a cabo puede ser simple, o bien producida por medio de la imitación, o por ambas cosas a la vez.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0095",
+      "stephanus": "392e",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto también necesito que me lo enseñes más claramente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0096",
+      "stephanus": "392e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Parece que soy un ridículo y oscuro maestro! —exclamé—. Pues entonces, tal como los que son incapaces de hacerse entender, no me referiré al conjunto de la cuestión sino que, tras separar de allí una parte, intentaré mostrarte en ésta lo que pretendo. Dime: tú conoces el comienzo de la Ilíada, donde el poeta cuenta que Crises pidió a Agamenón la devolución de su hija, y que éste se encolerizó, por lo cual Crises, al ver que no tenía éxito, imploró al dios contra los aqueos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0097",
+      "stephanus": "393a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0098",
+      "stephanus": "393a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, sabes que hasta esos versos,\ny suplicó a todos los aqueos,\ny en particular a los dos Atridas, caudillos de pueblos,\nhabla el poeta mismo sin tratar de cambiar nuestra idea de que es él mismo y no otro quien habla. Pero después de los versos citados habla como si él mismo fuera Crises, e intenta hacernos creer que no es Homero el que habla sino el sacerdote, que es un anciano. Y aproximadamente así ha compuesto todo el resto de la narración sobre lo que ha acontecido en Ilión, en Ítaca y en la Odisea íntegra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0099",
+      "stephanus": "393b",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0100",
+      "stephanus": "393b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, hay narración no sólo cuando se refieren los discursos sostenidos en cada ocasión, sino también cuando se relata lo que sucede entre los discursos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0101",
+      "stephanus": "393b",
+      "kind": "speech",
+      "text": {
+        "es": "—Naturalmente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0102",
+      "stephanus": "393b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero cuando se presenta un discurso como si fuera otro el que habla, ¿no diremos que asemeja lo más posible su propia dicción a la de cada personaje que, según anticipa, ha de hablar?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0103",
+      "stephanus": "393b",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo diremos, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0104",
+      "stephanus": "393b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y asemejarse uno mismo a otro en habla o aspecto ¿no es imitar a aquel al cual uno se asemeja?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0105",
+      "stephanus": "393c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0106",
+      "stephanus": "393c",
+      "kind": "speech",
+      "text": {
+        "es": "—En el caso presente, por lo tanto, parece que tanto éste como los demás poetas componen la narración mediante imitaciones.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0107",
+      "stephanus": "393c",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy muy de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0108",
+      "stephanus": "393c",
+      "kind": "speech",
+      "text": {
+        "es": "—En cambio, si el poeta nunca se escondiese, toda su poesía y su narración serían producidas sin imitación alguna. Para que no me vayas a decir que no comprendes cómo podría suceder esto, te lo explicaré. Si Homero, tras decir que Crises llegó trayendo el rescate de su hija, como suplicante a los aqueos pero especialmente a los reyes, continuase hablando no como si se hubiera convertido en Crises sino como si fuera aún Homero, te percatarás de que no habría imitación sino narración simple. Habría sido algo aproximadamente así (me expreso en prosa, pues no soy poeta): «Al llegar, el sacerdote rogó que los dioses permitiesen a los aqueos conquistar Troya y conservar la vida, y que éstos liberaran a su hija tras aceptar el rescate, y respetando al dios. Cuando él dijo estas cosas, los aqueos lo aprobaron reverentemente, pero Agamenón se irritó y lo conminó a partir inmediatamente y no volver, ya que de nada le valdrían el báculo y las guirnaldas del dios. Y le dijo que, antes de liberar a su hija, ésta envejecería en Argos junto a él; y le ordenó marcharse y que no lo irritase más, si quería regresar a su casa sano y salvo. Al escuchar esto, el anciano se atemorizó y se marchó en silencio. Pero cuando se alejó del campamento rogó extensamente a Apolo, invocando al dios por sus diversos epítetos y pidiéndole que, si recordaba que alguna vez le habían sido gratos la edificación de templos y los sacrificios de víctimas que él había ofrecido, en nombre de eso le imploraba que sus lágrimas fueran expiadas por los aqueos con dardos del dios». Así —concluí— se crea, mi amigo, una narración simple, sin imitación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0109",
+      "stephanus": "394b",
+      "kind": "speech",
+      "text": {
+        "es": "—Entiendo —contestó Adimanto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0110",
+      "stephanus": "394b",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprende del mismo modo que se produce un tipo de narración opuesta a aquélla, cuando se suprimen los relatos que intercala el poeta entre los discursos y se dejan sólo los diálogos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0111",
+      "stephanus": "394b",
+      "kind": "speech",
+      "text": {
+        "es": "—También comprendo esto: es lo que sucede en la tragedia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0112",
+      "stephanus": "394b",
+      "kind": "speech",
+      "text": {
+        "es": "—Has pensado muy correctamente —dije—, y creo que ahora puedo hacerte claro aquello que anteriormente no pude: que hay, en primer lugar, un tipo de poesía y composición de mitos íntegramente imitativa —como tú dices, la tragedia y la comedia—; en segundo lugar, el que se produce a través del recital del poeta, y que lo hallarás en los ditirambos, más que en cualquier otra parte; y en tercer lugar, el que se crea por ambos procedimientos, tanto en la poesía épica como en muchos otros lugares, si me entiendes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0113",
+      "stephanus": "394c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora capto lo que antes querías decir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0114",
+      "stephanus": "394c",
+      "kind": "speech",
+      "text": {
+        "es": "—Recuerda que antes afirmamos también que ya habíamos hablado de lo que se debe decir, pero que aún quedaba por examinar cómo se debe decir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0115",
+      "stephanus": "394c",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo recuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0116",
+      "stephanus": "394d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, aquello a lo cual me refería era que sería necesario ponernos de acuerdo sobre si hemos de permitir que los poetas nos compongan las narraciones sólo imitando, o bien imitando en parte sí, en parte no —y en cada caso, qué es lo que imitarán—, o si no les permitiremos imitar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0117",
+      "stephanus": "394d",
+      "kind": "speech",
+      "text": {
+        "es": "—Adivino lo que estás proponiendo examinar: si hemos de admitir o no en nuestro Estado la tragedia y la comedia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0118",
+      "stephanus": "394d",
+      "kind": "speech",
+      "text": {
+        "es": "—Tal vez —contesté—, pero tal vez, también algo de más importancia que eso, aunque yo mismo no lo sé aún, sino que allí adonde la argumentación, como el viento, nos lleve, hacia allí debemos ir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0119",
+      "stephanus": "394d",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0120",
+      "stephanus": "394e",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora, Adimanto, observa lo siguiente: ¿deben ser nuestros guardianes aptos para la imitación, o no? ¿De lo que hemos dicho antes no se sigue acaso que cada uno realiza bien un solo oficio, no muchos, y que, si trata de aplicarse a muchos, fracasa en todos sin poder ser tenido en cuenta en ninguno?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0121",
+      "stephanus": "394e",
+      "kind": "speech",
+      "text": {
+        "es": "—No puede ser de otro modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0122",
+      "stephanus": "394e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y el mismo argumento cabe con respecto a la imitación: que un mismo hombre no es capaz de imitar muchas cosas tan bien como lo hace con una sola.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0123",
+      "stephanus": "394e",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0124",
+      "stephanus": "395a",
+      "kind": "speech",
+      "text": {
+        "es": "—Mucho menos, por ende, podrá ejercitar oficios de alto valor simultáneamente con la imitación de muchas cosas, por hábil que sea al imitar, puesto que incluso los dos tipos de imitación que parecen ser tan vecinos entre sí —como la comedia y la tragedia— no pueden ser practicados bien por las mismas personas. ¿O no llamabas hace un momento imitaciones a esas dos formas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0125",
+      "stephanus": "395a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, y tienes razón al afirmar que no pueden ser los mismos poetas los que creen ambas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0126",
+      "stephanus": "395a",
+      "kind": "speech",
+      "text": {
+        "es": "—Tampoco se puede a la vez ser rapsoda y actor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0127",
+      "stephanus": "395a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0128",
+      "stephanus": "395b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni siquiera los actores que actúan en las comedias son los mismos que en las tragedias; sin embargo, todas éstas son formas de imitación. ¿No es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0129",
+      "stephanus": "395b",
+      "kind": "speech",
+      "text": {
+        "es": "—E incluso más que esto, Adimanto: me parece que la naturaleza humana está desmenuzada en partes más pequeñas aún, de manera que es incapaz de imitar bien muchas cosas, o de hacer las cosas mismas a las cuales las imitaciones se asemejan.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0130",
+      "stephanus": "395b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0131",
+      "stephanus": "395b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, si hemos de mantener nuestra primera regla, según la cual nuestros guardianes debían ser relevados de todos los demás oficios para ser artesanos de la libertad del Estado en sentido estricto, sin ocuparse de ninguna otra cosa que no conduzca a ésta, no será conveniente que hagan o imiten cualquier otra. Pero si imitan, correspondería que imiten ya desde niños los tipos que les son apropiados: valientes, moderados, piadosos, libres y todos los de esa índole. En cambio, no debe practicarse ni el servilismo ni el ser hábil en imitarlo —como ninguna otra bajeza— para que no suceda que, a raíz de la imitación, se compenetren con su realidad. ¿Acaso no has advertido que, cuando las imitaciones se llevan a cabo desde la juventud y durante mucho tiempo, se instauran en los hábitos y en la naturaleza misma de la persona, en cuanto al cuerpo, a la voz y al pensamiento?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0132",
+      "stephanus": "395d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, lo he advertido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0133",
+      "stephanus": "395d",
+      "kind": "speech",
+      "text": {
+        "es": "—No toleraremos, pues, que aquellos por los cuales debemos preocuparnos, y que se espera que lleguen a ser hombres de bien, si son varones, imiten a una mujer, joven o anciana, que injuria a su marido o desafía a los dioses, con la mayor jactancia porque piensa que es dichosa, o bien porque está sumida en infortunios, penas y lamentos. Y mucho menos que representen a una mujer enferma o enamorada o a punto de dar a luz.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0134",
+      "stephanus": "395d",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0135",
+      "stephanus": "395d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni tampoco a esclavas o a esclavos, al menos realizando actos serviles.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0136",
+      "stephanus": "395d",
+      "kind": "speech",
+      "text": {
+        "es": "—Tampoco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0137",
+      "stephanus": "395d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni que representen a hombres viles y cobardes, que hagan lo contrario de lo que hemos dicho ya, insultándose y ridiculizándose unos a otros y diciendo obscenidades, ebrios o sobrios, y cuantas otras palabras o acciones de esa índole con que se degradan a sí mismos y a los otros. Creo también que no se los debe acostumbrar a imitar, ni en palabras ni en actos, a los que enloquecen. Hay que conocer, en efecto, a los locos y a los malvados, hombres o mujeres, pero no se debe obrar como ellos ni imitarlos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0138",
+      "stephanus": "396a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es una gran verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0139",
+      "stephanus": "396b",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto a los herreros y a los que ejercen algún otro oficio, o a los remeros que hacen avanzar a una nave, o a quienes les marcan el tiempo a aquéllos, o cualquier otra cosa de esa índole, ¿deben los guardianes imitarlos o no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0140",
+      "stephanus": "396b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo podría admitirse eso, si ni siquiera se les permitirá prestarles atención a esos oficios?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0141",
+      "stephanus": "396b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, ¿imitarán acaso los relinchos de los caballos, los mugidos de los toros, el murmullo de los ríos, el estrépito del mar, los truenos y otros ruidos similares?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0142",
+      "stephanus": "396b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, ya que no se les permitirá enloquecer o que imiten a los locos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0143",
+      "stephanus": "396c",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, si entiendo lo que quieres decir, hay una especie de dicción y narrativa a que recurre el hombre verdaderamente valioso cuando necesita decir algo, y otra especie completamente distinta, de la que se servirá el hombre que, por naturaleza y educación, es lo contrario de aquél.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0144",
+      "stephanus": "396c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cuáles son esas especies?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0145",
+      "stephanus": "396c",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece que, cuando un varón cabal llega, en la narración, a alguna frase o acción propias de un hombre de bien, estará dispuesto a interpretar dicho pasaje, sin avergonzarse de tal imitación, máxime si imita al hombre de bien que obra de modo firme y sabio; pero estará menos dispuesto, y en menos ocasiones, si se trata de imitar a alguien presa de enfermedades, o de amores, o de ebriedad o algún otro padecimiento. Y en caso de que el imitado sea indigno de tal varón, éste no estará dispuesto a imitar seriamente a alguien inferior a él, salvo en las escasas oportunidades en que el imitado haga algo de valor, y de todos modos se avergonzará, en parte por carecer de práctica en la imitación de tales personajes, en parte por sentir repulsión hacia el amoldarse él mismo y adaptarse a los tipos de baja ralea; desdeñará estas cosas, excepto como pasatiempo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0146",
+      "stephanus": "396e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es natural.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0147",
+      "stephanus": "396e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, usará el tipo de narrativa que describíamos hace unos momentos a propósito de los versos de Homero, y su modo de relatar participará tanto de la imitación como de la narración simple; pero la parte de imitación será breve dentro de un texto extenso. ¿Entiendes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0148",
+      "stephanus": "396e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, y creo que así ha de ser forzosamente el prototipo de relator.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0149",
+      "stephanus": "397a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, el relator que no sea como ése será tanto más mediocre, preferirá imitar todo y no considerará nada indigno de él, de modo que tratará de imitar seriamente y ante muchos todo lo que acabamos de mencionar: truenos, ruidos de vientos y granizo, de ejes de ruedas y poleas, trompetas, flautas, siringas y sonidos de todos los instrumentos, así como voces de perros, ovejas y pájaros. Y así todo su relato estará formado por imitaciones de sonidos y gestos, y muy poco de narración.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0150",
+      "stephanus": "397b",
+      "kind": "speech",
+      "text": {
+        "es": "—Forzosamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0151",
+      "stephanus": "397b",
+      "kind": "speech",
+      "text": {
+        "es": "—Tales son, pues, los dos tipos de narrativa a los que me refería.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0152",
+      "stephanus": "397b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ésos son, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0153",
+      "stephanus": "397b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en un caso las variaciones son pequeñas, y, una vez que se asignan al texto la armonía y el ritmo adecuados, sucede que el que recita correctamente sólo necesita recitar según la misma cadencia y en una misma armonía —ya que son pocas las variaciones—, y en un ritmo análogamente parejo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0154",
+      "stephanus": "397c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0155",
+      "stephanus": "397c",
+      "kind": "speech",
+      "text": {
+        "es": "—En el otro caso se requiere lo contrario: todas las armonías y todos los ritmos, si es que ha de recitarse del modo que le es propio, ya que cuenta con variedades de toda forma.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0156",
+      "stephanus": "397c",
+      "kind": "speech",
+      "text": {
+        "es": "—Con toda razón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0157",
+      "stephanus": "397c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y todos los poetas y los que cuentan algo echan mano a uno u otro tipo de recitación de los ya mencionados, o bien a alguno que resulte de la mezcla de ambos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0158",
+      "stephanus": "397c",
+      "kind": "speech",
+      "text": {
+        "es": "—Necesariamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0159",
+      "stephanus": "397d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿qué haremos? ¿Admitiremos en nuestro Estado todos estos tipos, o bien alguno de ellos en estado puro, o bien uno mezclado con el otro?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0160",
+      "stephanus": "397d",
+      "kind": "speech",
+      "text": {
+        "es": "—Si mi opinión se impone, admitiremos la imitación pura del hombre de bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0161",
+      "stephanus": "397d",
+      "kind": "speech",
+      "text": {
+        "es": "—Mi querido Adimanto, también es agradable el tipo mixto; pero mucho más agradable para los niños, así como para sus maestros y para la mayoría de la muchedumbre, es el opuesto al que tú eliges.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0162",
+      "stephanus": "397d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente, ese tipo es el que agrada más.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0163",
+      "stephanus": "397d",
+      "kind": "speech",
+      "text": {
+        "es": "—Con mucha probabilidad, sin embargo, dirás que ese tipo no se adecua a nuestra organización política, porque en nuestro Estado el hombre no se desdobla ni se multiplica, ya que cada uno hace una sola cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0164",
+      "stephanus": "397e",
+      "kind": "speech",
+      "text": {
+        "es": "—No se adecua, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0165",
+      "stephanus": "397e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por esa razón, en nuestro Estado únicamente hallaremos al zapatero que fabrica calzado sin ser piloto además de fabricante, y al labriego que es labriego, pero no juez al mismo tiempo que labriego, y al militar que es militar y no es comerciante además de ser militar, y así con todo el resto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0166",
+      "stephanus": "397e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0167",
+      "stephanus": "398a",
+      "kind": "speech",
+      "text": {
+        "es": "—De ese modo, si arribara a nuestro Estado un hombre cuya destreza lo capacitara para asumir las más variadas formas y para imitar todas las cosas, y se propusiera hacer una exhibición de sus poemas, creo que nos prosternaríamos ante él como ante alguien digno de culto, maravilloso y encantador, pero le diríamos que en nuestro Estado no hay hombre alguno como él ni está permitido que llegue a haberlo, y lo mandaríamos a otro Estado, tras derramar mirra sobre su cabeza y haberla coronado con cintillas de lana. En cuanto a nosotros, emplearemos un poeta y narrador de mitos más austero y menos agradable, pero que nos sea más provechoso, que imite el modo de hablar del hombre de bien y que cuente sus relatos ajustándose a aquellas pautas que hemos prescrito desde el comienzo, cuando nos dispusimos a educar a los militares.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0168",
+      "stephanus": "398b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así haríamos, en efecto, si depende de nosotros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0169",
+      "stephanus": "398b",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece, mi querido amigo, que ya hemos dado completamente término a la descripción de la parte de la música que concierne a los discursos y mitos, pues hemos hablado de lo que hay que decir y de cómo hay que decirlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0170",
+      "stephanus": "398b",
+      "kind": "speech",
+      "text": {
+        "es": "—También a mí me parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0171",
+      "stephanus": "398c",
+      "kind": "speech",
+      "text": {
+        "es": "—Después de eso resta lo que atañe al carácter de los cantos y de las melodías.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0172",
+      "stephanus": "398c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es evidente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0173",
+      "stephanus": "398c",
+      "kind": "speech",
+      "text": {
+        "es": "—Seguramente todos pueden darse cuenta de lo que hay que decir acerca de tales asuntos para concordar con las pautas ya mencionadas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0174",
+      "stephanus": "398c",
+      "kind": "narration",
+      "text": {
+        "es": "Glaucón se echó a reír:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0175",
+      "stephanus": "398c",
+      "kind": "speech",
+      "text": {
+        "es": "—En lo que a mí toca, Sócrates —dijo—, temo quedar excluído de esos ‘todos’, pues por el momento no me es posible conjeturar qué es lo que debemos decir; no obstante, algo barrunto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0176",
+      "stephanus": "398d",
+      "kind": "speech",
+      "text": {
+        "es": "—En todo caso, ha de serte posible hablar de un primer punto: la melodía está compuesta por tres elementos, a saber, texto, armonía y ritmo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0177",
+      "stephanus": "398d",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0178",
+      "stephanus": "398d",
+      "kind": "speech",
+      "text": {
+        "es": "—En lo que hace al texto en sí mismo, no difiere del texto que no sea cantado, en cuanto a la necesidad de que se ajuste a las pautas y modalidades que hemos enunciado anteriormente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0179",
+      "stephanus": "398d",
+      "kind": "speech",
+      "text": {
+        "es": "—Cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0180",
+      "stephanus": "398d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en lo tocante a la armonía y al ritmo, deben adecuarse al texto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0181",
+      "stephanus": "398d",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso es claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0182",
+      "stephanus": "398d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, hemos dicho que en los textos no permitiríamos quejas ni lamentos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0183",
+      "stephanus": "398d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0184",
+      "stephanus": "398e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cuáles son esas armonías quejumbrosas? Dímelo, ya que eres músico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0185",
+      "stephanus": "398e",
+      "kind": "speech",
+      "text": {
+        "es": "—La lidia mixta, la lidia tensa y otras similares.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0186",
+      "stephanus": "398e",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, ésas deben ser suprimidas; no son útiles, en efecto, ni siquiera para mujeres que se hagan acreedoras al respeto; y menos aún para el resto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0187",
+      "stephanus": "398e",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0188",
+      "stephanus": "398e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero también la embriaguez, la molicie y la pereza son por completo inapropiadas para los guardianes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0189",
+      "stephanus": "398e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo negarlo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0190",
+      "stephanus": "398e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cuáles armonías son muelles y aptas para canciones de bebedores?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0191",
+      "stephanus": "398e",
+      "kind": "speech",
+      "text": {
+        "es": "—Algunas armonías jonias y lidias son consideradas relajantes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0192",
+      "stephanus": "399a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y podría empleárselas ante varones que van a la guerra?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0193",
+      "stephanus": "399a",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo; y me temo que no te queden ya más que la doria y la frigia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0194",
+      "stephanus": "399a",
+      "kind": "speech",
+      "text": {
+        "es": "—De armonías yo no sé nada; pero déjanos una con la cual se pueda imitar adecuadamente los tonos y modulaciones de la voz de un varón valiente que, participando de un suceso bélico o de un acto cualquiera de violencia, no tiene fortuna, sea porque sufre heridas o cae muerto o experimente alguna otra clase de desgracia; pero que, en cualquiera de esos casos, afronte el infortunio de forma firme y valiente. También piensa en otra armonía con la cual se pueda imitar a quien, por medio de una acción pacífica y no violenta sino atenta de la voluntad del otro, lo intenta persuadir y le suplica: con una plegaria a un dios, con una enseñanza o una exhortación a un hombre; o a la inversa, que se somete por sí mismo al intento de otro de suplicarle, enseñarle y persuadirle, sin comportarse con soberbia tras haber obtenido lo que deseaba, sino que en todos esos casos actúa con moderación y mesura, y se satisface con los resultados. Las armonías que debes dejarnos, pues, son las que mejor imitarán las voces de los infortunados y de los afortunados, de los moderados y de los valientes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0195",
+      "stephanus": "399b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues las que pides que nos queden no son otras que las que acabo de mencionar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0196",
+      "stephanus": "399b",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso no nos hará falta, para nuestras canciones y melodías, contar con muchas cuerdas ni abarcar todas las armonías.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0197",
+      "stephanus": "399b",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0198",
+      "stephanus": "399b",
+      "kind": "speech",
+      "text": {
+        "es": "—No tendremos que alimentar, por consiguiente, a artífices de triángulos, pectides y de todos aquellos instrumentos que cuentan con muchas cuerdas y abarcan muchas armonías.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0199",
+      "stephanus": "399b",
+      "kind": "speech",
+      "text": {
+        "es": "—No lo necesitaremos, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0200",
+      "stephanus": "399b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y admitirías en nuestro Estado a los flautistas y a los fabricantes de flautas? ¿No es acaso la flauta el instrumento que posee más sonidos, y no son acaso imitaciones de la flauta los instrumentos mismos que permiten todas las armonías?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0201",
+      "stephanus": "399b",
+      "kind": "speech",
+      "text": {
+        "es": "—Evidentemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0202",
+      "stephanus": "399c",
+      "kind": "speech",
+      "text": {
+        "es": "—Te quedan, entonces, como útiles en la ciudad, la lira y la cítara; y para los pastores, en el campo, la siringa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0203",
+      "stephanus": "399c",
+      "kind": "speech",
+      "text": {
+        "es": "—El argumento lo demuestra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0204",
+      "stephanus": "399c",
+      "kind": "speech",
+      "text": {
+        "es": "—Nada nuevo haremos, mi amigo: escogeremos a Apolo y sus instrumentos antes que a Marsias y los de éste.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0205",
+      "stephanus": "399c",
+      "kind": "speech",
+      "text": {
+        "es": "—Al parecer, nada nuevo haremos, ¡por Zeus! —replicó Glaucón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0206",
+      "stephanus": "399c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Y por el perro! —exclamé—. Sin darnos cuenta hemos estado purificando de nuevo el Estado que hace poco decíamos era lujoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0207",
+      "stephanus": "399c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y hemos procedido sensatamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0208",
+      "stephanus": "400a",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien, purifiquemos lo que queda. Porque a las armonías debe seguir lo relativo a los ritmos: no hay que ir en pos de ritmos muy variados ni de pasos de toda índole, sino observar los ritmos que son propios de un modo de vivir ordenado y valeroso y, una vez observados, será necesario que el pie y la melodía se adecuen al lenguaje propio de semejante hombre, y no que el lenguaje se adecue al pie y a la melodía. Decir cuáles son esos ritmos es función que debes cumplir tú, tal como hiciste al hablar de las armonías.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0209",
+      "stephanus": "400a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin embargo, por Zeus, no estoy en condiciones de decirlo. En efecto, por lo que he visto, afirmaría que hay tres clases de pasos a partir de los cuales se forman combinaciones, así como hay cuatro clases de notas de donde se generan todas las armonías. Pero no podría afirmar qué modo de vida representa cada clase.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0210",
+      "stephanus": "400b",
+      "kind": "speech",
+      "text": {
+        "es": "—En ese caso —dije—, consultaremos a Damón sobre qué pasos corresponden a la bajeza, a la desmesura, a la demencia y otros males, y cuáles ritmos hay que reservar para los estados contrarios a éstos. Creo haber oído hablar —no muy claramente— acerca de un compuesto que él llamaba «enoplio», así como de uno dáctilo y de otro heroico que organizaba no sé cómo, igualando los tiempos no acentuados con los acentuados, y que desembocaban tanto en una sílaba breve como en una larga. También hablaba, me parece, del yambo, y llamaba a otro ‘troqueo’, asignando a ambos sílabas largas y breves. Y a alguno de éstos, creo, censuraba o elogiaba en cuanto a los movimientos impresos al pie mismo, no menos que a los ritmos en sí mismos, o bien a alguna combinación de ambos, no puedo decirlo bien. Pero como dije, para eso debemos remitirnos a Damón; pues discernirlo nos requeriría un tratamiento extenso. ¿No te parece?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0211",
+      "stephanus": "400c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente, por Zeus.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0212",
+      "stephanus": "400c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero al menos podrás decidir esto: ¿no depende la gracia y la falta de gracia del ritmo perfecto y del ritmo defectuoso, respectivamente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0213",
+      "stephanus": "400c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por supuesto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0214",
+      "stephanus": "400d",
+      "kind": "speech",
+      "text": {
+        "es": "—Además, el ritmo perfecto se adapta a la dicción bella, asemejándose a ella; el ritmo defectuoso, a la dicción opuesta. Del mismo modo con lo armonioso y lo carente de armonía, si es que el ritmo y la armonía se ajustan al texto, como decíamos hace un momento, y no el texto al ritmo y a la armonía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0215",
+      "stephanus": "400d",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que se ajustarán al texto —respondió Glaucón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0216",
+      "stephanus": "400d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y la manera de decir, y el texto, ¿no se adecuarán al carácter del alma?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0217",
+      "stephanus": "400d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0218",
+      "stephanus": "400d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y lo demás no sigue a la dicción?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0219",
+      "stephanus": "400d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0220",
+      "stephanus": "400e",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces tanto el lenguaje correcto como el equilibrio armonioso, la gracia y el ritmo perfecto son consecuencia de la simplicidad del alma; mas no de esa falta de carácter que por eufemismo llamamos simplicidad, sino de la disposición verdaderamente buena y bella del carácter y del ánimo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0221",
+      "stephanus": "400e",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0222",
+      "stephanus": "400e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y nuestros jóvenes deberán buscar por doquier tales cualidades, si han de hacer su parte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0223",
+      "stephanus": "400e",
+      "kind": "speech",
+      "text": {
+        "es": "—Deben buscarlas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0224",
+      "stephanus": "401a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, la pintura está plena de ellas, y lo mismo toda artesanía análoga, como la de tejer o bordar o construir casas o fabricar toda clase de artefactos caseros; y también la naturaleza de los cuerpos de animales y la naturaleza de las diversas plantas. Porque en todas estas cosas hay gracia o falta de gracia. Y la falta de gracia, de ritmo y armonía se hermanan con el lenguaje grosero y con el mal carácter, en tanto que las cualidades contrarias se hermanan con el carácter opuesto, que es bueno y sabio, y al cual representan.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0225",
+      "stephanus": "401a",
+      "kind": "speech",
+      "text": {
+        "es": "—Perfectamente claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0226",
+      "stephanus": "401b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, no sólo a los poetas hemos de supervisar y forzar en sus poemas imágenes de buen carácter —o, en caso contrario, no permitirles componer poemas en nuestro Estado—, sino que debemos supervisar también a los demás artesanos, e impedirles representar, en las imitaciones de seres vivos, lo malicioso, lo intemperante, lo servil y lo indecente, así como tampoco en las edificaciones o en cualquier otro producto artesanal. Y al que no sea capaz de ello no se le permitirá ejercer su arte en nuestro Estado, para evitar que nuestros guardianes crezcan entre imágenes del vicio como entre hierbas malas, que arrancaran día tras día de muchos lugares, y pacieran poco a poco, sin percatarse de que están acumulando un gran mal en sus almas. Por el contrario, hay que buscar los artesanos capacitados, por sus dotes naturales, para seguir las huellas de la belleza y de la gracia. Así los jóvenes, como si fueran habitantes de una región sana, extraerán provecho de todo, allí donde el flujo de las obras bellas excita sus ojos o sus oídos como una brisa fresca que trae salud desde lugares salubres, y desde la tierna infancia los conduce insensiblemente hacia la afinidad, la amistad y la armonía con la belleza racional.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0227",
+      "stephanus": "401c",
+      "kind": "speech",
+      "text": {
+        "es": "—Con mucho ése sería el mejor modo de educarlos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0228",
+      "stephanus": "401c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, Glaucón, la educación musical es de suma importancia a causa de que el ritmo y la armonía son lo que más penetra en el interior del alma y la afecta más vigorosamente, trayendo consigo la gracia, y crea gracia si la persona está debidamente educada, no si no lo está. Además, aquel que ha sido educado musicalmente como se debe es el que percibirá más agudamente las deficiencias y la falta de belleza, tanto en las obras de arte como en las naturales, ante las que su repugnancia estará justificada; alabará las cosas hermosas, regocijándose con ellas y, acogiéndolas en su alma, se nutrirá de ellas hasta convertirse en un hombre de bien. Por el contrario, reprobará las cosas feas —también justificadamente— y las odiará ya desde joven, antes de ser capaz de alcanzar la razón de las cosas; pero, al llegar a la razón, aquel que se haya educado del modo descrito le dará la bienvenida, reconociéndola como algo familiar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0229",
+      "stephanus": "402a",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece, en efecto, que la educación musical apunta a eso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0230",
+      "stephanus": "402a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, pasa de modo análogo al caso de las letras, en que sentíamos reconocerlas suficientemente cuando éstas, por pocas que fueran, eran descubiertas por nosotros en todas las combinaciones existentes, sin descuidarlas por ser pequeñas o grandes —como si por eso no hiciera falta percibirlas—, sino poniendo celo en distinguirlas en todas sus apariciones, con el pensamiento de que no llegaríamos a leer bien antes de obrar así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0231",
+      "stephanus": "402b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0232",
+      "stephanus": "402b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si sucediese que en el agua o en espejos aparecieran reflejadas imágenes de las letras, no las reconoceríamos antes de haber conocido las letras mismas, pues una cosa y otra corresponden al mismo arte y al mismo estudio.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0233",
+      "stephanus": "402b",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0234",
+      "stephanus": "402b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, lo que afirmo ¡por los dioses! es que no seremos músicos, ni nosotros ni aquellos de los que decimos deben ser educados, los guardianes, antes de que conozcamos las formas específicas de la moderación, de la valentía, de la liberalidad, de la magnanimidad y de cuantas virtudes se hermanan con ellas, así como de sus opuestas, en todas las combinaciones en que aparezcan por doquier, ni antes de que percibamos su presencia allí donde están presentes —ellas y sus imágenes—, sin descuidarlas porque sean pequeñas o grandes, sino que pensaremos que una y otra cosa corresponden a un mismo arte y a un mismo estudio.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0235",
+      "stephanus": "402c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es forzoso que así sea.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0236",
+      "stephanus": "402d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto —dije—, si se produce la coincidencia de que estén presentes en el alma bellos rasgos que también se hallan en la figura corporal y concuerdan y armonizan con aquéllos, por participar del mismo tipo, ¿no será éste el más hermoso espectáculo para quien lo pudiera contemplar?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0237",
+      "stephanus": "402d",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0238",
+      "stephanus": "402d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y lo más hermoso no es lo que más se ama?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0239",
+      "stephanus": "402d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0240",
+      "stephanus": "402d",
+      "kind": "speech",
+      "text": {
+        "es": "—Si es así, el verdadero músico amará más a los hombres de esa índole; pero si carecieran de armonía, no los amará.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0241",
+      "stephanus": "402d",
+      "kind": "speech",
+      "text": {
+        "es": "—No los amará —replicó Glaucón— si la carencia concierne al alma; si concerniera al cuerpo, en cambio, los soportaría y hasta estaría dispuesto a darles la bienvenida.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0242",
+      "stephanus": "402e",
+      "kind": "speech",
+      "text": {
+        "es": "—Entiendo —respondí—, porque amas o has amado a alguien así; y lo admito. Pero dime esto: ¿tiene el placer excesivo algo en común con la moderación?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0243",
+      "stephanus": "402e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo podría tenerlo, si saca de quicio al hombre, no menos que el dolor?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0244",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y con alguna otra virtud tiene algo en común?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0245",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0246",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y con la demencia y la intemperancia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0247",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—Con éstas, más que con cualquier otra cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0248",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos: ¿puedes mencionar algún placer más fuerte y más vivo que el placer sexual?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0249",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—No, ni tampoco alguno más próximo a la locura.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0250",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero el verdadero amor consiste por naturaleza en amar de forma moderada y armoniosa lo ordenado y bello.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0251",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0252",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, no se adicionará al verdadero amor nada afín a la locura ni a la intemperancia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0253",
+      "stephanus": "403a",
+      "kind": "speech",
+      "text": {
+        "es": "—No, ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0254",
+      "stephanus": "403b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni tampoco se le adicionará aquel placer ya mencionado, que no debe tener nada en común con el amante y el amado que se aman verdaderamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0255",
+      "stephanus": "403b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, Sócrates, no hay que añadírselo, por Zeus.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0256",
+      "stephanus": "403b",
+      "kind": "speech",
+      "text": {
+        "es": "—Si es así como parece, en el Estado que estamos fundando promulgarás una ley según la cual un amante deberá besar al amado, estar junto a él y acariciarlo como a un hijo, con un propósito noble y si media consentimiento; pero por lo demás su relación con aquel por el cual se preocupa debe ser tal, que nunca se crea que el trato ha ido más lejos. En caso contrario, que afronte el reproche de tosquedad y del mal gusto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0257",
+      "stephanus": "403c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así sea.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0258",
+      "stephanus": "403c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no te parece que ahora ha alcanzado su fin el discurso acerca de la música? Pues ha terminado donde debía terminar, ya que conviene que la música termine en el amor de lo bello.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0259",
+      "stephanus": "403c",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0260",
+      "stephanus": "403c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, después de la música los jóvenes deben ser educados por medio de la gimnasia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0261",
+      "stephanus": "403c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo que corresponde.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0262",
+      "stephanus": "403d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, también en ese sentido hay que educarlos, desde niños, toda la vida. Te diré lo que pienso sobre este asunto, pero examínalo tú también. No creo que, aun cuando el cuerpo esté en condiciones óptimas, su perfección beneficie al alma; pero en el caso inverso un alma buena, por medio de su excelencia, hará que el cuerpo sea lo mejor posible. ¿Y tú qué opinas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0263",
+      "stephanus": "403d",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo mismo que tú.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0264",
+      "stephanus": "403d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces, si hemos atendido suficientemente nuestro espíritu y le transferimos el cuidado más preciso de lo que concierne al cuerpo, y nosotros indicamos sólo las pautas, para no extendernos en discursos, ¿actuaremos correctamente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0265",
+      "stephanus": "403d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0266",
+      "stephanus": "403d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ya hemos dicho que los guardianes debían abstenerse de embriagarse; porque para cualquiera es más admisible que para un guardián la embriaguez y la pérdida de la noción del lugar de la tierra en que está.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0267",
+      "stephanus": "403d",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto —dijo Glaucón—, sería ridículo que un guardián necesitara a su vez de un guardián.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0268",
+      "stephanus": "403d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y en lo que a los alimentos concierne? Pues nuestros hombres son atletas que toman parte en la competición más importante. ¿No lo crees?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0269",
+      "stephanus": "403d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí lo creo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0270",
+      "stephanus": "404a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y será el modo actual de ejercitarse el adecuado a ellos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0271",
+      "stephanus": "404a",
+      "kind": "speech",
+      "text": {
+        "es": "—Tal vez.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0272",
+      "stephanus": "404a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin embargo, es algo somnoliento y peligroso para la salud. ¿O no ves que se pasan la vida durmiendo, y, si se alejan un poco del régimen prescrito, estos atletas padecen grandes y violentas enfermedades?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0273",
+      "stephanus": "404a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, lo veo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0274",
+      "stephanus": "404b",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces se necesita un tipo de ejercicio más adecuado a nuestros guerreros atletas, quienes, como los perros, deben estar siempre alertos y aguzar al máximo ojos y oídos, y aun cuando sufran muchos cambios durante las campañas —sea de agua y diversos alimentos, sea de calores solares y de tormentas invernales— han de gozar de una salud resistente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0275",
+      "stephanus": "404b",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0276",
+      "stephanus": "404b",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, ¿la mejor gimnasia no estará hermanada con la música que hace un momento describíamos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0277",
+      "stephanus": "404b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué quieres decir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0278",
+      "stephanus": "404b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso en una gimnasia simple y adecuada especialmente en lo que concierne a la guerra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0279",
+      "stephanus": "404b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo será?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0280",
+      "stephanus": "404b",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso lo hemos aprendido de Homero. Sabes que, cuando sus héroes comen en campaña, no los alimenta con pescado, ni aunque estén junto al mar o en el Helesponto, y tampoco con carne hervida, sino sólo asada, que es la que más fácil pueden procurarse los soldados. Porque, como se suele decir, en todas partes es más fácil proveerse del fuego solo que dar vueltas de un lado a otro llevando potes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0281",
+      "stephanus": "404c",
+      "kind": "speech",
+      "text": {
+        "es": "—Más fácil, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0282",
+      "stephanus": "404c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en cuanto a dulces, creo, Homero jamás los menciona. Y esto es algo que los demás atletas saben: si han de mantener su cuerpo en forma deben abstenerse de todos los alimentos de esa índole.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0283",
+      "stephanus": "404c",
+      "kind": "speech",
+      "text": {
+        "es": "—No sólo lo saben bien sino que efectivamente se abstienen de ellos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0284",
+      "stephanus": "404d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y no creo, mi querido amigo, que apruebes la mesa siracusana ni la variedad de platos sicilianos, salvo que opines que estas cosas son correctas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0285",
+      "stephanus": "404d",
+      "kind": "speech",
+      "text": {
+        "es": "—No, no opino eso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0286",
+      "stephanus": "404d",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, también censurarás a los hombres que, debiendo mantener su cuerpo en forma, tengan una joven corintia como concubina.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0287",
+      "stephanus": "404d",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0288",
+      "stephanus": "404d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y las afamadas delicias de la pastelería ateniense?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0289",
+      "stephanus": "404d",
+      "kind": "speech",
+      "text": {
+        "es": "—Necesariamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0290",
+      "stephanus": "404d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que haríamos una comparación correcta si cotejáramos semejante alimentación y todo ese régimen de vida con la melodía y con el canto compuesto donde caben todas las armonías y todos los ritmos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0291",
+      "stephanus": "404d",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0292",
+      "stephanus": "404d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, la variedad produce intemperancia en un caso, en el otro enfermedad; en cambio la simplicidad en la música genera moderación en el alma, y la simplicidad en la gimnasia confiere salud al cuerpo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0293",
+      "stephanus": "404e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0294",
+      "stephanus": "405a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero si en el Estado abundan la intemperancia y las enfermedades, se abren muchos tribunales y casas de atención médica, y la argucia judicial y la medicina son veneradas solemnemente cuando incluso muchos hombres libres ponen su celo intenso en ellas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0295",
+      "stephanus": "405a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y no puede ser de otro modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0296",
+      "stephanus": "405a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda, no podrás dar con una prueba mayor de una educación pública viciosa y vergonzosa que la que ofrece la necesidad de médicos y jueces hábiles, no sólo por parte de gente vulgar y de los trabajadores manuales, sino también por quienes se jactan de haber sido educados de forma liberal. ¿Y no te parece vergonzoso y una importante prueba de la deficiente educación la necesidad, por falta de justicia y de recursos propios, de apelar a otros en calidad de amos y jueces?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0297",
+      "stephanus": "405b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo más vergonzoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0298",
+      "stephanus": "405b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues dime si no te parece más vergonzoso aún esto: cuando alguien pasa la mayor parte de su vida en los tribunales, como acusado o acusador, y, lo que es peor, a causa de su ignorancia de lo valioso, se persuade de que debe enorgullecerse de su habilidad para el delito y de su capacidad para dar toda clase de vueltas, recorrer todos los recovecos y escapar, doblándose como un mimbre, a fin de no afrontar la justicia. Y esto por cosas de poco o ningún valor, mientras desconoce cuánto más bello y mejor es organizarse la vida de modo que no tenga necesidad de un juez semidormido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0299",
+      "stephanus": "405e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, me parece que esto es más vergonzoso aún.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0300",
+      "stephanus": "405e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en lo que concierne a la necesidad de la medicina —proseguí—, no a causa de heridas ni de una de esas enfermedades que acometen anualmente, sino por obra de la pereza y del tipo de vida que ya hemos descrito, se llenan, como si fueran estanques, de corrientes y de vientos, obligando a los ingeniosos Asclepíadas a poner a estas enfermedades nombres como ‘catarros’ y ‘flatulencias’. ¿No te parece también vergonzoso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0301",
+      "stephanus": "406a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, en realidad ésos son nombres de enfermedades, recién inventados y absurdos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0302",
+      "stephanus": "406a",
+      "kind": "speech",
+      "text": {
+        "es": "—A mi ver, nada de eso había en tiempos de Asclepio. He aquí la prueba: cuando sus hijos estaban en Troya y vieron a Eurípilo herido, no censuraron a la mujer que le dio a beber vino de Pramno salpicado con harina de cebada y con queso fresco rallado, que parece ser inflamatorio, ni han censurado a Patroclo por proceder de ese modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0303",
+      "stephanus": "406a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y sin embargo —dijo Glaucón—, era una bebida absurda para quien estuviera en esas condiciones.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0304",
+      "stephanus": "406a",
+      "kind": "speech",
+      "text": {
+        "es": "—No tan absurda —repuse— si reflexionas que, antiguamente —según se dice, antes de Heródico—, los Asclepíadas no practicaban el arte de atender enfermedades, la medicina actual. Heródico, que era maestro de gimnasia y cayó enfermo, mezcló la gimnasia con la medicina, con lo cual se atormentó primeramente y al máximo a sí mismo, y después a muchos otros de sus sucesores.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0305",
+      "stephanus": "406b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué manera?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0306",
+      "stephanus": "406b",
+      "kind": "speech",
+      "text": {
+        "es": "—Haciendo que su muerte fuese lenta. En efecto, al atender cuidadosamente su enfermedad, que era mortal y no pudo curar, vivió toda su vida sin tiempo para otra cosa que no fuera su tratamiento médico, torturándose si llegaba a apartarse en algo de su régimen habitual, y así llegó a la vejez, muriendo duramente a causa de su sabiduría.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0307",
+      "stephanus": "406b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Bello presente le aportó su arte!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0308",
+      "stephanus": "406b",
+      "kind": "speech",
+      "text": {
+        "es": "—El que es natural para quien no sabe que Asclepio no mostró a sus descendientes esta clase de medicina, no por ignorancia ni inexperiencia, sino porque sabía que para todos los ciudadanos de cada Estado bien ordenado hay asignada una función que necesariamente deben cumplir, y nadie tendría tiempo para enfermarse y pasar toda la vida ocupado en su tratamiento médico. Es algo que, absurdamente, nosotros advertimos cuando se trata de los artesanos, y lo pasamos por alto, en cambio, si se trata de gente rica y que parece dichosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0309",
+      "stephanus": "406c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo es eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0310",
+      "stephanus": "406d",
+      "kind": "speech",
+      "text": {
+        "es": "—Cuando un carpintero está enfermo, pide al médico que le libere de la enfermedad, sea bebiendo alguna poción que lo haga vomitar o evacuar excrementos, sea recurriendo a una cauterización o a un corte con un cuchillo. Pero si se le prescribe un régimen largo, haciéndole ponerse en la cabeza un gorrito de lana, y todo lo que sigue a esto, pronto dirá que no tiene tiempo para estar enfermo ni le es provechoso vivir así, atendiendo a su enfermedad y descuidando el trabajo que le corresponde. Y después de eso se despedirá de ese médico y emprenderá su modo de vida habitual, tras lo cual se sanará y vivirá ejerciendo su oficio; o en caso de que su cuerpo no sea capaz por sí solo de resistir, morirá y quedará liberado de sus preocupaciones.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0311",
+      "stephanus": "406e",
+      "kind": "speech",
+      "text": {
+        "es": "—Tal parece ser la medicina que corresponde aplicar a ese tipo de hombre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0312",
+      "stephanus": "407a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y acaso eso no es así porque tiene una función tal que, si no la realiza, no le resulta provechoso vivir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0313",
+      "stephanus": "407a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es evidente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0314",
+      "stephanus": "407a",
+      "kind": "speech",
+      "text": {
+        "es": "—El rico, en cambio, podemos decir que no tiene una función propia que, si fuera a abandonarla, su vida carecería de sentido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0315",
+      "stephanus": "407a",
+      "kind": "speech",
+      "text": {
+        "es": "—Podemos decirlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0316",
+      "stephanus": "407a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No has oído cómo dice Focílides que, cuando ya se cuenta con medios de vida, se debe practicar la virtud?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0317",
+      "stephanus": "407a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por mi parte, opino que la deberíamos practicar también antes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0318",
+      "stephanus": "407a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero no vamos a pelearnos por ese punto —argüí—, sino, más bien, a instruirnos si eso de practicar la virtud debe ser ocupación propia del rico a tal punto que la vida carezca de sentido para éste si no puede ocuparse de ella, o bien si ese cuidado de las enfermedades que impedía al carpintero y a los otros artesanos pensar en su propio oficio no es un obstáculo para cumplir con la exhortación de Focílides.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0319",
+      "stephanus": "407b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por Zeus, probablemente lo que más impida cumplir con ella es la exagerada atención del cuerpo más allá de la gimnasia común. Es, en efecto, algo molesto tanto en la administración de la casa como en las expediciones militares o en el desempeño de cargos sedentarios en la ciudad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0320",
+      "stephanus": "407c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero la mayor de las dificultades que acarrea —proseguí— concierne a toda clase de aprendizajes, pensamientos y reflexiones acerca de sí mismo, ya que se imagina siempre cefaleas y mareos, y se acusa a la filosofía de generarlas. De modo que allí donde exista ese cuidado de las enfermedades será un obstáculo en todo sentido para que la virtud sea practicada y para que sea puesta a prueba, pues hace que la persona crea estar siempre enferma y nunca deje de lamentarse por el estado de su cuerpo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0321",
+      "stephanus": "407c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es natural.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0322",
+      "stephanus": "407c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y podremos decir que Asclepio conocía estas cosas, y ha tenido en cuenta a aquellos que mantienen sanos sus cuerpos gracias a la naturaleza y a su régimen de vida, y sólo son afectados por alguna enfermedad bien delimitada, pues para ellos y en tal condición ha revelado el arte de la medicina y, para no perjudicar los asuntos políticos, les prescribió pociones e incisiones que expulsaran las enfermedades sin cambiar la dieta habitual. En cambio, en los casos en que los cuerpos están totalmente enfermos por dentro, no intentó prolongar la desdichada vida de los enfermos por medio de dietas, que incluyeran evacuaciones e infusiones graduales, ni hacerles procrear hijos semejantes a ellos, probablemente. Ha pensado, en efecto, que no se debía curar al que no puede vivir en un período establecido como regular, pues eso no sería provechoso para él ni para el Estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0323",
+      "stephanus": "407e",
+      "kind": "speech",
+      "text": {
+        "es": "—Hablas de Asclepio como si hubiese sido un estadista.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0324",
+      "stephanus": "407e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es patente que lo era. Y también sus hijos: ¿no ves cómo revelaron su bravura en la guerra de Troya, a la vez que emplearon la medicina del modo que he descrito? Recuerda que, cuando una flecha de Pándaro le produjo a Menelao una herida,\nchuparon sangre de ésta y le aplicaron un remedio calmante.\nPero no le prescribieron lo que después de eso debía beber o comer —como tampoco a Eurípilo—, pensando que tal remedio era suficiente para curar a varones que, antes de las heridas, habían sido sanos y ordenados en su régimen de vida, aunque se diera el caso de que en ese momento estuvieran bebiendo alguna mezcla. Y pensaban que la vida de alguien enfermizo e intemperante por naturaleza no sería de provecho ni para sí mismo ni para los demás, por lo cual no se le debía aplicar el arte de la medicina ni llevar a cabo tratamiento alguno, ni aunque fuese alguien más rico que Midas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0325",
+      "stephanus": "408a",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy ingeniosos fueron los hijos de Asclepio, según lo que dices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0326",
+      "stephanus": "408a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo que corresponde a la realidad, aunque los autores de tragedias y Píndaro no compartan nuestra opinión y digan que Asclepio, hijo de Apolo, fue seducido con oro para que curara a un hombre rico que estaba por morir, por lo cual fue abatido por un rayo. Pero nosotros, conforme a lo dicho, no les creeremos ambas cosas a la vez. En efecto, si era hijo de un dios, no se envilecería por ganar dinero; y si se envileciera por ganar dinero, no sería hijo de un dios.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0327",
+      "stephanus": "408a",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso es muy cierto —respondió Glaucón—. Pero dime, Sócrates, qué piensas acerca de esto: ¿no es necesario que el Estado cuente con buenos médicos? Y éstos han de ser, sin duda, aquellos que han tratado a la mayor cantidad de hombres sanos y de hombres enfermos; análogamente, buenos jueces serán los que han tenido que vérselas con toda clase y naturaleza de hombres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0328",
+      "stephanus": "408d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que pienso que debe tener buenos médicos! Pero ¿sabes a quiénes considero tales?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0329",
+      "stephanus": "408d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sólo si me lo dices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0330",
+      "stephanus": "408d",
+      "kind": "speech",
+      "text": {
+        "es": "—Puedo intentarlo; aunque, con una misma fórmula, has preguntado por dos cuestiones distintas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0331",
+      "stephanus": "408d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo es eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0332",
+      "stephanus": "408d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por un lado, los médicos que lleguen a ser más hábiles serán aquellos que, junto al aprendizaje de su arte, ya desde niños han tenido contacto con la mayor cantidad posible de cuerpos en muy malas condiciones de salud, y ellos mismos han padecido toda clase de enfermedades y no son de constitución muy sana. No creo, en efecto, que al cuerpo se lo cure con el cuerpo, ya que, de ser así, no se podría permitir a los médicos estar enfermos ni enfermarse nunca. Pero es por medio del alma que curan al cuerpo, y el alma no puede curar nada si es enferma o se enferma.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0333",
+      "stephanus": "408e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0334",
+      "stephanus": "409a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por otro lado, en cambio, amigo mío, un juez gobierna el alma por medio del alma, y no conviene que su alma se haya educado y familiarizado con almas perversas, ni que haya pasado por toda clase de injusticias, habiéndolas cometido ella misma a fin de probar por sí misma las injusticias de los demás, tan perspicazmente como en el caso del cuerpo enfermo. Por el contrario, es necesario que carezca de experiencia y de contacto con caracteres viciosos ya desde joven, si ha de ser honesto y discernir sanamente lo que es justo. Por ello los hombres decentes parecen ingenuos cuando jóvenes, y son engañados con facilidad por los indecentes; porque no poseen dentro de sí mismos patrones similares en rasgos a los de los perversos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0335",
+      "stephanus": "409b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente, eso es lo que suele suceder.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0336",
+      "stephanus": "409b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por ello el buen juez no debe ser joven sino anciano: alguien que haya aprendido después de mucho tiempo cómo es la injusticia, no por haberla percibido como residente en su propia alma, sino como algo ajeno que ha estudiado en almas ajenas durante largo tiempo, un mal cuya naturaleza ha logrado discriminar por medio de la ciencia, sin tener que recurrir a la experiencia propia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0337",
+      "stephanus": "409c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ése parece ser el juez más excelente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0338",
+      "stephanus": "409c",
+      "kind": "speech",
+      "text": {
+        "es": "—Un buen juez, en todo caso. Que es lo que querías saber; pues el que tiene un alma buena es bueno. En cambio, el hombre hábil y pronto para pensar mal de los demás, siendo él mismo autor de numerosas injusticias y creyendo ser astuto y sabio, cuando trata con gente similar a él parece hábil y precavido, pues atiende a los patrones que posee dentro de sí. Pero cuando se relaciona con gente buena y de mayor edad resulta estúpido, con su desconfianza inoportuna y su incapacidad de reconocer el carácter sano, por no tener dentro de sí los respectivos patrones que lo guíen. Pero como con mayor frecuencia se halla con hombres perversos que con hombres decentes, pasa más por sabio que por ignorante ante los demás y ante sí mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0339",
+      "stephanus": "409d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0340",
+      "stephanus": "409d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, el juez que debemos buscar es el bueno y el sabio, no el otro: la maldad, en efecto, jamás se conocerá a sí misma ni a la virtud; la virtud, en cambio, con el tiempo alcanzará el conocimiento simultáneo de sí misma y de la maldad. Por consiguiente, el sabio será el hombre virtuoso, pienso, y no el malvado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0341",
+      "stephanus": "409d",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy de acuerdo contigo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0342",
+      "stephanus": "410a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, corresponde que se dicte en nuestro Estado una ley relativa a los médicos, tal como los hemos descrito, y otra relativa a los jueces, de modo que los ciudadanos bien constituidos sean atendidos tanto en sus cuerpos como en sus almas. En cuanto a los otros, se dejará morir a aquellos que estén mal constituidos físicamente; y a los que tengan un alma perversa por naturaleza e incurable se los condenará a muerte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0343",
+      "stephanus": "410a",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien ha sido mostrado que esto es lo mejor, tanto para los que padecen el mal como para el Estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0344",
+      "stephanus": "410a",
+      "kind": "speech",
+      "text": {
+        "es": "—Respecto de los jóvenes —proseguí—, es evidente que se cuidarán de no tener que enfrentarse con los jueces, para lo cual se servirán de aquella música simple que decíamos engendra moderación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0345",
+      "stephanus": "410a",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0346",
+      "stephanus": "410b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no preferirá el músico practicar gimnasia siguiendo los mismos pasos, de modo que no necesite en nada de la medicina, excepto en casos de fuerza mayor?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0347",
+      "stephanus": "410b",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0348",
+      "stephanus": "410b",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto a la gimnasia misma y a los esfuerzos que requiere, los llevará a cabo dirigiendo la mirada hacia el lado fogoso de su naturaleza, de modo de estimularlo; y no hacia la fuerza física, como hacen los demás atletas, que administran sus comidas y ejercicios en vista al vigor muscular.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0349",
+      "stephanus": "410b",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0350",
+      "stephanus": "410c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, Glaucón, los que han instituido la educación por medio de la música y de la gimnasia no lo han hecho, como algunos creen, para cuidar por medio de ésta al cuerpo y por medio de aquélla al alma.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0351",
+      "stephanus": "410c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y, si no, para qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0352",
+      "stephanus": "410c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es probable que hayan instituido ambas formas de educación para cuidar al alma.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0353",
+      "stephanus": "410c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo es eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0354",
+      "stephanus": "410c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No te has percatado de que quienes practican gimnasia durante toda la vida, sin prestar atención a la música, están dispuestos anímicamente de un modo muy distinto al de quienes están dispuestos de la forma inversa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0355",
+      "stephanus": "410d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿A qué te refieres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0356",
+      "stephanus": "410d",
+      "kind": "speech",
+      "text": {
+        "es": "—A la rudeza y rigidez, por un lado, y a la molicie y a la dulzura, por otro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0357",
+      "stephanus": "410d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto, que los que practican la gimnasia de forma exclusiva se tornan más rudos de lo debido, y los que cultivan sólo la música se vuelven más blandos de lo que les convendría.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0358",
+      "stephanus": "410d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y, sin embargo —añadí—, la rudeza es producida por el lado fogoso de la naturaleza; la cual, si es criada correctamente, puede llegar a ser valentía, pero si es puesta en tensión extrema, se convierte naturalmente en dureza y brutalidad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0359",
+      "stephanus": "410e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así me parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0360",
+      "stephanus": "410e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien ¿no es acaso la dulzura peculiar de la naturaleza que ansía saber? No hay que dejarla relajar de modo que se vuelva más blanda de lo debido, sino que, educándola bien, se logrará que sea suave y ordenada.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0361",
+      "stephanus": "410e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0362",
+      "stephanus": "410e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y decíamos que los guardianes deben poseer por naturaleza ambas cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0363",
+      "stephanus": "410e",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente, deben poseerlas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0364",
+      "stephanus": "410e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es necesario también que armonicen ambas entre sí?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0365",
+      "stephanus": "410e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Por supuesto!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0366",
+      "stephanus": "411a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y el alma del hombre en la cual armonicen, ¿no será un alma sabia y valiente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0367",
+      "stephanus": "411a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0368",
+      "stephanus": "411a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y la del hombre en que no armonicen, ¿no será ruda y cobarde?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0369",
+      "stephanus": "411a",
+      "kind": "speech",
+      "text": {
+        "es": "—Con seguridad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0370",
+      "stephanus": "411a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, cuando alguien se abandona a la música de modo tal que el sonido de la flauta hechice su alma y fluya a través de sus oídos como de un embudo, para oír armonías como las que hemos descrito, dulces, suaves y plañideras, y pasa toda su vida canturreando y disfrutando las canciones, lo primero que le ocurre es que, si cuenta con alguna fogosidad, ésta se vuelve dúctil como el hierro, y de rígida e inservible se hace útil. Pero si continúa sin resistir al hechizo, su fogosidad pronto se disuelve y se funde, hasta consumirse, como si cortaran los nervios del alma misma, y el hombre se convierte en un guerrero pusilánime.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0371",
+      "stephanus": "411b",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0372",
+      "stephanus": "411b",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto se cumple rápidamente si ya desde un comienzo se trata de alguien desprovisto de fogosidad por naturaleza; si en cambio tiene fogosidad, se le debilita el ánimo y lo vuelve inestable, de modo que se irrita rápidamente por poca cosa y de la misma manera es aplacado. De allí que tales hombres lleguen a ser díscolos e irascibles en lugar de fogosos, por hallarse colmados de descontento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0373",
+      "stephanus": "411c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0374",
+      "stephanus": "411c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora, si un hombre se ejercita con asiduidad en la gimnasia y se alimenta con festines opíparos, dejando de lado la música y la filosofía, ¿no sucederá primeramente que el buen estado corporal lo llene de orgullo y buen ánimo y lo hará ser más valiente de lo que era?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0375",
+      "stephanus": "411c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0376",
+      "stephanus": "411d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y en el caso de que no se ocupe de ninguna otra cosa y que de ningún modo se relacione con la Musa? Si existe dentro de su alma algún deseo de aprender, ¿no sucede que, puesto que no gusta de aprendizajes ni de indagaciones, ni participa de discusiones ni de otras cosas que pertenecen a la Musa, ese deseo se debilita, se ensordece y se enceguece, porque no ha sido despertado ni alimentado, en medio de sensaciones que no han sido purificadas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0377",
+      "stephanus": "411d",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0378",
+      "stephanus": "411d",
+      "kind": "speech",
+      "text": {
+        "es": "—Tal hombre se convertirá, creo, tanto en un enemigo de la razón como en un extraño a la Musa, y no acostumbrará a persuadir por medio de argumentos sino por la violencia y la fuerza, como una fiera, para conseguir sus propósitos, y vivirá en la ignorancia y en la ineptitud para la convivencia, falto de todo sentido del ritmo y de la gracia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0379",
+      "stephanus": "411e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0380",
+      "stephanus": "411e",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo incluso poder decir que algún dios ha concedido a los seres humanos estas dos artes, la de la música y la de la gimnasia, con miras a estas dos cosas: la fogosidad y el ansia de saber. Por lo tanto, no con miras al cuerpo y al alma, excepto en forma accesoria, sino de modo que ambas alcancen un ajuste armonioso entre sí, después de ponerse en tensión adecuadamente y adecuadamente relajarse, hasta llegar al punto más conveniente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0381",
+      "stephanus": "412a",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0382",
+      "stephanus": "412a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, aquel que combine la gimnasia con la música más bellamente y la aplique al alma con mayor sentido de la proporción será el que digamos con justicia que es el músico más perfecto y más armonioso, con mucha más razón que el que combina entre sí las cuerdas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0383",
+      "stephanus": "412a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es muy probable, Sócrates.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0384",
+      "stephanus": "412a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, querido Glaucón, ¿no necesitaremos en nuestro Estado un supervisor siempre atento a esto, si queremos preservar la estructura básica de dicho Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0385",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente lo necesitaremos, y que sea lo más capaz posible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0386",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ya tenemos entonces las pautas de su crianza y educación. ¿Para qué habríamos de describir las danzas de los alumnos, o las cacerías, o las persecuciones con perros, o las competiciones hípicas y gimnásticas? Pues es evidente que esas actividades deben ajustarse a aquellas pautas, y por lo tanto no es difícil descubrir su modalidad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0387",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—No es difícil, probablemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0388",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien. Y después de esto, ¿qué será lo que tenemos que decidir? ¿No deberemos referirnos a quiénes —de los ciudadanos ya aludidos— han de gobernar y quiénes han de ser gobernados?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0389",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues está claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0390",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Que los más ancianos deben gobernar y los más jóvenes ser gobernados, es patente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0391",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es patente, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0392",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no lo es también que quienes deben gobernar han de ser los mejores de aquéllos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0393",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, eso también.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0394",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero los mejores agricultores ¿no son acaso los más aptos para la agricultura?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0395",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0396",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, si nuestros gobernantes deben ser los mejores guardianes, ¿no han de ser acaso los más aptos para guardar el Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0397",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0398",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "Y en tal caso ¿no conviene que, para comenzar, sean inteligentes, eficientes y preocupados por el Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0399",
+      "stephanus": "412d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0400",
+      "stephanus": "412d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y aquello de lo que uno más se preocupa suele ser lo que ama.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0401",
+      "stephanus": "412d",
+      "kind": "speech",
+      "text": {
+        "es": "—Necesariamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0402",
+      "stephanus": "412d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo que uno ama al máximo es aquello a lo cual considera que le convienen las mismas cosas que a sí mismo, y de lo cual piensa que, si lo que le acontece es favorable, lo será para él también; y en caso contrario, no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0403",
+      "stephanus": "412d",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0404",
+      "stephanus": "412e",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, hay que seleccionar entre los guardianes hombres de índole tal que, cuando los examinemos, nos parezcan los más inclinados a hacer toda la vida lo que hayan considerado que le conviene al Estado, y que de ningún modo estarían dispuestos a obrar en sentido opuesto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0405",
+      "stephanus": "412e",
+      "kind": "speech",
+      "text": {
+        "es": "—Serían los más apropiados, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0406",
+      "stephanus": "412e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por eso me parece que en todas las etapas de la vida se los debe vigilar observando si son cuidadosos de aquella convicción y si en algún momento son embrujados y forzados de modo tal que llegan a expulsar, como si lo hubieran olvidado, el pensamiento de que se debe obrar de la manera que sea mejor para el Estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0407",
+      "stephanus": "413a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué quieres decir al hablar de ‘expulsión’?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0408",
+      "stephanus": "413a",
+      "kind": "speech",
+      "text": {
+        "es": "—Te lo diré. Me parece que un pensamiento se va de nuestra mente, queriéndolo o no nosotros, y que queremos que se vaya cuando es un pensamiento falso que trastorna nuestra instrucción, pero no queremos cuando es verdadero.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0409",
+      "stephanus": "412a",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprendo lo que concierne al caso en que ‘queremos’, pero aún necesito que se me instruya con respecto al caso en que ‘no queremos’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0410",
+      "stephanus": "412a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo, pues? ¿No consideras, como yo, que los hombres son privados de los bienes sin quererlo, mientras que de los males, queriéndolo? ¿Y no es un mal acaso engañarse acerca de la verdad y un bien alcanzar la verdad? Y bien, ¿no te parece que pensar las cosas como son es alcanzar la verdad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0411",
+      "stephanus": "412a",
+      "kind": "speech",
+      "text": {
+        "es": "—Tienes razón, y me parece que los hombres son privados del pensamiento verdadero sin quererlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0412",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y esto les sucede mediante robo o embrujo, o por la violencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0413",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto tampoco lo entiendo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0414",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—Tal vez mi lenguaje sea propio de la tragedia. Pues quiero decir, cuando digo que les sucede mediante robo, que les hace cambiar de idea o bien olvidarla, porque, en un caso el discurso, en el otro el tiempo, los despojan sin que lo adviertan. Ahora entiendes, supongo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0415",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0416",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto a los que, sin quererlo, son privados del pensamiento verdadero por la violencia, me estoy refiriendo a aquellos a los que alguna pena o sufrimiento hacen cambiar de opinión.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0417",
+      "stephanus": "412b",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto también lo comprendo, y concuerdo contigo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0418",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y cuando hablo de los que son embrujados me refiero —y tal vez tú podrías también decir lo mismo— a los que cambian de opinión seducidos por el hechizo de algún placer o paralizados por algún temor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0419",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece, en efecto, que todo cuanto engaña hechiza.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0420",
+      "stephanus": "412c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, como decía hace un momento, necesitamos buscar los mejores guardianes de la convicción que les es inherente, y según la cual lo que se debe hacer siempre es lo que piensan que es lo mejor para el Estado. Los debemos observar, pues, desde la niñez, encargándolos de tareas en las cuales más fácilmente se les haga olvidar aquella convicción y dejarse engañar. Luego, hemos de aprobar al que tiene buena memoria y es difícil de engañar, y desechar al de las condiciones contrarias a ésas. ¿De acuerdo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0421",
+      "stephanus": "412d",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0422",
+      "stephanus": "412d",
+      "kind": "speech",
+      "text": {
+        "es": "—También habrá que imponerles trabajos, sufrimientos y competiciones en los cuales deberá observarse lo mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0423",
+      "stephanus": "412d",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0424",
+      "stephanus": "412d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y habrá que crear una tercera especie de prueba, una prueba de hechicería, y contemplarlos en ella. Así como se lleva a los potros adonde hay fuertes ruidos y estruendos, para examinar si son asustadizos, del mismo modo se debe conducir a nuestros jóvenes a lugares terroríficos, y luego trasladarlos a lugares placenteros. Con ello los pondríamos a prueba mucho más que al oro con el fuego, y se pondría de manifiesto si cada uno está a cubierto de los hechizos y es decente en todas las ocasiones, de modo que es buen guardián de sí mismo y de la instrucción en las Musas que ha recibido, conduciéndose siempre con el ritmo adecuado y con la armonía que corresponde, y, en fin, tal como tendría que comportarse para ser lo más útil posible, tanto a sí mismo como al Estado. Y a aquel que, sometido a prueba tanto de niño como de adolescente y de hombre maduro, sale airoso, hay que erigirlo en gobernante y guardián del Estado, y colmarlo de honores en vida; y, una vez muerto, conferirle la gloria más grande en funerales y otros ritos recordatorios. Al que no salga airoso de tales pruebas, en cambio, hay que rechazarlo. Tal me parece, Glaucón, que debe ser la selección e institución de los gobernantes y de los guardianes, para dar las pautas generales sin entrar en detalles.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0425",
+      "stephanus": "414a",
+      "kind": "speech",
+      "text": {
+        "es": "—También a mí me parece que así debe ser.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0426",
+      "stephanus": "414b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no sería lo más correcto denominar ‘guardianes’, en sentido estricto, a quienes cuiden que los enemigos de afuera no puedan hacer mal ni los amigos de adentro deseen hacerlo? A los jóvenes que hasta ahora llamábamos ‘guardianes’, en cambio, será más correcto denominarlos ‘guardias’ y ‘auxiliares’ de la autoridad de los gobernantes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0427",
+      "stephanus": "414b",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece más correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0428",
+      "stephanus": "414b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, ¿cómo podríamos inventar, entre esas mentiras que se hacen necesarias, a las que nos hemos referido antes, una mentira noble, con la que mejor persuadiríamos a los gobernantes mismos y, si no, a los demás ciudadanos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0429",
+      "stephanus": "414c",
+      "kind": "speech",
+      "text": {
+        "es": "—No sé cómo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0430",
+      "stephanus": "414c",
+      "kind": "speech",
+      "text": {
+        "es": "—No se trata de nada nuevo, sino de un relato fenicio que, según dicen los poetas y han persuadido de él a la gente, antes de ahora ha acontecido en muchas partes; pero entre nosotros no ha sucedido ni creo que suceda, pues se necesita mucho poder de persuasión para llegar a convencer.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0431",
+      "stephanus": "414c",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece que titubeas en contarlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0432",
+      "stephanus": "414c",
+      "kind": "speech",
+      "text": {
+        "es": "—Después de que lo cuente, juzgarás si no tenía mis razones para titubear.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0433",
+      "stephanus": "414c",
+      "kind": "speech",
+      "text": {
+        "es": "—Cuéntalo y no temas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0434",
+      "stephanus": "414d",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien, lo contaré; aunque no sé hasta dónde llegará mi audacia ni a qué palabras recurriré para expresarme y para intentar persuadir, primeramente a los gobernantes y a los militares, y después a los demás ciudadanos, de modo que crean que lo que les hemos enseñado y les hemos inculcado por medio de la educación eran todas cosas que imaginaban y que les sucedían en sueños; pero que en realidad habían estado en el seno de la tierra, que los había criado y moldeado, tanto a ellos mismos como a sus armas y a todos los demás enseres fabricados; y, una vez que estuvieron completamente formados, la tierra, por ser su madre, los dio a luz. Y por ello deben ahora preocuparse por el territorio en el cual viven, como por una madre y nodriza, y defenderlo si alguien lo ataca, y considerar a los demás ciudadanos como hermanos y como hijos de la misma tierra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0435",
+      "stephanus": "414e",
+      "kind": "speech",
+      "text": {
+        "es": "—No era en vano que tenías escrúpulo en contar la mentira.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0436",
+      "stephanus": "415a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y era muy natural. No obstante, escucha lo que resta por contar del mito. Cuando les narremos a sus destinatarios la leyenda, les diremos: «Vosotros, todos cuantos habitáis en el Estado, sois hermanos. Pero el dios que os modeló puso oro en la mezcla con que se generaron cuantos de vosotros son capaces de gobernar, por lo cual son los que más valen; plata, en cambio, en la de los guardias, y hierro y bronce en las de los labradores y demás artesanos. Puesto que todos sois congéneres, la mayoría de las veces engendraréis hijos semejantes a vosotros mismos, pero puede darse el caso de que de un hombre de oro sea engendrado un hijo de plata, o de uno de plata uno de oro, y de modo análogo entre los hombres diversos. En primer lugar y de manera principal, el dios ordena a los gobernantes que de nada sean tan buenos guardianes y nada vigilen tan intensamente como aquel metal que se mezcla en la composición de las almas de sus hijos. E incluso si sus propios hijos nacen con una mezcla de bronce o de hierro, de ningún modo tendrán compasión, sino que, estimando el valor adecuado de sus naturalezas, los arrojarán entre los artesanos o los labradores. Y si de éstos, a su vez, nace alguno con mezcla de oro o plata, tras tasar su valor, los ascenderán entre los guardianes o los guardias, respectivamente, con la idea de que existe un oráculo según el cual el Estado sucumbirá cuando lo custodie un guardián de hierro o bronce». Respecto de cómo persuadirlos de este mito ¿ves algún procedimiento?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0437",
+      "stephanus": "415d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ninguno, mientras se trate de ellos mismos, pero sí cuando se trate de sus hijos, sus sucesores y demás hombres que vengan después.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0438",
+      "stephanus": "415d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues ya eso —dije— sería bueno para que se preocuparan más del Estado y unos de otros; porque creo que entiendo lo que quieres decir. De todos modos, será como la creencia popular decida. En cuanto a nosotros, tras armar a estos hijos-de-la-tierra, hagámoslos avanzar bajo la conducción de sus jefes, hasta llegar a la ciudad, para que miren dónde es más adecuado acampar; un lugar desde el cual dominar mejor el territorio, si alguien no quiere acatar las leyes, y desde el cual defenderse del exterior, si algún enemigo atacara como un lobo al rebaño. Una vez acampados y tras hacer los sacrificios a quienes sea necesario, construirán sus refugios. ¿No te parece?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0439",
+      "stephanus": "415e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0440",
+      "stephanus": "415e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y éstos han de ser tales que los protejan en el invierno y les sirvan para el verano.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0441",
+      "stephanus": "415e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro! Pues creo que te refieres a sus moradas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0442",
+      "stephanus": "415e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, pero moradas de soldados, no de comerciantes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0443",
+      "stephanus": "416a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo diferencias entre unas y otras?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0444",
+      "stephanus": "416a",
+      "kind": "speech",
+      "text": {
+        "es": "—Voy a tratar de explicártelo. La cosa más vergonzosa y terrible de todas, para un pastor, sería alimentar a perros guardianes de rebaño de modo tal que, por obra del desenfreno, del hambre o de malos hábitos, atacaran y dañaran a las ovejas y se asemejaran a lobos en lugar de a perros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0445",
+      "stephanus": "416a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente, sería terrible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0446",
+      "stephanus": "416b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces debemos vigilar por todos los medios que los guardias no se comporten así frente a los ciudadanos, y que, por el hecho de ser más fuertes que ellos, no vayan a parecerse a amos salvajes en vez de a asistentes benefactores.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0447",
+      "stephanus": "416b",
+      "kind": "speech",
+      "text": {
+        "es": "—Hay que vigilarlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0448",
+      "stephanus": "416b",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal sentido estarán provistos de la manera más precavida si reciben realmente una buena educación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0449",
+      "stephanus": "416b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y acaso no la poseen ya?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0450",
+      "stephanus": "416b",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso no se puede afirmar con tanta confianza, mi querido Glaucón. Sólo podemos sostener lo que acabamos de decir, a saber, que es necesario que los guardianes cuenten con la educación correcta, cualquiera que ésta sea, si han de tener al máximo lo posible para ser amables entre sí y con aquellos que estén a su cuidado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0451",
+      "stephanus": "416c",
+      "kind": "speech",
+      "text": {
+        "es": "—Estás en lo cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0452",
+      "stephanus": "416c",
+      "kind": "speech",
+      "text": {
+        "es": "—Además de esa educación, un hombre con sentido común dirá que es necesario que estén provistos de moradas y de bienes tales que no les impidan ser los mejores guardianes ni les inciten a causar daños a los demás ciudadanos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0453",
+      "stephanus": "416d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y hablará con verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0454",
+      "stephanus": "416d",
+      "kind": "speech",
+      "text": {
+        "es": "—Mira entonces si, para que así sea, no les será forzoso el siguiente modo de vida y su vivienda. En primer lugar, nadie poseerá bienes en privado, salvo los de primera necesidad. En segundo lugar nadie tendrá una morada ni un depósito al que no pueda acceder todo el que quiera. Con respecto a las vituallas, para todas las que necesitan hombres sobrios y valientes que se entrenan para la guerra, se les asignará un pago por su vigilancia, que recibirán de los demás ciudadanos, de modo tal que durante el año tengan como para que no les sobre ni les falte nada. Se sentarán juntos a la mesa, como soldados en campaña que viven en común. Les diremos que, gracias a los dioses, cuentan siempre en el alma con oro y plata divina y que para nada necesitan de la humana, y que sería sacrílego manchar la posesión de aquel oro divino con la del oro mortal, mezclándolas, ya que muchos sacrilegios han nacido en torno a la moneda corriente, mientras que el oro que hay en ellos es puro. En el Estado, por consiguiente, únicamente a ellos no les estará permitido manipular ni tocar oro ni plata, ni siquiera cobijarse bajo el mismo techo que éstos, ni adornarse con ellos, ni beber en vasos de oro o plata. Y de ese modo se salvarán ellos y salvarán al Estado. Si en cambio poseyeran tierra propia, casas y dinero, en lugar de guardianes serán administradores y labradores, en lugar de asistentes serán déspotas y enemigos de los demás ciudadanos, odiarán y serán odiados, conspirarán y se conspirará contra ellos, y así pasarán toda la vida, temiendo más bien y mucho más a los enemigos de adentro que a los enemigos de afuera, con lo cual se aproximarán rápidamente a la destrucción de ellos mismos y del Estado. Es en vista a todo esto que hemos dicho cómo deben estar provistos los guardianes respecto de la vivienda y de todo lo demás. ¿Legislaremos así o no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b3-0455",
+      "stephanus": "417b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así, sin duda —respondió Glaucón.",
+        "en": ""
+      }
+    }
+  ]
+}
