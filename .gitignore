@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Large source scan (kept local only)
+sources/republica-nueva.pdf
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

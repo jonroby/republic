@@ -1,0 +1,4594 @@
+{
+  "book": 1,
+  "title": {
+    "es": "Libro I",
+    "en": "Book I"
+  },
+  "sourceLang": "es",
+  "translations": [
+    "en"
+  ],
+  "segments": [
+    {
+      "id": "b1-0001",
+      "stephanus": "327a",
+      "kind": "narration",
+      "text": {
+        "es": "Ayer bajé al Pireo, junto a Glaucón, hijo de Aristón, para hacer una plegaria a la diosa, y al mismo tiempo con deseos de contemplar cómo hacían la fiesta, que entonces celebraban por primera vez. Ciertamente, me pareció hermosa la procesión de los lugareños, aunque no menos brillo mostró la que llevaron a cabo los tracios. Tras orar y contemplar el espectáculo, marchamos hacia la ciudad. Entonces Polemarco, hijo de Céfalo, al ver desde lejos que partíamos a nuestra casa, ordenó a su esclavo que corriera y nos exhortara a esperarlo. Y el esclavo llegó a asirme el manto por detrás, y dijo:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0002",
+      "stephanus": "327b",
+      "kind": "speech",
+      "text": {
+        "es": "—Polemarco os exhorta a esperarlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0003",
+      "stephanus": "327b",
+      "kind": "narration",
+      "text": {
+        "es": "Me volví y le pregunté dónde estaba su amo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0004",
+      "stephanus": "327b",
+      "kind": "speech",
+      "text": {
+        "es": "—Allí atrás viene, esperadlo —respondió.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0005",
+      "stephanus": "327b",
+      "kind": "speech",
+      "text": {
+        "es": "—Bueno, lo esperaremos —dijo Glaucón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0006",
+      "stephanus": "327b",
+      "kind": "narration",
+      "text": {
+        "es": "Y poco después llegó Polemarco, y con él Adimanto, el hermano de Glaucón, y Nicérato, hijo de Nicias, y algunos más, como si vinieran de la procesión. Entonces Polemarco dijo:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0007",
+      "stephanus": "327c",
+      "kind": "speech",
+      "text": {
+        "es": "—Conjeturo, Sócrates, que emprendéis la marcha hacia la ciudad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0008",
+      "stephanus": "327c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues no has conjeturado mal —contesté.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0009",
+      "stephanus": "327c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y bien, ¿no ves cuántos somos nosotros?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0010",
+      "stephanus": "327c",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0011",
+      "stephanus": "327c",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, o bien os volvéis más fuertes que nosotros, o bien permaneceréis aquí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0012",
+      "stephanus": "327c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin embargo, resta una posibilidad —repliqué—: la de que os persuadamos de que es necesario dejarnos marchar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0013",
+      "stephanus": "327c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y podríais convencernos, si no os escuchamos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0014",
+      "stephanus": "327c",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo —respondió Glaucón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0015",
+      "stephanus": "327c",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces haceos a la idea de que no os escuchamos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0016",
+      "stephanus": "328a",
+      "kind": "narration",
+      "text": {
+        "es": "A eso añadió Adimanto:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0017",
+      "stephanus": "328a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿realmente no sabéis que, al caer la tarde, habrá carrera de antorchas a caballo en honor de la diosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0018",
+      "stephanus": "328a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿A caballo? Eso sí que es nuevo —exclamé—. ¿Los competidores mantendrán sus antorchas a caballo y se las pasarán unos a otros? ¿A ese modo te refieres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0019",
+      "stephanus": "328a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es —contestó Polemarco—. Y después celebrarán un festival nocturno, así como digno de verse. Una vez que cenemos, pues, saldremos y presenciaremos el festival, y allí nos hemos de reunir con muchos jóvenes y dialogaremos. Quedaos y dejad de lado cualquier otra cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0020",
+      "stephanus": "328b",
+      "kind": "narration",
+      "text": {
+        "es": "Y Glaucón dijo:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0021",
+      "stephanus": "328b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que tendremos que quedarnos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0022",
+      "stephanus": "328b",
+      "kind": "speech",
+      "text": {
+        "es": "—Si eso piensas, convendrá que así lo hagamos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0023",
+      "stephanus": "328b",
+      "kind": "narration",
+      "text": {
+        "es": "Fuimos entonces a casa de Polemarco, y allí nos encontramos con sus hermanos Lisias y Eutidemo, así como también con Trasímaco de Calcedonia, Carmántides de Peania y Clitofonte, hijo de Aristónomo. En la casa estaba también Céfalo, el padre de Polemarco, quien me pareció muy avejentado, pues hacía mucho tiempo que no lo veía. Estaba sentado en un sillón provisto de una almohada para reclinar la cabeza, en la que llevaba una corona, dado que acababa de hacer un sacrificio en el atrio. Y nosotros nos sentamos a su lado; había allí, en efecto, algunos asientos colocados en círculo. En cuanto Céfalo me vio, me saludó con estas palabras:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0024",
+      "stephanus": "328c",
+      "kind": "speech",
+      "text": {
+        "es": "—Oh Sócrates, no es frecuente que bajes al Pireo a vernos. No obstante, tendría que ser frecuente. Porque si yo tuviera aún fuerzas como para caminar con facilidad hacia la ciudad, no sería necesario que vinieras hasta aquí, sino que nosotros iríamos a tu casa. Pero ahora eres tú quien debe venir aquí con mayor asiduidad. Y es bueno que sepas que, cuanto más se esfuman para mí los placeres del cuerpo, tanto más crecen los deseos y placeres en lo que hace a la conversación. No se trata de que dejes de reunirte con estos jóvenes, sino de que también vengas aquí con nosotros, como viejos amigos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0025",
+      "stephanus": "328d",
+      "kind": "narration",
+      "text": {
+        "es": "A lo cual repuse:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0026",
+      "stephanus": "328d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto, Céfalo, que me es grato dialogar con los más ancianos, pues me parece necesario enterarme por ellos, como gente que ya ha avanzado por un camino que también nosotros tal vez debamos recorrer, si es un camino escabroso y difícil, o bien fácil y transitable. Y en particular me agradaría conocer qué te parece a ti —dado que te hallas en tal edad— lo que los poetas llaman «umbral de la vejez»: si lo declaras como la parte penosa de la vida, o de qué otro modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0027",
+      "stephanus": "329a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por Zeus, Sócrates —exclamó Céfalo—, te diré cuál es mi parecer. Con frecuencia nos reunimos algunos que tenemos prácticamente la misma edad, para preservar el antiguo proverbio; y al estar juntos, la mayoría de nosotros se lamenta, echando de menos los placeres de la juventud y rememorando tanto los goces sexuales como las borracheras y festines, y otras cosas de índole similar, y se irritan como si se vieran privados de grandes bienes, con los cuales habían vivido bien, mientras ahora ni siquiera les parece que viven. Algunos se quejan también del trato irrespetuoso debido a su vejez, reciben de sus familiares, y en base a esto declaman contra la vejez como causa de cuantos males padecen. Pero a mí, Sócrates, me parece que ellos toman por causa lo que no es causa; pues si ésa fuera la causa, también yo habría padecido por efecto de la vejez las mismas cosas, y del mismo modo todos cuantos han llegado a esa etapa de la vida. Pues bien, yo mismo me he encontrado con otros para quienes las cosas no son así. Por ejemplo, cierta vez estaba junto al poeta Sófocles cuando alguien le preguntó: «¿Cómo eres, Sófocles, en relación con los placeres sexuales? ¿Eres capaz aún de acostarte con una mujer?» Y él respondió: «Cuida tu lenguaje, hombre; me he liberado de ello tan agradablemente como si me hubiera liberado de un amo loco y salvaje.» En ese momento me pareció muy bello, y ahora más aún; pues en lo tocante a esas cosas, en la vejez se produce mucha paz y libertad. Cuando los apetitos cesan en su vehemencia y aflojan su tensión, se realiza por completo lo que decía Sófocles: nos desembarazamos de multitudes de amos enloquecidos. Pero respecto de tales quejas y de lo que concierne al trato con los familiares, hay una sola causa, Sócrates, y no es la vejez sino el carácter de los hombres. En efecto, si son moderados y tolerantes, también la vejez es una molestia mesurada; en caso contrario, Sócrates, tanto la vejez como la juventud resultarán difíciles a quien así sea.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0028",
+      "stephanus": "329d",
+      "kind": "narration",
+      "text": {
+        "es": "Y yo, admirado de las cosas que había dicho Céfalo, quería que continuara hablando, de modo que lo incité, diciéndole:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0029",
+      "stephanus": "329e",
+      "kind": "speech",
+      "text": {
+        "es": "—Céfalo, creo que, cuando hablas, muchos no te darán su aprobación, sino que considerarán que a ti te es fácil sobrellevar la vejez, no en razón de tu carácter, sino en razón de poseer abundante fortuna. Pues para los ricos, se dice, existen muchos modos de consolarse.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0030",
+      "stephanus": "329e",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo que dices es cierto —respondió—, no darán su aprobación. Y razón tienen, aunque no tanta como creen. Pero aquí viene bien el caso y la frase de Temístocles, a quien injuriaba un serifio y le decía que no debía su renombre a sí mismo sino a su patria. Temístocles le respondió: «Ni yo me haría famoso si fuera de Sérifo, ni tú aunque fueras de Atenas.» Esta frase viene bien para aquellos que no son ricos y pasan penosamente la vejez, porque ni el hombre razonable soportaría con mucha facilidad una vejez en la pobreza, ni el insensato se volvería a esa edad tolerante por ser rico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0031",
+      "stephanus": "330a",
+      "kind": "speech",
+      "text": {
+        "es": "—Dime, Céfalo —le pregunté—: ¿has heredado la mayor parte de lo que posees o lo has acrecentado tú?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0032",
+      "stephanus": "330b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Quieres saber, Sócrates, qué es lo que he acrecentado yo? —dijo a su vez Céfalo—. En cuestión de hacer dinero he resultado intermedio entre mi abuelo y mi padre. En efecto, mi abuelo, cuyo mismo nombre llevo yo, heredó una fortuna poco más o menos a la que poseo actualmente, y aumentó su cantidad muchas veces; en cambio, mi padre, Lisanias, la disminuyó a una cantidad inferior a la actual. En cuanto a mí, estaré contento si no la dejo a mis hijos menor en cantidad, sino siquiera un poco mayor que la que heredé.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0033",
+      "stephanus": "330b",
+      "kind": "speech",
+      "text": {
+        "es": "—El motivo por el cual te lo preguntaba —dije—, es el de que me parecía que no amabas demasiado las riquezas, y así obran por lo general los que no las han adquirido por sí mismos. Los que las han adquirido, en cambio, se apegan a ellas doblemente que los demás. Por un lado, en efecto, tal como los poetas aman a sus poemas y los padres a sus hijos, análogamente los que se han enriquecido ponen su celo en las riquezas, como obra de ellos; y por otro lado, como los demás, por la utilidad que les prestan. Son gente difícil de tratar, por no estar dispuestos a hablar bien de nada que no sea el dinero.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0034",
+      "stephanus": "330c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad —dijo Céfalo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0035",
+      "stephanus": "330d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda —añadí—. Pero dime aún algo más: ¿cuál es el mayor beneficio que crees haber obtenido de poseer una gran fortuna?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0036",
+      "stephanus": "330d",
+      "kind": "speech",
+      "text": {
+        "es": "—Algo con lo cual, si lo digo, no persuadiré a mucha gente —respondió—. Pues debes saber, Sócrates, que, en aquellos momentos en que se avecina el pensamiento de que va a morir, le entra miedo y preocupación por cosas que antes no tenía en mente. Así, pues, los mitos que se narran acerca de los que en el Hades, en el sentido de que allí debe expiar su culpa el que ha sido injusto aquí, antes movían a risa, pero entonces atormentan al alma con el temor de que sean ciertos. Y uno mismo, sea por la debilidad provocada por la vejez, o bien por hallarse más próximo al Hades, percibe mejor los mitos. En esos momentos uno se llena de temores y desconfianzas, y se aboca a reflexionar y examinar si ha cometido alguna injusticia contra alguien. Así, el que descubre en sí mismo muchos actos injustos, frecuentemente se despierta de los sueños asustado, como los niños, y vive en una desdichada expectativa. En cambio, al que sabe que no ha hecho nada injusto lo acompaña siempre una agradable esperanza, una buena ‘nodriza de la vejez’, como dice Píndaro. Pues en efecto, Sócrates, bellamente ha dicho éste que a aquel que ha pasado la vida justa y piadosamente, lo acompaña, alimentando su corazón, una buena esperanza, nodriza de la vejez, la cual mejor guía el versátil juicio de los mortales.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0037",
+      "stephanus": "331b",
+      "kind": "speech",
+      "text": {
+        "es": "Algo admirablemente bien dicho. Es en este respecto que considero de mucho valor la posesión de las riquezas, no para cualquier hombre, sino para el sensato. En efecto, la posesión de riquezas contribuye en gran parte a no engañar ni mentir involuntariamente, así como a no adeudar sacrificios a un dios o dinero a un hombre, y, por consiguiente, a no marcharse con temores hacia el Hades. Las riquezas, por supuesto, tienen muchas otras ventajas; pero comparando unas con otras, Sócrates, no consideraría a las mencionadas como las de menor importancia para que la riqueza sea de máxima utilidad a un hombre inteligente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0038",
+      "stephanus": "331c",
+      "kind": "speech",
+      "text": {
+        "es": "—Hablas con palabras muy bellas, Céfalo —dije—. Ahora bien, en cuanto a esto mismo que has mencionado, la justicia, ¿declararemos, como tú, que en todos los casos consiste en decir la verdad y en devolver lo que se recibe? ¿O bien éstas son cosas que algunas veces se hacen justamente y otras veces injustamente? Me refiero a casos como éste: si alguien recibiera armas de un amigo en su sano juicio, pero si éste enloqueciera y las reclamara, cualquiera estaría de acuerdo en que no se las debe devolver, y que aquel que las devolviera no sería justo, ni tampoco si quisiera decir toda la verdad a quien estuviera en tal estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0039",
+      "stephanus": "331d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es cierto lo que dices —asintió.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0040",
+      "stephanus": "331d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, no se puede definir la justicia como el decir la verdad y devolver lo que se ha recibido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0041",
+      "stephanus": "331d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí que se puede, Sócrates —replicó súbitamente Polemarco—; al menos, si debemos creer a Simónides.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0042",
+      "stephanus": "331d",
+      "kind": "speech",
+      "text": {
+        "es": "—Bueno, en tal caso a vosotros os entrego la argumentación —dijo Céfalo—, porque yo debo ocuparme de las ofrendas sagradas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0043",
+      "stephanus": "331d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces —preguntó Polemarco—, ¿no soy yo tu heredero?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0044",
+      "stephanus": "331d",
+      "kind": "narration",
+      "text": {
+        "es": "—Claro que sí —contestó riendo su padre—, y se marchó a hacer las ofrendas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0045",
+      "stephanus": "331e",
+      "kind": "narration",
+      "text": {
+        "es": "Entonces interpelé a Polemarco:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0046",
+      "stephanus": "331e",
+      "kind": "speech",
+      "text": {
+        "es": "—Puesto que eres el heredero de la argumentación, di qué es lo que Simónides afirma correctamente acerca de la justicia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0047",
+      "stephanus": "331e",
+      "kind": "speech",
+      "text": {
+        "es": "—Que es justo devolver a cada uno lo que se le debe: me parece que, al decir esto, habla muy bien —respondió.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0048",
+      "stephanus": "331e",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente —dije—, no es fácil dudar de lo que dice Simónides, pues es un varón sabio y divino. No obstante, qué es lo que quiere decir, tal vez tú lo sepas, Polemarco, mas yo lo ignoro. Porque es evidente que no se refiere a aquello de que acabamos de hablar: el caso de devolver a alguien que, no estando en su sano juicio, reclama lo que ha entregado en depósito. Sin embargo, eso que se ha depositado es algo que se debe, ¿no es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0049",
+      "stephanus": "332a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0050",
+      "stephanus": "332a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero está claro que no se debe devolver a alguien que lo reclama sin estar en su sano juicio.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0051",
+      "stephanus": "332a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0052",
+      "stephanus": "332a",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces es otra cosa lo que quiere decir Simónides, según parece, con eso de que lo justo es devolver lo que se debe.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0053",
+      "stephanus": "332a",
+      "kind": "speech",
+      "text": {
+        "es": "—Otra cosa, por Zeus —exclamó—, él piensa que los amigos deben obrar bien con sus amigos, nunca mal.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0054",
+      "stephanus": "332b",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprendo —dije—: el que ha de devolver oro al que lo ha depositado, no devuelve lo que debe si la devolución y la recepción se tornan perjudiciales, y sólo si son amigos tanto el que recibe como el que devuelve. ¿No es eso lo que afirmas que dice Simónides?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0055",
+      "stephanus": "332b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0056",
+      "stephanus": "332b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Pero cómo? ¿A los amigos hay que devolverles lo que se les debe?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0057",
+      "stephanus": "332b",
+      "kind": "speech",
+      "text": {
+        "es": "—A no dudarlo, lo que se les debe —respondió Polemarco—. Eso sí, creo que lo que se debe al enemigo es lo que corresponde al enemigo: algún mal.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0058",
+      "stephanus": "332c",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces —repliqué— me parece que Simónides habló poéticamente, con enigmas, acerca de lo que es justo. Pues entendía, según me parece, que lo justo es devolver a cada uno lo que corresponde, y a esto lo denominó ‘lo que se debe’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0059",
+      "stephanus": "332c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué otra cosa piensas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0060",
+      "stephanus": "332c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡En nombre de Zeus! —exclamé—. Si alguien le preguntara: «Simónides, el arte que se llama medicina, ¿a quiénes da lo que se debe y corresponde y qué es lo que da?», ¿qué crees que respondería?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0061",
+      "stephanus": "332c",
+      "kind": "speech",
+      "text": {
+        "es": "—Que es evidente que la medicina da remedios, alimentos y bebidas a los cuerpos —contestó Polemarco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0062",
+      "stephanus": "332c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y el arte llamado culinario, ¿a quiénes da lo que se debe y corresponde y qué es lo que da?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0063",
+      "stephanus": "332c",
+      "kind": "speech",
+      "text": {
+        "es": "—Da el condimento a la comida.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0064",
+      "stephanus": "332c",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien. ¿Y qué es lo que da el arte que podría llamarse justicia, y a quiénes lo da?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0065",
+      "stephanus": "332c",
+      "kind": "speech",
+      "text": {
+        "es": "—Si es necesario ser consecuente con lo dicho antes, Sócrates, diremos que dará beneficios a los amigos y perjuicios a los enemigos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0066",
+      "stephanus": "332d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, Simónides llama justicia al hacer bien a los amigos y mal a los enemigos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0067",
+      "stephanus": "332d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así creo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0068",
+      "stephanus": "332d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y quién es el más capaz de hacer bien a los amigos enfermos y mal a sus enemigos en lo referente a la enfermedad y a la salud?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0069",
+      "stephanus": "332d",
+      "kind": "speech",
+      "text": {
+        "es": "—El médico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0070",
+      "stephanus": "332e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y a los navegantes, en lo referente al peligro del mar?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0071",
+      "stephanus": "332e",
+      "kind": "speech",
+      "text": {
+        "es": "—El timonel.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0072",
+      "stephanus": "332e",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos ahora el caso del justo: ¿en qué asunto y en qué función es el más capaz de beneficiar a los amigos y perjudicar a los enemigos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0073",
+      "stephanus": "332e",
+      "kind": "speech",
+      "text": {
+        "es": "—En combatir con éstos y aliarse con los otros en la guerra, creo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0074",
+      "stephanus": "332e",
+      "kind": "speech",
+      "text": {
+        "es": "—Aceptémoslo. En cuanto a los que no están enfermos, el médico no es útil, querido Polemarco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0075",
+      "stephanus": "332e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0076",
+      "stephanus": "332e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y para los que no navegan, el timonel no es útil.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0077",
+      "stephanus": "332e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0078",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, para los que no están en guerra tampoco es útil el justo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0079",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso no me parece en absoluto cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0080",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Es útil la justicia, pues, también en la paz?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0081",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, es útil.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0082",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero además en la paz es útil también la agricultura. ¿No es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0083",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0084",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿En lo concerniente a la provisión de frutos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0085",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0086",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y la técnica de fabricar calzado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0087",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—También es útil.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0088",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—En lo concerniente a la provisión de sandalias, pienso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0089",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0090",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos ahora: ¿en lo concerniente a qué beneficio o a la provisión de qué afirmarías que la justicia es útil en la paz?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0091",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—En lo concerniente a los contratos, Sócrates.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0092",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Llamas ‘contratos’ a las asociaciones o a qué otra cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0093",
+      "stephanus": "333a",
+      "kind": "speech",
+      "text": {
+        "es": "—A eso precisamente, a las asociaciones.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0094",
+      "stephanus": "333b",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, asociarse con el justo en la colocación de una ficha de juego es mejor y más útil que con un jugador.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0095",
+      "stephanus": "333b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, con un jugador.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0096",
+      "stephanus": "333b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en la colocación de ladrillos y piedras, ¿asociarse con el justo es más útil y mejor que con un constructor?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0097",
+      "stephanus": "333b",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0098",
+      "stephanus": "333b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero entonces, si es mejor asociarse con un citarista que con un justo respecto de los sonidos que producen las cuerdas de la lira, ¿respecto de qué es mejor asociarse con el justo que con el citarista?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0099",
+      "stephanus": "333b",
+      "kind": "speech",
+      "text": {
+        "es": "—Respecto del dinero, me parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0100",
+      "stephanus": "333c",
+      "kind": "speech",
+      "text": {
+        "es": "—Excepto tal vez, Polemarco, en cuanto se haga uso del dinero: cuando se debe comprar o vender en sociedad un caballo, es entonces más útil el entendido en caballos, ¿no es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0101",
+      "stephanus": "333c",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0102",
+      "stephanus": "333c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y cuando se trata de un barco, ¿el constructor de navíos o el piloto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0103",
+      "stephanus": "333c",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0104",
+      "stephanus": "333c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero si es así, ¿cuándo se da el caso de que, si se debe usar en sociedad plata u oro, el justo resulte más útil que los demás?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0105",
+      "stephanus": "333c",
+      "kind": "speech",
+      "text": {
+        "es": "—Cuando se lo deposita para que esté seguro, Sócrates.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0106",
+      "stephanus": "333c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuando no se lo utiliza para nada, sino que se lo conserva íntegro, quieres decir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0107",
+      "stephanus": "333c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0108",
+      "stephanus": "333d",
+      "kind": "speech",
+      "text": {
+        "es": "—O sea, cuando el dinero no es útil ¿se da el caso de que la justicia es útil?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0109",
+      "stephanus": "333d",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece ser así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0110",
+      "stephanus": "333d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y cuando es necesario conservar una podadera, tanto en común como privadamente, lo útil es la justicia; pero cuando se la usa ¿no es útil la vitivinicultura?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0111",
+      "stephanus": "333d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0112",
+      "stephanus": "333d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y también dirás que cuando es necesario conservar un escudo y una lira y no utilizarlos para nada, ¿es útil la justicia, en tanto que, cuando se los usa, lo útil será, respectivamente, el arte de la infantería o el de la música?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0113",
+      "stephanus": "333e",
+      "kind": "speech",
+      "text": {
+        "es": "—Necesariamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0114",
+      "stephanus": "333e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y acerca de todas las demás cosas, ¿la justicia es inútil durante el uso de cada una, y útil cuando no se las utiliza?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0115",
+      "stephanus": "333e",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0116",
+      "stephanus": "333e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces, mi amigo, no sería la justicia algo muy valioso, si sólo resulta útil en cuanto a las cosas inútiles. Pero examinemos esto: el más hábil para golpear, sea en el pugilato o en cualquier otra clase de lucha, ¿no lo es también para estar en guardia contra los golpes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0117",
+      "stephanus": "333e",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0118",
+      "stephanus": "333e",
+      "kind": "speech",
+      "text": {
+        "es": "—Del mismo modo, aquel que es hábil para estar en guardia contra una enfermedad, ¿no es también el más capaz de producirla sin que otros la adviertan?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0119",
+      "stephanus": "333e",
+      "kind": "speech",
+      "text": {
+        "es": "—A mí me parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0120",
+      "stephanus": "334a",
+      "kind": "speech",
+      "text": {
+        "es": "—Más aún: el que es buen guardián de un campamento militar, ¿no es el mismo que sabrá apoderarse de los planes militares y otras cosas del enemigo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0121",
+      "stephanus": "334a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0122",
+      "stephanus": "334a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, quien es hábil para guardar algo es hábil también para robarlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0123",
+      "stephanus": "334a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0124",
+      "stephanus": "334a",
+      "kind": "speech",
+      "text": {
+        "es": "—En ese caso, si el justo es hábil para guardar dinero, también es hábil para robarlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0125",
+      "stephanus": "334b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así al menos, lo muestra el argumento —dijo Polemarco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0126",
+      "stephanus": "334b",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece, pues, que el justo se revela como una suerte de ladrón; y me da la impresión de que eso lo has aprendido de Homero. Éste, en efecto, estima a Autólico, abuelo materno de Ulises, y dice que se ha destacado entre todos los hombres «por el latrocinio y el juramento». De este modo parece que, para ti, como para Homero y para Simónides, la justicia es un modo de robar, bien que para provecho de los amigos y perjuicio de los enemigos. ¿No es eso lo que dices?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0127",
+      "stephanus": "334b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, ¡por Zeus! Pero ya ni yo mismo sé lo que dije. De todos modos, sigo creyendo que la justicia consiste en beneficiar a los amigos y perjudicar a los enemigos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0128",
+      "stephanus": "334c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y los que dices que son amigos, ¿son los que a cada uno parecen buenos, o bien aquellos que son buenos aunque no lo parezcan? Y lo mismo respecto de los injustos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0129",
+      "stephanus": "334c",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo natural es amar a los que se considera buenos, y odiar a los que se considera malos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0130",
+      "stephanus": "334c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿no se equivocan los hombres acerca de esto, y así les parece que muchos son buenos, aunque no lo sean, y les sucede también con muchos lo contrario?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0131",
+      "stephanus": "334c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, se equivocan.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0132",
+      "stephanus": "334c",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, para ellos los buenos son enemigos y los malos, amigos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0133",
+      "stephanus": "334c",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0134",
+      "stephanus": "334c",
+      "kind": "speech",
+      "text": {
+        "es": "—No obstante, para ellos es justo beneficiar a los malos y perjudicar a los buenos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0135",
+      "stephanus": "334d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0136",
+      "stephanus": "334d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin embargo, los buenos son justos e incapaces de obrar injustamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0137",
+      "stephanus": "334d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0138",
+      "stephanus": "334d",
+      "kind": "speech",
+      "text": {
+        "es": "—Según tu argumento, pues, es justo hacer mal a los que en nada han obrado injustamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0139",
+      "stephanus": "334d",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo, Sócrates; es el argumento lo que parece estar mal.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0140",
+      "stephanus": "334d",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, es justo perjudicar a los injustos y beneficiar a los justos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0141",
+      "stephanus": "334d",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto parece mejor que lo otro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0142",
+      "stephanus": "334d",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, Polemarco, sucederá a muchos —a cuantos se equivocan acerca de los hombres— que para ellos será justo perjudicar a los amigos, ya que son malos, y beneficiar a los enemigos, pues son buenos. Y así arribamos a lo contrario de lo que decíamos afirmaba Simónides.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0143",
+      "stephanus": "334e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así sucede, efectivamente —contestó Polemarco—. Pero retractémonos; pues es probable que no hayamos considerado correctamente al amigo y al enemigo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0144",
+      "stephanus": "334e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo los hemos considerado, Polemarco?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0145",
+      "stephanus": "334e",
+      "kind": "speech",
+      "text": {
+        "es": "—Al amigo, como el que parece bueno.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0146",
+      "stephanus": "334e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y ahora ¿cómo nos retractaremos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0147",
+      "stephanus": "335a",
+      "kind": "speech",
+      "text": {
+        "es": "—Considerando amigo al que parece bueno y lo es, mientras que al que parece bueno pero no lo es, estimaremos que parece amigo sin serlo. Y haremos la misma consideración acerca del enemigo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0148",
+      "stephanus": "335a",
+      "kind": "speech",
+      "text": {
+        "es": "—Según ese argumento, el bueno será amigo, parece, y el malo enemigo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0149",
+      "stephanus": "335a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0150",
+      "stephanus": "335a",
+      "kind": "speech",
+      "text": {
+        "es": "—Propones, por ende, añadir algo a nuestra primera consideración de lo justo, cuando decíamos que era justo hacer bien al amigo y mal al enemigo: ahora quieres que, además, digamos que es justo hacer bien al amigo que es bueno y perjudicar al enemigo que es malo. ¿Eso es lo que propones?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0151",
+      "stephanus": "335b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente; así me parece que queda bien dicho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0152",
+      "stephanus": "335b",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, ¿es propio del hombre justo perjudicar a algún hombre?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0153",
+      "stephanus": "335b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda: hay que perjudicar a los malos y enemigos nuestros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0154",
+      "stephanus": "335b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, al perjudicar a los caballos ¿se vuelven éstos mejores o peores?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0155",
+      "stephanus": "335b",
+      "kind": "speech",
+      "text": {
+        "es": "—Peores.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0156",
+      "stephanus": "335b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Peores respecto de la excelencia de los perros o respecto de la de los caballos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0157",
+      "stephanus": "335b",
+      "kind": "speech",
+      "text": {
+        "es": "—Respecto de la de los caballos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0158",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y al ser perjudicados los perros, se vuelven peores respecto de la excelencia de los perros, no respecto de la de los caballos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0159",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es forzoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0160",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto a los hombres, amigo mío, ¿no diremos, análogamente, que, si los perjudicamos, se volverán peores respecto de la excelencia de los hombres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0161",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0162",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es la justicia la excelencia humana?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0163",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—También esto es forzoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0164",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces también aquellos hombres que sean perjudicados se volverán necesariamente injustos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0165",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0166",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien: ¿pueden los músicos, por medio de la música, hacer a otros ignorantes en música?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0167",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—Imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0168",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y los entendidos en caballos ¿pueden, por medio del conocimiento de caballos, hacer a otros ignorantes en caballos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0169",
+      "stephanus": "335c",
+      "kind": "speech",
+      "text": {
+        "es": "—No.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0170",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y por medio de la justicia, ¿los justos pueden hacer injustos a otros? En resumen, ¿los buenos pueden hacer malos a otros por medio de la excelencia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0171",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—No, imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0172",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, no es función del calor enfriar, sino de su contrario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0173",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0174",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni humedecer es función de la sequedad, sino de lo contrario de ésta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0175",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0176",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por tanto no es función del bueno perjudicar, sino de su contrario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0177",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0178",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Pero acaso el justo no es bueno?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0179",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0180",
+      "stephanus": "335d",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, no es función del justo perjudicar, Polemarco, sea a un amigo o a otro cualquiera, sino de su contrario, el injusto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0181",
+      "stephanus": "335e",
+      "kind": "speech",
+      "text": {
+        "es": "—En todo me parece que dices la verdad, Sócrates —repuso él.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0182",
+      "stephanus": "335e",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, si se dice que es justo dar a cada uno lo que se le debe, y con ello se quiere significar que el hombre justo debe perjudicar a los enemigos y beneficiar a los amigos, diremos que no es sabio hablar así, pues equivale a no decir la verdad, ya que se nos ha mostrado que en ningún caso es justo perjudicar a alguien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0183",
+      "stephanus": "335e",
+      "kind": "speech",
+      "text": {
+        "es": "—Convengo en ello —dijo Polemarco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0184",
+      "stephanus": "335e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, tú y yo combatiremos juntos contra cualquiera que dijera que han hablado así Simónides, Biante, Pítaco o algún otro de esos varones sabios y bienaventurados.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0185",
+      "stephanus": "335e",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto a mí, estoy dispuesto a participar del combate.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0186",
+      "stephanus": "336a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿sabes de quién me parece que es ese dicho según el cual es justo beneficiar a los amigos y perjudicar a los enemigos? —le pregunté.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0187",
+      "stephanus": "336a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De quién?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0188",
+      "stephanus": "336a",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que es de Periandro, de Pérdicas, o bien de Jerjes o de Ismenias el tebano, o de algún otro hombre rico que se creía con un gran poder.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0189",
+      "stephanus": "336a",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo que dices es muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0190",
+      "stephanus": "336a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien —dije—, si se ha mostrado que ni la justicia ni lo justo son así, ¿qué otra cosa puede decirse que sean?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0191",
+      "stephanus": "336b",
+      "kind": "narration",
+      "text": {
+        "es": "Entonces Trasímaco —quien, mientras dialogábamos, había intentado varias veces adueñarse de la conversación, pero había sido impedido en ello por quienes estaban sentados a su lado y querían escucharla íntegramente—, en cuanto hicimos una pausa tras decir yo aquello, no se contuvo más, y, agazapándose como una fiera, se abalanzó sobre nosotros como si fuera a despedazarnos. Tanto Polemarco como yo nos estremecimos de pánico, pero Trasímaco profirió gritos en medio de todos, clamando:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0192",
+      "stephanus": "336c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué clase de idiotez hace presa de vosotros desde hace rato, Sócrates? ¿Y a qué juego de tontos hacéis uno con otro con eso de devolveros cumplidos entre vosotros mismos? Si realmente quieres saber lo que es justo, no preguntes solamente ni te envanezcas refutando cuando se te responde, sabedor de que es más fácil preguntar que responder, sino responde tú mismo y di qué es para ti lo justo. Pero no me vayas a decir que lo justo es lo necesario, lo provechoso, lo útil, lo ventajoso y lo conveniente; sino dime con claridad y exactitud qué es lo que significa, pues yo no he de tolerar que divagues de semejante modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0193",
+      "stephanus": "336d",
+      "kind": "narration",
+      "text": {
+        "es": "Al oírlo quedé azorado y lo contemplé con pavura; y creo que si no hubiese sido que yo lo miré a él antes que él a mí, habría perdido el habla. Pero en el momento en que comenzó a exasperarse por la conversación, yo había sido el primero que lo contempló, de modo que luego me fue posible responderle, y le dije, no sin un ligero temblor:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0194",
+      "stephanus": "336e",
+      "kind": "speech",
+      "text": {
+        "es": "—No seas duro con nosotros, Trasímaco, pues tanto Polemarco como yo, si erramos en el examen de estas cuestiones, has de saber que erramos sin quererlo. Pues si estuviéramos buscando oro, no creas que querríamos hacernos cumplidos el uno al otro en la búsqueda, echando a perder el hallazgo; menos aún, buscando la justicia, cosa de mucho mayor valor que el oro, nos haríamos concesiones uno al otro, insensatamente, en vez de esforzarnos al máximo en hacerla aparecer. Créeme, amigo. Lo que sucede es que no somos capaces de hacerla aparecer. Así es mucho más probable que seamos compadecidos por vosotros, los hábiles, en lugar de ser maltratados.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0195",
+      "stephanus": "337a",
+      "kind": "narration",
+      "text": {
+        "es": "Tras escucharme, Trasímaco se echó a reír con grandes muecas, y dijo:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0196",
+      "stephanus": "337a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Por Hércules! Ésta no es sino la habitual ironía de Sócrates, y yo ya predije a los presentes que no estarías dispuesto a responder, y que, si alguien te preguntaba algo, harías como que no sabes, o cualquier otra cosa, antes que responder.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0197",
+      "stephanus": "337a",
+      "kind": "speech",
+      "text": {
+        "es": "—Eres sabio, Trasímaco —respondí—. Bien sabías que, si preguntabas a alguien cuánto es doce, y al preguntarle te previnieras: «No me vayas a decir, amigo, que doce es dos veces seis ni tres veces cuatro ni seis veces dos ni cuatro veces tres, porque no he de tolerar que me digas tales idioteces», sería claro para ti, creo, que nadie respondería al que inquiriera de tal modo. Pero si te preguntara: «¿a qué apuntas, Trasímaco? ¿A que no responda ninguna de las cosas sobre las que me has prevenido, ni siquiera si alguna de ellas fuera la correcta, hombre asombroso, sino que debo decir alguna distinta de la correcta? ¿O a qué otra cosa te refieres?» ¿Qué contestarías a esto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0198",
+      "stephanus": "337c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Está bueno! —exclamó—: ¡como si este caso fuera semejante a aquél!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0199",
+      "stephanus": "337c",
+      "kind": "speech",
+      "text": {
+        "es": "—No veo por qué no —respondí—. Pero, aun cuando no fuera semejante, si al interrogado le parece que es semejante, ¿piensas que dejará de responder lo que le parece a él, prohibámoslo nosotros o no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0200",
+      "stephanus": "337c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y así has de obrar también tú? ¿Responderás alguna de las cosas que te he prohibido?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0201",
+      "stephanus": "337c",
+      "kind": "speech",
+      "text": {
+        "es": "—No me asombraría si, después de examinarlo, opinara que es así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0202",
+      "stephanus": "337d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y si yo te mostrara otra respuesta, además de todas ésas, acerca de la justicia, mejor que ellas? ¿Qué pena merecerías?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0203",
+      "stephanus": "337d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué otra pena que la que conviene a alguien que no sabe? Y sin duda lo que conviene al que no sabe es aprender del que sabe. Yo también merecería esa pena.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0204",
+      "stephanus": "337d",
+      "kind": "speech",
+      "text": {
+        "es": "—Eres gracioso; pero además de aprender, pagarás también dinero.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0205",
+      "stephanus": "337d",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto tenga, ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0206",
+      "stephanus": "337d",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo tienes —dijo Glaucón—. Si es por el dinero, Trasímaco, habla. Todos nosotros aportaremos por Sócrates.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0207",
+      "stephanus": "337e",
+      "kind": "speech",
+      "text": {
+        "es": "—Veo claro todo —protestó Trasímaco—. Lo hacen para que Sócrates consiga lo habitual: que él no responda, sino que, al responder otro, tome la palabra y lo refute.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0208",
+      "stephanus": "337e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo podría alguien responder, mi excelente amigo —señalé—, cuando, en primer lugar, uno no sabe, y después, si piensa algo, un hombre nada insignificante le prohíbe que hable de las cosas que está considerando? Más natural es que hables tú; ya que dices saber y tener algo que decir. No te niegues, pues, sino hazme el placer de contestar y no rehúses enseñar a Glaucón, que está aquí dispuesto, y a los demás.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0209",
+      "stephanus": "338a",
+      "kind": "narration",
+      "text": {
+        "es": "Una vez que dije esto, tanto Glaucón como los demás le pidieron que no se negase. Y era evidente que Trasímaco estaba deseoso de hablar para ganar en prestigio, porque creía contar con una respuesta excelente; hacía como si quisiera lograr que fuera él que respondiese, pero terminó por acceder, y en seguida dijo:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0210",
+      "stephanus": "338b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ésta es la sabiduría de Sócrates: no estar él dispuesto a enseñar, sino a aprender de los demás yendo de un lado a otro, sin siquiera darles las gracias.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0211",
+      "stephanus": "338b",
+      "kind": "speech",
+      "text": {
+        "es": "—En lo de que aprendo de los demás dices verdad, Trasímaco —contesté—. Pero en cuanto a lo que dices que no lo agradezco, estás equivocado, pues retribuyo en la forma que puedo; y sólo puedo hacerlo en elogios, porque dinero no tengo. Y con cuánto celo cumplo en ello cuando me parece que alguien habla bien, has de saberlo inmediatamente, después de que respondas. Creo, en efecto, que hablarás bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0212",
+      "stephanus": "338c",
+      "kind": "speech",
+      "text": {
+        "es": "—Escucha, pues —dijo Trasímaco—. Afirmo que lo justo no es otra cosa que lo que conviene al más fuerte. Y ahora ¿por qué no me elogias? Pero no, no estás dispuesto a ello.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0213",
+      "stephanus": "338c",
+      "kind": "speech",
+      "text": {
+        "es": "—Primeramente debo comprender qué quieres decir, pues aún no lo sé. Afirmas que justo es lo que conviene al más fuerte. Y esto, Trasímaco, ¿qué significa? Porque sin duda lo que afirmas no es, por ejemplo, que si Polidamante, el pancraciasta, es más fuerte que nosotros, y le conviene —en lo concerniente al cuerpo— la carne de buey, este alimento es también conveniente y justo para nosotros, que somos más débiles que él.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0214",
+      "stephanus": "338d",
+      "kind": "speech",
+      "text": {
+        "es": "—Me repugnas, Sócrates: interpretas la definición del modo que más puedas distorsionarla.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0215",
+      "stephanus": "338d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero, mi excelente amigo, de ningún modo: expresa más claramente lo que quieres decir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0216",
+      "stephanus": "338d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Acaso no sabes que en algunos Estados el gobierno es tiránico, en otros democrático y en otros aristocrático?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0217",
+      "stephanus": "338d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo no he de saberlo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0218",
+      "stephanus": "338d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es el gobierno el que tiene la fuerza en cada Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0219",
+      "stephanus": "338d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0220",
+      "stephanus": "338e",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien. De este modo, pues, cada gobierno implanta las leyes en vista de lo que es conveniente para él: la democracia, leyes democráticas; la tiranía, leyes tiránicas, y así las demás. Una vez implantadas, manifiestan que lo que conviene a los gobernantes es justo para los gobernados, y al que se aparta de esto lo castigan por infringir las leyes y obrar injustamente. Esto, mi buen amigo, es lo que quiero decir; que en todos los Estados es justo lo mismo: lo que conviene al gobierno establecido, que es sin duda el que tiene la fuerza, de modo tal que, para quien razone correctamente, es justo lo mismo en todos lados, lo que conviene al más fuerte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0221",
+      "stephanus": "339a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora he comprendido lo que querías decir; si es verdad o no, trataré de comprenderlo. Entonces, Trasímaco, también tú has respondido que ‘justo’ es lo conveniente, aunque a mí me habías prohibido que contestara eso; si bien a lo dicho le es ahora añades ‘para el más fuerte’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0222",
+      "stephanus": "339b",
+      "kind": "speech",
+      "text": {
+        "es": "—Un añadido probablemente insignificante —dijo burlonamente Trasímaco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0223",
+      "stephanus": "339b",
+      "kind": "speech",
+      "text": {
+        "es": "—Todavía no está claro si es importante. Pero lo que está claro es que hay que examinar si lo que dices es cierto. Porque estoy de acuerdo en que lo justo es algo conveniente, pero tú has añadido a esto la afirmación de que es conveniente para el más fuerte. Y esto lo ignoro, y debo examinarlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0224",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—Examínalo —respondió.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0225",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso haré. Dime ahora: ¿no afirmas también que es justo obedecer a los gobernantes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0226",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente que lo afirmo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0227",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos, pues: ¿son infalibles los que gobiernan en cada Estado, o pueden equivocarse?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0228",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—No hay duda de que pueden equivocarse.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0229",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por ende, cuando se abocan a implantar leyes, unas las implantan correctamente, otras incorrectamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0230",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso creo yo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0231",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, implantarlas correctamente significa implantar las que les convienen a ellos mismos, e incorrectamente las que no les convienen. ¿Así lo entiendes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0232",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así lo entiendo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0233",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero una vez implantadas, los gobernados deben acatarlas, y eso es lo justo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0234",
+      "stephanus": "339c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que sí!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0235",
+      "stephanus": "339d",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, es justo no sólo hacer lo que conviene al más fuerte, de acuerdo con tu argumento, sino también es justo lo contrario, hacer lo que no le conviene.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0236",
+      "stephanus": "339d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué dices? —exclamó Trasímaco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0237",
+      "stephanus": "339d",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo mismo que tú, me parece. Pero examinémoslo mejor. Por un lado hemos acordado que, cuando los gobernantes ordenan a los gobernados que hagan ciertas cosas, a veces se equivocan respecto de lo que es mejor para sí mismos; por otro lado, hemos concordado en que es justo que los gobernados hagan lo que les ordenan los gobernantes. ¿No hemos convenido ambas cosas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0238",
+      "stephanus": "339d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0239",
+      "stephanus": "339e",
+      "kind": "speech",
+      "text": {
+        "es": "—Piensa también que has estado de acuerdo en que es justo hacer lo que no conviene a los gobernantes —que son a la vez los más fuertes— cuando los gobernantes, sin querer, ordenan algo malo para sí mismos; y dices que para los gobernados es justo hacer lo que los gobernantes han ordenado. Entonces, sapientísimo Trasímaco, ¿no resulta así forzosamente que es justo hacer lo contrario de lo que tú dices? En efecto, de lo que afirmas resulta, sin duda, que se ordena a los más débiles que hagan lo que no conviene al más fuerte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0240",
+      "stephanus": "340a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por Zeus, Sócrates —exclamó Polemarco—; es clarísimo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0241",
+      "stephanus": "340a",
+      "kind": "speech",
+      "text": {
+        "es": "—Clarísimo, si tú lo atestiguas —dijo Clitofonte, tomando a su vez la palabra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0242",
+      "stephanus": "340a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y para qué hace falta un testigo? Si el mismo Trasímaco está de acuerdo en que los gobernantes a veces ordenan algo malo para sí mismos, y que para los gobernados es justo hacer eso que les ordenan.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0243",
+      "stephanus": "340b",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo que Trasímaco consideró justo, Polemarco, fue lo que los gobernantes mandan hacer.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0244",
+      "stephanus": "340b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, pero también consideró justo, Clitofonte, lo que conviene al más fuerte. Y además de considerar ambas cosas, estuvo de acuerdo en que a veces los más fuertes ordenan lo que no les conviene a ellos mismos sea hecho por los gobernados, que son los más débiles. Y una vez acordadas tales cosas, en nada sería más justo lo que conviene al más fuerte que lo que no le conviene.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0245",
+      "stephanus": "340b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero lo que conviene al más fuerte —replicó Clitofonte— significaba para Trasímaco lo que el más fuerte entendiera que le conviene: esto debe ser hecho por el más débil, y esto es lo que consideró como lo justo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0246",
+      "stephanus": "340b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin embargo, no fue eso lo que dijo —protestó Polemarco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0247",
+      "stephanus": "340b",
+      "kind": "speech",
+      "text": {
+        "es": "—No importa, Polemarco —dije entonces yo—; si ahora Trasímaco afirma esto, se lo admitiremos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0248",
+      "stephanus": "340c",
+      "kind": "speech",
+      "text": {
+        "es": "Dime, Trasímaco: ¿era esto lo que querías decir al hablar de lo justo, a saber, aquello que al más fuerte le parezca que es lo que más le conviene a él, sea que le convenga realmente o no? ¿Esto es lo que quieres decir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0249",
+      "stephanus": "340c",
+      "kind": "speech",
+      "text": {
+        "es": "—En absoluto diría eso: ¿crees que llamaría más fuerte al que se equivoca, cuando se equivoca?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0250",
+      "stephanus": "340c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente, yo pensé que querías decir eso cuando estuviste de acuerdo en que los gobernantes no eran infalibles, sino que también se equivocaban.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0251",
+      "stephanus": "340d",
+      "kind": "speech",
+      "text": {
+        "es": "—Eres un tramposo en tus argumentos, Sócrates —contestó—. Veamos, por ejemplo, ¿llamas médico al que se equivoca respecto de los enfermos, en cuanto se equivoca en eso? ¿O calculador al que se equivoca en el cálculo, en el momento en que se equivoca, en cuanto a esa equivocación? Claro que usamos la expresión ‘el médico se equivocó’ o ‘el calculador se equivocó’ o ‘el gramático se equivocó’. Pero cada uno de éstos, en realidad, en la medida que es aquello por lo cual lo denominamos así, entiendo que jamás se equivoca. De este modo, en sentido estricto —ya que quieres que hablemos estrictamente— ningún artesano se equivoca, puesto que el que se equivoca al carecer del conocimiento respectivo se equivoca en algo en que no es artesano. Y así como el artesano o el experto, ningún gobernante se equivoca cuando es gobernante, aunque todos digan que se equivocó el médico o se equivocó el gobernante. Interpreta pues, de esa forma ahora lo que respondí entonces. Para decirlo en el sentido más estricto de los términos, el gobernante, en tanto es gobernante, no se equivoca, y no equivocarse establece lo mejor para sí mismo, y esto es lo que debe hacer el gobernado. De modo tal que, como afirmé desde un principio, declaro que es justo hacer lo que conviene al más fuerte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0252",
+      "stephanus": "340e",
+      "kind": "speech",
+      "text": {
+        "es": "—Bueno, Trasímaco —dije—. ¿Sigo pareciéndote un tramposo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0253",
+      "stephanus": "340e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin la menor duda —respondió.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0254",
+      "stephanus": "340e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Crees, pues, que al preguntarte como te pregunté lo hacía con la mala intención de desprestigiarte en tus argumentos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0255",
+      "stephanus": "340e",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo sé muy bien. Pero no ganarás nada, ya que quedará al descubierto que quieres desprestigiarme, y, una vez puesto al descubierto, no podrás ejercer violencia en el argumento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0256",
+      "stephanus": "341a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni lo intentaría, bendito amigo. Pero para que no nos suceda otra vez lo mismo, determina de cuál de estas dos maneras te refieres al que gobierna y que es más fuerte: si en la forma común de hablar o si en el sentido estricto de los términos, según el cual acabas de enunciarlo, a saber, aquel a quien, por ser el más fuerte, será justo que el más débil haga lo que conviene.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0257",
+      "stephanus": "341b",
+      "kind": "speech",
+      "text": {
+        "es": "—Me refiero al que gobierna, en el sentido más estricto de los términos. Urde nuevas tretas y aprovecha lo dicho para desprestigiarme, si puedes; yo no te lo he de impedir, pero no serás capaz.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0258",
+      "stephanus": "341b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Acaso crees que he enloquecido al punto de intentar tonsurar un león y urdir tretas contra Trasímaco?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0259",
+      "stephanus": "341c",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo acabas de intentar, sin poder tampoco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0260",
+      "stephanus": "341c",
+      "kind": "speech",
+      "text": {
+        "es": "—Suficiente, dejemos eso. Dime ahora: el médico, en el sentido estricto del término, como acabas de decir, ¿es un mercader o el que cura a los enfermos? Habla del verdadero médico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0261",
+      "stephanus": "341c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es el que cura a los enfermos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0262",
+      "stephanus": "341c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y el piloto? El verdadero piloto, ¿es un marinero o es el que manda a los marineros?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0263",
+      "stephanus": "341c",
+      "kind": "speech",
+      "text": {
+        "es": "—El que manda a los marineros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0264",
+      "stephanus": "341d",
+      "kind": "speech",
+      "text": {
+        "es": "—En ese caso, pues, no se ha de tomar en cuenta el hecho de que navega en una nave, y no por eso debe ser llamado marinero, dado que no se lo llama piloto por navegar sino por el arte de gobernar a los marineros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0265",
+      "stephanus": "341d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0266",
+      "stephanus": "341d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y a cada uno de estos tipos que he mencionado hay algo que le conviene.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0267",
+      "stephanus": "341d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por supuesto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0268",
+      "stephanus": "341d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es acaso el arte apto para buscar y proveer lo que conviene a cada uno?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0269",
+      "stephanus": "341d",
+      "kind": "speech",
+      "text": {
+        "es": "—Apto para eso, efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0270",
+      "stephanus": "341e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y a cada una de las artes conviene otra cosa que el ser lo más completas posible?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0271",
+      "stephanus": "341e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué quieres decir con eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0272",
+      "stephanus": "341e",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo siguiente: si me preguntaras si al cuerpo le basta ser como es o si tiene necesidad de algo, y yo te respondiera: «Sin duda, está necesitado; precisamente por eso se ha inventado ahora el arte de la medicina: porque el cuerpo es deficiente y no le basta ser como es, ha sido organizado este arte, de modo que pueda procurarle las cosas que le convienen», ¿no te parece que al hablar así hablaría correctamente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0273",
+      "stephanus": "342a",
+      "kind": "speech",
+      "text": {
+        "es": "—Correctamente —convino Trasímaco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0274",
+      "stephanus": "342a",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos ahora, ¿es el arte de la medicina deficiente? ¿Hay algún arte que tiene necesidad de perfección, así como los ojos tienen necesidad de la vista y las orejas del oído, para lo cual se debe contar con algún arte que examine lo que es conveniente para ver y para oír y se lo procure? ¿Acaso en el arte mismo hay una cierta deficiencia, y cada arte necesita de otro arte que examine lo que es conveniente para aquél, y otro, a su vez, para que atienda a éste, y así hasta el infinito? ¿O aquél examinará a qué es lo que conviene a sí mismo? ¿No será que no tiene necesidad ni de sí mismo ni de ningún otro arte para examinar lo que conviene a su deficiencia, ya que en ningún arte existe deficiencia o necesidad alguna, y que a un arte no corresponde buscar otra cosa que lo que conviene a aquello de lo cual es arte, dado que el arte mismo es realmente incólume e incontaminado, y, mientras es arte, en sentido estricto, es íntegramente lo que es? Examinémoslo en sentido estricto: ¿es así o no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0275",
+      "stephanus": "342b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0276",
+      "stephanus": "342c",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, la medicina no examina lo que conviene a la medicina, sino al cuerpo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0277",
+      "stephanus": "342c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0278",
+      "stephanus": "342c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni el arte de la equitación examina lo que conviene a ese arte sino lo que conviene a los caballos, y ninguna otra arte examina lo conveniente a sí misma, ya que no está necesitada de nada, sino sólo examina lo que conviene a aquello de lo cual es arte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0279",
+      "stephanus": "342c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0280",
+      "stephanus": "342c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, Trasímaco, las artes gobiernan y prevalecen sobre aquellas cosas de las cuales son artes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0281",
+      "stephanus": "342c",
+      "kind": "narration",
+      "text": {
+        "es": "En esto también nos pusimos de acuerdo, bien que con bastante fastidio por parte de Trasímaco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0282",
+      "stephanus": "342c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ningún conocimiento artesanal examina ni dispone lo que conviene al más fuerte sino lo que conviene al más débil, al gobernado por aquél.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0283",
+      "stephanus": "342d",
+      "kind": "narration",
+      "text": {
+        "es": "Trasímaco también terminó por reconocer esto, no sin antes intentar disputar la cuestión. Una vez que lo reconoció, dije:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0284",
+      "stephanus": "342d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Acaso algún médico, en la medida en que es médico, examina y dispone lo que conviene al médico, no al enfermo? Hemos quedado de acuerdo, en efecto, en que el médico, en sentido estricto, es un gobernante de cuerpos y no un mercader. ¿No lo hemos acordado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0285",
+      "stephanus": "342d",
+      "kind": "narration",
+      "text": {
+        "es": "Trasímaco asintió.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0286",
+      "stephanus": "342d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y el piloto, en sentido estricto, es gobernante de marineros, y no un marinero.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0287",
+      "stephanus": "342e",
+      "kind": "narration",
+      "text": {
+        "es": "También aquí estuvo de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0288",
+      "stephanus": "342e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero tal piloto-gobernante atenderá y dispondrá lo que conviene no al piloto, sino al marinero-gobernado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0289",
+      "stephanus": "342e",
+      "kind": "narration",
+      "text": {
+        "es": "Lo admitió a duras penas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0290",
+      "stephanus": "342e",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, Trasímaco, en ningún tipo de gobierno aquel que gobierna, en tanto gobernante, examina y dispone lo que le conviene, sino lo que conviene al gobernado y a aquel para el que emplea su arte, y, con la vista en éste y en lo que a éste conviene y se adecua, dice todo lo que dice y hace todo lo que hace.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0291a",
+      "stephanus": "343a",
+      "kind": "narration",
+      "text": {
+        "es": "Cuando estábamos en un punto de la discusión en que era manifiesto para todos que lo que Trasímaco había dicho acerca de lo justo se había convertido en lo contrario, éste, en lugar de responder, exclamó:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0291b",
+      "stephanus": "343a",
+      "kind": "speech",
+      "text": {
+        "es": "—Dime, Sócrates: ¿tienes una nodriza?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0291c",
+      "stephanus": "343a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y eso por qué lo dices? ¿No sería mejor contestarme que preguntar esas cosas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0291d",
+      "stephanus": "343a",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque se nota que te deja con las narices moqueando cuando necesitas que te las haga sonar, y si tuvieras nodriza, ella te habría enseñado a reconocer ovejas y pastor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0291e",
+      "stephanus": "343b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo es eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0291f",
+      "stephanus": "343b",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque crees que los pastores y los boyeros atienden al bien de las ovejas y las vacas, y las engordan y cuidan mirando a otra cosa que al bien de los amos y al de ellos mismos; así como también estimas que los gobernantes de los Estados —los que gobiernan verdaderamente— piensan acerca de los gobernados de otro modo que lo que se ha establecido respecto de las ovejas, y que los atienden día y noche de otra manera que de aquella que les aprovechará a ellos mismos. Y has ido tan lejos en lo concerniente a lo justo y a la justicia, a lo injusto y a la injusticia, que desconoces que la justicia y lo justo es un bien en realidad ajeno al que lo practica, ya que es lo conveniente para el más fuerte que gobierna, pero un perjuicio propio del que obedece y sirve; y que la injusticia es lo contrario y gobierna a los verdaderamente ingenuos y justos, y que los gobernados hacen lo que conviene a aquel que es más fuerte, y al servirle hacen feliz a éste, mas de ningún modo a sí mismos. Es necesario observar, mi muy cándido amigo Sócrates, que en todo sentido el hombre justo tiene menos que el injusto. En primer lugar, en los contratos entre unos y otros, allí donde éste se asocia con aquél, al disolverse la asociación nunca hallarás que el justo tenga más que el injusto, sino menos. Después, en los asuntos concernientes al Estado, cuando se establecen impuestos, aunque sus bienes sean iguales, el justo paga más, el injusto menos. Pero cuando se trata de cobranzas, aquél no recibe nada, éste cobra mucho. Y cuando cada uno de ellos ocupa un cargo, al justo le toca, a falta de otro perjuicio, vivir miserablemente por descuidar sus asuntos particulares, sin obtener provecho alguno de los asuntos públicos, en razón de ser justo; y además de eso, es aborrecido por sus parientes y conocidos, por no estar dispuesto a hacerles un servicio al margen de la justicia. Al injusto le sucede todo lo contrario. Hablo de aquel al que hace un momento me refería, que es capaz de alcanzar los más grandes privilegios. A éste debes observar, si es que quieres discernir cuánto más le conviene personalmente ser injusto que justo. Pues bien, lo aprenderás del modo más fácil si llegas a la injusticia más completa, la cual hace feliz al máximo al que obra injustamente y más desdichados a los que padecen injusticia y no están dispuestos a ser injustos. Esto es la tiranía, que se apodera de lo ajeno, no poco a poco, sino de un solo golpe, tanto con engaño como con violencia, trátese de lo sagrado o de lo piadoso, de lo privado o de lo público: cuando alguien es descubierto, tras obrar injustamente en uno solo de esos casos, es castigado y vituperado, pues los que cometen tales delitos parciales son llamados sacrílegos, secuestradores, asaltantes, estafadores o ladrones. Cuando alguien, en cambio, además de secuestrar las fortunas de los ciudadanos, secuestra también a éstos, esclavizándolos, en lugar de aquellos denigrantes calificativos es llamado ‘feliz’ y ‘bienaventurado’ no sólo por los ciudadanos, sino por todos aquellos que se han enterado de toda la injusticia que ha cometido. En efecto, los que censuran la injusticia la censuran no por temor a cometer obras injustas, sino por miedo a padecerlas. De este modo, Sócrates, la injusticia, cuando llega a serlo suficientemente, es más fuerte, más libre y de mayor autoridad que la justicia; y tal como dije desde un comienzo, lo justo es lo que conviene al más fuerte, y lo injusto lo que aprovecha y conviene a sí mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0291",
+      "stephanus": "344d",
+      "kind": "narration",
+      "text": {
+        "es": "Una vez dichas estas cosas, Trasímaco pensaba marcharse, como si fuera un bañero que nos hubiera volcado sobre nuestros oídos un cántaro repleto de sus argumentos. Pero los que estaban presentes no se lo permitieron, sino que lo obligaron a permanecer y a rendir cuentas de lo dicho. Yo mismo le pedí con insistencia:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0292",
+      "stephanus": "344d",
+      "kind": "speech",
+      "text": {
+        "es": "—Divino Trasímaco, ¿vas a marcharte tras arrojarnos un discurso, antes de enseñarnos adecuadamente o de que aprendamos si es así o de otro modo? ¿Crees que es un asunto insignificante el intentar determinar el modo de vida que cada uno de nosotros podría llevar para vivir una vida más provechosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0293",
+      "stephanus": "344e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y yo acaso pienso en otra cosa que ésa? —bramó Trasímaco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0294",
+      "stephanus": "344e",
+      "kind": "speech",
+      "text": {
+        "es": "—Parecía, al menos que no te importaba de nosotros, ni que te preocupara que fuéramos a vivir peor o mejor, desconociendo lo que dices saber. Pero anímate, mi buen amigo, a instruirnos, no será para ti una mala inversión lo que hagas en nuestro beneficio, siendo tantos como somos. En lo que a mí toca, te diré que no estoy convencido, y que no creo que la injusticia sea más provechosa que la justicia, ni aunque aquélla sea permitida y no se le impida hacer lo que quiera. Admitamos, mi amigo, que existe el hombre injusto y que puede obrar injustamente, sea en forma oculta o combatiendo a cara descubierta. Pero aun así no me persuado de que es más provechosa que la justicia. Y esto, seguramente, también ha sucedido a algún otro de nosotros, no sólo a mí. Persuádenos adecuadamente, mi bienaventurado amigo, de que no argumentamos correctamente cuando estimamos más a la justicia que a la injusticia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0295",
+      "stephanus": "345b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo he de persuadirte? Si con las cosas que he dicho no te has persuadido, ¿qué puedo hacer contigo aún? ¿Acaso llevaré mi argumento hasta tu alma haciéndotelo tragar?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0296",
+      "stephanus": "345b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, ¡por Zeus!, ¡eso no! Más bien, en primer lugar, has de mantener aquellas cosas que digas, y si las cambias en algo, cámbialas abiertamente y no nos engañes. Ahora, Trasímaco —consideremos nuevamente lo dicho antes—, puedes ver que, tras haber definido al verdadero médico, no has pensado que era necesario después vigilar con precisión lo que concierne al verdadero pastor, sino que crees que éste apacienta a las ovejas, en tanto pastor, sin mirar a lo que es mejor para las ovejas: como un invitado a un banquete que está dispuesto para el festín, o como un mercader, para venderlas; pero no como pastor. Pues el arte del pastor no cuida sin duda de ninguna otra cosa que de aquella con respecto a la cual está organizado, a fin de procurarle lo mejor, ya que, en cuanto a sí misma, el arte del pastor ya está suficientemente provista mientras nada le falte para ser arte del pastor. Del mismo modo estoy convencido de que es forzoso estar de acuerdo en que todo gobierno, en tanto gobierno, no atiende a ninguna otra cosa que al bien de aquel que es su gobernado y está a su cuidado, trátese del gobierno del Estado o de ámbitos particulares. Pero ¿tú crees acaso que los que gobiernan los Estados lo hacen voluntariamente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0297",
+      "stephanus": "345e",
+      "kind": "speech",
+      "text": {
+        "es": "—No es algo que meramente creo, ¡por Zeus!, sino que bien lo sé.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0298",
+      "stephanus": "346a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero Trasímaco —proseguí—, ¿no te percatas de que, en cuanto a los otros tipos de gobierno, nadie está dispuesto voluntariamente a gobernar, sino que demanda un salario, por pensar que del gobernar no obtendrá beneficio para sí mismo sino para los gobernados? En efecto, dime esto: ¿no es cada una de las artes distinta de las otras por tener un poder distinto? Respóndeme, bienaventurado amigo, no en contra de lo que piensas, para poder proseguir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0299",
+      "stephanus": "346a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que cada una es distinta por eso! —repuso Trasímaco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0300",
+      "stephanus": "346a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no nos aporta cada arte un beneficio particular —no común a todas las artes—, tal como la medicina aporta la salud, el pilotaje la seguridad al navegar, y así las demás?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0301",
+      "stephanus": "346b",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0302",
+      "stephanus": "346b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y también el arte del mercenario, aporta un salario, ya que tal es su peculiaridad. Ahora ¿llamas a una misma arte medicina y pilotaje? O bien, si es que quieres delimitar con precisión los términos, como propusiste, en caso de que, al comandar una nave, un piloto se sane, porque le hace bien navegar en el mar, ¿llamarás al pilotaje ‘medicina’?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0303",
+      "stephanus": "346b",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0304",
+      "stephanus": "346b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni tampoco al arte del mercenario, creo, lo llamarás ‘medicina’ porque alguien sane mientras gana su salario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0305",
+      "stephanus": "346b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto que no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0306",
+      "stephanus": "346c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Ni la medicina la llamarás ‘arte del mercenario’ porque el médico gane un salario cuando cura a otro?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0307",
+      "stephanus": "346c",
+      "kind": "speech",
+      "text": {
+        "es": "—Tampoco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0308",
+      "stephanus": "346c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y acaso no hemos concordado en que cada arte tiene un beneficio particular?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0309",
+      "stephanus": "346c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sea.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0310",
+      "stephanus": "346c",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, cualquiera que sea el beneficio que aprovecha a todos los artesanos en común, es patente que lo obtienen de algo que en común adicionan al ejercicio de cada arte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0311",
+      "stephanus": "346c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0312",
+      "stephanus": "346c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, diremos que, al ganar un salario, los artesanos se benefician con el ejercicio del arte del mercenario que adicionan al de cada arte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0313",
+      "stephanus": "346d",
+      "kind": "narration",
+      "text": {
+        "es": "No sin disgusto lo admitió.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0314",
+      "stephanus": "346d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces, no es de su arte particular que cada uno obtiene ese beneficio que es la recepción del salario, sino que, si consideramos las cosas con el rigor que corresponde, la medicina produce la salud, y el arte del mercenario produce un salario, el de la arquitectura una casa; y el del mercenario que se añade a cada una, un salario; y así en todas las demás artes, cada una realiza su función y beneficia a aquello con respecto a lo cual está organizada. Y si no se le añade salario, ¿se beneficiará el artesano con su arte?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0315",
+      "stephanus": "346e",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece que no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0316",
+      "stephanus": "346e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No produce beneficios, entonces, cuando cumple su función gratuitamente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0317",
+      "stephanus": "346e",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318",
+      "stephanus": "346e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, Trasímaco, ahora es evidente que ningún arte ni gobierno organiza lo que le beneficia a sí mismo, sino que, como decíamos antes, organiza y dispone lo que beneficia al gobernado: atiende a lo que conviene a aquel que es el más débil, no al que es el más fuerte. Por eso mismo, querido Trasímaco, decía hace un momento que nadie está dispuesto voluntariamente a gobernar y tomar en sus manos y corregir las deficiencias ajenas, sino que para ello reclama un salario; porque aquel que va a ejercer adecuadamente su arte jamás hace o dispone —si dispone de acuerdo con su arte— lo mejor para sí mismo sino para el gobernado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318b",
+      "stephanus": "347a",
+      "kind": "speech",
+      "text": {
+        "es": "Y para eso es necesario, según parece, asignar una remuneración a los que estén prestos a gobernar, sea plata u honores, o un castigo, si no estuviera dispuesto a gobernar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318c",
+      "stephanus": "347a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué quieres decir con eso, Sócrates? —preguntó Glaucón—. En cuanto a los dos tipos de remuneración, lo percibo, pero de qué castigo hablas y cómo lo incluyes en las clases de remuneraciones, no lo comprendo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318d",
+      "stephanus": "347a",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque no comprendes la remuneración de los mejores —respondí—, por la cual gobiernan los más aptos, cuando están dispuestos a gobernar. ¿Acaso no sabes que el amor a los honores o a la plata es considerado reprobable, y que lo es realmente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318e",
+      "stephanus": "347b",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso sí lo sé.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318f",
+      "stephanus": "347b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por tales motivos, pues, los hombres de bien no están dispuestos a gobernar con miras a las riquezas ni a los honores. No quieren, en efecto, ser llamados mercenarios por exigir abiertamente un salario para gobernar, ni ser llamados ladrones por apoderarse de riquezas ocultamente, por sí mismos, desde el gobierno. Y tampoco por causa de los honores, pues no aman los honores. Por eso es necesario que se les imponga compulsión y castigo para que se presten a gobernar: de allí es probable que sea considerado vergonzoso el avance voluntario hacia el gobierno, sin aguardar una compulsión. Ahora bien, el mayor de los castigos es ser gobernado por alguien peor, cuando uno no se presta a gobernar. Y a mí me parece que es por temor a tal castigo que los más capaces gobiernan, cuando gobiernan. Y entonces acuden al gobierno no con la idea de que van a lograr algún beneficio para ellos ni con la de que lo pasarán bien allí, sino compulsivamente, por pensar que, de otro modo, no cuentan con sustitutos mejores o similares a ellos para cumplir la función. En efecto, si llegara a haber un Estado de hombres de bien, probablemente se desataría una lucha por no gobernar, tal como la hay ahora por gobernar, y allí se tornaría evidente que el verdadero gobernante, por su propia naturaleza, no atiende realmente a lo que le conviene a él, sino al gobernado; de manera que todo hombre inteligente preferiría ser beneficiado por otro antes que ocuparse de beneficiar a otro. Por todo eso, de ningún modo estoy de acuerdo con Trasímaco en que lo justo es lo que conviene al más fuerte. Pero esto lo examinaremos en otra oportunidad. Ahora me parece mucho mejor examinar lo que dice Trasímaco cuando afirma que el modo de vida del injusto vale más que el del justo. En lo que toca a ti, Glaucón, ¿cuál de ambos modos de vida eliges? ¿Cuál de las dos afirmaciones te parece más verdadera?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318g",
+      "stephanus": "347e",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo —dijo—, que el modo de vida del justo es más provechoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318h",
+      "stephanus": "347e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Tú has escuchado cuántos bienes acaba de enumerar Trasímaco en el modo de vida del injusto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318i",
+      "stephanus": "348a",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo he escuchado, pero no me ha convencido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318j",
+      "stephanus": "348a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Quieres que lo persuadamos, si podemos descubrir de qué modo hacerlo, de que no dice la verdad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318k",
+      "stephanus": "348a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo no he de quererlo? —exclamó Glaucón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318l",
+      "stephanus": "348a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, si nos contrapusiéramos a él, efectuando un recuento —frente al suyo— de cuántos bienes ofrece el ser justo, y él, a su vez, replicara y nosotros a él, habría que enumerar los bienes y contar cuántos mencionamos de cada lado; y por ende necesitaríamos jueces que decidieran. Si hacemos el examen, en cambio, poniéndonos de acuerdo entre nosotros, como antes, nosotros mismos seremos a la vez jueces y oradores.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318m",
+      "stephanus": "348b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318n",
+      "stephanus": "348b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuál de los dos procedimientos prefieres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318o",
+      "stephanus": "348b",
+      "kind": "speech",
+      "text": {
+        "es": "—El segundo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0318p",
+      "stephanus": "348b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces —dije—, Trasímaco, vuelve al comienzo y respóndenos: ¿afirmas que la completa injusticia es más provechosa que la justicia plena?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0319",
+      "stephanus": "348c",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que lo afirmo —replicó Trasímaco—, y también he dicho por qué.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0320",
+      "stephanus": "348c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y bien, veamos de qué modo hablas de esas dos cosas: ¿calificas a una de ‘excelencia’ y de ‘malogro’ la otra?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0321",
+      "stephanus": "348c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0322",
+      "stephanus": "348c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por tanto, ¿calificas a la justicia de ‘excelencia’ y a la injusticia de ‘malogro’?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0323",
+      "stephanus": "348c",
+      "kind": "speech",
+      "text": {
+        "es": "—Probablemente, mi gracioso amigo, puesto que digo que la injusticia da provecho y la justicia no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0324",
+      "stephanus": "348c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces ¿qué afirmas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0325",
+      "stephanus": "348c",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo contrario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0326",
+      "stephanus": "348d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿En tal caso es la justicia malogro?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0327",
+      "stephanus": "348d",
+      "kind": "speech",
+      "text": {
+        "es": "—No, más bien una genuina candidez.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0328",
+      "stephanus": "348d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y a la injusticia la llamas mala predisposición?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0329",
+      "stephanus": "348d",
+      "kind": "speech",
+      "text": {
+        "es": "—No, sino buen sentido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0330",
+      "stephanus": "348d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y también crees, Trasímaco, que los injustos son inteligentes y buenos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0331",
+      "stephanus": "348d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, al menos los que pueden obrar de modo completamente injusto, y que tienen el poder de someter a Estados y a pueblos enteros. Tú piensas, tal vez, que me refiero a los cortadores de bolsas; incluso esto da provecho, también, si pasa inadvertido, pero lo que es digno de mención no es eso, sino las cosas de que acabo de hablar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0332",
+      "stephanus": "348e",
+      "kind": "speech",
+      "text": {
+        "es": "—No, me doy bien cuenta de lo que quieres decir, pero aún me asombra que coloques a la injusticia en la sección de la excelencia y de la sabiduría, y a la justicia en la sección contraria.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0333",
+      "stephanus": "348e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin embargo, así las coloco, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0334",
+      "stephanus": "348e",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto es ahora algo más sólido, mi amigo, y ya no es fácil poder contestarlo. Si hubieses afirmado, en efecto, que la injusticia da provecho, pero concordaras con otros en que es maldad y algo vergonzoso, podríamos replicar hablando conforme al uso habitual de estas palabras. Pero ahora es patente que dirás que es una cosa bella y vigorosa y que le atribuirás todo lo demás que atribuimos a lo justo, ya que has tenido la audacia de colocar a la injusticia en la sección de la excelencia y de la sabiduría.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0335",
+      "stephanus": "349a",
+      "kind": "speech",
+      "text": {
+        "es": "—Adivinas perfectamente la verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0336",
+      "stephanus": "349a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin embargo, no debo vacilar en proseguir el examen del argumento, al menos mientras suponga que lo que dices es lo que piensas. Pues me da la impresión, Trasímaco, de que ahora realmente no bromeas, sino dices lo que crees acerca de la verdad de estas cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0337",
+      "stephanus": "349a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué diferencia te hace el que lo crea o no? Más bien refuta mi argumentación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0338",
+      "stephanus": "349b",
+      "kind": "speech",
+      "text": {
+        "es": "—No hay ninguna diferencia. Pero trata de responder también a esto: ¿te parece que el hombre justo quiere superar en algo a otro justo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0339",
+      "stephanus": "349b",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo, pues en tal caso no sería tan encantador y cándido como es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0340",
+      "stephanus": "349b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y tampoco está dispuesto a superar a la acción justa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0341",
+      "stephanus": "349b",
+      "kind": "speech",
+      "text": {
+        "es": "—Tampoco.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0342",
+      "stephanus": "349b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Consideraría valioso, en cambio, superar al injusto, y creería que eso es justo, o pensaría que no es justo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0343",
+      "stephanus": "349b",
+      "kind": "speech",
+      "text": {
+        "es": "—Creería que es justo superar al injusto y lo consideraría valioso, pero no lo lograría.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0344",
+      "stephanus": "349c",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto último no es lo que pregunté, sino sólo si el justo no consideraría valioso ni querría superar al justo, mas sí al injusto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0345",
+      "stephanus": "349c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0346",
+      "stephanus": "349c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en lo que hace al injusto, ¿acaso consideraría valioso aventajar al justo y a la acción justa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0347",
+      "stephanus": "349c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo no, si precisamente es el que considera valioso superar a todos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0348",
+      "stephanus": "349c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, el injusto luchará para aventajar al hombre injusto y a la acción injusta, de modo de lograr mucho más que todos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0349",
+      "stephanus": "349c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0350",
+      "stephanus": "349d",
+      "kind": "speech",
+      "text": {
+        "es": "—Afirmemos esto, entonces: el justo no tratará de aventajar a su semejante, sino a su contrario; mientras el injusto tratará de aventajar tanto a su semejante como a su contrario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0351",
+      "stephanus": "349d",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy bien dicho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0352",
+      "stephanus": "349d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, el injusto es inteligente y bueno; el justo ni una cosa ni la otra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0353",
+      "stephanus": "349d",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0354",
+      "stephanus": "349d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, el injusto se parece al inteligente y al bueno, mientras el justo no se parece a éstos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0355",
+      "stephanus": "349d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo no ha de parecérseles aquel que es como ellos, en tanto el otro no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0356",
+      "stephanus": "349d",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy bien. Por lo tanto ¿cada uno de ellos es tal como aquellos a quienes se parece?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0357",
+      "stephanus": "349d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Pero no veo de qué otro modo podría ser!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0358",
+      "stephanus": "349e",
+      "kind": "speech",
+      "text": {
+        "es": "—Está bien, Trasímaco, ¿llamas ‘músico’ a alguien, y a otro ‘no-músico’?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0359",
+      "stephanus": "349e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0360",
+      "stephanus": "349e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cuál de ellos dices que es inteligente y a cuál llamas tonto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0361",
+      "stephanus": "349e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por supuesto, digo que el músico es inteligente y que el no-músico es tonto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0362",
+      "stephanus": "349e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en lo que uno es inteligente es también bueno, mientras que en ese sentido el tonto es malo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0363",
+      "stephanus": "349e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0364",
+      "stephanus": "349e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y respecto del médico hablaremos del mismo modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0365",
+      "stephanus": "349e",
+      "kind": "speech",
+      "text": {
+        "es": "—Del mismo modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0366",
+      "stephanus": "349e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y te parece, mi excelente amigo, que un buen músico, al templar la lira, quiere aventajar a otro músico en cuanto a poner tensas las cuerdas o aflojarlas, y considera valioso aventajarlo en eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0367",
+      "stephanus": "350a",
+      "kind": "speech",
+      "text": {
+        "es": "—No, claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0368",
+      "stephanus": "350a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero querrá aventajar, en esa actividad, a quien no sea músico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0369",
+      "stephanus": "350a",
+      "kind": "speech",
+      "text": {
+        "es": "—Forzosamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0370",
+      "stephanus": "350a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en cuanto al médico, cuando prescribe un régimen de comidas y bebidas, ¿te parece que quiere aventajar a un médico o a la profesión de médico?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0371",
+      "stephanus": "350a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda que no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0372",
+      "stephanus": "350a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero querrá aventajar en eso a quien no sea médico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0373",
+      "stephanus": "350a",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0374",
+      "stephanus": "350a",
+      "kind": "speech",
+      "text": {
+        "es": "—Mira ahora, respecto de cualquier conocimiento artesanal o de la ausencia del mismo, si te parece que aquel que conoce de un arte quiere lograr, en lo que hace o dice, más que otro conocedor de ese arte, en lugar de obtener lo mismo que su semejante en dicha actividad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0375",
+      "stephanus": "350a",
+      "kind": "speech",
+      "text": {
+        "es": "—Parecería forzoso que sea de la segunda manera.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0376",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y el que desconoce el arte? ¿No trataría de aventajar tanto al conocedor de dicho arte como igualmente al que lo desconoce?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0377",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—Tal vez.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0378",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y el conocedor es sabio?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0379",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0380",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y el sabio es bueno?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0381",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0382",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, el que es bueno y sabio no querrá aventajar a su semejante, sino a su contrario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0383",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0384",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—El malo e ignorante, en cambio, querrá aventajar tanto a su semejante como a su contrario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0385",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es manifiesto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0386",
+      "stephanus": "350b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, Trasímaco, el injusto nos parecía que quería aventajar tanto a su contrario como a su semejante. ¿Acaso no decías eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0387",
+      "stephanus": "350c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0388",
+      "stephanus": "350c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y vimos que el justo no quiere aventajar a su semejante, sino a su contrario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0389",
+      "stephanus": "350c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0390",
+      "stephanus": "350c",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, el justo se parece al sabio y bueno, el injusto al malo e ignorante.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0391",
+      "stephanus": "350c",
+      "kind": "speech",
+      "text": {
+        "es": "—Probablemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0392",
+      "stephanus": "350c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero nos hemos puesto de acuerdo, además, en que cada uno de ellos es tal como aquellos a los que cada uno se parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0393",
+      "stephanus": "350c",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, lo hemos acordado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0394",
+      "stephanus": "350c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, el justo se nos ha revelado como bueno y sabio, en tanto el injusto como ignorante y malo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0395",
+      "stephanus": "350d",
+      "kind": "narration",
+      "text": {
+        "es": "Trasímaco convino en todo esto, pero no tan fácilmente como lo narro ahora, sino que lo hizo compelido y a regañadientes, con gran sudor, más aún por el calor que había. Entonces vi algo que nunca había visto antes: Trasímaco enrojeció. Ahora bien, después de que hubimos convenido en que la justicia es excelencia y sabiduría y la injusticia, en cambio, malogro e ignorancia, dije:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0396",
+      "stephanus": "350d",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien, demos esto por establecido. Pero también hemos dicho que la injusticia es vigorosa. ¿Recuerdas, Trasímaco?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0397",
+      "stephanus": "350d",
+      "kind": "speech",
+      "text": {
+        "es": "—Recuerdo —dijo—. Pero no estoy conforme con lo que acabas de decir, y tendría bastante que hablar de estas cosas. Claro que si lo hiciera, bien sé que dirías que estoy arengando. De modo que, o bien me dejas hablar como quiero, o bien, si quieres preguntar, pregunta, y yo te diré «está bien» —como a las viejas que cuentan leyendas—, asintiendo o disintiendo con la cabeza.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0398",
+      "stephanus": "350e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero de modo que, en ningún caso, sea en contra de tu propia opinión.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0399",
+      "stephanus": "350e",
+      "kind": "speech",
+      "text": {
+        "es": "—Del modo que te plazca —dijo—, puesto que no me permites hablar. ¿Quieres algo más que eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0400",
+      "stephanus": "350e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡En nombre de Zeus, nada más! Si obras así, hazlo. Yo preguntaré.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0401",
+      "stephanus": "350e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pregunta, pues.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0402",
+      "stephanus": "350e",
+      "kind": "speech",
+      "text": {
+        "es": "—Te preguntaré lo que te acabo de preguntar, a fin de examinar la cuestión ordenadamente: cuál es la relación entre la justicia y la injusticia. Hace un momento ha sido dicho que la injusticia es más poderosa y más fuerte que la justicia. Pero ahora, añadí, si la justicia es sabiduría y excelencia, pienso que se manifiesta fácilmente más fuerte que la injusticia, puesto que la injusticia es ignorancia: nadie lo desconocería. Mas no deseo valerme de algo tan simple, Trasímaco; prefiero examinarlo de otro modo: ¿dices que un Estado puede ser injusto e intentar someter injustamente a otros Estados —o haberlos sometido ya—, e incluso mantener sometidos bajo sí muchos Estados?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0403",
+      "stephanus": "351b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro! —contestó—. Y el mejor Estado, que es el injusto, lo llevará a cabo antes que ningún otro y del modo más perfecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0404",
+      "stephanus": "351b",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprendo, porque ésta era tu tesis —dije—. Pero respecto de ella examino lo siguiente: el Estado que llega a prevalecer sobre otro, ¿ha de mantener ese poder sin justicia, o le será forzoso contar con justicia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0405",
+      "stephanus": "351c",
+      "kind": "speech",
+      "text": {
+        "es": "—Si fuera como tú acabas de decir, que la justicia es sabiduría, tendría que contar con justicia —respondió—. Pero si es como yo he dicho, con injusticia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0406",
+      "stephanus": "351c",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy encantado, Trasímaco —dije yo—, porque no te limitas a asentir y disentir con la cabeza, sino que también respondes tan brillantemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0407",
+      "stephanus": "351c",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo hago para complacerte —contestó.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0408",
+      "stephanus": "351c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo haces muy bien; pero ahora dime esto, también para complacerme: ¿te parece que un Estado o un ejército, o una banda de piratas o de ladrones, o cualquier otro grupo que se propusiera hacer en común algo injusto, podría tener éxito si cometieran injusticias entre sí?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0409",
+      "stephanus": "351d",
+      "kind": "speech",
+      "text": {
+        "es": "—No, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0410",
+      "stephanus": "351d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y si no las cometieran ¿sería más probable que tuvieran éxito?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0411",
+      "stephanus": "351d",
+      "kind": "speech",
+      "text": {
+        "es": "—Seguramente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0412",
+      "stephanus": "351d",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, Trasímaco, la injusticia produce entre los hombres discordias, odios y disputas; la justicia, en cambio, concordia y amistad. ¿No es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0413",
+      "stephanus": "351d",
+      "kind": "speech",
+      "text": {
+        "es": "—Aceptémoslo —contestó—, para no discutir contigo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0414",
+      "stephanus": "351d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero haces muy bien, mi excelente amigo. Y ahora dime esto: si la obra de la injusticia es crear odio allí donde se encuentre, al surgir entre hombres libres o bien entre esclavos, ¿no hará que se odien y disputen entre sí, de modo que sean incapaces de hacer juntos algo en común?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0415",
+      "stephanus": "351e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0416",
+      "stephanus": "351e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y si surge entre dos personas? ¿No discutirán y se odiarán y llegarán a ser tan enemigos entre sí como lo son de los justos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0417",
+      "stephanus": "351e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, llegarán a serlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0418",
+      "stephanus": "351e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y esta propiedad la perderá la injusticia en caso de que surja en un solo hombre, admirable Trasímaco, o en nada disminuirá?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0419",
+      "stephanus": "351e",
+      "kind": "speech",
+      "text": {
+        "es": "—En nada disminuirá —respondió.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0420",
+      "stephanus": "351e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, sea que surja en un Estado, en una familia, en un ejército o en donde sea, aparece siempre contando con la propiedad de producir, primeramente, la incapacidad de obrar en conjunto, a raíz de las disputas y discordias, y, en segundo lugar, la existencia de una enemistad tanto consigo mismo como con cualquier otro y con el justo. ¿No es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0421",
+      "stephanus": "352a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0422",
+      "stephanus": "352a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y cuando se encuentra en un solo hombre, pienso, producirá todas las obras que corresponden a su naturaleza. Primeramente, la incapacidad para obrar, poniéndolo en conflicto y en desacuerdo consigo mismo, y, en segundo lugar, lo tornará hostil tanto consigo mismo como con los justos. ¿No es acaso así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0423",
+      "stephanus": "352a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0424",
+      "stephanus": "352a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, también los dioses son justos, ¿no, mi amigo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0425",
+      "stephanus": "352b",
+      "kind": "speech",
+      "text": {
+        "es": "—Que lo sean —respondió.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0426",
+      "stephanus": "352b",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, Trasímaco, el injusto será hostil a los dioses, mientras los justos amigos de ellos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0427",
+      "stephanus": "352b",
+      "kind": "speech",
+      "text": {
+        "es": "—Disfruta del argumento sin temor a mi réplica —dijo—. Pues yo no te he de contradecir, para no volverme odioso a tus amigos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0428",
+      "stephanus": "352b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y bien —proseguí—, completa lo que queda del festín respondiéndome como hasta ahora. Pues los justos aparecen como más sabios, mejores y más capaces de actuar, mientras los injustos no pueden hacer nada juntos: y si decimos que algunas veces, aun siendo injustos, hacen algo juntos en común y con vigor, no diremos la verdad en ningún sentido. En efecto, si fueran completamente injustos, no se habrían abstenido de enfrentarse entre sí, sino que evidentemente anidaba en ellos algo de justicia, lo que les impedía atacarse entre sí mientras cometían injusticias contra otros, y gracias a ella han hecho lo que han hecho. Esto es, lo han abocado a obrar injustamente cuando estaban perjudicados sólo a medias por la injusticia, ya que los que estuvieran completamente depravados y fueran completamente injustos no hubiesen podido hacer nada. Que estas cosas sean así lo comprendo, pero no como tú las expusiste al comienzo. Ahora debemos examinar si los justos viven mejor que los injustos y si son más felices, que es lo que anteriormente propusimos. Por cierto, eso parece claro, al menos así lo creo, a partir de lo que hemos estado diciendo. No obstante, hay que examinarlo mejor, pues no es un tema cualquiera, sino que concierne a cuál es el modo en que se debe vivir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0429",
+      "stephanus": "352d",
+      "kind": "speech",
+      "text": {
+        "es": "—Examínalo, entonces —dijo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0430",
+      "stephanus": "352d",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo examinaré —respondí—. Dime, ¿te parece que hay una función propia del caballo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0431",
+      "stephanus": "352e",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0432",
+      "stephanus": "352e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo que admites como función del caballo, al igual que en cualquier otro caso, ¿no es lo que sólo aquél hace, o lo que él hace mejor?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0433",
+      "stephanus": "352e",
+      "kind": "speech",
+      "text": {
+        "es": "—No comprendo —alegó.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0434",
+      "stephanus": "352e",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos de este modo: ¿puedes ver con otra cosa que con los ojos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0435",
+      "stephanus": "352e",
+      "kind": "speech",
+      "text": {
+        "es": "—No, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0436",
+      "stephanus": "352e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y puedes oír con otra cosa que con los oídos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0437",
+      "stephanus": "352e",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0438",
+      "stephanus": "353a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso ¿sería correcto que dijéramos que ver y oír son funciones de esos órganos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0439",
+      "stephanus": "353a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0440",
+      "stephanus": "353a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, ¿podrías cortar un sarmiento de una vid con un cuchillo o con un cincel o con otras herramientas análogas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0441",
+      "stephanus": "353a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Sí que podría!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0442",
+      "stephanus": "353a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin embargo, me parece que con ninguna de ellas se podaría la vid tan apropiadamente como con una podadera, que ha sido fabricada para ello.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0443",
+      "stephanus": "353a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0444",
+      "stephanus": "353a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Admitiremos, en consecuencia, que podar la vid es función de la podadera?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0445",
+      "stephanus": "353a",
+      "kind": "speech",
+      "text": {
+        "es": "—Admitámoslo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0446",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que ahora comprenderás mejor lo que te preguntaba hace un momento, cuando inquiría si la función de cada cosa es o no lo que sólo ella cumple o lo que esa cosa cumple más apropiadamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0447",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente, comprendo, y me parece que ésa es la función de cada cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0448",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien. ¿Y no te parece que hay una excelencia para cada cosa que tiene asignada una función? Pero volvamos a lo dicho antes: ¿no decíamos que los ojos tienen una función?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0449",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, tienen una función.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0450",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no tienen los ojos también una excelencia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0451",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—También.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0452",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero además ¿había una función de los oídos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0453",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0454",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y por consiguiente, también una excelencia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0455",
+      "stephanus": "353b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, también.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0456",
+      "stephanus": "353c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no sucede lo mismo respecto de todas las demás cosas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0457",
+      "stephanus": "353c",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0458",
+      "stephanus": "353c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y bien, ¿acaso los ojos podrían alguna vez cumplir adecuadamente su función, si no cuentan con su propia excelencia, sino, en su lugar, con una falencia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0459",
+      "stephanus": "353c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que no! —contestó—. Ya que seguramente quieres decir que tienen la ceguera en lugar de la vista.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0460",
+      "stephanus": "353c",
+      "kind": "speech",
+      "text": {
+        "es": "—Cualquiera que sea su excelencia —repliqué—, pues todavía no pregunto esto, sino si las cosas que tienen una función la cumplen bien gracias a la propia excelencia, pero mal con su malogro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0461",
+      "stephanus": "353c",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso es cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0462",
+      "stephanus": "353c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, también los oídos, privados de su excelencia, cumplirán mal su función.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0463",
+      "stephanus": "353c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0464",
+      "stephanus": "353d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y aplicaremos a todas las cosas el mismo argumento?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0465",
+      "stephanus": "353d",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0466",
+      "stephanus": "353d",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien. Después de eso, debemos examinar lo siguiente: hay funciones del alma que ninguna otra cosa distinta de ella podría cumplir. Por ejemplo, el prestar atención, el gobernar, el deliberar y todo lo de esa índole: ¿será correcto que atribuyamos estas funciones a otra cosa que al alma y diremos que son propias de ésta?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0467",
+      "stephanus": "353d",
+      "kind": "speech",
+      "text": {
+        "es": "—Las atribuiremos al alma.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0468",
+      "stephanus": "353d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y respecto del vivir ¿diremos que es una función del alma?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0469",
+      "stephanus": "353d",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro, por encima de todo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0470",
+      "stephanus": "353d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿El alma tiene, por ende, una excelencia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0471",
+      "stephanus": "353d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0472",
+      "stephanus": "353e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y alguna vez, Trasímaco, el alma cumplirá bien sus funciones si está privada de su propia excelencia, o le será imposible?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0473",
+      "stephanus": "353e",
+      "kind": "speech",
+      "text": {
+        "es": "—Le será imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0474",
+      "stephanus": "353e",
+      "kind": "speech",
+      "text": {
+        "es": "—Forzoso es, por consiguiente, gobernar y prestar atención mal con un alma mala, y, con un alma buena, hacer bien todas esas cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0475",
+      "stephanus": "353e",
+      "kind": "speech",
+      "text": {
+        "es": "—Forzoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0476",
+      "stephanus": "353e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no habíamos convenido que la justicia es excelencia, y la injusticia malogro de aquélla?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0477",
+      "stephanus": "353e",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0478",
+      "stephanus": "353e",
+      "kind": "speech",
+      "text": {
+        "es": "—El alma justa, por ende, el hombre justo, vivirá bien; el injusto, en cambio, mal.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0479",
+      "stephanus": "353e",
+      "kind": "speech",
+      "text": {
+        "es": "—Según tu argumento —dijo— es manifiesto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0480",
+      "stephanus": "354a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero precisamente quien vive bien es feliz y bienaventurado, al contrario del que vive mal.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0481",
+      "stephanus": "354a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0482",
+      "stephanus": "354a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, el justo es feliz y el injusto desdichado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0483",
+      "stephanus": "354a",
+      "kind": "speech",
+      "text": {
+        "es": "—Admitámoslo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0484",
+      "stephanus": "354a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien; no se obtiene provecho al ser desdichado, sino al ser feliz.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0485",
+      "stephanus": "354a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0486",
+      "stephanus": "354a",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, bienaventurado Trasímaco, es más provechosa la justicia que la injusticia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0487",
+      "stephanus": "354a",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien, Sócrates —dijo—, ya tienes tu festín para honrar a la diosa Bendis.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b1-0488",
+      "stephanus": "354b",
+      "kind": "speech",
+      "text": {
+        "es": "—A ti te lo debo, Trasímaco —dije—, por haber sido tan amable conmigo y cesar de irritarte. Si a pesar de eso no lo disfruto, no es por tu causa, sino por la mía. En efecto, tal como los glotones engullen vorazmente cada nuevo manjar que les sirven, antes de saborear el anterior de modo adecuado, así me parece que yo, antes de hallar lo que debíamos examinar primeramente, o sea, qué es lo justo, lo he dejado de lado y me he abocado al examen de si lo justo es ignorancia o sabiduría y excelencia; y luego, al ocurrírseme la cuestión de si la injusticia es más provechosa que la justicia, no he podido abstenerme de pasar del asunto anterior a éste; de modo que el resultado del diálogo es que ahora no sé nada. En efecto, puesto que no sé qué es lo justo, mucho menos he de saber si es excelencia o no, ni si quien lo posee es feliz o infeliz.",
+        "en": ""
+      }
+    }
+  ]
+}
