@@ -1,0 +1,5069 @@
+{
+  "book": 5,
+  "title": {
+    "es": "Libro V",
+    "en": "Book V"
+  },
+  "sourceLang": "es",
+  "translations": [],
+  "segments": [
+    {
+      "id": "b5-0001",
+      "stephanus": "449a",
+      "kind": "speech",
+      "text": {
+        "es": "—A semejante Estado y a semejante forma de gobierno llamo buena y recta, lo mismo que al hombre correspondiente; pero a las otras las tengo por malas y erróneas, tanto en lo relativo a la administración del Estado, como a la organización del carácter del alma individual, y su maldad existe en cuatro clases.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0002",
+      "stephanus": "449a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuáles?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0003",
+      "stephanus": "449a",
+      "kind": "narration",
+      "text": {
+        "es": "Y yo iba a describirlas una tras otra, tal como me parecía que cada una de ellas se transformaba en las demás; pero Polemarco —quien estaba sentado a poca distancia de Adimanto—, extendiendo su mano, asió por arriba el manto de éste, del lado del hombro, y lo hizo girar hacia sí e, inclinándose hacia él, le susurró algunas palabras, de las cuales nada pudimos entender, salvo esto:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0004",
+      "stephanus": "449b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué haremos? ¿Lo dejaremos seguir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0005",
+      "stephanus": "449b",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo —repuso Adimanto, hablando ya en voz alta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0006",
+      "stephanus": "449b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué es lo que no dejaréis seguir? —pregunté.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0007",
+      "stephanus": "449b",
+      "kind": "speech",
+      "text": {
+        "es": "—A ti.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0008",
+      "stephanus": "449c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿por qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0009",
+      "stephanus": "449c",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque nos das la impresión de ser indolente y escamotear toda una parte de la discusión, y no la más insignificante, para no tomarte el trabajo de entrar en detalles; y parecería que has creído que pasarías inadvertido al decir a la ligera, en lo referente a las mujeres y niños, que es evidente para cualquiera que todas las cosas son comunes a los amigos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0010",
+      "stephanus": "449c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es eso correcto, Adimanto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0011",
+      "stephanus": "449c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, pero lo correcto de esto, como en los demás casos, requiere una argumentación respecto de cómo es tal comunidad, ya que puede haber muchos modos. No omitas, pues, lo que tienes en mente. Pues nosotros hace rato que estamos aguardando lo que creíamos dirías acerca de cómo se procrearán los niños y, luego de procreados, cómo se educarán, y todo lo que entiendes al hablar de comunidad de mujeres y niños. Pensamos, en efecto, que para el Estado es de suma importancia que eso se produzca de modo correcto o incorrecto. Por eso ahora, cuando ibas a abordar la exposición de otro régimen político antes de haber definido esas cosas suficientemente, hemos resuelto lo que has oído: no dejarte proseguir antes de que hayas expuesto todas estas cosas, como has hecho con las demás.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0012",
+      "stephanus": "450a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues también a mí —dijo Glaucón— consideradme asociado a vuestro voto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0013",
+      "stephanus": "450a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Sin la menor duda! —exclamó Trasímaco—. Esa resolución la compartimos todos; puedes creerlo, Sócrates.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0014",
+      "stephanus": "450a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué es lo que hacéis, atacándome así? —me quejé—. ¡Tamaña discusión promovéis acerca de nuestra organización política, como si estuviéramos al comienzo! Porque yo me regocijaba de haber concluido ya la descripción, encantado de que se la diera por admitida tal como había sido expuesta. No sabéis vosotros, al reclamarla ahora, el enjambre de argumentaciones que suscitaréis. Ya en aquel momento lo soslayé precisamente por advertirlo, para no provocar semejante perturbación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0015",
+      "stephanus": "450b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué? —prorrumpió Trasímaco—. ¿Acaso piensas que hemos venido aquí para buscar algún tesoro, en lugar de asistir a argumentaciones?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0016",
+      "stephanus": "450b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí —repliqué—, pero argumentaciones con medida.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0017",
+      "stephanus": "450c",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien, Sócrates —dijo Glaucón—, mas la medida de argumentaciones como éstas es, para la gente inteligente, la vida entera. Pero no te preocupes por nosotros; por ningún motivo debes titubear en exponer tu parecer acerca de lo que te preguntamos: en qué consistirá esta comunidad de mujeres y niños para nuestros guardianes, y en qué la crianza de los niños cuando aún son pequeños, en el período intermedio entre el nacimiento y la educación, que parece ser lo más espinoso. Trata de decirnos de qué modo debe desarrollarse.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0018",
+      "stephanus": "450c",
+      "kind": "speech",
+      "text": {
+        "es": "—No es fácil exponer tal tema, bendito amigo —contesté—, pues arroja muchas más dudas aún de lo que hemos descrito hasta ahora. En efecto, se dudará de que lo dicho sea posible, e incluso en el caso de que lo fuera, cabrá la duda de que eso sea lo mejor, y de ese modo. Por ello vacilo en tratar estos asuntos, ya que la exposición puede parecer una expresión de deseos, querido mío.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0019",
+      "stephanus": "450d",
+      "kind": "speech",
+      "text": {
+        "es": "—No vaciles, porque los que te escuchan no son desconsiderados, ni incrédulos ni hostiles.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0020",
+      "stephanus": "450d",
+      "kind": "speech",
+      "text": {
+        "es": "—Excelente amigo, sin duda me hablas de ese modo porque quieres darme ánimo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0021",
+      "stephanus": "450d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0022",
+      "stephanus": "450d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, produces el efecto contrario. En efecto, si yo estuviera confiado en saber aquello de lo cual debo hablar, sería excelente tu manera de darme ánimo, ya que, quien conozca la verdad, puede hablar con seguridad y audacia sobre los temas más caros e importantes en medio de personas inteligentes y queridas. Pero exponer teorías cuando aún se duda de ellas y se las investiga, tal como debo hacer yo, es terrible y peligroso; y no por incitar a la risa, ya que eso sería pueril; el peligro consistiría más bien en que, al fracasar respecto de la verdad, no sólo caiga yo sino que arrastre en mi caída también a mis amigos en relación con las cosas en que menos conviene errar. Imploro la gracia de Adrastea, Glaucón, por lo que voy a decir. Considero, en efecto, que llegar involuntariamente a ser asesino de alguien es una falta menor que la de engañarlo respecto de las instituciones nobles, buenas y justas. Y vale más la pena correr este riesgo con los enemigos que con los amigos, de modo que no haces bien en darme ánimo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0023",
+      "stephanus": "451b",
+      "kind": "speech",
+      "text": {
+        "es": "—Querido Sócrates —repuso Glaucón, echándose a reír—, si sufrimos algún perjuicio por causa de tu argumento, te absolveremos como si se tratara de un homicidio, y te declararemos limpio de toda mancha y de todo intento de engaño. De manera que habla con confianza.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0024",
+      "stephanus": "451b",
+      "kind": "speech",
+      "text": {
+        "es": "—Está bien —asentí—, ya que, como dice la ley, el absuelto en tal caso queda limpio. Y es natural que lo que valga para tal caso valga para el caso presente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0025",
+      "stephanus": "451b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por eso mismo, pues, habla.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0026",
+      "stephanus": "451c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y para hablar debemos ahora retornar a lo que, en aquel momento, le correspondía el turno en nuestra exposición. Pero tal vez sea correcto proceder así: que, una vez completada la actuación masculina, se cumpla a su vez la femenina, máxime dada tu exhortación a ello. Porque, en mi opinión, no hay, para hombres nacidos y educados de la manera que hemos descrito, otro modo recto de posesión y trato de sus hijos y mujeres que el de seguir en conformidad con el impulso que originariamente le hemos imprimido. Y en nuestro discurso nos hemos esforzado en establecer a estos hombres como guardianes de ganado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0027",
+      "stephanus": "451c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0028",
+      "stephanus": "451d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sigamos con la comparación, entonces, y démosles la generación y la crianza de modo similar, y examinemos si nos conviene o no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0029",
+      "stephanus": "451d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿En qué sentido?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0030",
+      "stephanus": "451d",
+      "kind": "speech",
+      "text": {
+        "es": "—En éste: ¿creemos que las hembras de los perros-guardianes deben participar en la vigilancia junto con los machos, y cazar y hacer todo lo demás junto con éstos, o bien ellas quedarse en casa, como si estuvieran incapacitadas por obra del parto y crianza de los cachorros, mientras ellos cargan con todo el trabajo y todo el cuidado del rebaño?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0031",
+      "stephanus": "451e",
+      "kind": "speech",
+      "text": {
+        "es": "—Deben hacer todo en común, excepto que las tratemos a ellas como más débiles y a ellos como más fuertes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0032",
+      "stephanus": "451e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿se puede emplear a un animal en las mismas tareas que otro, si no se le ha brindado el mismo alimento y la misma educación?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0033",
+      "stephanus": "451e",
+      "kind": "speech",
+      "text": {
+        "es": "—No, no se puede.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0034",
+      "stephanus": "451e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces, si hemos de emplear a las mujeres en las mismas tareas que a los hombres, debe enseñárseles las mismas cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0035",
+      "stephanus": "452a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0036",
+      "stephanus": "452a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y tenemos que a los hombres se les ha brindado la enseñanza tanto de la música como de la gimnasia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0037",
+      "stephanus": "452a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0038",
+      "stephanus": "452a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, también a las mujeres debe ofrecérseles la enseñanza de ambas artes, así como las que conciernen a la guerra, y debe tratárselas del mismo modo que a los hombres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0039",
+      "stephanus": "452a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo que dices, es probable.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0040",
+      "stephanus": "452a",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que tal vez muchas de las cosas que, contra lo acostumbrado, exponemos parezcan ridículas si se las pone en práctica.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0041",
+      "stephanus": "452a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0042",
+      "stephanus": "452b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿qué es lo más ridículo que ves en ellas? ¿No es obviamente el hecho de que las mujeres hagan gimnasia desnudas en la palestra junto a los hombres, y no sólo las jóvenes sino también las más ancianas, como esos viejos que se ejercitan en los gimnasios cuando están ya arrugados, y gustan de la gimnasia, aunque presenten un aspecto desagradable?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0043",
+      "stephanus": "452b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, ¡por Zeus! Parecería ridículo, al menos en las actuales circunstancias.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0044",
+      "stephanus": "452b",
+      "kind": "speech",
+      "text": {
+        "es": "—Con todo, puesto que nos hemos propuesto hablar, no debemos temer las pullas de los graciosos, digan cuanto digan y lo que digan sobre tal transformación referente a la gimnasia y a la música, y no menos al manejo de armas y a la equitación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0045",
+      "stephanus": "452c",
+      "kind": "speech",
+      "text": {
+        "es": "—Tienes razón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0046",
+      "stephanus": "452c",
+      "kind": "speech",
+      "text": {
+        "es": "—Más bien, dado que hemos comenzado nuestra exposición, hay que avanzar hacia el aspecto áspero de la ley en cuestión, y les rogaremos a aquellos graciosos que dejen de lado sus bromas, y que se pongan serios y recuerden que no hace mucho tiempo a los griegos —como ahora a la mayoría de los bárbaros— les parecía que era vergonzoso y ridículo mirar a hombres desnudos. Sólo cuando comenzaron a hacer ejercicios gimnásticos los cretenses primeramente, y después los lacedemonios, les fue posible a los chistosos de entonces ridiculizar todas esas cosas. ¿No lo crees?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0047",
+      "stephanus": "452d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0048",
+      "stephanus": "452d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero después de que la experiencia reveló a los hombres que era mejor desnudarse que cubrir todo el cuerpo, pienso, lo que parecía ridículo a los ojos se desvaneció por obra de lo que, a la luz de la razón, se mostró como excelente. Y esto ha puesto de manifiesto que es un tonto aquel que considera ridículo otra cosa que el mal, y quien trata de mover a risa mirando como ridículo cualquier otro espectáculo que el de la locura y el de la maldad, y que, a su vez, se propone y persigue seriamente otro modelo de belleza que el del bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0049",
+      "stephanus": "452e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por entero de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0050",
+      "stephanus": "452e",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo primero en que debemos ponernos de acuerdo es sobre si estas propuestas son posibles o no. Y debemos abrir el debate, para quien quiera discutir —sea en broma o en serio—, si la naturaleza humana femenina es capaz de compartir con la masculina todas las tareas o ninguna, o si unas sí y otras no, y si entre las que pueden compartir están o no las referentes a la guerra. Si comenzamos tan bien, ¿no es natural que también concluyamos de la mejor manera?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0051",
+      "stephanus": "453a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0052",
+      "stephanus": "453a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Quieres que debatamos la cuestión contra nosotros mismos, en nombre de los demás, para que la parte del argumento contrario no sucumba al asedio por falta de defensa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0053",
+      "stephanus": "453b",
+      "kind": "speech",
+      "text": {
+        "es": "—Nada lo impide.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0054",
+      "stephanus": "453b",
+      "kind": "speech",
+      "text": {
+        "es": "—Hablemos, pues, en nombre de ellos: «No es necesario, oh Sócrates y Glaucón, que otros os discutan. Pues vosotros mismos, al comenzar la fundación de vuestro Estado, habéis convenido en que cada uno debía realizar una sola tarea, acorde a su naturaleza». Nosotros lo habíamos convenido, creo, de modo que no podríamos negarlo. «¿Y acaso no hay una gran diferencia entre la naturaleza de la mujer y la del hombre?». Pregunta a la que tendríamos que responder afirmativamente. «En tal caso, corresponde asignar a cada uno una tarea distinta, según su propia naturaleza». A lo cual deberíamos asentir. «¿Cómo negar, por ende, que ahora os equivocáis y os contradecís a vosotros mismos, al afirmar que los hombres y las mujeres deben realizar las mismas tareas, aun cuando cuenten con naturalezas tan distintas? ¿Puedes alegar algo, mi admirable amigo Glaucón, frente a tales objeciones?»",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0055",
+      "stephanus": "453c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así, repentinamente, no es fácil. Pero yo te rogaré, te ruego ahora mismo, que expongas nuestro propio argumento, cualquiera que sea.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0056",
+      "stephanus": "453d",
+      "kind": "speech",
+      "text": {
+        "es": "—Hace rato, Glaucón, que yo preveía estas cuestiones y muchas otras de la misma índole, y por eso temía y titubeaba en tocar la ley concerniente a la posesión y educación de las mujeres y niños.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0057",
+      "stephanus": "453d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en efecto, ¡por Zeus!, no parece fácil.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0058",
+      "stephanus": "453d",
+      "kind": "speech",
+      "text": {
+        "es": "—No, pero hay que tener en cuenta esto: tanto si alguien se cae en una pequeña piscina como si cae en el mar más grande, debe ponerse a nadar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0059",
+      "stephanus": "453d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por supuesto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0060",
+      "stephanus": "453d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así también nosotros debemos nadar e intentar ponernos a salvo de la discusión, sea con la esperanza de que algún delfín nos permita montarnos sobre su lomo, o bien con alguna otra forma desesperada de salvación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0061",
+      "stephanus": "453e",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0062",
+      "stephanus": "453e",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos, pues, si hallamos de algún modo la salida. Hemos convenido, en efecto, que a cada naturaleza le corresponde una ocupación, y que la de la mujer es diferente a la del hombre. Pero ahora afirmamos que a estas naturalezas diferentes corresponden las mismas ocupaciones. ¿Es esto lo que se nos reprocha?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0063",
+      "stephanus": "454a",
+      "kind": "speech",
+      "text": {
+        "es": "—Precisamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0064",
+      "stephanus": "454a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Cuán excelente, Glaucón, es el poder del arte de la disputa!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0065",
+      "stephanus": "454a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Por qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0066",
+      "stephanus": "454a",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque me parece que muchos van a parar a dicho arte incluso sin quererlo, ya que no creen contender, sino argumentar, a causa de su incapacidad para examinar lo que se dice distinguiendo especies; persiguen la contradicción de lo que ha sido dicho, antes atentos meramente a las palabras, recurriendo a argucias, no a argumentos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0067",
+      "stephanus": "454a",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto, en efecto, sucede a mucha gente; pero ¿también nos alcanza a nosotros en este momento?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0068",
+      "stephanus": "454b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin ninguna duda. Y corremos el riesgo de comprometernos, a pesar nuestro, en una contienda verbal.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0069",
+      "stephanus": "454b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0070",
+      "stephanus": "454b",
+      "kind": "speech",
+      "text": {
+        "es": "—Atentos meramente a las palabras, muy virilmente y al modo erístico, perseguimos la tesis de que a quienes no poseen la misma naturaleza no corresponden las mismas ocupaciones, sin que de ningún modo hayamos examinado la especie de la diferencia o de la identidad de la naturaleza, ni a qué apuntábamos al distinguirlas, cuando atribuíamos diferentes ocupaciones a diferentes naturalezas, y las mismas ocupaciones a las mismas naturalezas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0071",
+      "stephanus": "454c",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, no lo hemos examinado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0072",
+      "stephanus": "454c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, según da la impresión, no es lícito preguntarnos si la naturaleza de los calvos y la de los peludos es la misma o si es contraria, y, si convenimos en que es contraria, en caso de que los calvos sean zapateros, no permitir que lo sean los peludos, y a la inversa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0073",
+      "stephanus": "454c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero eso sería ridículo —replicó Glaucón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0074",
+      "stephanus": "454c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y acaso sería ridículo por algún otro motivo que porque entonces no planteábamos la identidad y la diferencia de naturaleza en todo sentido, sino sólo aquella especie de diversidad y de similitud relativa a las ocupaciones en sí mismas? Queríamos decir, por ejemplo, que un médico y una médica que cuentan con un alma de médico tienen la misma naturaleza. ¿O no piensas así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0075",
+      "stephanus": "454d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0076",
+      "stephanus": "454d",
+      "kind": "speech",
+      "text": {
+        "es": "—En cambio, un médico y un carpintero tienen distinta naturaleza, ¿no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0077",
+      "stephanus": "454d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por completo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0078",
+      "stephanus": "454d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en el caso del sexo masculino y del femenino, si aparece que sobresalen en cuanto a un arte o a otro tipo de ocupación, diremos que se ha de acordar a cada uno lo suyo; pero si parece que la diferencia consiste en que la hembra alumbra y el macho procrea, más bien afirmaremos que aún no ha quedado demostrado que la mujer difiere del hombre en aquello de lo que estábamos hablando, sino que seguiremos pensando que los guardianes y sus esposas deben ocuparse de las mismas cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0079",
+      "stephanus": "454e",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo afirmaremos correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0080",
+      "stephanus": "455a",
+      "kind": "speech",
+      "text": {
+        "es": "—Después de eso ¿no exhortaremos a nuestro objetor a que nos enseñe respecto de qué arte o de qué ocupación de las relativas a la organización del Estado la naturaleza de la mujer no es la misma que la del hombre, sino distinta?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0081",
+      "stephanus": "455a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues eso es justo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0082",
+      "stephanus": "455a",
+      "kind": "speech",
+      "text": {
+        "es": "—Tal vez entonces algún otro diría lo que tú hace poco: que hablar satisfactoriamente no es fácil, pero tras haber reflexionado no es difícil.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0083",
+      "stephanus": "455a",
+      "kind": "speech",
+      "text": {
+        "es": "—Podría decirlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0084",
+      "stephanus": "455b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Quieres que pidamos a nuestro contendiente que nos siga, a ver si le demostramos que no hay ocupación alguna exclusiva de la mujer en lo que toca a la administración del Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0085",
+      "stephanus": "455c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que sí!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0086",
+      "stephanus": "455c",
+      "kind": "speech",
+      "text": {
+        "es": "—Vamos, pues, le diremos nosotros, responde: ¿no decías que el hombre bien dotado para algo difiere del poco dotado en que el primero aprende fácilmente, el otro con dificultad, y en que uno, tras breve aprendizaje, se torna capaz de descubrir mucho más de lo que ha aprendido, mientras el otro, con una instrucción larga y mucho estudio, no puede retener lo que se le ha enseñado, y en que, en tanto que los miembros del cuerpo del primero son servidores adecuados de su espíritu, los del segundo lo contrarían? ¿Es por estas cosas o por otras por lo que distinguías al hombre bien dotado para algo del poco dotado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0087",
+      "stephanus": "455c",
+      "kind": "speech",
+      "text": {
+        "es": "—Nadie dirá otras cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0088",
+      "stephanus": "455c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, ¿conoces alguna de las actividades que practican los seres humanos donde el sexo masculino no sobresalga en todo sentido sobre el femenino? ¿O nos extenderemos hablando del tejido y del cuidado de los pasteles y pucheros, cosas en las cuales el sexo femenino parece significar algo y en la que el ser superado sería lo más ridículo de todo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0089",
+      "stephanus": "455d",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices verdad —contestó Glaucón—, pues podría decirse que un sexo es completamente aventajado por el otro en todo. Claro que muchas mujeres son mejores que muchos hombres en muchas cosas; pero en general es como tú dices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0090",
+      "stephanus": "455d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, querido mío, no hay ninguna ocupación entre las concernientes al gobierno del Estado que sea de la mujer por ser mujer ni del hombre en tanto hombre, sino que las dotes naturales están similarmente distribuidas entre ambos seres vivos, por lo cual la mujer participa, por naturaleza, de todas las ocupaciones, lo mismo que el hombre; sólo que en todas la mujer es más débil que el hombre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0091",
+      "stephanus": "455d",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0092",
+      "stephanus": "455d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Hemos de asignar entonces todas las tareas a los hombres y ninguna a las mujeres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0093",
+      "stephanus": "455d",
+      "kind": "speech",
+      "text": {
+        "es": "—No veo cómo habríamos de hacerlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0094",
+      "stephanus": "455d",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que, más bien, diremos que una mujer es apta para la medicina y otra no, una apta por naturaleza para la música y otra no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0095",
+      "stephanus": "455d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0096",
+      "stephanus": "456a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y acaso no hay mujeres aptas para la gimnasia y para la guerra, mientras otras serán incapaces de combatir y no gustarán de la gimnasia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0097",
+      "stephanus": "456a",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo creo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0098",
+      "stephanus": "456a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no será una amante de la sabiduría y otra enemiga de ésta? ¿Y una fogosa y otra de sangre de horchata?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0099",
+      "stephanus": "456a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0100",
+      "stephanus": "456a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por ende, una mujer es apta para ser guardiana y otra no; ¿no es por tener una naturaleza de tal índole por lo que hemos elegido guardianes a los hombres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0101",
+      "stephanus": "456a",
+      "kind": "speech",
+      "text": {
+        "es": "—De tal índole, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0102",
+      "stephanus": "456a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Hay, por lo tanto, una misma naturaleza en la mujer y en el hombre en relación con el cuidado del Estado, excepto en que en ella es más débil y en él más fuerte?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0103",
+      "stephanus": "456a",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0104",
+      "stephanus": "456b",
+      "kind": "speech",
+      "text": {
+        "es": "—Elegiremos, entonces, mujeres de esa índole para convivir y cuidar el Estado en común con los hombres de esa índole, puesto que son capaces de ello y afines en naturaleza a los hombres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0105",
+      "stephanus": "456b",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0106",
+      "stephanus": "456b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no debemos asignar a las mismas naturalezas las mismas ocupaciones?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0107",
+      "stephanus": "456b",
+      "kind": "speech",
+      "text": {
+        "es": "—Las mismas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0108",
+      "stephanus": "456b",
+      "kind": "speech",
+      "text": {
+        "es": "—Tras un rodeo, pues, volvemos a lo antes dicho, y convenimos en que no es contra naturaleza asignar a las mujeres de los guardianes la música y la gimnasia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0109",
+      "stephanus": "456b",
+      "kind": "speech",
+      "text": {
+        "es": "—Absolutamente cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0110",
+      "stephanus": "456b",
+      "kind": "speech",
+      "text": {
+        "es": "—No hicimos, pues, leyes imposibles o que fueran meras expresiones de deseos, puesto que implantamos la ley conforme a la naturaleza: sino que más bien lo que se hace hoy en día es hecho contra naturaleza, según parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0111",
+      "stephanus": "456c",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0112",
+      "stephanus": "456c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no decíamos que nuestro examen debía versar sobre si esas normas eran posibles y además las mejores?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0113",
+      "stephanus": "456c",
+      "kind": "speech",
+      "text": {
+        "es": "—Debía versar sobre eso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0114",
+      "stephanus": "456c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora, que eran posibles, hemos estado de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0115",
+      "stephanus": "456c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0116",
+      "stephanus": "456c",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo que entonces debemos acordar después de eso es que son las mejores.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0117",
+      "stephanus": "456c",
+      "kind": "speech",
+      "text": {
+        "es": "—Evidentemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0118",
+      "stephanus": "456c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, con respecto al proceso en que se llega a ser mujer guardiana, no hay una educación para el hombre y otra para la mujer, ya que es la misma naturaleza la que la recibe.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0119",
+      "stephanus": "456d",
+      "kind": "speech",
+      "text": {
+        "es": "—No es distinta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0120",
+      "stephanus": "456d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, ¿cuál es tu opinión sobre esto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0121",
+      "stephanus": "456d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Sobre qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0122",
+      "stephanus": "456d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sobre el concebir de tu parte a unos hombres mejores y a otros peores; ¿o tienes a todos por similares?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0123",
+      "stephanus": "456d",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0124",
+      "stephanus": "456d",
+      "kind": "speech",
+      "text": {
+        "es": "—En el Estado que hemos fundado, ¿quiénes crees que serán los mejores hombres: los guardianes que hemos formado con la educación que describimos, o los zapateros que han sido instruidos en el arte de fabricar calzado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0125",
+      "stephanus": "456d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es ridículo lo que preguntas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0126",
+      "stephanus": "456e",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprendo —dije—. Y bien, ¿no son éstos los mejores entre todos los ciudadanos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0127",
+      "stephanus": "456e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y con mucho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0128",
+      "stephanus": "456e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y sus esposas no serán las mejores de las mujeres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0129",
+      "stephanus": "456e",
+      "kind": "speech",
+      "text": {
+        "es": "—También con mucho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0130",
+      "stephanus": "456e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y hay algo mejor para un Estado que el que se generen en él los mejores hombres y mujeres posibles?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0131",
+      "stephanus": "456e",
+      "kind": "speech",
+      "text": {
+        "es": "—No lo hay.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0132",
+      "stephanus": "457a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y esto lo lograrán la música y la gimnasia llevadas a cabo del modo descrito.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0133",
+      "stephanus": "457a",
+      "kind": "speech",
+      "text": {
+        "es": "—No puede ser de otro modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0134",
+      "stephanus": "457a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, la prescripción que establecimos no sólo es posible sino también la mejor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0135",
+      "stephanus": "457a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0136",
+      "stephanus": "457a",
+      "kind": "speech",
+      "text": {
+        "es": "—Deberá entonces desvestirse a las mujeres de los guardianes, de modo que se cubran con la excelencia en lugar de ropa, y participarán de la guerra y de las demás tareas relativas a la vigilancia del Estado, y no harán otra cosa, pero las más livianas de estas tareas han de confiarse más a las mujeres que a los hombres, dada la debilidad de su sexo. En cuanto al varón que se ría por la desnudez de las mujeres, que se ejercitan en vista a lo mejor, «arranca antes de que madure el fruto» de la risa, y desconoce por qué ríe y lo que hace. Porque lo mejor que se dice y que será dicho es que lo provechoso es bello y que lo pernicioso feo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0137",
+      "stephanus": "457b",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0138",
+      "stephanus": "457b",
+      "kind": "speech",
+      "text": {
+        "es": "—En esto, pues, hemos esquivado algo así como una ola, al hablar de la ley sobre las mujeres, de modo que no hemos sido completamente inundados por ella, prescribiendo que tanto nuestros guardianes como nuestras guardianas deben ejercer en común todas sus ocupaciones; incluso de algún modo el argumento ha convenido consigo mismo en que dice cosas posibles y provechosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0139",
+      "stephanus": "457c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y por cierto, no es pequeña la ola que esquivaste.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0140",
+      "stephanus": "457c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero dirás que no es grande cuando veas la que viene después.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0141",
+      "stephanus": "457c",
+      "kind": "speech",
+      "text": {
+        "es": "—Habla sobre ella, para que la vea.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0142",
+      "stephanus": "457c",
+      "kind": "speech",
+      "text": {
+        "es": "—De esto y de las demás cosas precedentes —dije—, en mi opinión, se sigue esta ley.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0143",
+      "stephanus": "457c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuál?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0144",
+      "stephanus": "457d",
+      "kind": "speech",
+      "text": {
+        "es": "—Que todas estas mujeres deben ser comunes a todos estos hombres, ninguna cohabitará en privado con ningún hombre; los hijos, a su vez, serán comunes, y ni el padre conocerá a su hijo ni el hijo al padre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0145",
+      "stephanus": "457d",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto despertará mucha mayor desconfianza que lo otro, tanto en cuanto a su posibilidad como a su utilidad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0146",
+      "stephanus": "457e",
+      "kind": "speech",
+      "text": {
+        "es": "—Respecto de su utilidad no creo que se discuta que el tener las mujeres en común y en común los hijos es el bien supremo, si es que es posible; pero pienso que la disputa sobre si es posible o no, será grande.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0147",
+      "stephanus": "457e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es sobre ambas cosas que se disputará.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0148",
+      "stephanus": "457e",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo que mencionas es una alianza de objeciones; yo pensaba que escaparía a una de ellas, de modo que, si opinabas que era algo útil, me quedaría sólo la de si era posible o no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0149",
+      "stephanus": "457e",
+      "kind": "speech",
+      "text": {
+        "es": "—Intentando escaparte, sin embargo, no has pasado inadvertido, sino que has de dar cuenta de ambos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0150",
+      "stephanus": "458a",
+      "kind": "speech",
+      "text": {
+        "es": "—Me someto al castigo —respondí—. Pero hazme el siguiente favor: permíteme que me tome asueto tal como la gente de espíritu ocioso acostumbra, homenajeándose a sí misma, cuando camina sola. Pues sin duda sabes que tales personas, antes de descubrir de qué modo se realizará lo que desean, omiten la cuestión, para no fatigarse deliberando acerca de si es posible o no: considerando lo que quieren como algo ya real, disponen el resto y se deleitan pasando revista a lo que harán una vez cumplido su deseo, volviendo además a su alma, ya perezosa, más perezosa aún. También yo ahora me abandono a la flojera, y deseo posponer para después el examen de si lo que propongo es posible; por ahora, si me lo permites, considerándolo como siendo posible, examinaré cómo los gobernantes lo dispondrán una vez alcanzada su realización, y cómo ha de ser, tras ser llevado a la práctica, lo más conveniente de todo para el Estado y para los guardianes. Esto es lo que intentaré primeramente indagar junto contigo; después lo otro, si tú lo permites.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0151",
+      "stephanus": "458c",
+      "kind": "speech",
+      "text": {
+        "es": "—Está bien, lo permito; haz el examen.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0152",
+      "stephanus": "458c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que, si los gobernantes son dignos de tal nombre, y lo mismo que ellos los auxiliares, estarán dispuestos unos a hacer lo que se les ordene y otros a ordenar, obedeciendo las leyes e imitándolas en cuantas prescripciones les encomendamos que hagan.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0153",
+      "stephanus": "458c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es natural.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0154",
+      "stephanus": "458c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien: tú, que eres su legislador, tal como seleccionaste a los hombres, así has de seleccionar a las mujeres, y se las darás, tanto cuanto sea posible, de naturaleza similar. Y ellos, al tener casa en común y comida en común, sin poseer privadamente nada de esa índole, vivirán juntos, entremezclados unos con otros en los gimnasios y en el resto de su educación, y por una necesidad natural, pienso, serán conducidos hacia la unión sexual. ¿O no te parece que digo cosas necesarias?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0155",
+      "stephanus": "458d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero no necesidades geométricas sino eróticas, que pueden ser más agudas que aquéllas respecto del persuadir y atraer a la mayoría de la gente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0156",
+      "stephanus": "458d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es. Pero después de eso, Glaucón, que se unan irregularmente unos con otros o hagan cualquier otra cosa, sería sacrílego en un Estado de bienaventurados, y no lo permitirán los gobernantes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0157",
+      "stephanus": "458e",
+      "kind": "speech",
+      "text": {
+        "es": "—No sería justo, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0158",
+      "stephanus": "458e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es patente, pues, que conformaremos matrimonios sagrados en cuanto sea posible. Y serán sagrados los más beneficiosos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0159",
+      "stephanus": "459a",
+      "kind": "speech",
+      "text": {
+        "es": "—Enteramente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0160",
+      "stephanus": "459a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿cómo han de ser los más beneficiosos? Dímelo, Glaucón, pues veo en tu casa perros de caza y gran número de aves de raza: ¿has prestado atención, por Zeus, a algo en sus apareamientos y procreaciones?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0161",
+      "stephanus": "459a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿A qué te refieres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0162",
+      "stephanus": "459a",
+      "kind": "speech",
+      "text": {
+        "es": "—Primeramente, entre ellos mismos, aun cuando sean de raza ¿no hay acaso algunos que llegan a ser mejores?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0163",
+      "stephanus": "459a",
+      "kind": "speech",
+      "text": {
+        "es": "—Los hay.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0164",
+      "stephanus": "459a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y haces procrear a todos del mismo modo, o pones celo en que procreen los mejores?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0165",
+      "stephanus": "459a",
+      "kind": "speech",
+      "text": {
+        "es": "—Para que procreen los mejores.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0166",
+      "stephanus": "459b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y bien: ¿prefieres los más jóvenes, los más viejos o los que están en la flor de la vida?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0167",
+      "stephanus": "459b",
+      "kind": "speech",
+      "text": {
+        "es": "—Los que están en la flor de la vida.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0168",
+      "stephanus": "459b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si no se procrean así, ¿crees que degenerará mucho la raza de las aves y la de los perros?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0169",
+      "stephanus": "459b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0170",
+      "stephanus": "459b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en cuanto a los caballos y a los demás animales, ¿piensas que sucederá de otro modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0171",
+      "stephanus": "459b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, sería insólito.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0172",
+      "stephanus": "459b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Válgame Dios! ¡Cuán necesario será que contemos con gobernantes sobresalientes, si ése es también el caso respecto del género humano!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0173",
+      "stephanus": "459c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Es también el caso! Pero ¿por qué lo dices?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0174",
+      "stephanus": "459c",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque les será necesario echar mano a muchos remedios; creemos que incluso un médico mediocre basta para cuerpos que no requieren remedios sino que están dispuestos a someterse a un régimen. Pero cuando se debe administrar medicamentos, sabemos que hace falta un médico más audaz.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0175",
+      "stephanus": "459c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad, pero ¿respecto de qué lo dices?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0176",
+      "stephanus": "459d",
+      "kind": "speech",
+      "text": {
+        "es": "—Respecto de esto: parece que los gobernantes deben hacer uso de la mentira y el engaño en buena cantidad para beneficio de los gobernados; en algún momento dijimos que todas las cosas de esa índole son útiles en concepto de remedios.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0177",
+      "stephanus": "459d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y era correcto lo que dijimos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0178",
+      "stephanus": "459d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces en los matrimonios y en las procreaciones esto que es correcto no será insignificante.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0179",
+      "stephanus": "459d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0180",
+      "stephanus": "459d",
+      "kind": "speech",
+      "text": {
+        "es": "—En vista de lo que ha sido convenido, es necesario que los mejores hombres se unan sexualmente a las mejores mujeres la mayor parte de las veces; y lo contrario, los más malos con las más malas; y hay que criar a los hijos de los primeros, no a los de los segundos, si el rebaño ha de ser sobresaliente. Y siempre que sucedan estas cosas permanecerán ocultas excepto a los gobernantes mismos, si, a su vez, la manada de los guardianes ha de estar, lo más posible, libre de disensiones.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0181",
+      "stephanus": "459e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es muy correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0182",
+      "stephanus": "459e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, instituiremos festivales en los cuales acoplaremos a las novias con los novios, así como sacrificios, y nuestros poetas deberán componer himnos adecuados a las bodas que se llevan a cabo. En cuanto al número de matrimonios, lo encomendaremos a los gobernantes, para que preserven al máximo posible la misma cantidad de hombres, habida cuenta de las guerras, enfermedades y todas las cosas de esa índole, de modo que, en cuanto sea posible, nuestro Estado no se agrande ni se achique.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0183",
+      "stephanus": "460a",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0184",
+      "stephanus": "460a",
+      "kind": "speech",
+      "text": {
+        "es": "—Deberán hacerse ingeniosos sorteos, para que el mediocre culpe al azar de cada cópula, y no a los gobernantes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0185",
+      "stephanus": "460a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0186",
+      "stephanus": "460b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y a los jóvenes que son buenos en la guerra o en alguna otra cosa debe dotárselos de honores y otros premios, y en especial de una más plena libertad para acostarse con las mujeres, para que, al mismo tiempo, sirva de pretexto para que de ellos se procree la mayor cantidad posible de niños.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0187",
+      "stephanus": "460b",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0188",
+      "stephanus": "460b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y cada vez que nazcan hijos, de ellos se encargarán los magistrados asignados, sean éstos hombres o mujeres o ambos a la vez: pues las magistraturas son sin duda comunes a las mujeres y a los hombres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0189",
+      "stephanus": "460b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0190",
+      "stephanus": "460c",
+      "kind": "speech",
+      "text": {
+        "es": "—En lo que hace a los hijos de los mejores, creo, serán llevados a una guardería junto a institutrices que habitarán en alguna parte del país separadamente del resto. En cuanto a los de los peores, y a cualquiera de los otros que nazca defectuoso, serán escondidos en un lugar no mencionado ni manifiesto, como corresponde.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0191",
+      "stephanus": "460c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así se procederá, si ha de ser pura la clase de los guardianes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0192",
+      "stephanus": "460c",
+      "kind": "speech",
+      "text": {
+        "es": "—Estos magistrados también se encargarán de la crianza, y de conducir a las madres a la guardería cuando estén con los pechos henchidos, poniendo el máximo ingenio para que ninguna perciba que es su hijo; y si ellas no tienen suficiente leche, la proveerán otras que sí la tengan, y de éstas mismas cuidarán de modo que amamanten un período razonable de tiempo; y en cuanto a las vigilias y otras penurias, las transferirán a las nodrizas e institutrices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0193",
+      "stephanus": "460d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Grandes facilidades para la crianza das a las esposas de los guardianes!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0194",
+      "stephanus": "460d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo que conviene —respondí—; pero prosigamos con lo que nos hemos propuesto. Hemos dicho que se debe engendrar los hijos en la flor de la vida.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0195",
+      "stephanus": "460e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0196",
+      "stephanus": "460e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no compartes mi opinión de que el período razonable de tiempo de este florecimiento es de veinte años en la mujer y treinta en el hombre?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0197",
+      "stephanus": "460e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cuándo ubicas esos años?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0198",
+      "stephanus": "460e",
+      "kind": "speech",
+      "text": {
+        "es": "—La mujer, a partir de los veinte años y hasta los cuarenta, parirá para el Estado; y el hombre procreará para el Estado después de pasar la culminación de su velocidad en la carrera hasta los cincuenta y cinco años.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0199",
+      "stephanus": "461a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto que para ambos es el florecimiento en cuanto al cuerpo y en cuanto a la inteligencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0200",
+      "stephanus": "461a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si alguien de mayor o menor edad que ésa interfiere en las procreaciones en común, diremos que su transgresión es una profanación y una injusticia, ya que está engendrando para el Estado un niño que, si pasa inadvertido, se generará sin los sacrificios y las plegarias que para todos los matrimonios celebran tanto sacerdotes como sacerdotisas y el Estado íntegro para que siempre nazcan de padres buenos hijos mejores, y de padres útiles hijos más útiles aún. Este niño, por el contrario, habrá nacido en la oscuridad y tras una terrible incontinencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0201",
+      "stephanus": "461b",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0202",
+      "stephanus": "461b",
+      "kind": "speech",
+      "text": {
+        "es": "—La ley es la misma si alguno de los que aún procrean toca a una mujer en edad debida sin que un gobernante los haya acoplado; bastardo, ilegítimo y sacrílego diremos que es el hijo que ha impuesto al Estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0203",
+      "stephanus": "461b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sumamente correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0204",
+      "stephanus": "461b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero cuando las mujeres y los hombres abandonen la edad de procrear, pienso, los dejaremos libres de unirse con quien quieran, excepto al varón con su hija y su madre, las hijas de sus hijos y las ascendientes de su madre, y también a la mujer excepto con su hijo y con su padre y con sus descendientes y ascendientes; no sin antes exhortarlos a poner gran celo en que nada de lo que hayan concebido, si así ha sucedido, vea la luz, y, si escapa a sus precauciones, plantearse que semejante niño no será alimentado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0205",
+      "stephanus": "461c",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices estas cosas razonablemente —dijo Glaucón—; pero ¿cómo distinguirán entre sí los padres, las hijas y todo lo que acabas de decir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0206",
+      "stephanus": "461d",
+      "kind": "speech",
+      "text": {
+        "es": "—De ninguna manera; pero desde el día en que se convirtió en novio, a toda criatura que nazca en el décimo mes o en el séptimo después la llamará ‘hijo’ si es macho, ‘hija’ si es hembra, y éstas a aquél ‘padre’; del mismo modo los hijos de éstos serán llamados ‘nietos’ y éstos los llamarán ‘abuelo’ y ‘abuela’; y los nacidos en aquel tiempo en que sus madres y sus padres procrearon se llamarán unos a otros 'hermanos' y 'hermanas', por lo cual, como acabo de decir, no se tocarán entre sí. Pero la ley permitirá que hermanos y hermanas cohabiten, si el sorteo así lo decide y la Pitia lo aprueba.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0207",
+      "stephanus": "461e",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy justo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0208",
+      "stephanus": "461e",
+      "kind": "speech",
+      "text": {
+        "es": "—Esta es, pues, Glaucón, la comunidad de las mujeres y de los niños con los guardianes de tu Estado. Ahora, que es consecuente con el resto de la organización política y que es con mucho lo mejor, es lo que en seguida debemos confirmar por la argumentación. ¿O haremos de otro modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0209",
+      "stephanus": "462a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así, por Zeus.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0210",
+      "stephanus": "462a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es acaso el principio del acuerdo el siguiente: preguntarnos a nosotros mismos cuál es el más grande bien que podemos mencionar en cuanto a la organización del Estado, que el legislador tiene en vista al establecer sus leyes, y cuál es el más grande mal, y a continuación examinar si las cosas que ahora he descrito se nos adecuan a la huella del bien, y no se adecuan a la del mal?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0211",
+      "stephanus": "462a",
+      "kind": "speech",
+      "text": {
+        "es": "—Más que cualquier otra cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0212",
+      "stephanus": "462b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y puede haber para un Estado un mal mayor que aquel que lo despedaza y lo convierte en múltiple en lugar de uno?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0213",
+      "stephanus": "462b",
+      "kind": "speech",
+      "text": {
+        "es": "—No puede haber un mal mayor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0214",
+      "stephanus": "462b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No es entonces la comunidad de placer y dolor lo que une, a saber, cuando todos los ciudadanos se regocijan o se entristecen por los mismos casos de ganancias o de pérdidas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0215",
+      "stephanus": "462b",
+      "kind": "speech",
+      "text": {
+        "es": "—Absolutamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0216",
+      "stephanus": "462b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es la particularización de estos estados de ánimo lo que disuelve, cuando, ante las mismas afecciones del Estado, o de los ciudadanos, unos se ponen muy afligidos y otros muy contentos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0217",
+      "stephanus": "462c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0218",
+      "stephanus": "462c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no se produce esto porque no se pronuncian al unísono en el Estado palabras tales como lo 'mío' y lo 'no mío', y lo mismo respecto de lo 'ajeno'?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0219",
+      "stephanus": "462c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así precisamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0220",
+      "stephanus": "462c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, el Estado mejor gobernado es aquel en que más gente dice lo 'mío' y lo 'no mío' referidas a las mismas cosas y del mismo modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0221",
+      "stephanus": "462c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y con mucho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0222",
+      "stephanus": "462c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no será éste el que posea mayor similitud con el hombre individual? Por ejemplo, cuando uno de nosotros se golpea un dedo, toda la comunidad del cuerpo se vuelve hacia el alma en busca de la organización unitaria de lo que manda en ella, y toda ella siente y sufre a un tiempo, aunque sea una parte la que padece, y es así como decimos que 'al hombre le duele el dedo'. Y el mismo argumento cabe respecto a cualquier otra parte del hombre, en cuanto al dolor por la parte que padece y el placer por el alivio de su dolor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0223",
+      "stephanus": "462d",
+      "kind": "speech",
+      "text": {
+        "es": "—El mismo, en efecto —repuso Glaucón—. En cuanto a lo que preguntas, el Estado mejor organizado políticamente es el más similar a tal hombre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0224",
+      "stephanus": "462d",
+      "kind": "speech",
+      "text": {
+        "es": "—Si a uno solo de los ciudadanos, pues, le afecta algo bueno o malo, pienso que semejante Estado dirá, con el máximo de intensidad, que es suyo lo que padece, y en su totalidad participará del regocijo o de la pena.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0225",
+      "stephanus": "462d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es forzoso, si está bien legislado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0226",
+      "stephanus": "462d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es hora —proseguí— de retornar a nuestro Estado para observar en él si lo acordado en nuestro argumento lo contiene nuestro Estado más que cualquier otro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0227",
+      "stephanus": "462d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es necesario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0228",
+      "stephanus": "463a",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien, ¿existen en los demás Estados gobernantes y pueblo, como existen en éste?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0229",
+      "stephanus": "463a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, existen.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0230",
+      "stephanus": "463a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y todos se llaman 'ciudadanos' los unos a los otros?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0231",
+      "stephanus": "463a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo podría ser de otra manera?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0232",
+      "stephanus": "463a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero además de 'ciudadanos', ¿cómo denomina el pueblo de otros Estados a sus gobernantes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0233",
+      "stephanus": "463a",
+      "kind": "speech",
+      "text": {
+        "es": "—En muchos de ellos 'amos', pero en los Estados democráticos se les da este mismo nombre de 'gobernantes'.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0234",
+      "stephanus": "463a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y el pueblo del nuestro? Además de que son ciudadanos, ¿qué dirá de sus gobernantes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0235",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—Que son salvadores y auxiliares.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0236",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y éstos ¿qué dirán del pueblo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0237",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—Que son quienes les dan su salario y su sustento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0238",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo llaman a sus pueblos los gobernantes de otros Estados?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0239",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—Siervos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0240",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y los gobernantes unos a otros?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0241",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—Co-gobernantes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0242",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y los nuestros?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0243",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—Co-guardianes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0244",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Puedes decirme si alguno de los gobernantes de otros Estados puede dirigirse a uno de los co-gobernadores como familiar, a otro como extraño?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0245",
+      "stephanus": "463b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, en muchos casos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0246",
+      "stephanus": "463c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y habla de un familiar como teniéndolo por suyo, y de un extraño como no suyo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0247",
+      "stephanus": "463c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0248",
+      "stephanus": "463c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y en cuanto a tus guardianes? ¿Habrá alguno de ellos que se dirija a sus co-guardianes teniéndolos por extraños?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0249",
+      "stephanus": "463c",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo —respondió Glaucón—; pues sea quien sea con el que se encuentre, lo tendrá por su hermano o su hermana, por su padre o su madre, por su hijo o su hija, por su descendiente o su ascendiente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0250",
+      "stephanus": "463d",
+      "kind": "speech",
+      "text": {
+        "es": "—Hablas perfectamente —asentí—. Pero dime aún esto: de esta familiaridad ¿legislarás sólo los nombres, o también todas las acciones han de realizarse conforme a tales nombres y, respecto de los padres, cuanto la ley exige acerca del respeto a los padres y del cuidado y obediencia a los progenitores, aunque no haya luego algo mejor para ellos de la parte de los dioses y de los hombres, ya que sería injusto y sacrílego que obraran de otro modo? ¿Serán éstas o distintas las voces oraculares que deben ser repetidas una y otra vez por todos los ciudadanos en los oídos de los niños ya desde temprano, respecto de aquellos que se les presenta como padres, y respecto de los demás parientes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0251",
+      "stephanus": "463d",
+      "kind": "speech",
+      "text": {
+        "es": "—Éstas. Pues sería ridículo limitarse a pronunciar con la boca esos nombres de familiares, sin los actos correspondientes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0252",
+      "stephanus": "463d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, en este Estado más que en cualquier otro, los ciudadanos coincidirán, cuando a un ciudadano le va bien o le va mal, en hablar del modo que hace un momento mencionábamos: 'lo mío va bien' o 'lo mío va mal'.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0253",
+      "stephanus": "463d",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0254",
+      "stephanus": "464a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y a esta convicción y a este modo de hablar ¿no dijimos que seguía la comunidad de placeres y dolores?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0255",
+      "stephanus": "464a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo dijimos correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0256",
+      "stephanus": "464a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y nuestros ciudadanos no participarán más que en cualquier otro lado de algo en común que denominarán 'mío'? Y por participar de esto, ¿no tendrán al máximo una comunidad del dolor y de la alegría?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0257",
+      "stephanus": "464a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0258",
+      "stephanus": "464a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y la causa de esto ¿no es, además del resto de la constitución, la comunidad de las mujeres y de los niños con los guardianes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0259",
+      "stephanus": "464a",
+      "kind": "speech",
+      "text": {
+        "es": "—Más que cualquier otra cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0260",
+      "stephanus": "464b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, hemos convenido que éste es el bien supremo para el Estado, el comparar un Estado bien fundado con la actitud de un cuerpo hacia una parte suya respecto de un dolor o de un placer.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0261",
+      "stephanus": "464b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo convenimos rectamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0262",
+      "stephanus": "464b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así, la causa del más grande bien en el Estado se nos aparece como la comunidad de mujeres y niños entre los auxiliares.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0263",
+      "stephanus": "464b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0264",
+      "stephanus": "464c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y también en esto concordamos con lo dicho anteriormente; pues dijimos que los guardianes no debían tener privadamente casas ni tierra ni propiedad alguna; sino, tras recibir de los demás ciudadanos sustento como compensación de ser guardianes, hacer sus gastos todos en común, si habían de ser realmente guardianes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0265",
+      "stephanus": "464c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo decíamos correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0266",
+      "stephanus": "464c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No es, entonces, como digo, cuando las cosas antes dichas y las que decimos ahora las realizan más aún como verdaderos guardianes y les impiden despedazar el Estado, al denominar 'lo mío' no a la misma cosa sino a otra, arrastrando uno hacia su propia casa lo que ha podido adquirir separadamente de los demás, otro hacia una casa distinta, llamando 'míos' a mujeres y niños distintos que, por ser privados, producen dolores y placeres privados? ¿No tenderán, por el contrario, todos a un mismo fin, con una sola creencia respecto de lo familiar, y serán similarmente afectados por el placer y la pena?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0267",
+      "stephanus": "464d",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0268",
+      "stephanus": "464d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y los pleitos y acusaciones entre ellos, ¿no se esfumarán por así decirlo, entre los guardianes, en razón de no poseer nada privadamente excepto el cuerpo, y todo el resto en común? De allí que les corresponda estar exentos de las disensiones que, por riquezas, hijos y parientes, separan a los hombres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0269",
+      "stephanus": "464e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es forzoso que se desembaracen de eso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0270",
+      "stephanus": "464e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y tampoco por violencias o ultrajes habrá entre ellos razón para que haya pleitos; pues diremos que es digno y justo que un camarada se defienda de sus camaradas, imponiéndoles la obligación de mantener el cuerpo en buen estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0271",
+      "stephanus": "464e",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0272",
+      "stephanus": "465a",
+      "kind": "speech",
+      "text": {
+        "es": "—También dicha ley aporta este otro aspecto correcto: si alguien se enardeciera, una vez satisfecha su ira de semejante modo, menos probable será que vaya a parar a querellas mayores.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0273",
+      "stephanus": "465a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0274",
+      "stephanus": "465a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo demás, al hombre más anciano se le prescribirá mandar y castigar a todos los más jóvenes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0275",
+      "stephanus": "465a",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0276",
+      "stephanus": "465a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y a su vez el más joven, como es natural, no intentará hacer violencia al que es mayor, golpeándolo, salvo que se lo ordenen los gobernantes; ni lo deshonrará, creo, de ningún otro modo; pues son suficientes para impedírselo dos guardianes, el temor y el respeto; el respeto, que lo aparta de poner la mano sobre quienes pueden ser sus padres; y el temor de que vayan otros en ayuda del afectado, unos como hijos, otros como hermanos, otros como padres.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0277",
+      "stephanus": "465b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ha de ocurrir eso, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0278",
+      "stephanus": "465b",
+      "kind": "speech",
+      "text": {
+        "es": "—En cualquier caso, los hombres mantendrán la paz entre sí gracias a las leyes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0279",
+      "stephanus": "465b",
+      "kind": "speech",
+      "text": {
+        "es": "—Una gran paz.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0280",
+      "stephanus": "465b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y puesto que entre ellos no hay luchas intestinas, no hay peligro de que alguna vez el resto del Estado entre en querella contra ellos o entre sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0281",
+      "stephanus": "465b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, no hay peligro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0282",
+      "stephanus": "465c",
+      "kind": "speech",
+      "text": {
+        "es": "—De los más pequeños males de los cuales se desembarazarán, titubeo en hablar, por no parecerme decoroso: la adulación de los ricos, siendo pobres; las dificultades y penurias que prevalecen en la educación de los niños y en la necesidad de hacer dinero para la indispensable manutención de los servidores, llegando a pedir prestado o a negar la deuda, procurándose de todo y entregándolo como depósito a esposas o servidores para que lo administren; y cuantas cosas, querido mío, padecen en torno a eso, que son evidentes, innobles y no es digno de mencionar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0283",
+      "stephanus": "465d",
+      "kind": "speech",
+      "text": {
+        "es": "—Evidentes inclusive para un ciego.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0284",
+      "stephanus": "465d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues de todas esas cosas se desembarazarán y llevarán una vida dichosa, más dichosa que la de los vencedores en los juegos olímpicos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0285",
+      "stephanus": "465d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0286",
+      "stephanus": "465d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es que éstos son llamados felices en virtud de una pequeña parte de lo que corresponde a los guardianes; la victoria de éstos es más bella, y más completo el sustento que reciben del erario público, ya que la victoria que obtienen consiste en la salvación del Estado entero; y en lugar de corona son provistos de alimento y cuantas cosas se necesitan para vivir ellos y sus hijos; mientras viven, reciben honores por parte del Estado, y, tras morir, un digno entierro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0287",
+      "stephanus": "465e",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices algo muy bello.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0288",
+      "stephanus": "466a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Recuerdas ahora —dije— que alguien —no sé quién— nos sacudió con el argumento de que no hacíamos felices a los guardianes, y que pudiendo poseer todo lo de los ciudadanos, no poseían nada? Nosotros contestamos que, si se daba el caso, ya volveríamos sobre el tema, pero que por el momento estábamos haciendo guardianes a los guardianes y al Estado como tal lo más feliz posible, plasmándolo sin dirigir la mirada hacia la felicidad de una sola clase.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0289",
+      "stephanus": "466a",
+      "kind": "speech",
+      "text": {
+        "es": "—Recuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0290",
+      "stephanus": "466b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y ahora que la vida de nuestros auxiliares aparece como mejor y más bella que la de los vencedores olímpicos, ¿se manifiesta tal como la vida de los zapateros y de los demás artesanos y labradores?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0291",
+      "stephanus": "466b",
+      "kind": "speech",
+      "text": {
+        "es": "—No me parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0292",
+      "stephanus": "466b",
+      "kind": "speech",
+      "text": {
+        "es": "—Con todo, es justo repetir aquí lo que dije allí: que si un guardián intenta ser feliz de un modo tal que deja de ser guardián, no se contentará con este modo de vida mesurado y seguro que según lo que decimos, es el mejor, sino que lo sorprenderá una opinión insensata e infantil acerca de la felicidad y lo empujará a apropiarse, por poder hacerlo, de todo lo que hay en el Estado; llegará a darse cuenta de que Hesíodo era realmente sabio cuando decía que, en cierto modo, la mitad era más que el todo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0293",
+      "stephanus": "466c",
+      "kind": "speech",
+      "text": {
+        "es": "—Si acepta mi consejo —dijo Glaucón—, quedará en aquel primer modo de vida.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0294",
+      "stephanus": "466c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Estás de acuerdo conmigo, entonces, en la comunidad de las mujeres con los hombres que he descrito respecto de la educación de los niños y del cuidado de los demás ciudadanos? ¿Y estás de acuerdo en que las mujeres, ya sea que permanezcan en el país o que marchen a la guerra, deben compartir con los hombres la vigilancia y la caza, como los perros, viviendo en lo posible todo en comunión y en todo sentido, pues obrando así harán lo mejor que cabe obrar y no en contra de la naturaleza de la hembra en relación con la del macho, por la cual corresponde naturalmente a uno comulgar con la otra?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0295",
+      "stephanus": "466d",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0296",
+      "stephanus": "466d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así, lo que queda por decidir es si es posible que se genere esta comunidad entre los hombres, como entre los demás animales, y de qué modo es posible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0297",
+      "stephanus": "466d",
+      "kind": "speech",
+      "text": {
+        "es": "—Te has anticipado, al hablar de lo que me estaba moviendo a interrumpirte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0298",
+      "stephanus": "466e",
+      "kind": "speech",
+      "text": {
+        "es": "—Porque, en lo concerniente a la guerra, es evidente el modo en que combatirán.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0299",
+      "stephanus": "466e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0300",
+      "stephanus": "466e",
+      "kind": "speech",
+      "text": {
+        "es": "—Emprenderán la guerra juntos, y conducirán a ella a sus hijos cuando estén crecidos, para que, como los hijos de los demás artesanos, contemplen los trabajos que deberán hacer una vez adultos; y, además de contemplarlos, presten sus servicios y su asistencia en todo lo referente a la guerra, y auxiliar a sus padres y madres. ¿O no te has percatado de lo que sucede en las distintas artes, donde, por ejemplo, los hijos de los alfareros pasan largo tiempo observando y ayudando antes de poner sus manos en la cerámica?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0301",
+      "stephanus": "467a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0302",
+      "stephanus": "467a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y han de ocuparse éstos de instruir a sus hijos por medio de la experiencia y de la observación de las cosas respectivas más que los guardianes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0303",
+      "stephanus": "467a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sería ridículo, ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0304",
+      "stephanus": "467a",
+      "kind": "speech",
+      "text": {
+        "es": "—Además, todo animal combate de modo más sobresaliente cuando están presentes sus hijos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0305",
+      "stephanus": "467b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es, Sócrates. Pero no es pequeño el peligro de que en caso de caer, cosa usual en la guerra, al morir con ellos sus hijos, se haga imposible al resto del Estado recuperarse.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0306",
+      "stephanus": "467b",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices la verdad —repliqué—, pero, en primer lugar, ¿consideras que sólo se ha de procurar no correr jamás peligro alguno?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0307",
+      "stephanus": "467b",
+      "kind": "speech",
+      "text": {
+        "es": "—De ninguna manera.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0308",
+      "stephanus": "467b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si alguna vez han de correr peligro, ¿no será cuando, al tener éxito, llegan a ser mejores?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0309",
+      "stephanus": "467b",
+      "kind": "speech",
+      "text": {
+        "es": "—Evidentemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0310",
+      "stephanus": "467c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y piensas que tiene poca importancia, y que no vale la pena correr el riesgo, el que observen lo referente a la guerra los niños que, cuando sean hombres, harán la guerra?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0311",
+      "stephanus": "467c",
+      "kind": "speech",
+      "text": {
+        "es": "—No; tiene gran importancia con respecto a lo que dices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0312",
+      "stephanus": "467c",
+      "kind": "speech",
+      "text": {
+        "es": "—Debemos comenzar, por consiguiente, por hacer a los niños observadores de la guerra, pero también procurarles seguridad, y esto estará bien, ¿no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0313",
+      "stephanus": "467c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0314",
+      "stephanus": "467d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no serán sus padres conocedores de las campañas militares y, en cuanto eso cabe a hombres, quienes podrán juzgar cuáles de éstas entrañan peligros y cuáles no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0315",
+      "stephanus": "467d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es probable.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0316",
+      "stephanus": "467d",
+      "kind": "speech",
+      "text": {
+        "es": "—En ese caso los conducirán a unas y tomarán precauciones en las otras.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0317",
+      "stephanus": "467d",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0318",
+      "stephanus": "467d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y no les asignarán, para comandarlos, gente mediocre, sino jefes y pedagogos capaces, por su edad y por su experiencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0319",
+      "stephanus": "467d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo que corresponde.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0320",
+      "stephanus": "467d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero aún podremos decir que muchas cosas suceden a mucha gente en contra de lo esperado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0321",
+      "stephanus": "467d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, muchas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0322",
+      "stephanus": "467d",
+      "kind": "speech",
+      "text": {
+        "es": "—Para prevenir tales cosas, querido amigo, es necesario dar alas a los niños desde temprano, de modo que puedan escapar volando cuando sea preciso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0323",
+      "stephanus": "467e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué quieres decir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0324",
+      "stephanus": "467e",
+      "kind": "speech",
+      "text": {
+        "es": "—Hay que montarlos a caballo desde muy niños y, una vez enseñados, se los conducirá cabalgando para que observen, pero no sobre caballos de guerra ni fogosos, sino lo más veloces y mansos posible; así observarán del modo más bello y seguro la tarea que les es propia y, si es necesario, se pondrán a salvo siguiendo a jefes mayores que ellos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0325",
+      "stephanus": "468a",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que hablas correctamente —dijo Glaucón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0326",
+      "stephanus": "468a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, en lo relativo a la guerra, ¿cómo se comportarán los militares entre sí y frente a los enemigos? ¿Te parece que es correcto lo que opino?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0327",
+      "stephanus": "468a",
+      "kind": "speech",
+      "text": {
+        "es": "—Dime qué es lo que opinas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0328",
+      "stephanus": "468a",
+      "kind": "speech",
+      "text": {
+        "es": "—El que de ellos abandone su puesto o arroje sus armas ¿no será convertido, por causa de esa vileza, en artesano o labrador?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0329",
+      "stephanus": "468a",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0330",
+      "stephanus": "468a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y el que es apresado vivo por el enemigo, ¿no será obsequiado a sus captores como un presente, para que hagan con su presa lo que quieran?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0331",
+      "stephanus": "468b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por completo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0332",
+      "stephanus": "468b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y al que se distinga y sobresalga por su valentía, ¿no te parece a ti que deberán coronarlo durante la campaña, antes que nadie, cada uno de sus camaradas de armas, jóvenes y niños, por turno?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0333",
+      "stephanus": "468b",
+      "kind": "speech",
+      "text": {
+        "es": "—A mí sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0334",
+      "stephanus": "468b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no le estrecharán la diestra?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0335",
+      "stephanus": "468b",
+      "kind": "speech",
+      "text": {
+        "es": "—También eso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0336",
+      "stephanus": "468b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero lo que sigue, pienso, no te parecerá ya bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0337",
+      "stephanus": "468b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0338",
+      "stephanus": "468b",
+      "kind": "speech",
+      "text": {
+        "es": "—Que bese a cada uno y sea besado por cada uno de ellos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0339",
+      "stephanus": "468c",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso más que todo lo demás —replicó Glaucón—. Y a la ley añado que, en tanto permanezcan en campaña, nadie se podrá rehusar a que él lo bese, si quiere; a fin de que, si por casualidad ama a alguno, varón o mujer, ponga más celo en obtener el premio a la valentía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0340",
+      "stephanus": "468c",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy bien —asentí—. Y ya hemos dicho que, para el buen guardián, se tendrán dispuestas mayor número de bodas que para los demás, y que las elecciones de éstas serán más frecuentes para con él que para los demás, para que de él sea de quien se engendren más hijos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0341",
+      "stephanus": "468c",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo hemos dicho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0342",
+      "stephanus": "468d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero, además, de acuerdo con Homero, honraremos a cuantos de los jóvenes sean buenos, en las formas siguientes. Pues cuenta Homero que, habiéndose distinguido Ayante por su valentía en la guerra lo homenajearon con un lomo entero de res, en el pensamiento de que ése era el homenaje apropiado para un hombre valiente y en la flor de la vida; con lo cual lo honraban y a la vez acrecentaban su fuerza.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0343",
+      "stephanus": "468d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sumamente correcto es lo que dices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0344",
+      "stephanus": "468d",
+      "kind": "speech",
+      "text": {
+        "es": "—Obedeceremos a Homero, entonces, al menos en esto. Así, pues, en los sacrificios y en todo lo demás, honraremos a los buenos guardianes, en la medida que revelen ser buenos, con himnos y las otras cosas que acabamos de mencionar y, además, con sitiales de honor, carnes y copas llenas, para que, a la vez que los homenajeamos, entrenemos corporalmente a los hombres y mujeres buenos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0345",
+      "stephanus": "468e",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo mejor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0346",
+      "stephanus": "468e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sea; y de los que mueren en combate, aquel que al morir sobresale por su valentía, ¿no diremos en primer lugar que es de la raza de oro?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0347",
+      "stephanus": "468e",
+      "kind": "speech",
+      "text": {
+        "es": "—Más que cualquier otro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0348",
+      "stephanus": "468e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y haremos caso a Hesíodo en eso de que, cuando mueren hombres de esta raza, se vuelven demonios puros, terrestres, buenos, apartadores del mal, guardianes de hombres de voz articulada.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0349",
+      "stephanus": "469a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda le haremos caso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0350",
+      "stephanus": "469a",
+      "kind": "speech",
+      "text": {
+        "es": "—Inquiriremos al dios, pues, sobre cómo y con qué distinción debe sepultarse a estos hombres demoníacos y divinos, y los sepultaremos del modo que indique el exégeta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0351",
+      "stephanus": "469a",
+      "kind": "speech",
+      "text": {
+        "es": "—No podríamos hacer de otra manera.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0352",
+      "stephanus": "469b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y desde allí en adelante cuidaremos y veneraremos sus tumbas como si fueran de demonios. Y observaremos las mismas prácticas cuando alguien muera de vejez o de cualquier otro modo, con cuantos en vida hayan sido juzgados como sobremanera buenos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0353",
+      "stephanus": "469b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es justo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0354",
+      "stephanus": "469b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien; con respecto a los enemigos, ¿qué harán los soldados?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0355",
+      "stephanus": "469b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿En qué aspecto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0356",
+      "stephanus": "469b",
+      "kind": "speech",
+      "text": {
+        "es": "—En primer lugar, en lo que concierne a la esclavitud, ¿parece justo que los griegos esclavicen a Estados griegos, o no deberían permitirlo incluso a ningún otro Estado, y acostumbrarlos a respetar la raza griega, previniéndose de ser esclavizados por los bárbaros?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0357",
+      "stephanus": "469c",
+      "kind": "speech",
+      "text": {
+        "es": "—En todo sentido importa que la respeten.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0358",
+      "stephanus": "469c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, no adquirirán ellos mismos esclavos griegos, y aconsejarán a los otros griegos proceder así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0359",
+      "stephanus": "469c",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo —dijo Glaucón—. Más bien, deberían volverse contra los bárbaros, y abstenerse de combatir entre sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0360",
+      "stephanus": "469d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y acaso está bien despojar a los muertos después del triunfo, como no sea de las armas? ¿No es para los cobardes un pretexto para no ir al combate, como si estuvieran haciendo algo necesario, quedándose encorvados sobre el cadáver? Por lo demás, muchos ejércitos han sucumbido por causa de semejante rapacidad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0361",
+      "stephanus": "469d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0362",
+      "stephanus": "469d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no crees que es propio de una codicia servil el pillaje de un cadáver, y que es propio de una mente mezquina y afeminada considerar como adversario al cuerpo del muerto, cuando el verdadero enemigo se ha volado de él y lo que ha quedado es sólo aquello por medio de lo cual combatía? ¿O crees que los que hacen esto actúan de modo diferente a los perros que se enfurecen contra las piedras que les son arrojadas, pero sin tocar a quien las lanza?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0363",
+      "stephanus": "469e",
+      "kind": "speech",
+      "text": {
+        "es": "—No hay ni una pequeña diferencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0364",
+      "stephanus": "469e",
+      "kind": "speech",
+      "text": {
+        "es": "—Debe terminarse, entonces, con el despojo de cadáveres y con los impedimentos para que éstos sean rescatados.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0365",
+      "stephanus": "469e",
+      "kind": "speech",
+      "text": {
+        "es": "—Debe terminarse, por Zeus.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0366",
+      "stephanus": "469e",
+      "kind": "speech",
+      "text": {
+        "es": "—Tampoco hemos de llevar a los templos las armas de los enemigos como ofrendas votivas, sobre todo las de los griegos, si es que en algo nos preocupa estar en buenas relaciones con los demás griegos; más bien temeremos que sea una ominosa mácula llevar al templo despojos de parientes, salvo que el dios diga otra cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0367",
+      "stephanus": "470a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo más correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0368",
+      "stephanus": "470a",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto al asolamiento de los campos griegos y del incendio de sus casas, ¿cómo obrarán los soldados respecto de sus enemigos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0369",
+      "stephanus": "470a",
+      "kind": "speech",
+      "text": {
+        "es": "—Si me revelas tu opinión, la oiré gustosamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0370",
+      "stephanus": "470a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues yo creo que no se debe hacer ni una cosa ni la otra, sino sólo quitarles la cosecha del año. ¿Quieres que te diga qué es lo que tengo en vista?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0371",
+      "stephanus": "470b",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0372",
+      "stephanus": "470b",
+      "kind": "speech",
+      "text": {
+        "es": "—Me parece que, así como hay dos nombres para designar, por un lado, a la guerra y, por otro, a la disputa intestina, hay allí también dos cosas, según aspectos diferentes. Las dos cosas a que me refiero son, por una parte, lo familiar y congénere y, por otra, lo ajeno y lo extranjero. A la hostilidad con lo familiar se le llama ‘disputa intestina’, a la hostilidad con lo ajeno ‘guerra’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0373",
+      "stephanus": "470c",
+      "kind": "speech",
+      "text": {
+        "es": "—No es nada inapropiado lo que dices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0374",
+      "stephanus": "470c",
+      "kind": "speech",
+      "text": {
+        "es": "—Mira ahora si es apropiado lo que sigue. Afirmo, en efecto, que la raza griega es familiar y congénere respecto de sí misma, ajena y extranjera respecto de la raza bárbara.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0375",
+      "stephanus": "470c",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy apropiado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0376",
+      "stephanus": "470c",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, si los griegos combaten contra los bárbaros y los bárbaros contra los griegos, diremos que por naturaleza son enemigos, y a esa hostilidad la llamaremos ‘guerra’. En cambio, cuando combaten griegos contra griegos, habrá que decir que por naturaleza son amigos y que Grecia en este caso está enferma y con disensiones internas, y a esa hostilidad la denominaremos ‘disputa intestina’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0377",
+      "stephanus": "470d",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy de acuerdo en considerarlo así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0378",
+      "stephanus": "470d",
+      "kind": "speech",
+      "text": {
+        "es": "—Observa ahora, cuando ocurre algo de esta índole que hemos convenido en llamar ‘disputa intestina’, en la que el Estado se divide en facciones, y cada una de éstas devasta los campos de la otra e incendia sus casas, cómo la disputa intestina parece abominable y ninguna de las facciones patriotas; si no, no habrían sometido a su madre y nodriza a tales estragos. Lo que parece razonable es que los vencedores quiten los frutos a los vencidos, de modo que pueda pensarse que se reconciliarán y no estarán combatiendo siempre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0379",
+      "stephanus": "470e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y esa actitud será más noble que la otra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0380",
+      "stephanus": "470e",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien; ¿no es un Estado griego el que fundas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0381",
+      "stephanus": "470e",
+      "kind": "speech",
+      "text": {
+        "es": "—Necesariamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0382",
+      "stephanus": "470e",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, ¿los suyos serán hombres buenos y nobles?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0383",
+      "stephanus": "470e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0384",
+      "stephanus": "470e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no serán helenófilos, que considerarán como propia la Hélade, y no compartirán el culto religioso con los demás griegos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0385",
+      "stephanus": "470e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0386",
+      "stephanus": "471a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, cuando tengan una desavenencia con griegos, por ser éstos familiares suyos, la considerarán como una disputa intestina y no le darán el nombre de ‘guerra’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0387",
+      "stephanus": "471a",
+      "kind": "speech",
+      "text": {
+        "es": "—No, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0388",
+      "stephanus": "471a",
+      "kind": "speech",
+      "text": {
+        "es": "—Consiguientemente, litigarán como quienes han de reconciliarse.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0389",
+      "stephanus": "471a",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0390",
+      "stephanus": "471a",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces los enmendarán amistosamente, sin llegar a castigarlos con la esclavitud o con el exterminio, ya que son enmendadores, no enemigos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0391",
+      "stephanus": "471a",
+      "kind": "speech",
+      "text": {
+        "es": "—De ese modo, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0392",
+      "stephanus": "471a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por ser griegos, no depredarán la Hélade ni prenderán fuego a las casas, y no aceptarán que, en cualquier Estado, todos, hombres, mujeres y niños, sean sus enemigos, sino que sólo son sus enemigos los culpables de la desavenencia, que siempre son pocos. De ahí que no estarán dispuestos a asolar territorios donde la mayoría son amigos, ni a arruinar sus casas, sino que llevarán la contienda hasta que los culpables sean forzados a expiar su delito por los inocentes que sufren.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0393",
+      "stephanus": "471b",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy de acuerdo —dijo Glaucón— en que así deben tratar nuestros ciudadanos a sus adversarios, y a los bárbaros como hoy los griegos se tratan unos a otros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0394",
+      "stephanus": "471b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Estableceremos por esta ley, entonces, que los guardianes no deben asolar los territorios ni incendiar las casas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0395",
+      "stephanus": "471b",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo estableceremos, y damos esta ley por buena, tal como en los casos anteriores. Pero creo, Sócrates, que si se te permite seguir hablando de estas cosas, jamás te acordarás de lo que anteriormente hiciste a un lado para hablar de todo esto: si es posible que llegue a existir tal organización política y de qué modo es posible. Por cierto que, si llegase a existir, el Estado contaría con todas esas bondades. Y menciono otras que has omitido: combatirían como los mejores contra los enemigos, y menos que nadie, se abandonarían los unos a los otros, al reconocerse y darse los nombres de hermanos, padres e hijos; y, si el sexo femenino se añadiese en las expediciones militares, ya fuera en la primera fila o bien ordenado más atrás, con el fin de infundir temor al enemigo y de servir de reserva si es preciso, bien sé que en ese sentido serían por completo irresistibles. Y veo que has omitido aquellas bondades de que disfrutar en paz. Pero yo admito todas ellas y mil otras, si esa organización política llega a existir, por lo que no hables ya más de ésta, sino intentemos convencernos nosotros mismos de que es posible y cómo es posible, y despidámonos del resto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0396",
+      "stephanus": "472a",
+      "kind": "speech",
+      "text": {
+        "es": "—Repentinamente —dije— has asaltado mi exposición, sin perdonarme que divagara. Tal vez no te das cuenta de que, cuando apenas he esquivado las dos primeras olas, ahora me conduces frente a la tercera, que es la más grande y la más peligrosa. Después de que la hayas visto y oído, serás más indulgente conmigo, porque con razón yo titubeaba y temía exponer e intentar el examen de un argumento tan paradójico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0397",
+      "stephanus": "472b",
+      "kind": "speech",
+      "text": {
+        "es": "—Cuantas más cosas de esa índole digas —replicó Glaucón—, menos te librarás de exponernos de qué modo es posible que aquella organización política exista. Habla, pues, y no pierdas tiempo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0398",
+      "stephanus": "472b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, ante todo cabe recordar que llegamos a este punto indagando qué es la justicia y la injusticia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0399",
+      "stephanus": "472b",
+      "kind": "speech",
+      "text": {
+        "es": "—Cabe, en efecto, pero ¿por qué lo dices?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0400",
+      "stephanus": "472b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por nada. Pero, si descubrimos qué es la justicia, ¿consideraremos que en nada debe diferir el varón justo de ella, sino ser en todo sentido de la misma índole que la justicia, o bien nos contentaremos con que se aproxime al máximo posible y participe de ella más que los demás?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0401",
+      "stephanus": "472c",
+      "kind": "speech",
+      "text": {
+        "es": "—Con esto nos contentaremos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0402",
+      "stephanus": "472c",
+      "kind": "speech",
+      "text": {
+        "es": "—Con miras a un paradigma, pues, buscábamos la justicia misma, y el hombre perfectamente justo, si podía existir, y lo mismo con la injusticia y el hombre completamente injusto, para que, dirigiendo la mirada hacia éstos, se nos revelaran en lo que hace a la felicidad y a la desgracia y nos viéramos constreñidos a convenir, respecto de nosotros mismos, que quien sea más semejante a ellos tendrá un destino semejante al suyo. No con miras a demostrar que es posible que lleguen a existir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0403",
+      "stephanus": "472d",
+      "kind": "speech",
+      "text": {
+        "es": "—En esto dices verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0404",
+      "stephanus": "472d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Piensas, acaso, que un pintor que ha retratado como paradigma al hombre más hermoso, habiendo traducido en el cuadro todos sus rasgos adecuadamente, es menos bueno porque no puede demostrar que semejante hombre pueda existir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0405",
+      "stephanus": "472d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Por Zeus que no!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0406",
+      "stephanus": "472d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no diremos que también nosotros hemos producido en palabras un paradigma del buen Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0407",
+      "stephanus": "472e",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0408",
+      "stephanus": "472e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces, ¿piensas que nuestras palabras sobre esto no están tan bien dichas, si no podemos demostrar que es posible fundar un Estado tal como el que decimos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0409",
+      "stephanus": "472e",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0410",
+      "stephanus": "472e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, eso es lo cierto; ahora, sí, para complacerte, debo poner celo en demostrar de qué modo y en qué sentido es posible al máximo, respecto de tal demostración me has de conceder lo mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0411",
+      "stephanus": "472e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0412",
+      "stephanus": "473a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Se puede poner en práctica algo tal como se dice? ¿O no es acaso que la praxis, por naturaleza, alcanza la verdad menos que las palabras? Podría parecer que no, pero tú ¿lo concedes o no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0413",
+      "stephanus": "473a",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo concedo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0414",
+      "stephanus": "473a",
+      "kind": "speech",
+      "text": {
+        "es": "—No me obligues, entonces, a que muestre cómo lo que describo con el discurso debe realizarse en los hechos completamente; pero si llegamos a ser capaces de descubrir cómo se podría fundar el Estado más próximo a lo que hemos dicho, debes decir que hemos descubierto lo que demandas: que tales cosas pueden llegar a existir. ¿No te contentarás si arribamos a eso? Por mi parte me conformaría.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0415",
+      "stephanus": "473b",
+      "kind": "speech",
+      "text": {
+        "es": "—Yo también —respondió Glaucón.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0416",
+      "stephanus": "473b",
+      "kind": "speech",
+      "text": {
+        "es": "—Después de esto, me parece que hemos de intentar indagar y mostrar qué es lo que actualmente se hace mal en los Estados, por lo cual no están gobernados del modo que el nuestro, y con qué cambios —los mínimos posibles— llegaría un Estado a ese modo de organización política; preferiblemente con un solo cambio, si no con dos, y, si tampoco así, con el menor número de cambios de menor significación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0417",
+      "stephanus": "473c",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0418",
+      "stephanus": "473c",
+      "kind": "speech",
+      "text": {
+        "es": "—Con un solo cambio, creo, podría mostrarse que se produce la transformación, aunque no sea un cambio pequeño ni fácil, pero posible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0419",
+      "stephanus": "473c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuál es?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0420",
+      "stephanus": "473c",
+      "kind": "speech",
+      "text": {
+        "es": "—He arribado a lo que hemos comparado con la más grande ola. Sin embargo hablaré, aunque, como una ola de carcajadas, me sumerja sin más en el ridículo y en el desprecio. Examina lo que voy a decir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0421",
+      "stephanus": "473c",
+      "kind": "speech",
+      "text": {
+        "es": "—Habla.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0422",
+      "stephanus": "473d",
+      "kind": "speech",
+      "text": {
+        "es": "—A menos que los filósofos reinen en los Estados, o los que ahora son llamados reyes y gobernantes filosofen de modo genuino y adecuado, y que coincidan en una misma persona el poder político y la filosofía, y que se prohíba rigurosamente que marchen separadamente por cada uno de estos dos caminos las múltiples naturalezas que actualmente hacen así, no habrá, querido Glaucón, fin de los males para los Estados ni tampoco, creo, para el género humano; tampoco antes de eso se producirá, en la medida de lo posible, ni verá la luz del sol, la organización política que ahora acabamos de describir verbalmente. Esto es lo que desde hace rato titubeo en decir, porque veía que era un modo de hablar paradójico; y es difícil advertir que no hay otra manera de ser feliz, tanto en la vida privada como en la pública.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0423",
+      "stephanus": "473e",
+      "kind": "narration",
+      "text": {
+        "es": "Glaucón exclamó:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0424",
+      "stephanus": "473e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Qué palabras, Sócrates, qué discurso has dejado escapar! Después de hablar así, tienes que pensar que se han de echar sobre ti muchos hombres nada insignificantes, se quitarán sus mantos, por así decirlo, y, despojados de éstos, cogerán la primera arma que tengan a mano, dispuestos a hacer cualquier barbaridad; de modo que, si no te defiendes con tu argumento o esquivas los golpes, verdaderamente expiarás tu falta convirtiéndote en objeto de burla.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0425",
+      "stephanus": "474a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y acaso no eres tú el culpable de esto? —me quejé.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0426",
+      "stephanus": "474a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, e hice bien. Pero no te he de abandonar, sino que te defenderé tanto como pueda; y lo que puedo es poner buena voluntad y alentarte; y tal vez yo sea más complaciente que otros para responderte. Ahora, pues, que estás provisto de semejante ayuda, trata de demostrar a los incrédulos que es como tú dices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0427",
+      "stephanus": "474b",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo he de tratar, puesto que tú me ofreces una alianza tan importante. Pues bien, creo que se hace necesario, si hemos de esquivar de algún modo a los que has mencionado, determinar a qué filósofos aludimos cuando nos atrevimos a afirmar que ellos deben gobernar, de modo que, distinguiéndolos, podamos defendernos, mostrando que a unos corresponde por naturaleza aplicarse a la filosofía y al gobierno del Estado, en tanto a los demás dejar incólume la filosofía y obedecer al que manda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0428",
+      "stephanus": "474c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es la hora de determinarlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0429",
+      "stephanus": "474c",
+      "kind": "speech",
+      "text": {
+        "es": "—Vamos entonces, sígueme, si es que de un modo u otro soy un guía adecuado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0430",
+      "stephanus": "474c",
+      "kind": "speech",
+      "text": {
+        "es": "—Guíame.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0431",
+      "stephanus": "474c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Debo recordarte yo o te acuerdas tú de que, cuando afirmamos que alguien ama alguna cosa, si hablamos correctamente, debe quedar bien en claro que no está amando una parte sí, otra parte no, de su objeto, sino que está queriéndolo íntegro?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0432",
+      "stephanus": "474d",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece que me lo tendrás que recordar, pues yo no me doy cuenta en absoluto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0433",
+      "stephanus": "474d",
+      "kind": "speech",
+      "text": {
+        "es": "—A otro, no a ti, convendría, Glaucón, decir lo que dices. Porque a un varón amoroso no le conviene olvidar que todos los que están en la flor de la juventud de algún modo aguijonean y excitan al amante de los jóvenes, y parecen todos dignos de sus cuidados y de su efusividad. ¿O es que obráis de otro modo con los jóvenes bellos? Si uno es de nariz chata, es elogiado por vosotros y llamado 'gracioso'; si otro es de nariz aguileña, decís que es 'real'; y del que la tiene intermedia entre las otras, que es 'muy proporcionada'; que los morenos se ven 'viriles' y los blancos 'hijos de los dioses'. ¿Y piensas que esa expresión, 'amarillo como la miel', es otra cosa que una invención eufemística de un amante que disimula la palidez de su amado, si éste está en la flor de la juventud? En una palabra, alegáis todos los pretextos y emitís todos los sonidos para no soltar a ninguno de los que están en la primavera de la vida.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0434",
+      "stephanus": "475a",
+      "kind": "speech",
+      "text": {
+        "es": "—Si quieres decir que los amantes obran así, tomándome por ejemplo, estoy de acuerdo, en beneficio del argumento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0435",
+      "stephanus": "475a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y los que aman el vino, ¿no ves que obran del mismo modo, saludando todo tipo de vino con cualquier pretexto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0436",
+      "stephanus": "475a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0437",
+      "stephanus": "475a",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto a los que aman los honores, pienso que percibes que, si no pueden llegar a ser generales, son capitanes. Y si no son honrados por los hombres más grandes y más solemnes, se contentan con que los honren hombres más pequeños e insignificantes, porque de cualquier modo desean que se los honre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0438",
+      "stephanus": "475b",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0439",
+      "stephanus": "475b",
+      "kind": "speech",
+      "text": {
+        "es": "—Afirma ahora esto, o niégalo: cuando decimos que una persona está ansiosa de algo, ¿declararemos que lo ansía en forma íntegra? ¿O acaso una parte sí, una parte no?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0440",
+      "stephanus": "475b",
+      "kind": "speech",
+      "text": {
+        "es": "—En forma íntegra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0441",
+      "stephanus": "475b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y del amante de la sabiduría o filósofo, ¿diremos que no anhela la sabiduría en parte sí, en parte no, sino íntegramente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0442",
+      "stephanus": "475b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0443",
+      "stephanus": "475c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y de aquel que no le gusta estudiar, sobre todo mientras es joven y no cuenta aún con razón para decidir si eso es útil o no, no diremos que es amante del estudio o que es filósofo, como tampoco del que siente aversión por los alimentos hemos de decir que tiene hambre o que desea alimentos, ni que es voraz, sino que es inapetente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0444",
+      "stephanus": "475c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y hablaremos correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0445",
+      "stephanus": "475c",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto a aquel que está rápidamente dispuesto a gustar de todo estudio y marchar con alegría a aprender, sin darse nunca por harto, a éste con justicia lo llamaremos 'filósofo'.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0446",
+      "stephanus": "475d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues en ese caso tendrás mucha gente de esa índole y muy extraña —dijo Glaucón—; en efecto, todos los que aman los espectáculos con regocijo por aprender, me parece a mí, son de esa índole; y aún más insólitos son los que aman las audiciones, al menos para ubicarlos entre los filósofos, ya que no estarían dispuestos a participar voluntariamente de una discusión o de un estudio serio; antes bien, como si hubiesen arrendado sus oídos, recorren las fiestas dionisíacas para oír todos los coros, sin perderse uno, sea en las ciudades, sea en las aldeas. A todos estos aprendices y otros semejantes, incluso de artes menores, ¿llamarás 'filósofos'?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0447",
+      "stephanus": "475e",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo —respondí—, más bien 'parecidos a filósofos'.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0448",
+      "stephanus": "475e",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, ¿a quiénes llamas 'verdaderamente filósofos'?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0449",
+      "stephanus": "475e",
+      "kind": "speech",
+      "text": {
+        "es": "—A quienes aman el espectáculo de la verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0450",
+      "stephanus": "475e",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien, pero ¿qué quieres decir con eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0451",
+      "stephanus": "475e",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo sería fácil con otro, pero pienso que tú vas a estar de acuerdo conmigo en esto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0452",
+      "stephanus": "475e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0453",
+      "stephanus": "475e",
+      "kind": "speech",
+      "text": {
+        "es": "—Que, puesto que lo Bello es contrario de lo Feo, son dos cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0454",
+      "stephanus": "476a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0455",
+      "stephanus": "476a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y que, puesto que son dos, cada uno es uno.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0456",
+      "stephanus": "476a",
+      "kind": "speech",
+      "text": {
+        "es": "—También eso está claro.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0457",
+      "stephanus": "476a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y el mismo discurso acerca de lo Justo y de lo Injusto, de lo Bueno y de lo Malo y todas las Ideas: cada una en sí misma es una, pero, al presentarse doquier en comunión con las acciones, con los cuerpos y unas con otras, cada una aparece como múltiple.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0458",
+      "stephanus": "476a",
+      "kind": "speech",
+      "text": {
+        "es": "—Hablas correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0459",
+      "stephanus": "476b",
+      "kind": "speech",
+      "text": {
+        "es": "—En este sentido, precisamente, hago la distinción, apartando a aquellos que acabas de mencionar, amantes de espectáculos y de las artes y hombres de acción, de aquellos sobre los cuales versa mi discurso, que son los únicos a quienes cabría denominar correctamente 'filósofos'.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0460",
+      "stephanus": "476b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué quieres decir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0461",
+      "stephanus": "476b",
+      "kind": "speech",
+      "text": {
+        "es": "—Aquellos que aman las audiciones y los espectáculos se deleitan con sonidos bellos o con colores y figuras bellas, y con todo lo que se fabrica con cosas de esa índole; pero su pensamiento es incapaz de divisar la naturaleza de lo Bello en sí y de deleitarse con ella.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0462",
+      "stephanus": "476b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0463",
+      "stephanus": "476b",
+      "kind": "speech",
+      "text": {
+        "es": "—En cambio, aquellos que son capaces de avanzar hasta lo Bello en sí y contemplarlo por sí mismo, ¿no son raros?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0464",
+      "stephanus": "476c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0465",
+      "stephanus": "476c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien; el que cree que hay cosas bellas, pero no cree en la Belleza en sí ni es capaz de seguir al que conduce hacia su conocimiento, ¿te parece que vive soñando, o despierto? Examina. ¿No consiste el soñar en que, ya sea mientras se duerme o bien cuando se ha despertado, se toma lo semejante a algo, no por semejante, sino como aquello a lo cual se asemeja?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0466",
+      "stephanus": "476c",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, yo diría que soñar es algo de esa índole.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0467",
+      "stephanus": "476d",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos ahora el caso contrario: aquel que estima que hay algo Bello en sí, y es capaz de mirarlo tanto como las cosas que participan de él, sin confundirlo con las cosas que participan de él, ni a él por estas cosas participantes; ¿te parece que vive despierto o soñando?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0468",
+      "stephanus": "476d",
+      "kind": "speech",
+      "text": {
+        "es": "—Despierto, con mucho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0469",
+      "stephanus": "476d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No denominaremos correctamente al pensamiento de ése, en cuanto conoce, 'conocimiento', mientras al del otro, en cuanto opina, 'opinión'?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0470",
+      "stephanus": "476d",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0471",
+      "stephanus": "476e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y si aquel del que afirmamos que opina se encoleriza contra nosotros y arguye que no decimos la verdad? ¿No tendremos que apaciguarlo y convencerlo de que se calme, ocultándole que no está sano?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0472",
+      "stephanus": "476e",
+      "kind": "speech",
+      "text": {
+        "es": "—Convendrá que así lo hagamos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0473",
+      "stephanus": "476e",
+      "kind": "speech",
+      "text": {
+        "es": "—Vamos, pues, examina qué hemos de responderle. ¿O prefieres que lo interroguemos, diciéndole que, si sabe algo, no le tendremos envidia, sino que nos regocijaremos de ver que sabe algo? «Pero dinos: ¿el que conoce, conoce algo o no conoce nada?» Respóndeme en lugar suyo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0474",
+      "stephanus": "476e",
+      "kind": "speech",
+      "text": {
+        "es": "—Responderé que conoce algo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0475",
+      "stephanus": "477a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Algo que es o algo que no es?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0476",
+      "stephanus": "477a",
+      "kind": "speech",
+      "text": {
+        "es": "—Que es; pues, ¿cómo se podría conocer lo que no es?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0477",
+      "stephanus": "477a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, tenemos seguridad en esto, desde cualquier punto de vista que observemos: lo que es plenamente es plenamente cognoscible, mientras que lo que no es no es cognoscible en ningún sentido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0478",
+      "stephanus": "477a",
+      "kind": "speech",
+      "text": {
+        "es": "—Con la mayor seguridad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0479",
+      "stephanus": "477a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sea. Y si algo se comporta de modo tal que es y no es, ¿no se situará entremedias de lo que es en forma pura y de lo que no es de ningún modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0480",
+      "stephanus": "477a",
+      "kind": "speech",
+      "text": {
+        "es": "—Entremedias.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0481",
+      "stephanus": "477b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, si el conocimiento se refiere a lo que es y la ignorancia a lo que no es, deberá indagarse qué cosa intermedia entre el conocimiento científico y la ignorancia se refiere a esto intermedio, si es que hay algo así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0482",
+      "stephanus": "477b",
+      "kind": "speech",
+      "text": {
+        "es": "—De acuerdo en esto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0483",
+      "stephanus": "477b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, ¿llamamos a algo 'opinión'?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0484",
+      "stephanus": "477b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0485",
+      "stephanus": "477b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Es un poder distinto que el del conocimiento científico, o el mismo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0486",
+      "stephanus": "477b",
+      "kind": "speech",
+      "text": {
+        "es": "—Distinto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0487",
+      "stephanus": "477b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así pues, la opinión corresponde a una cosa y el conocimiento científico a otra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0488",
+      "stephanus": "477b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0489",
+      "stephanus": "477b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y al corresponder por naturaleza el conocimiento científico a lo que es, ¿no conoce cómo es el ente? Pero antes me parece, más bien, que debemos distinguir algo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0490",
+      "stephanus": "477c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0491",
+      "stephanus": "477c",
+      "kind": "speech",
+      "text": {
+        "es": "—Afirmamos que los poderes son un género de cosas gracias a las cuales podemos lo que podemos nosotros y cualquier otra cosa que puede. Por ejemplo, cuento entre los poderes la vista y el oído, si es que comprendes la especie a que quiero referirme.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0492",
+      "stephanus": "477c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, comprendo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0493",
+      "stephanus": "477c",
+      "kind": "speech",
+      "text": {
+        "es": "—Escucha lo que, con respecto a ellos, me parece. No veo en los poderes, en efecto, ni color ni figura ni nada de esa índole que hallamos en muchas otras cosas, dirigiendo la mirada a las cuales puedo distinguir por mí mismo unas de otras. En un poder miro sólo a aquello a lo cual está referido y aquello que produce, y de ese modo denomino a cada uno de ellos 'poder', y del que está asignado a lo mismo y produce lo mismo considero que es el mismo poder, y distinto el que está asignado a otra cosa y produce otra cosa. Y tú ¿cómo procedes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0494",
+      "stephanus": "477d",
+      "kind": "speech",
+      "text": {
+        "es": "—Del mismo modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0495",
+      "stephanus": "477d",
+      "kind": "speech",
+      "text": {
+        "es": "—Volvamos atrás, entonces, mi excelente amigo. ¿Dices que el conocimiento científico es un poder, o en qué género lo ubicas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0496",
+      "stephanus": "477d",
+      "kind": "speech",
+      "text": {
+        "es": "—En ése: es el más vigoroso de todos los poderes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0497",
+      "stephanus": "477e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y la opinión es un poder o la transferiremos a otra especie?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0498",
+      "stephanus": "477e",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo, porque aquello con lo cual podemos opinar es la opinión.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0499",
+      "stephanus": "477e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero hace apenas un momento conviniste en que el conocimiento científico y la opinión no son lo mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0500",
+      "stephanus": "477e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo un hombre en su sano juicio admitiría que es lo mismo lo falible y lo infalible?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0501",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—Muy bien —asentí—. Es manifiesto que estamos de acuerdo en que la opinión es distinta del conocimiento científico.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0502",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, distinta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0503",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, cada una de estas cosas, por tener un poder distinto, está asignada por naturaleza a algo distinto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0504",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—Necesariamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0505",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y tal vez el conocimiento científico está por naturaleza asignado al ente, de modo que conozca cómo es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0506",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0507",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—La opinión, en cambio, decimos que opina.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0508",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0509",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y conoce lo mismo que el conocimiento científico? ¿Y lo mismo será cognoscible y opinable, o es imposible esto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0510",
+      "stephanus": "478a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es imposible —respondió Glaucón—, dado lo que hemos convenido. Si un distinto poder corresponde por naturaleza a un objeto distinto, y ambos, opinión y conocimiento científico, son poderes, pero cada uno distinto del otro, como decimos, de allí resulta que no hay lugar a que lo cognoscible y lo opinable sean lo mismo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0511",
+      "stephanus": "478b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, si lo que es es cognoscible, lo opinable será algo distinto de lo que es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0512",
+      "stephanus": "478b",
+      "kind": "speech",
+      "text": {
+        "es": "—Distinto, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0513",
+      "stephanus": "478b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Se opina entonces sobre lo que no es, o es imposible opinar sobre lo que no es? Reflexiona: aquel que opina tiene una opinión sobre algo. ¿O acaso es posible opinar sin opinar sobre nada?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0514",
+      "stephanus": "478b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, es imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0515",
+      "stephanus": "478b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿No es, más bien, que el que opina opina sobre una cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0516",
+      "stephanus": "478b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0517",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero lo que no es no es algo, sino nada, si hablamos rectamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0518",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—Enteramente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0519",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—A lo que no es hemos asignado necesariamente la ignorancia, y a lo que es el conocimiento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0520",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y hemos procedido correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0521",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, no se opina sobre lo que es ni sobre lo que no es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0522",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—No, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0523",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por ende, la opinión no es ignorancia ni conocimiento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0524",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—Así parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0525",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Está entonces más allá de ambos, sobrepasando al conocimiento en claridad y a la ignorancia en oscuridad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0526",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni una cosa ni la otra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0527",
+      "stephanus": "478c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿O te parece que la opinión es más oscura que el conocimiento y más clara que la ignorancia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0528",
+      "stephanus": "478d",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0529",
+      "stephanus": "478d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Yace entre ambos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0530",
+      "stephanus": "478d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0531",
+      "stephanus": "478d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿La opinión es, pues, intermedia entre uno y otro?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0532",
+      "stephanus": "478d",
+      "kind": "speech",
+      "text": {
+        "es": "—Exactamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0533",
+      "stephanus": "478d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no dijimos anteriormente que, si se nos aparecía algo que a la vez fuese y no fuese, una cosa de tal índole yacería entre medio de lo que puramente es y de lo que por completo no es, y ni le correspondería el conocimiento científico ni la ignorancia, sino, como decimos, algo que parece intermedio entre la ignorancia y el conocimiento científico?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0534",
+      "stephanus": "478d",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0535",
+      "stephanus": "478d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero se ha mostrado que lo que llamamos 'opinión' es intermedio entre ellos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0536",
+      "stephanus": "478d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ha sido mostrado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0537",
+      "stephanus": "478e",
+      "kind": "speech",
+      "text": {
+        "es": "—Nos quedaría entonces por descubrir aquello que, según parece, participa de ambos, tanto del ser como del no ser, y a lo que no podemos denominar rectamente ni como uno ni como otro en forma pura; de modo que, si aparece, digamos con justicia que es opinable, y asignemos las zonas extremas a los poderes extremos y las intermedias a lo intermedio. ¿No es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0538",
+      "stephanus": "478e",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0539",
+      "stephanus": "479a",
+      "kind": "speech",
+      "text": {
+        "es": "—Admitido esto, podré decir que me hable y responda aquel valiente que no cree que haya algo Bello en sí, ni una Idea de la Belleza en sí que se comporta siempre del mismo modo, sino muchas cosas bellas; aquel amante de espectáculos que de ningún modo tolera que se le diga que existe lo Bello único, lo Justo, etc. «Excelente amigo», le diremos, «de esas múltiples cosas bellas, ¿hay alguna que no te parezca fea en algún sentido? ¿Y de las justas, alguna que no te parezca injusta, y de las santas una que no te parezca profana?».",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0540",
+      "stephanus": "479b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, necesariamente las cosas bellas han de parecer en algún sentido feas, y así como cualquier otra de las que preguntas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0541",
+      "stephanus": "479b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y las múltiples cosas dobles? ¿Parecen menos la mitad que el doble?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0542",
+      "stephanus": "479b",
+      "kind": "speech",
+      "text": {
+        "es": "—No.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0543",
+      "stephanus": "479b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y de las cosas grandes y las pequeñas, las livianas y las pesadas, ¿las denominaremos con estos nombres que enunciamos más que con los contrarios?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0544",
+      "stephanus": "479b",
+      "kind": "speech",
+      "text": {
+        "es": "—No, cada una contiene siempre a ambos opuestos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0545",
+      "stephanus": "479b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cada una de estas multiplicidades es lo que se dice que es más bien que no es?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0546",
+      "stephanus": "479b",
+      "kind": "speech",
+      "text": {
+        "es": "—Esto —señaló Glaucón— se parece a los juegos de palabras con doble sentido que se hacen en los banquetes, y a la adivinanza infantil del eunuco y del tiro al murciélago, en que se da a adivinar con qué le tira y sobre qué está posando. Estas cosas también se pueden interpretar en doble sentido, y no es posible concebirlas con firmeza como siendo ni como no siendo, ni ambas a la vez o ninguna de ellas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0547",
+      "stephanus": "479c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Sabes entonces qué hacer con tales cosas —pregunté— o las ubicarás en un sitio mejor que entre la realidad y el no ser? En efecto, ni aparecerán sin duda más oscuras que el no ser como para no ser menos aún, ni más luminosas que el ser como para ser más aún.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0548",
+      "stephanus": "479d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es muy cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0549",
+      "stephanus": "479d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, hemos descubierto que las múltiples creencias de la multitud acerca de lo bello y demás cosas están como rodando en un terreno intermedio entre lo que no es y lo que es en forma pura.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0550",
+      "stephanus": "479d",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo hemos descubierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0551",
+      "stephanus": "479d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero hemos convenido anteriormente en que, si aparecía algo de esa índole, no se debería decir que es cognoscible sino opinable y, vagando en territorio intermedio, es detectable por el poder intermedio.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0552",
+      "stephanus": "479d",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo hemos convenido.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0553",
+      "stephanus": "479e",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, de aquellos que contemplan las múltiples cosas bellas, pero no ven lo Bello en sí ni son capaces de seguir a otro que los conduzca hacia él, o ven múltiples cosas justas pero no lo Justo en sí, y así con todo, diremos que opinan acerca de todo pero no conocen nada de aquello sobre lo que opinan.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0554",
+      "stephanus": "479e",
+      "kind": "speech",
+      "text": {
+        "es": "—Necesariamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0555",
+      "stephanus": "479e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué diremos, en cambio, de los que contemplan las cosas en sí y que se comportan siempre del mismo modo, sino que conocen, y que no opinan?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0556",
+      "stephanus": "479e",
+      "kind": "speech",
+      "text": {
+        "es": "—También es necesario esto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0557",
+      "stephanus": "480a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no añadiremos que éstos dan la bienvenida y aman aquellas cosas de las cuales hay conocimiento y aquéllos las cosas de las que hay opinión? ¿O no nos acordamos de que decíamos que tales hombres aman y contemplan bellos sonidos, colores, etc. pero no toleran que se considere como existente lo Bello en sí?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0558",
+      "stephanus": "480a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, lo recordaremos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0559",
+      "stephanus": "480a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cometeremos una ofensa si los denominamos 'amantes de la opinión' más bien que 'filósofos'? ¿Y se encolerizarán mucho con nosotros si hablamos así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0560",
+      "stephanus": "480a",
+      "kind": "speech",
+      "text": {
+        "es": "—No, al menos si me hacen caso; puesto que no es lícito encolerizarse con la verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0561",
+      "stephanus": "480a",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces ha de llamarse 'filósofos' a los que dan la bienvenida a cada una de las cosas que son en sí, y no 'amantes de la opinión'.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b5-0562",
+      "stephanus": "480a",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    }
+  ]
+}
