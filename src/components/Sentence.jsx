@@ -29,7 +29,6 @@ export default function Sentence({ segment, targetLang }) {
       {sourceText}
       {open && (
         <span className="tooltip" id={tipId} role="tooltip">
-          <span className="tooltip-lang">{targetLang.toUpperCase()}</span>
           {gloss}
         </span>
       )}

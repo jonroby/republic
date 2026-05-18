@@ -112,12 +112,11 @@
   text-indent: 0;
 }
 
-/* Speech: hanging indent so the dialogue dash sits in its own gutter,
-   with extra space around it to set it apart from narration. */
+/* Speech: flush-left block, no indent on any line. Extra space around it
+   sets it apart from narration. */
 .block.is-speech {
   margin: 1.6rem 0;
-  padding-left: 1.6rem;
-  text-indent: -1.6rem;
+  text-indent: 0;
   color: #34302a;
 }
 .block.is-speech + .block.is-speech {
