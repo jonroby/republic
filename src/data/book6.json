@@ -1,0 +1,3710 @@
+{
+  "book": 6,
+  "title": {
+    "es": "Libro VI",
+    "en": "Book VI"
+  },
+  "sourceLang": "es",
+  "translations": [],
+  "segments": [
+    {
+      "id": "b6-0001",
+      "stephanus": "484a",
+      "kind": "speech",
+      "text": {
+        "es": "—Qué son los filósofos y qué los no-filósofos —proseguí—: esto es, Glaucón, lo que se nos ha mostrado a través de la descripción efectuada en un discurso extenso y de alguna manera fatigoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0002",
+      "stephanus": "484a",
+      "kind": "speech",
+      "text": {
+        "es": "—Tal vez no habría sido fácil a través de uno breve.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0003",
+      "stephanus": "484a",
+      "kind": "speech",
+      "text": {
+        "es": "—Parece que no; y creo que se nos habría revelado mejor aún si hubiésemos tenido que hablar acerca de eso sólo, y no tener que entrar a detallar las muchas cosas que quedan para advertir en qué se diferencia la vida del justo de la del injusto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0004",
+      "stephanus": "484b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué es, pues, lo que viene después de eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0005",
+      "stephanus": "484b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ninguna otra cosa sino la que le sigue en orden: puesto que son filósofos los que pueden alcanzar lo que se comporta siempre e idénticamente del mismo modo, mientras no son filósofos los incapaces de eso, que, en cambio, deambulan en la multiplicidad abigarrada, ¿quiénes de ellos deben ser jefes de Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0006",
+      "stephanus": "484b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo podríamos responder algo razonable?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0007",
+      "stephanus": "484c",
+      "kind": "speech",
+      "text": {
+        "es": "—A los que de ellos se revelan capaces de vigilar las leyes y costumbres del Estado, a ésos instituiremos como guardianes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0008",
+      "stephanus": "484c",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0009",
+      "stephanus": "484c",
+      "kind": "speech",
+      "text": {
+        "es": "—He aquí algo que es claro: si el guardián que custodia lo que sea debe ser ciego o de vista aguda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0010",
+      "stephanus": "484c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cómo no ha de ser claro?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0011",
+      "stephanus": "484c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, ¿crees que difieren en algo de los ciegos los que están realmente privados del conocimiento de lo que es cada cosa, y no tienen en el alma un paradigma manifiesto, ni son capaces, como un pintor, de dirigir la mirada hacia lo más verdadero y, remitiéndose a ello sin cesar, contemplarlo con la mayor precisión posible, de modo de implantar también aquí las reglas concernientes a lo bello, a lo justo, a lo bueno, si hay aún que implantarlas, o, si ya están establecidas, preservarlas con su vigilancia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0012",
+      "stephanus": "484d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Por Zeus que no difieren en mucho!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0013",
+      "stephanus": "484d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Instituiremos a éstos como guardianes más bien que a aquellos que, conociendo lo que es cada cosa, no les falta en cuanto a experiencia nada respecto de éstos, ni tampoco les van a la zaga en cuanto a la excelencia en ninguno de sus aspectos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0014",
+      "stephanus": "484d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sería absurdo —dijo Glaucón— escoger a otros, si no les falta nada en las restantes cosas, ya que los sobrepasan en cuanto a lo que es prácticamente más importante, como el conocimiento de lo que es cada cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0015",
+      "stephanus": "485a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo que tenemos que decir ahora es de qué modo podrán alcanzar las restantes cosas a la vez que la principal.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0016",
+      "stephanus": "485a",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0017",
+      "stephanus": "485a",
+      "kind": "speech",
+      "text": {
+        "es": "—Como decíamos al comenzar esta argumentación, en primer lugar es necesario aprehender su naturaleza; y pienso que, si nos ponemos de acuerdo suficientemente sobre ella, concordaremos también en que tales hombres pueden alcanzar esas cosas, y en que no deben ser otros que éstos los jefes de Estado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0018",
+      "stephanus": "485a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0019",
+      "stephanus": "485b",
+      "kind": "speech",
+      "text": {
+        "es": "—Hemos de convenir —afirmé—, con respecto a las naturalezas de los filósofos, que siempre aman aquel estudio que les hace patente la realidad siempre existente y que no deambula sometida a la generación y a la corrupción.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0020",
+      "stephanus": "485b",
+      "kind": "speech",
+      "text": {
+        "es": "—Convengámoslo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0021",
+      "stephanus": "485b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y además que la aman íntegra, sin rechazar parte alguna de ella, sea pequeña o grande, más honorable o más despreciable, tal como anteriormente describimos respecto de los que aman los honores y de los enamorados.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0022",
+      "stephanus": "485b",
+      "kind": "speech",
+      "text": {
+        "es": "—Hablas correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0023",
+      "stephanus": "485c",
+      "kind": "speech",
+      "text": {
+        "es": "—Después de eso examina si los que han de ser tal como decimos cuentan en su naturaleza con algo más.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0024",
+      "stephanus": "485c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0025",
+      "stephanus": "485c",
+      "kind": "speech",
+      "text": {
+        "es": "—La veracidad y la no admisión voluntaria de la falsedad, el odio a ésta y la inclinación a la verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0026",
+      "stephanus": "485c",
+      "kind": "speech",
+      "text": {
+        "es": "—Probablemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0027",
+      "stephanus": "485c",
+      "kind": "speech",
+      "text": {
+        "es": "—No sólo es probable, querido amigo, sino también completamente necesario que quien es amoroso por naturaleza ame a todo lo que es congénere y emparentado con las cosas que ama.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0028",
+      "stephanus": "485c",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0029",
+      "stephanus": "485c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien; ¿hallarás algo más emparentado con la sabiduría que la verdad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0030",
+      "stephanus": "485c",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0031",
+      "stephanus": "485d",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, ¿puede una misma naturaleza filosofar y amar a la falsedad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0032",
+      "stephanus": "485d",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0033",
+      "stephanus": "485d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, es necesario que el que ama verdaderamente aprender aspire desde muy temprano a la verdad íntegra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0034",
+      "stephanus": "485d",
+      "kind": "speech",
+      "text": {
+        "es": "—Absolutamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0035",
+      "stephanus": "485d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero además sabemos que, cuando a alguien lo arrastran fuertemente los deseos hacia una sola cosa, se le tornan más débiles las demás, como una corriente que es canalizada hacia allí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0036",
+      "stephanus": "485d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0037",
+      "stephanus": "485e",
+      "kind": "speech",
+      "text": {
+        "es": "—Y en aquel en que han fluido los deseos hacia el conocimiento, y hacia todo lo de esa índole, éstos conciernen al placer del alma misma y por sí misma y abandonan los placeres corporales, si es que ha de ser filósofo verdaderamente y no de modo artificial.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0038",
+      "stephanus": "485e",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente necesario.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0039",
+      "stephanus": "485e",
+      "kind": "speech",
+      "text": {
+        "es": "—Un hombre semejante será moderado y de ningún modo amante de las riquezas, pues las cosas por las cuales se pone celo en conseguir las riquezas, con todo su derroche, hacen que a él menos que a ningún otro convenga esforzarse en obtenerlas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0040",
+      "stephanus": "485e",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0041",
+      "stephanus": "486a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y aún hay que examinar lo siguiente, si vas a discernir la naturaleza del filósofo de la del que no lo es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0042",
+      "stephanus": "486a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0043",
+      "stephanus": "486a",
+      "kind": "speech",
+      "text": {
+        "es": "—Que no se le oculte nada que tenga parte en lo servil; porque la mezquindad es, sin duda, lo más opuesto a un alma que haya de suspirar siempre por la totalidad íntegra de lo divino y lo humano.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0044",
+      "stephanus": "486a",
+      "kind": "speech",
+      "text": {
+        "es": "—Una gran verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0045",
+      "stephanus": "486a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y aquel espíritu al que corresponde la contemplación sublime del tiempo todo y de toda la realidad, ¿piensas que puede creer que la vida humana es gran cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0046",
+      "stephanus": "486a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0047",
+      "stephanus": "486b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y acaso semejante hombre considerará que la muerte es algo temible?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0048",
+      "stephanus": "486b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni en lo más mínimo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0049",
+      "stephanus": "486b",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, a una naturaleza cobarde y servil no le corresponde tomar parte, según parece, en una verdadera filosofía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0050",
+      "stephanus": "486b",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0051",
+      "stephanus": "486b",
+      "kind": "speech",
+      "text": {
+        "es": "—En cuanto al varón ordenado que no ama las riquezas y no es servil ni jactancioso ni cobarde, ¿puede llegar a ser difícil de tratar o injusto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0052",
+      "stephanus": "486b",
+      "kind": "speech",
+      "text": {
+        "es": "—No.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0053",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—También esto: al observar el alma del filósofo y la del que no lo es, examina si ya desde temprano es justa y mansa, o insociable y salvaje.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0054",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0055",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero pienso que tampoco dejarás de lado lo siguiente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0056",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0057",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—Si aprende fácilmente o con dificultad. ¿O esperas que alguna vez alguien puede querer como es debido lo que hace, si al hacerlo se mortifica y penosamente alcanza magros resultados?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0058",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—No.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0059",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si no pudiera retener nada de lo que aprendió, olvidándose de todo, ¿sería posible que no quedara vacío de conocimientos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0060",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—No sería posible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0061",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si trabaja en vano, ¿no piensas que necesariamente terminará por odiarse a sí mismo y a semejante trabajo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0062",
+      "stephanus": "486c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0063",
+      "stephanus": "486d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, no debemos admitir el alma olvidadiza entre las debidamente filosóficas, sino que hemos de buscar una dotada de buena memoria.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0064",
+      "stephanus": "486d",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0065",
+      "stephanus": "486d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no diríamos menos que la naturaleza que es extraña a la Musa y a la buena forma no empuja hacia ninguna otra parte que a la desmesura?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0066",
+      "stephanus": "486d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0067",
+      "stephanus": "486d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Pero la verdad es congénere de la desmesura o de la mesura?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0068",
+      "stephanus": "486d",
+      "kind": "speech",
+      "text": {
+        "es": "—De la mesura.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0069",
+      "stephanus": "486d",
+      "kind": "speech",
+      "text": {
+        "es": "—Buscaremos, por consiguiente, un espíritu que, además de las otras cualidades, esté naturalmente dotado de mesura y gracia y que, por su propia naturaleza, se deje guiar fácilmente hacia el aspecto de lo que es cada cosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0070",
+      "stephanus": "486d",
+      "kind": "speech",
+      "text": {
+        "es": "—No podría ser de otro modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0071",
+      "stephanus": "486e",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien. ¿Y no crees que estas cualidades que hemos descrito son necesarias y se siguen una de otra para el alma que va a aprehender de modo suficientemente perfecto lo que es?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0072",
+      "stephanus": "487a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, son necesarias al máximo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0073",
+      "stephanus": "487a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Has de censurar entonces a una ocupación que no se puede practicar como es debido si no se está por naturaleza dotado de memoria, facilidad para aprender, grandeza de espíritu y de gracia y no se es amigo y congénere de la verdad, de la justicia, de la valentía y de la moderación?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0074",
+      "stephanus": "487a",
+      "kind": "speech",
+      "text": {
+        "es": "—No, ni Momo censuraría algo por el estilo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0075",
+      "stephanus": "487a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es sólo a estos hombres, una vez perfeccionados por la educación y por la edad, que encomendarás el Estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0076",
+      "stephanus": "487b",
+      "kind": "narration",
+      "text": {
+        "es": "En ese punto intervino Adimanto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0077",
+      "stephanus": "487b",
+      "kind": "speech",
+      "text": {
+        "es": "—Nadie, oh Sócrates —dijo—, podría contradecirte. Pero a los que escuchan en cada ocasión lo que dices les pasan cosas como ésta: estiman que es por su inexperiencia en interrogar y responder por lo que son desviados un poco por obra del argumento en cada pregunta, y, al acumularse al final de la discusión estos pequeños desvíos, el error llega a ser grande y aparece contradiciendo lo primero que se dijo. Y así como en el juego de fichas los expertos terminan por bloquear a los inexpertos, que no tienen dónde moverse, así también ellos acaban por quedar bloqueados, sin tener qué decir, por obra de este otro juego de fichas que no se juega con guijarros sino con palabras, aunque la verdad no gane más de ese modo. Digo esto mirando al caso presente; pues ahora podría decirse que de palabra no se puede contradecirte en cada cosa que preguntas, pero que en los hechos se ve que cuantos se abocan a la filosofía, no adhiriéndose simplemente a ella con miras a estar educados completamente y abandonándola siendo aún jóvenes, sino prosiguiendo en su ejercicio largo tiempo, en su mayoría se convierten en individuos extraños, por no decir depravados, y los que parecen más tolerables, no obstante, por obra de esta ocupación que tú elogias, se vuelven inútiles para los Estados.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0078",
+      "stephanus": "487d",
+      "kind": "narration",
+      "text": {
+        "es": "Y una vez que lo escuché, dije:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0079",
+      "stephanus": "487d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y piensas que los que hablan así mienten?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0080",
+      "stephanus": "487d",
+      "kind": "speech",
+      "text": {
+        "es": "—No sé, pero con gusto oiría tu opinión.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0081",
+      "stephanus": "487d",
+      "kind": "speech",
+      "text": {
+        "es": "—Oirías, pues, que me parece que dicen la verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0082",
+      "stephanus": "487d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo, entonces, ha de estar bien dicho que no cesarán los males para los Estados antes de que en ellos gobiernen los filósofos, cuando venimos a reconocer que les son inútiles?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0083",
+      "stephanus": "487e",
+      "kind": "speech",
+      "text": {
+        "es": "—Para contestar la pregunta que haces necesito de una comparación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0084",
+      "stephanus": "487e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Y claro, tú no acostumbras, creo, a hablar con imágenes!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0085",
+      "stephanus": "488a",
+      "kind": "speech",
+      "text": {
+        "es": "—Bueno, te burlas tras haberme arrojado en un asunto difícil de demostrar. Escucha ahora la imagen, para que puedas ver cuánto me cuesta hacer una comparación. Tan cruel es el trato que los Estados infligen a los hombres más razonables, que no hay ningún otro individuo que padezca algo semejante. Por eso, para poder compararlos y defenderlos, deben reunirse muchas cosas, a la manera en que los pintores mezclan para retratar ciervos-cabríos y otros de esa índole. Imagínate que respecto de muchas naves o bien de una sola sucede esto: hay un patrón, más alto y más fuerte que todos los que están en ella, pero algo sordo, del mismo modo corto de vista y otro tanto de conocimientos náuticos, mientras los marineros están en disputa sobre el gobierno de la nave, cada uno pensando que debe pilotar él, aunque jamás haya aprendido el arte del timonel y no pueda mostrar cuál fue su maestro ni el tiempo en que lo aprendió; declarando, además, que no es un arte que pueda enseñarse, e incluso están dispuestos a descuartizar al que diga que se puede enseñar; se amontonan siempre en derredor del patrón de la nave, rogándole y haciendo todo lo posible para que les ceda el timón. Y en ocasiones, si no lo persuaden ellos y otros sí, matan a éstos y los arrojan por la borda, en cuanto al noble patrón, lo encadenan por medio de la mandrágora, de la embriaguez o cualquier otra cosa y se ponen a gobernar la nave, echando mano a todo lo que hay en ella y, tras beber y celebrar, navegan del modo que es probable hagan semejantes individuos; y además de eso alaban y denominan ‘navegador’, ‘piloto’ y ‘entendido en náutica’ al que sea hábil para ayudarlos a gobernar la nave, persuadiendo u obligando al patrón en tanto que al que no sea hábil para eso lo censuran como inútil. No perciben que el verdadero piloto necesariamente presta atención al momento del año, a las estaciones, al cielo, a los astros, a los vientos y a cuantas cosas conciernen a su arte, si es que realmente ha de ser soberano de su nave y, respecto de cómo pilotar con el consentimiento de otros o sin él, piensan que no es posible adquirir el arte del timonel ni en cuanto a conocimientos técnicos ni en cuanto a la práctica. Si suceden tales cosas en la nave, ¿no estimas que el verdadero piloto será llamado ‘observador de las cosas que están en lo alto’, ‘charlatán’ e ‘inútil’ por los tripulantes de una nave en tal estado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0086",
+      "stephanus": "489a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente —respondió Adimanto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0087",
+      "stephanus": "489a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y no pienso que debas escrutar mucho la comparación para ver que tal parece ser la disposición de los Estados hacia los verdaderos filósofos, ya que entiendes lo que digo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0088",
+      "stephanus": "489a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0089",
+      "stephanus": "489b",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo tanto, has de enseñar la imagen a aquel que se asombraba de que los filósofos no sean honrados en los Estados, e intenta convencerlo de que mucho más asombroso sería que los honrasen.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0090",
+      "stephanus": "489b",
+      "kind": "speech",
+      "text": {
+        "es": "—Se la enseñaré.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0091",
+      "stephanus": "489b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y también convéncelo de que dice la verdad al afirmar que los filósofos más razonables son inútiles a la muchedumbre, pero exhórtalo a que eche la culpa de eso no a los hombres razonables sino a quienes no recurren a ellos. Porque no es acorde a la naturaleza que el piloto ruegue a los marineros que se dejen gobernar por él, ni que los sabios acudan a las puertas de los ricos. Miente aquel que idee tal ingeniosidad. Lo que verdaderamente corresponde por naturaleza al enfermo —sea rico o pobre— es que vaya a las puertas de los médicos, y a todo el que tiene necesidad de ser gobernado ir a las puertas del que es capaz de gobernar; no que el que gobierna ruegue a los gobernados para poder gobernar, si su gobierno es verdaderamente provechoso. Pero si comparas a los políticos que actualmente gobiernan con los marineros de que acabamos de hablar, y a los que aquéllos decían ‘inútiles’ y ‘charlatanes de las cosas que están en lo alto’ con los verdaderos pilotos, no te equivocarás.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0092",
+      "stephanus": "489c",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0093",
+      "stephanus": "489c",
+      "kind": "speech",
+      "text": {
+        "es": "—De aquí y en estas circunstancias no es fácil que la ocupación más excelente sea tenida en alta estima por los que se ejercitan en sentido contrario; pero la mayor calumnia y la más violenta hacia la filosofía sobreviene por obra de quienes dicen ocuparse de ella, y que, según lo que afirmas, hacen decir al que acusa a la filosofía que la mayoría de los que se ocupan de ella son depravados, y que los más razonables son inútiles, cosa en que yo convine contigo que era verdadera.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0094",
+      "stephanus": "489d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0095",
+      "stephanus": "489e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Hemos expuesto entonces la causa de la inutilidad de los filósofos razonables?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0096",
+      "stephanus": "489e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0097",
+      "stephanus": "489e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Quieres que, a continuación de esto, expongamos que es forzosa la perversión de la mayor parte de ellos, y que tratemos de mostrar, en cuanto nos sea posible, que la culpa no es de la filosofía?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0098",
+      "stephanus": "489e",
+      "kind": "speech",
+      "text": {
+        "es": "—Completamente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0099",
+      "stephanus": "489e",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora hablemos y oigamos recordando aquel punto en que describíamos cómo debe ser necesariamente la naturaleza del que va a ser un hombre de real valía. Si lo recuerdas, en primer lugar, debía ser conducido por la verdad, a la cual tenía que buscar por todos lados y en todo sentido, salvo que fuera un impostor que no tuviera parte alguna en la verdadera filosofía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0100",
+      "stephanus": "490a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así era, en efecto, lo que decíamos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0101",
+      "stephanus": "490a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no es eso completamente contrario a la opinión que generalmente se tiene de él?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0102",
+      "stephanus": "490a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0103",
+      "stephanus": "490a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no nos defenderemos razonablemente si decimos que el que ama realmente aprender es apto por naturaleza para aspirar a acceder a lo que es, y no se queda en cada multiplicidad de cosas de las que se opina que son, sino que avanza sin desfallecer ni desistir de su amor antes de alcanzar la naturaleza de lo que es cada cosa, alcanzándola con la parte del alma que corresponde a esto (y es la parte afín la que corresponde), por medio de la cual se aproxima a lo que realmente es y se funde con esto, engendrando inteligencia y verdad, y obtiene conocimiento, nutrición y verdadera vida, cesando entonces sus dolores de parto, no antes?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0104",
+      "stephanus": "490b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sería la defensa más razonable.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0105",
+      "stephanus": "490b",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien; ¿y será parte de su naturaleza amar la mentira, o, todo lo contrario, odiarla?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0106",
+      "stephanus": "490c",
+      "kind": "speech",
+      "text": {
+        "es": "—Odiarla.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0107",
+      "stephanus": "490c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero si la verdad es la que lo conduce, pienso, no podremos decir que la sigue un coro de males.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0108",
+      "stephanus": "490c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que no!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0109",
+      "stephanus": "490c",
+      "kind": "speech",
+      "text": {
+        "es": "—Más bien diremos que la sigue un carácter sano y justo, al cual se acopla también la moderación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0110",
+      "stephanus": "490c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo diremos correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0111",
+      "stephanus": "490c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué necesidad hay entonces de poner en el orden forzoso, nuevamente desde el principio, el resto del coro correspondiente a un alma filosófica? Recuerda que encontramos que le convenía la valentía, la facilidad de aprender, la memoria, y cuanto objetaste que cualquiera se vería forzado a estar de acuerdo en lo que decíamos, pero que, si dejábamos de lado las palabras y dirigíamos la mirada a la gente sobre la que versaba el discurso, podría decirse que se ve que de ellos unos son inútiles y la mayoría perversos de toda perversión; hemos arribado ahora, en el examen de la causa de esta calumnia, a la pregunta de por qué la mayoría son perversos; y es en vista a eso que retomamos nuevamente la tarea de delimitar la naturaleza de los verdaderos filósofos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0112",
+      "stephanus": "491a",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0113",
+      "stephanus": "491a",
+      "kind": "speech",
+      "text": {
+        "es": "—Debemos entonces observar la corrupción de semejante naturaleza tal como se produce en la mayoría, y a la que escapan pocos, los cuales no son llamados 'perversos' sino 'inútiles'; y, después de eso, observar cuál es la naturaleza de las almas que imitan la naturaleza filosófica y se abocan a tal ocupación, arribando a una ocupación que las sobrepasa y de la que no son dignas, por lo cual cometen equivocaciones por doquier y así por doquier y entre todos los demás hombres endosan a la filosofía la reputación de la que hablas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0114",
+      "stephanus": "491a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿A qué clase de corrupción te refieres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0115",
+      "stephanus": "491a",
+      "kind": "speech",
+      "text": {
+        "es": "—Trataré de explicártelo, si soy capaz de ello. Pienso que todos estarán de acuerdo en este punto: una naturaleza de tal índole, dotada de todo cuanto acabamos de prescribir a quien haya de convertirse completamente en un filósofo, surge pocas veces entre los hombres y en pequeño número. ¿No piensas así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0116",
+      "stephanus": "491b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que sí!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0117",
+      "stephanus": "491b",
+      "kind": "speech",
+      "text": {
+        "es": "—Examina ahora cuántas cosas y de qué magnitud llevan a estos pocos a su perdición.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0118",
+      "stephanus": "491b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuáles?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0119",
+      "stephanus": "491b",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo más asombroso de escuchar es que cada una de las cualidades que hemos elogiado en su naturaleza corrompen al alma filosófica que las posee y la arrancan de la filosofía. Me refiero a la valentía, a la moderación y todo lo demás que hemos descrito.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0120",
+      "stephanus": "491b",
+      "kind": "speech",
+      "text": {
+        "es": "—Resulta insólito al oírlo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0121",
+      "stephanus": "491c",
+      "kind": "speech",
+      "text": {
+        "es": "—Más aún: todos los llamados 'bienes' corrompen al alma y la arrancan de la filosofía: la belleza, la riqueza, la fuerza corporal, las conexiones políticas influyentes y todo lo afín a estas cosas. Ya cuentas con una pauta de aquello a lo que me refiero.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0122",
+      "stephanus": "491c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, aunque con gusto escucharía una exposición más minuciosa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0123",
+      "stephanus": "491c",
+      "kind": "speech",
+      "text": {
+        "es": "—Aprehéndelo entonces correctamente de modo general, y te resultará luminoso y dejarán de parecerte insólitas las cosas que he dicho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0124",
+      "stephanus": "491c",
+      "kind": "speech",
+      "text": {
+        "es": "—No entiendo qué es lo que me pides.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0125",
+      "stephanus": "491d",
+      "kind": "speech",
+      "text": {
+        "es": "—Toda semilla vegetal o retoño animal, si no encuentra el alimento, la estación y el lugar que conviene en cada caso, sabemos que, cuanto más fuerte, tanto más sufre la falta de lo que requiere; pues sin duda lo malo es más opuesto a lo bueno que a lo no bueno.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0126",
+      "stephanus": "491d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo no habría de ser así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0127",
+      "stephanus": "491d",
+      "kind": "speech",
+      "text": {
+        "es": "—Hay razón, entonces, pienso, en que la mejor naturaleza, sometida a una nutrición que no le corresponde, salga peor parada que una mediocre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0128",
+      "stephanus": "491d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, hay razón en ello.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0129",
+      "stephanus": "491e",
+      "kind": "speech",
+      "text": {
+        "es": "—Digamos, por consiguiente, Adimanto, que las almas bien dotadas, si tropiezan con una mala educación, se vuelven especialmente malas. ¿O piensas acaso que los mayores delitos y la más extrema maldad provienen de una naturaleza mediocre, y no de una vigorosa que ha sido corrompida por la nutrición, y que la naturaleza débil es alguna vez causa de grandes bienes o grandes males?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0130",
+      "stephanus": "491e",
+      "kind": "speech",
+      "text": {
+        "es": "—No; es así como dices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0131",
+      "stephanus": "492a",
+      "kind": "speech",
+      "text": {
+        "es": "—En consecuencia, si la naturaleza filosófica que nosotros planteábamos se encuentra con la enseñanza adecuada es necesario que crezca hasta acceder íntegramente a la excelencia; pero si tras ser sembrada y plantada crece en un sitio inadecuado, será todo lo contrario, a menos que algún dios acuda en su auxilio. ¿O tú crees, lo que la mayoría, a saber, que hay algunos jóvenes corrompidos por sofistas y algunos sofistas que corrompen privadamente de modo digno de mención, y no que quienes dicen tales cosas son ellos mismos los más grandes sofistas, que educan de la manera más completa y conforman a su antojo tanto a jóvenes como a ancianos, a hombres como a mujeres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0132",
+      "stephanus": "492b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y cuándo sucede eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0133",
+      "stephanus": "492b",
+      "kind": "speech",
+      "text": {
+        "es": "—Cuando la multitud se sienta junta, apiñada en la asamblea, en los tribunales, en los teatros y campamentos o en cualquier otra reunión pública, y tumultuosamente censura algunas palabras o hechos y elogia otras, excediéndose en cada caso y dando gritos y aplaudiendo, de lo cual hacen eco las piedras y el lugar en que se hallan, duplicando el fragor de la censura y del elogio. En semejante caso, ¿cuál piensas que será su ánimo, por así decirlo? ¿Qué educación privada resistirá a ello sin caer anonadada por semejante censura o elogio y sin ser arrastrada por la corriente hasta donde ésta la lleve, de modo que termine diciendo que son bellas o feas, las mismas cosas que aquéllos dicen, así como ocupándose de lo mismo que ellos y siendo de su misma índole?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0134",
+      "stephanus": "492d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es de toda necesidad, Sócrates.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0135",
+      "stephanus": "492d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero no hemos hablado aún de la mayor coacción.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0136",
+      "stephanus": "492d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cuál es?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0137",
+      "stephanus": "492d",
+      "kind": "speech",
+      "text": {
+        "es": "—Aquella que imponen estos educadores y sofistas si no pueden persuadir con palabras. ¿O no sabes que al que no pueden convencer lo castigan con privación de derechos políticos, multas y pena de muerte?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0138",
+      "stephanus": "492d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que lo sé!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0139",
+      "stephanus": "492d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué otro sofista y qué discursos privados opuestos a ellos piensas que podrán aspirar a prevalecer?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0140",
+      "stephanus": "492e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que ninguno.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0141",
+      "stephanus": "492e",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente que no, ya que el intentarlo es pura locura. Pues no hay ni ha habido ni habrá un carácter diferente en cuanto a excelencia que haya sido educado con una educación diferente a la de ellos. Hablo de un carácter humano, amigo mío, ya que del divino hay que descartar la mención, como dice el proverbio. Debes saber bien, en efecto, que, si algo se salva y llega a ser como se debe, en la actual constitución de la organización política, no hablarás mal si dices que se salva por una intervención divina.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0142",
+      "stephanus": "493a",
+      "kind": "speech",
+      "text": {
+        "es": "—Creo que no es de otro modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0143",
+      "stephanus": "493a",
+      "kind": "speech",
+      "text": {
+        "es": "—Juzga aún, además de esas cosas, la siguiente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0144",
+      "stephanus": "493a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0145",
+      "stephanus": "493a",
+      "kind": "speech",
+      "text": {
+        "es": "—Cada uno de los que por un salario educan privadamente, a los cuales aquéllos llaman 'sofistas' y tienen por sus competidores, no enseñan otra cosa que las convicciones que la multitud se forja cuando se congrega, y a lo cual los sofistas denominan 'sabiduría'. Es como si alguien, puesto a criar a una bestia grande y fuerte, conociera sus impulsos y deseos, cómo debería acercársele y cómo tocarla, cuándo y por qué se vuelve más feroz o más mansa, qué sonidos acostumbra a emitir en qué ocasiones y cuáles sonidos emitidos por otro, a su vez, la tornan mansa o salvaje; y tras aprender todas estas cosas durante largo tiempo en su compañía, diera a esto el nombre de 'sabiduría', lo sistematizara como arte y se abocara a su enseñanza, sin saber verdaderamente nada de lo que en estas convicciones y apetitos es bello o feo o bueno o malo o justo o injusto; y aplicara todos estos términos a las opiniones del gran animal, denominando 'buenas' a las cosas que a éste regocijan y 'malas' a las que lo oprimen, aunque no pudiese dar cuenta de ellas, sino que llamara 'bellas' y 'justas' a las cosas necesarias, sin advertir en cuánto difiere realmente la naturaleza de lo necesario de la de lo bueno, ni ser capaz de mostrarlo. ¿No te parece, por Zeus, que semejante educador es insólito?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0146",
+      "stephanus": "493b",
+      "kind": "speech",
+      "text": {
+        "es": "—A mí sí me parece.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0147",
+      "stephanus": "493b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y acaso te parece que difiere en algo de éste aquel que tiene por sabiduría la aprehensión de los impulsos y gustos de la abigarrada multitud reunida, ya sea respecto de pintura, ya de música, ya ciertamente de política? Porque, en efecto, si alguien se dirige a ellos para someterles a juicio una poesía o cualquier otra obra de arte o servicio público, convirtiendo a la muchedumbre en autoridad para sí mismo más allá de lo necesario, la llamada necesidad de Diomedes lo forzará a hacer lo que aquélla apruebe. En cuanto a que estas cosas son verdaderamente buenas y bellas, ¿has oído que alguna vez dieran cuenta de ellas de un modo no ridículo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0148",
+      "stephanus": "493e",
+      "kind": "speech",
+      "text": {
+        "es": "—No, y pienso que tampoco lo oiré.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0149",
+      "stephanus": "493e",
+      "kind": "speech",
+      "text": {
+        "es": "—Teniendo todo esto en mente, recuerda lo anterior: ¿hay modo de que la muchedumbre soporte o admita que existe lo Bello en sí, no la multiplicidad de cosas bellas, y cada cosa en sí, no cada multiplicidad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0150",
+      "stephanus": "494a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni en lo más mínimo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0151",
+      "stephanus": "494a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Es imposible, entonces, que la multitud sea filósofa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0152",
+      "stephanus": "494a",
+      "kind": "speech",
+      "text": {
+        "es": "—Imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0153",
+      "stephanus": "494a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente es forzoso que los que filosofan sean criticados por ella.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0154",
+      "stephanus": "494a",
+      "kind": "speech",
+      "text": {
+        "es": "—Forzoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0155",
+      "stephanus": "494a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y también por aquellos individuos que se asocian con la masa y anhelan complacerla.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0156",
+      "stephanus": "494a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es evidente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0157",
+      "stephanus": "494a",
+      "kind": "speech",
+      "text": {
+        "es": "—A partir de lo dicho ¿ves alguna salvación para el alma filosófica, de modo que permanezca en su quehacer hasta alcanzar la meta? Recapacita sobre lo anterior, pues hemos convenido en que son propias del filósofo la facilidad para aprender, la memoria, la valentía y la grandeza de espíritu.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0158",
+      "stephanus": "494b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0159",
+      "stephanus": "494b",
+      "kind": "speech",
+      "text": {
+        "es": "—Un hombre así será ya desde niño el primero entre todos, especialmente si el cuerpo crece de modo similar al alma.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0160",
+      "stephanus": "494b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0161",
+      "stephanus": "494b",
+      "kind": "speech",
+      "text": {
+        "es": "—En ese caso, pienso, cuando llegue a ser mayor, sus parientes y conciudadanos querrán emplearlo para sus propios asuntos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0162",
+      "stephanus": "494b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que sí!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0163",
+      "stephanus": "494c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y se pondrán a su disposición, rogándole y honrándolo, tratando de conquistarlo de antemano y adulando anticipadamente el poder que va a tener.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0164",
+      "stephanus": "494c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es lo que sucede habitualmente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0165",
+      "stephanus": "494c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué piensas que hará semejante hombre en semejantes circunstancias, sobre todo si se da el caso de que pertenece a un Estado importante, y en él es rico y noble, y además buen mozo y esbelto? ¿No se colmará de esperanzas vanas, estimando que va a ser capaz de gobernar a griegos y a bárbaros, y además exaltándose a sí mismo en su arrogancia, lleno de ínfulas y de vacía insensata vanidad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0166",
+      "stephanus": "494d",
+      "kind": "speech",
+      "text": {
+        "es": "—Seguramente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0167",
+      "stephanus": "494d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si al que está así dispuesto se acerca gentilmente alguien y le dice la verdad, a saber, que no tiene inteligencia sino que ésta le falta, y que no la podrá adquirir sin trabajar como un esclavo por su posesión, ¿piensas que le será fácil prestar oídos en medio de tamaños males?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0168",
+      "stephanus": "494d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni con mucho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0169",
+      "stephanus": "494d",
+      "kind": "speech",
+      "text": {
+        "es": "—Incluso si un individuo, en razón de su buen natural y su afinidad con tales palabras, de algún modo las capta y se vuelve y deja arrastrar hacia la filosofía, ¿qué pensaremos que harán aquéllos al estimar que pierden sus servicios y su amistad? ¿No habrá acción que no realicen ni palabras que no le digan para que no se deje persuadir; y en cuanto al que intenta persuadirlo, tratarán de que no sea capaz de ello, conspirando privadamente contra él e iniciándole procesos judiciales en público?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0170",
+      "stephanus": "495a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es forzoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0171",
+      "stephanus": "495a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Puede semejante hombre filosofar?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0172",
+      "stephanus": "495a",
+      "kind": "speech",
+      "text": {
+        "es": "—No, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0173",
+      "stephanus": "495a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Ves ahora que no hablábamos mal cuando decíamos que aquellas cualidades de las que se compone la naturaleza filosófica, si se nutren en el mal, son de algún modo causa del deterioro de su ocupación, y así pasa con los llamados 'bienes', las riquezas y todos los recursos con que está provisto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0174",
+      "stephanus": "495a",
+      "kind": "speech",
+      "text": {
+        "es": "—No, hablábamos correctamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0175",
+      "stephanus": "495b",
+      "kind": "speech",
+      "text": {
+        "es": "—De tal índole y de tal dimensión, mi admirable amigo, es la ruina y corrupción de la mejor naturaleza respecto de la ocupación más excelente, siendo por lo demás rara tal naturaleza, según hemos dicho. Y de estos hombres proceden los que causan los peores males a los Estados y a los particulares, y también los que les hacen los más grandes bienes, si la corriente los favorece. En cambio, jamás una naturaleza pequeña hace algo grande a nadie, sea a un Estado o a un particular.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0176",
+      "stephanus": "495b",
+      "kind": "speech",
+      "text": {
+        "es": "—Es la pura verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0177",
+      "stephanus": "495c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, al fracasar así aquellos a los cuales conviene al máximo, dejan a la filosofía solitaria y soltera, y ellos mismos viven una vida que no es conveniente ni verdadera, mientras la filosofía, como una huérfana sin parientes, es asaltada por gente indigna que la deshonra y le formula reproches como los que dices le hacen los que declaran que, de quienes toman contacto con ella, unos no valen nada y otros son merecedores de muchos males.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0178",
+      "stephanus": "495c",
+      "kind": "speech",
+      "text": {
+        "es": "—Precisamente eso es lo que se dice.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0179",
+      "stephanus": "495d",
+      "kind": "speech",
+      "text": {
+        "es": "—Y se dice razonablemente. Pues al ver otros pordioseros que la plaza ha quedado vacante pero colmada de bellas palabras y apariencias, tal como los que, huyendo de la cárcel se refugian en un templo, también éstos escapan desde las técnicas hacia la filosofía, y suelen ser los más hábiles en ésas sus tecnicillas. Porque la filosofía, incluso hallándose así maltratada, retiene una reputación grandiosa en comparación con las otras técnicas, y a esto aspira mucha gente dotada de naturalezas incompletas; la cual, tal como tiene el cuerpo arruinado por las técnicas artesanales, así también se halla con el alma embotada y enervada por los trabajos manuales. ¿No es esto forzoso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0180",
+      "stephanus": "495e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que sí!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0181",
+      "stephanus": "495e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y te parece que se ven diferentes en algo de un herrero bajo y calvo que ha hecho dinero y, recién liberado de sus cadenas, se lava en el baño y se pone un manto nuevo, presentándose como novio para desposar a la hija de su amo debido a la pobreza y soledad de ésta?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0182",
+      "stephanus": "496a",
+      "kind": "speech",
+      "text": {
+        "es": "—No difieren en nada.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0183",
+      "stephanus": "496a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué clase de descendencia tendrá semejante matrimonio? ¿No será bastarda y de baja estofa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0184",
+      "stephanus": "496a",
+      "kind": "speech",
+      "text": {
+        "es": "—Es de toda necesidad que así sea.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0185",
+      "stephanus": "496a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y cuando hombres indignos de ser educados se acercan a la filosofía y tratan con ella de un modo no acorde con su dignidad, ¿qué clase de conceptos y de opiniones diremos que procrean? ¿No serán lo que podemos entender por 'sofismas', carentes de nobleza y de inteligencia verdadera?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0186",
+      "stephanus": "496a",
+      "kind": "speech",
+      "text": {
+        "es": "—Totalmente de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0187",
+      "stephanus": "496b",
+      "kind": "speech",
+      "text": {
+        "es": "—Quedan entonces, Adimanto, muy pocos que puedan tratar con la filosofía de manera digna: alguno fogueado en el exilio, de carácter noble y bien educado, que, a falta de quienes lo perviertan, permanece en la filosofía; o bien un alma grande que nace en un Estado pequeño y desprecia, teniéndolos en menos, los asuntos políticos; o bien algunos pocos bien dotados naturalmente que con justicia desdeñan los demás oficios y se acercan a la filosofía. También el freno de nuestro amigo Teages puede retener a otros dentro de la filosofía, ya que, dándose todas las demás condiciones como para que desertara de ella, a Teages lo retuvo el cuidado de su cuerpo enfermo, que lo mantuvo apartado de la política. En cuanto a mi signo demoníaco, no vale la pena hablar, pues antes de mí apenas ha habido algún caso, o ninguno. Y los que han sido de estos pocos que hemos enumerado y han gustado el regocijo y la felicidad de tal posesión, pueden percibir suficientemente la locura de la muchedumbre, así como que no hay nada sano —por así decirlo— en la actividad política, y que no cuentan con ningún aliado con el cual puedan acudir en socorro de las causas justas y conservar la vida, sino que, como un hombre que ha caído entre fieras, no están dispuestos a unírseles en el daño ni son capaces de hacer frente a su furia salvaje, y que, antes de prestar algún servicio al Estado o a los amigos, han de perecer sin resultar de provecho para sí mismos o para los demás. Quien reflexiona sobre todas estas cosas se queda quieto y se ocupa tan sólo de sus propias cosas, como alguien que se coloca junto a un muro en medio de una tormenta para protegerse del polvo y de la lluvia que trae el viento; y, mirando a los demás desbordados por la inmoralidad, se da por contento con que de algún modo él pueda estar limpio de injusticia y sacrilegios a través de su vida aquí abajo y abandonarla favorablemente dispuesto y alegre y con una bella esperanza.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0188",
+      "stephanus": "497a",
+      "kind": "speech",
+      "text": {
+        "es": "—Si así se desembaraza de ella —dijo Adimanto— no será insignificante lo que ha logrado.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0189",
+      "stephanus": "497a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero tampoco muy importante —repuse yo—, al no hallar la organización política adecuada, pues en una apropiada crecerá más y se pondrá a salvo a sí mismo particularmente y al Estado en común. Pero en lo que hace a la filosofía, me parece que hemos hablado razonablemente sobre los motivos de que se la calumnie y sobre que esto es injusto, si no tienes otra cosa que decir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0190",
+      "stephanus": "497a",
+      "kind": "speech",
+      "text": {
+        "es": "—Nada acerca de eso, pero ¿cuál de las organizaciones políticas actuales dirías que es adecuada para la filosofía?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0191",
+      "stephanus": "497b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ninguna, y yo me quejo de que ninguna de las constituciones políticas de hoy en día sea digna de la naturaleza filosófica; por eso se desvía y se altera; tal como una semilla exótica sembrada en tierra extraña se desnaturaliza, sometida por ésta, y suele adaptarse a las especies vernáculas, así tampoco esta índole filosófica conserva su poder, sino que degenera en un carácter extraño. Pero si da con la mejor organización política, acorde con que él mismo es el mejor, resultará manifiesto que era algo realmente divino, mientras todo lo demás —naturaleza y ocupaciones—, humano. Pero, después de esto, es obvio que preguntarás cuál es esta organización política mejor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0192",
+      "stephanus": "497c",
+      "kind": "speech",
+      "text": {
+        "es": "—Te equivocas, pues no iba a preguntarte eso, sino si es ésta la que hemos descrito al fundar nuestro Estado, u otra.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0193",
+      "stephanus": "497c",
+      "kind": "speech",
+      "text": {
+        "es": "—En otros sentidos es ésta; pero queda un punto al cual nos hemos referido ya: que debería haber siempre en el Estado alguien que tuviera la misma fórmula de la organización política que has tenido tú, el legislador, al implantar las leyes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0194",
+      "stephanus": "497d",
+      "kind": "speech",
+      "text": {
+        "es": "—Nos hemos referido a eso, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0195",
+      "stephanus": "497d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero no quedó suficientemente esclarecido por el temor a vuestros ataques, cuando mostrasteis que la demostración de eso era larga y difícil; aparte de que lo que restaba exponer no era en absoluto fácil.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0196",
+      "stephanus": "497d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué se trata?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0197",
+      "stephanus": "497d",
+      "kind": "speech",
+      "text": {
+        "es": "—Del modo en que un Estado ha de tratar a la filosofía para no sucumbir; pues todas las cosas grandes son arriesgadas, y las hermosas realmente difíciles, como se dice.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0198",
+      "stephanus": "497e",
+      "kind": "speech",
+      "text": {
+        "es": "—No obstante, debes completar la demostración aclarando este punto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0199",
+      "stephanus": "497e",
+      "kind": "speech",
+      "text": {
+        "es": "—No me lo impedirá el no quererlo, sino el no poder. Pero tú, que estás presente, verás al menos mi celo. Observa entonces cuán ardientemente y de qué modo más aventurado voy a decir una vez más que el Estado debe abordar la práctica de la filosofía de una manera opuesta a la actual.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0200",
+      "stephanus": "497e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0201",
+      "stephanus": "498a",
+      "kind": "speech",
+      "text": {
+        "es": "—En la actualidad la abordan adolescentes que apenas han salido de la niñez, y que, en el intervalo anterior al cuidado de la casa y de los negocios, cuando apenas se han aproximado a la parte más difícil de la filosofía —la concerniente a los conceptos abstractos—, la dejan de lado, pasando por filósofos hechos; de ahí en adelante están dispuestos a convertirse en oyentes de otros que sean activos en filosofía, cuando son invitados, con lo cual creen hacer gran cosa, pensando que deben practicarla como algo accesorio. Y a excepción de unos pocos, cerca de la vejez se apagan mucho más que el sol de Heráclito, por cuanto no se encienden nuevamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0202",
+      "stephanus": "498b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué debe hacerse?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0203",
+      "stephanus": "498b",
+      "kind": "speech",
+      "text": {
+        "es": "—Todo lo contrario; cuando son niños y adolescentes, ha de administrárseles una educación y una filosofía propias de la niñez y de la adolescencia, y, mientras sus cuerpos se desarrollan para alcanzar la virilidad, deben cuidarlos bien, procurando así que presten un servicio a la filosofía. Y al crecer en edad, cuando el alma comienza a alcanzar la madurez, hay que intensificar los ejercicios que corresponden a ésta; y, cuando cede la fuerza corporal y con ello quedan excluidos de las tareas políticas y militares, dejarlos pacer libremente y no ocuparse de otra cosa que de la filosofía, a no ser de forma accesoria, si es que han de vivir dichosamente y, tras morir, han de coronar allá la vida que han vivido con un adecuado destino.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0204",
+      "stephanus": "498c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es verdad, Sócrates, creo que hablas con ardor; pienso, sin embargo, que muchos de los que te escuchan, comenzando por Trasímaco, serán más ardorosos aún al oponérsete y no se dejarán persuadir en lo más mínimo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0205",
+      "stephanus": "498d",
+      "kind": "speech",
+      "text": {
+        "es": "—No nos indispongas a mí y a Trasímaco, cuando acabamos de hacernos amigos, sin haber sido antes enemigos; pues no hemos de descuidar ningún esfuerzo hasta que lo persuadamos a él y a los demás, o les sirvamos en algo en otra vida, si, al volver a nacer, se encuentran en conversaciones de esta índole.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0206",
+      "stephanus": "498d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Estás hablando de un breve lapso de tiempo!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0207",
+      "stephanus": "498d",
+      "kind": "speech",
+      "text": {
+        "es": "—No es nada, al menos si se lo compara con la totalidad de los tiempos. De todos modos, que la multitud no se deje persuadir por lo que decimos no es nada sorprendente, pues jamás ha visto que se haya generado lo que ahora hemos expresado, sino más bien ha oído ciertas frases haciendo consonancia entre sí a propósito, no accidentalmente, como me acaba de ocurrir. Pero en cuanto a ver algún hombre que se halle en equilibrio y consonancia con la excelencia, de palabra y acto, tan perfectamente como sea posible, gobernando en un Estado de su misma índole, nunca ha visto uno ni muchos. ¿O piensas que sí?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0208",
+      "stephanus": "499a",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0209",
+      "stephanus": "499a",
+      "kind": "speech",
+      "text": {
+        "es": "—Tampoco esa multitud ha prestado suficientemente oídos, bienaventurado amigo, a discusiones bellas y señoriales en las cuales se busque seriamente la verdad por todos los medios con el fin de conocerla, y en las cuales se salude desde lejos esas sutilezas y argucias capciosas que no tienden a otra cosa que a ganarse una reputación y a promover discordia en los tribunales y en las conversaciones particulares.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0210",
+      "stephanus": "499b",
+      "kind": "speech",
+      "text": {
+        "es": "—Tampoco eso, efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0211",
+      "stephanus": "499b",
+      "kind": "speech",
+      "text": {
+        "es": "—Fue esto lo que teníamos a la vista y preveíamos cuando dijimos, aunque no sin temor y forzados por la verdad, que ningún Estado, ninguna constitución política, ni siquiera un hombre, pueden alguna vez llegar a ser perfectos, antes de que estos pocos filósofos, que ahora son considerados no malvados pero sí inútiles, por un golpe de fortuna sean obligados, quiéranlo o no, a encargarse del Estado, y el Estado obligado a obedecerles; o bien antes de que un verdadero amor por la verdadera filosofía se encienda, por alguna inspiración divina, en los hijos de los que ahora gobiernan o en éstos mismos. Que la realización de una de estas dos cosas, o de las dos, sea imposible, afirmo que no hay razón para suponerlo; pues si fuera así, estaríamos haciendo justamente el ridículo, por estar construyendo castillos en el aire. ¿No es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0212",
+      "stephanus": "499d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0213",
+      "stephanus": "499d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, si se ha dado el caso de que alguna necesidad haya obligado a los más valiosos filósofos, en la infinitud del tiempo pasado, a ocuparse del Estado, o el caso de que se los obligue actualmente en alguna región bárbara lejos de nuestra vista, o el de que se los obligue más adelante, estoy dispuesto a sostener con mi argumento que la organización política descrita ha existido, existe y llegará a existir toda vez que esta Musa tome el control del Estado. Pues no es algo imposible que suceda, ni hablamos de cosas imposibles; en cuanto a que son difíciles, lo reconocemos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0214",
+      "stephanus": "499e",
+      "kind": "speech",
+      "text": {
+        "es": "—También a mí me parece así.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0215",
+      "stephanus": "499e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero dirás que a la muchedumbre no le parece lo mismo, ¿verdad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0216",
+      "stephanus": "499e",
+      "kind": "speech",
+      "text": {
+        "es": "—Probablemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0217",
+      "stephanus": "499e",
+      "kind": "speech",
+      "text": {
+        "es": "—Mi dichoso amigo, no condenes de tal modo a la muchedumbre. Ella cambiará de opinión si, en lugar de discutirle con argucias, la exhortas a deponer su falsa imagen respecto del amor al saber, mostrándole cómo son los que dices que son filósofos y definiéndole, como hace un momento, la naturaleza de ellos y su ocupación, para que no crean que les hablas de los que toman por filósofos. Y si los contemplan de ese modo, podrás decir que han adoptado otra opinión y que responden en forma distinta. ¿O piensas que se irritará contra alguien que no se irrita o será maliciosa con quien nada malicia, cuando ella misma es mansa y nada maliciosa? Como veo lo que vas a decir, declaro que una naturaleza tan difícil, pienso, se halla en algunos pocos, no en la multitud.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0218",
+      "stephanus": "500a",
+      "kind": "speech",
+      "text": {
+        "es": "—No te preocupes, que doy mi asentimiento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0219",
+      "stephanus": "500b",
+      "kind": "speech",
+      "text": {
+        "es": "—También darás tu asentimiento a esto: que, si la multitud está mal dispuesta con la filosofía, los culpables son aquellos intrusos que han irrumpido en ella de modo desordenado e indebido, vilipendiándose y enemistándose unos con otros y reduciendo siempre sus discursos a cuestiones personales, comportándose del modo menos acorde con la filosofía.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0220",
+      "stephanus": "500b",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0221",
+      "stephanus": "500b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda, Adimanto, cuando se tiene verdaderamente dirigido el pensamiento hacia las cosas que son, no queda tiempo para descender la mirada hacia los asuntos humanos y ponerse en ellos a pelear, colmado de envidia y hostilidad; sino que, mirando y contemplando las cosas que están bien dispuestas y se comportan siempre del mismo modo, sin sufrir ni cometer injusticia unas a otras, conservándose todas en orden y conforme a la razón, tal hombre las imita y se asemeja a ellas al máximo. ¿O piensas que hay algún mecanismo por el cual aquel que convive con lo que admira no lo imite?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0222",
+      "stephanus": "500d",
+      "kind": "speech",
+      "text": {
+        "es": "—Es imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0223",
+      "stephanus": "500d",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, en cuanto el filósofo convive con lo que es divino y ordenado se vuelve él mismo ordenado y divino, en la medida que esto es posible al hombre. Pero la calumnia abunda por doquier.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0224",
+      "stephanus": "500d",
+      "kind": "speech",
+      "text": {
+        "es": "—Del todo de acuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0225",
+      "stephanus": "500d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, si algo lo fuerza a ocuparse de implantar en las costumbres privadas y públicas de los hombres lo que él observa allá, en lugar de limitarse a formarse a sí mismo, ¿piensas que se convertirá en un mal artesano de la moderación, de la justicia y de la excelencia cívica en general?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0226",
+      "stephanus": "500e",
+      "kind": "speech",
+      "text": {
+        "es": "—De ningún modo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0227",
+      "stephanus": "500e",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero si la muchedumbre percibe que le decimos la verdad respecto de los filósofos, ¿continuará irritándose contra ellos y desconfiando de nosotros cuando decimos que un Estado de ningún modo será feliz alguna vez, a no ser que su plano esté diseñado por los dibujantes que recurren al modelo divino?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0228",
+      "stephanus": "501a",
+      "kind": "speech",
+      "text": {
+        "es": "—Si lo percibe, cesará de irritarse. Pero ¿de qué modo entiendes ese plano?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0229",
+      "stephanus": "501a",
+      "kind": "speech",
+      "text": {
+        "es": "—Tomarán el Estado y los rasgos actuales de los hombres como una tableta pintada, y primeramente la borrarán, lo cual no es fácil. En todo caso, sabes que ya en esto diferirán de los demás legisladores, pues no estarán dispuestos a tocar al Estado o a un particular ni a promulgar leyes, si no los reciben antes limpios o los han limpiado antes ellos mismos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0230",
+      "stephanus": "501a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y harán bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0231",
+      "stephanus": "501a",
+      "kind": "speech",
+      "text": {
+        "es": "—Después de eso, ¿no piensas que bosquejarán el esquema de la organización política?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0232",
+      "stephanus": "501a",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0233",
+      "stephanus": "501b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y luego, pienso, realizarán la obra dirigiendo a menudo la mirada en cada una de ambas direcciones: hacia lo que por naturaleza es Justo, Bello, Moderado y todo lo de esa índole, y, a su vez, hacia aquello que producen en los hombres, combinando y mezclando distintas ocupaciones para obtener lo propio de los hombres, en lo cual tomarán como muestra aquello que, cuando aparece en los hombres, Homero lo llama 'divino' y 'propio de los dioses'.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0234",
+      "stephanus": "501c",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0235",
+      "stephanus": "501c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y tanto borrarán como volverán a pintar, pienso, hasta que hayan hecho los rasgos humanos agradables a los dioses, en la medida de lo posible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0236",
+      "stephanus": "501c",
+      "kind": "speech",
+      "text": {
+        "es": "—Una pintura así llegaría a ser hermosísima.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0237",
+      "stephanus": "501c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien; en cuanto a aquellos que decías que se pondrán en orden de combate para avanzar sobre nosotros, ¿no los persuadiremos de algún modo de que semejante pintor de organizaciones políticas es el filósofo que les alabábamos entonces, cuando los irritaba que pusiéramos en sus manos el Estado? ¿No se amansarán, más bien, al escucharnos ahora?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0238",
+      "stephanus": "501d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin la menor duda; al menos, si están en su sano juicio.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0239",
+      "stephanus": "501d",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, ¿qué es lo que podrán discutirnos? ¿Acaso que los filósofos no están enamorados de lo que es y de la verdad?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0240",
+      "stephanus": "501d",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso sería insólito.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0241",
+      "stephanus": "501d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿O que su naturaleza, tal como la hemos descrito, no es propia de lo mejor?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0242",
+      "stephanus": "501d",
+      "kind": "speech",
+      "text": {
+        "es": "—Tampoco eso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0243",
+      "stephanus": "501e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y qué otra cosa? ¿Que semejante naturaleza, si da con las ocupaciones adecuadas, no llegará a ser perfectamente buena y filosófica, si es que alguna puede serlo? ¿O dirán que más bien llegarán a serlo aquellos que nosotros hemos excluido?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0244",
+      "stephanus": "501e",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Claro que no!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0245",
+      "stephanus": "501e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Se enfurecerán todavía al oírnos decir que, antes que la raza de los filósofos obtenga el control del Estado, no cesarán los males para el Estado y para los ciudadanos, ni alcanzará su realización en los hechos aquella organización política que míticamente hemos ideado en palabras?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0246",
+      "stephanus": "502a",
+      "kind": "speech",
+      "text": {
+        "es": "—Probablemente menos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0247",
+      "stephanus": "502a",
+      "kind": "speech",
+      "text": {
+        "es": "—En lugar de decir 'menos', ¿no prefieres que los demos por absolutamente amansados y persuadidos, para que, avergonzados, si no por otra cosa, estén de acuerdo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0248",
+      "stephanus": "502a",
+      "kind": "speech",
+      "text": {
+        "es": "—Con mucho lo prefiero.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0249",
+      "stephanus": "502a",
+      "kind": "speech",
+      "text": {
+        "es": "—Tengámoslos, por consiguiente, por persuadidos. ¿Y se podrá discutir alegando que no puede darse el caso de que nazcan hijos de reyes o de gobernantes que sean filósofos por naturaleza?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0250",
+      "stephanus": "502a",
+      "kind": "speech",
+      "text": {
+        "es": "—Nadie lo haría.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0251",
+      "stephanus": "502a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y alguien podrá decir que, aunque nazcan así, es forzoso que se corrompan? Que es difícil salvarse, lo hemos acordado. Pero que en la totalidad de los tiempos no haya uno solo que se salve ¿lo discutiría alguien?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0252",
+      "stephanus": "502b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo podría discutirlo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0253",
+      "stephanus": "502b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, sería suficiente que hubiera uno solo que contara con un Estado que lo obedeciese, para que se llevara a la realidad todo lo que actualmente resulta increíble.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0254",
+      "stephanus": "502b",
+      "kind": "speech",
+      "text": {
+        "es": "—Será suficiente, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0255",
+      "stephanus": "502b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y si se da el caso de que un gobernante implante las leyes e instituciones que hemos descrito, sin duda no será imposible que los ciudadanos estén dispuestos a hacer su parte.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0256",
+      "stephanus": "502c",
+      "kind": "speech",
+      "text": {
+        "es": "—En ningún respecto será imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0257",
+      "stephanus": "502c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y lo que a nosotros nos parece ¿será asombroso e imposible que les parezca también a otros?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0258",
+      "stephanus": "502c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por mi parte no lo creo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0259",
+      "stephanus": "502c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por lo demás, que estas cosas, en caso de que sean posibles, son las mejores, pienso que ya lo hemos mostrado suficientemente en los argumentos precedentes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0260",
+      "stephanus": "502c",
+      "kind": "speech",
+      "text": {
+        "es": "—Suficientemente, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0261",
+      "stephanus": "502c",
+      "kind": "speech",
+      "text": {
+        "es": "—De allí se sigue ahora, según me parece, que lo que decimos respecto de la legislación, si es realizable, es lo mejor, y es difícil de realizarse, pero al menos no imposible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0262",
+      "stephanus": "502d",
+      "kind": "speech",
+      "text": {
+        "es": "—Se sigue eso, efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0263",
+      "stephanus": "502d",
+      "kind": "speech",
+      "text": {
+        "es": "—Una vez arribados penosamente a esta meta, queda por decir, a continuación, de qué modo contaremos con los que preserven la organización política, por medio de qué estudios y ocupaciones se formarán y a qué edad se aplicarán a cada uno de ellos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0264",
+      "stephanus": "502d",
+      "kind": "speech",
+      "text": {
+        "es": "—Digámoslo, entonces.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0265",
+      "stephanus": "502d",
+      "kind": "speech",
+      "text": {
+        "es": "—No me ha resultado astuto en nada, pues, haber dejado anteriormente de lado dificultades como la de la posesión de las mujeres y de la procreación, así como la del establecimiento de los gobernantes, consciente como estaba de lo odioso y difícil que sería la verdad total; pero no por eso ha llegado menos la hora de hablar de ellas. Es cierto que en lo concerniente a las mujeres y a los niños hemos concluido, pero en cuanto a los gobernantes, es preciso retomar la cosa prácticamente desde el comienzo. Decíamos, si recuerdas, que debían mostrar su amor al Estado, poniéndose a prueba tanto en los placeres como en los dolores, sin rechazar esta convicción en medio de fatigas, temores o cualquier otra circunstancia. Antes bien, aquel que se muestre incapaz de ello debe ser excluido, mientras que quien emerja puro en todo sentido, como oro probado con el fuego, será erigido gobernante y colmado de dones y premios tanto durante la vida como tras la muerte. Aproximadamente esto es lo que había sido dicho en momentos en que el argumento se desvió y se cubrió de un velo, en el temor de vérnoslas con lo que ahora se presenta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0266",
+      "stephanus": "503b",
+      "kind": "speech",
+      "text": {
+        "es": "—Gran verdad; ahora lo recuerdo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0267",
+      "stephanus": "503b",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, amigo mío, yo titubeaba en aventurarme a hacer las audaces declaraciones que acabo de hacer; pero ahora hemos de ser más audaces y decir que es necesario que los guardianes perfectos sean filósofos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0268",
+      "stephanus": "503b",
+      "kind": "speech",
+      "text": {
+        "es": "—Seámoslo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0269",
+      "stephanus": "503b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, debes pensar cuán pocos es probable que sean. Porque las partes de la naturaleza que hemos dicho que tienen que estar presentes en ellos pocas veces confluyen en un mismo individuo, sino que la mayoría de las veces crecen dispersas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0270",
+      "stephanus": "503c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué quieres decir?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0271",
+      "stephanus": "503c",
+      "kind": "speech",
+      "text": {
+        "es": "—La facilidad de aprender, la memoria, la sagacidad, la vivacidad y cuantas cosas siguen a éstas, el vigor mental y la grandeza de espíritu, no suelen crecer, bien lo sabes, junto con una disposición a vivir de una manera ordenada, con calma y constancia; sino que quienes las poseen son llevados azarosamente por su vivacidad y se les escapa todo lo constante.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0272",
+      "stephanus": "503c",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0273",
+      "stephanus": "503d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por su parte, aquellos caracteres constantes y poco volubles, en los cuales uno depositaría más su confianza y que en la guerra difícilmente son movidos por los temores, frente a los estudios les sucede lo mismo: se mueven difícilmente y son duros de aprender, como aletargados, y se entregan al sueño y al bostezo cuando se les exige que trabajen en ese ámbito.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0274",
+      "stephanus": "503d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0275",
+      "stephanus": "503d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero afirmábamos que deben participar del modo más perfecto de ambos tipos de cualidades, sin lo cual no tendrán parte en la educación más perfecta ni en los honores y el gobierno.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0276",
+      "stephanus": "503d",
+      "kind": "speech",
+      "text": {
+        "es": "—Correcto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0277",
+      "stephanus": "503d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y no piensas que esa doble participación será rara?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0278",
+      "stephanus": "503d",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0279",
+      "stephanus": "503e",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, hay que probarlos en la forma en que decíamos en su momento, o sea, a través de fatigas, temores y placeres, y algo más que entonces pasamos por alto pero que ahora decimos: que es necesario que se ejerciten en muchos estudios, para examinar si son capaces de llegar a los estudios superiores o bien si se acobardan como aquellos a los que les pasa eso en las competiciones atléticas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0280",
+      "stephanus": "504a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente, ese examen conviene. Pero ¿cuáles son los estudios superiores a que te refieres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0281",
+      "stephanus": "504a",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda recuerdas que, tras haber dividido el alma en tres géneros, examinamos qué es la justicia, la moderación, la valentía y la sabiduría, lo que es cada una de ellas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0282",
+      "stephanus": "504a",
+      "kind": "speech",
+      "text": {
+        "es": "—Si no me acordase de eso, no sería justo que escuchara el resto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0283",
+      "stephanus": "504a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y lo dicho antes de eso?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0284",
+      "stephanus": "504a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0285",
+      "stephanus": "504b",
+      "kind": "speech",
+      "text": {
+        "es": "—Decíamos que para contemplarlas lo mejor posible necesitaríamos de un circuito más largo, tras recorrer el cual se nos aparecerían claras, aunque también podría aplicarse una demostración que se acoplara a lo ya dicho; vosotros habéis dicho que bastaba, y las cosas que entonces dije carecieron de precisión, según me pareció, pero si os agradó os toca decirlo a vosotros.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0286",
+      "stephanus": "504b",
+      "kind": "speech",
+      "text": {
+        "es": "—A mí me pareció medidamente razonable; y también a los demás.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0287",
+      "stephanus": "504c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero, mi amigo, una medida de estas cosas que abandona en algo lo real no llega a ser medidamente, pues nada imperfecto es medida de algo. Sin embargo, a veces a algunos les parece que han alcanzado lo suficiente y que no necesitan indagar más allá.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0288",
+      "stephanus": "504c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, con frecuencia les pasa eso a muchos por indolencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0289",
+      "stephanus": "504c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues precisamente eso es lo que menos conviene que suceda a un guardián del Estado y de sus leyes.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0290",
+      "stephanus": "504c",
+      "kind": "speech",
+      "text": {
+        "es": "—Naturalmente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0291",
+      "stephanus": "504d",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, amigo mío, es el circuito más largo el que debe recorrer, y no debe esforzarse menos en estudiar que en practicar gimnasia; si no, como acabamos de decir, jamás alcanzará la meta del estudio supremo, que es el que más le conviene.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0292",
+      "stephanus": "504d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿acaso —preguntó Adimanto— no son la justicia y lo demás que hemos descrito lo supremo, sino que hay algo todavía mayor?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0293",
+      "stephanus": "504d",
+      "kind": "speech",
+      "text": {
+        "es": "—Mayor, ciertamente —respondí—. Y de esas cosas mismas no debemos contemplar, como hasta ahora, un bosquejo, sino no pararnos hasta tener un cuadro acabado. ¿No sería ridículo acaso que pusiésemos todos nuestros esfuerzos en otras cosas de escaso valor, de modo de alcanzar en ellas la mayor precisión y pureza posibles, y que no consideráramos dignas de la máxima precisión justamente a las cosas supremas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0294",
+      "stephanus": "504e",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente; pero en cuanto a lo que llamas ‘el estudio supremo’ y en cuanto a lo que trata, ¿te parece que podemos dejar pasar sin preguntarte qué es?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0295",
+      "stephanus": "505a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por cierto que no, pero también tú puedes preguntar. Por lo demás, me has oído hablar de eso no pocas veces; y ahora, o bien no recuerdas, o bien te propones plantear cuestiones para perturbarme. Es esto más bien lo que creo, porque con frecuencia me has escuchado decir que la Idea del Bien es el objeto del estudio supremo, a partir de la cual las cosas justas y todas las demás se vuelven útiles y valiosas. Y bien sabes que estoy por hablar de ello y, además, que no lo conocemos suficientemente. Pero también sabes que, si no lo conocemos, por más que conociéramos todas las demás cosas, sin aquello nada nos sería de valor, así como si poseemos algo sin el Bien. ¿O crees que da ventaja poseer cualquier cosa si no es buena, y comprender todas las demás cosas sin el Bien y sin comprender nada bello y bueno?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0296",
+      "stephanus": "505b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Por Zeus que me parece que no!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0297",
+      "stephanus": "505b",
+      "kind": "speech",
+      "text": {
+        "es": "—En todo caso sabes que a la mayoría le parece que el Bien es el placer, mientras a los más exquisitos la inteligencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0298",
+      "stephanus": "505b",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0299",
+      "stephanus": "505b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y además, querido mío, los que piensan esto último no pueden mostrar qué clase de inteligencia, y se ven forzados a terminar por decir que es la inteligencia del bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0300",
+      "stephanus": "505b",
+      "kind": "speech",
+      "text": {
+        "es": "—Cierto, y resulta ridículo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0301",
+      "stephanus": "505c",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro, sobre todo si nos reprochan que no conocemos el bien y hablan como si a su vez lo supiesen; pues dicen que es la inteligencia del bien, como si comprendiéramos qué quieren decir cuando pronuncian la palabra ‘bien’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0302",
+      "stephanus": "505c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es muy verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0303",
+      "stephanus": "505c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Y los que definen el bien como el placer? ¿Acaso incurren menos en error que los otros? ¿No se ven forzados a reconocer que hay placeres malos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0304",
+      "stephanus": "505c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es forzoso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0305",
+      "stephanus": "505c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero en ese caso, pienso, les sucede que deben reconocer que las mismas cosas son buenas y malas. ¿No es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0306",
+      "stephanus": "505d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0307",
+      "stephanus": "505d",
+      "kind": "speech",
+      "text": {
+        "es": "—También es manifiesto que hay muchas y grandes disputas en torno a esto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0308",
+      "stephanus": "505d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0309",
+      "stephanus": "505d",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, es patente que, respecto de las cosas justas y bellas, muchos se atienen a las apariencias y, aunque no sean justas ni bellas, actúan y las adquieren como si lo fueran; respecto de las cosas buenas, en cambio, nadie se conforma con poseer apariencias, sino que buscan cosas reales y rechazan las que sólo parecen buenas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0310",
+      "stephanus": "505d",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0311",
+      "stephanus": "505e",
+      "kind": "speech",
+      "text": {
+        "es": "—Veamos. Lo que toda alma persigue y por lo cual hace todo, adivinando que existe, pero sumida en dificultades frente a eso y sin poder captar suficientemente qué es, ni recurrir a una sólida creencia como sucede respecto de otras cosas —que es lo que hace perder lo que puede haber en ellas de ventajoso—; algo de esa índole y magnitud, ¿diremos que debe permanecer en tinieblas para aquellos que son los mejores en el Estado y con los cuales hemos de llevar a cabo nuestros intentos?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0312",
+      "stephanus": "506a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni en lo más mínimo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0313",
+      "stephanus": "506a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso, en todo caso, que, si se desconoce en qué sentido las cosas justas y bellas del Estado son buenas, no sirve de mucho tener un guardián que ignore esto en ellas; y presiento que nadie conocerá adecuadamente las cosas justas y bellas antes de conocer en qué sentido son buenas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0314",
+      "stephanus": "506b",
+      "kind": "speech",
+      "text": {
+        "es": "—Presientes bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0315",
+      "stephanus": "506b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues entonces nuestro Estado estará perfectamente organizado, si el guardián que lo vigila es alguien que posee el conocimiento de estas cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0316",
+      "stephanus": "506b",
+      "kind": "speech",
+      "text": {
+        "es": "—Forzosamente. Pero tú, Sócrates, ¿qué dices que es el bien? ¿Ciencia, placer o alguna otra cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0317",
+      "stephanus": "506b",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Hombre! Ya veo bien claro que no te contentarás con lo que opinen otros acerca de eso.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0318",
+      "stephanus": "506c",
+      "kind": "speech",
+      "text": {
+        "es": "—Es que no me parece correcto, Sócrates, que haya que atenerse a las opiniones de otros y no a las de uno, tras haberse ocupado tanto tiempo de esas cosas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0319",
+      "stephanus": "506c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero ¿es que acaso te parece correcto decir acerca de ellas, como si se supiese, algo que no se sabe?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0320",
+      "stephanus": "506c",
+      "kind": "speech",
+      "text": {
+        "es": "—Como si se supiera de ningún modo, pero sí como quien está dispuesto a exponer, como su pensamiento, aquello que piensa.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0321",
+      "stephanus": "506c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien —dije—. ¿No percibes que las opiniones sin ciencia son todas lamentables? En el mejor de los casos, ciegas. ¿O te parece que los ciegos que hacen correctamente su camino se diferencian en algo de los que tienen opiniones verdaderas sin inteligencia?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0322",
+      "stephanus": "506d",
+      "kind": "speech",
+      "text": {
+        "es": "—En nada.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0323",
+      "stephanus": "506d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Quieres acaso contemplar cosas lamentables, ciegas y tortuosas, en lugar de oírlas de otros claras y bellas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0324",
+      "stephanus": "506d",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Por Zeus! —exclamó Glaucón—. No te retires, Sócrates, como si ya estuvieras al final. Pues nosotros estaremos satisfechos si, del modo en que discurriste acerca de la justicia, la moderación y lo demás, así discurres acerca del bien.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0325",
+      "stephanus": "506d",
+      "kind": "speech",
+      "text": {
+        "es": "—Por mi parte, yo también estaré más que satisfecho. Pero me temo que no sea capaz y que, por entusiasmarme, me desacredite y haga el ridículo. Pero dejemos por ahora, dichosos amigos, lo que es en sí mismo el Bien; pues me parece demasiado como para que el presente impulso permita en este momento alcanzar lo que juzgo de él. En cuanto a lo que parece un vástago del Bien y lo que más se le asemeja, en cambio, estoy dispuesto a hablar, si os place a vosotros; si no, dejamos la cuestión.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0326",
+      "stephanus": "507a",
+      "kind": "speech",
+      "text": {
+        "es": "—Habla, entonces, y nos debes para otra oportunidad el relato acerca del padre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0327",
+      "stephanus": "507a",
+      "kind": "speech",
+      "text": {
+        "es": "—Ojalá que yo pueda pagarlo y vosotros recibirlo; y no sólo los intereses, como ahora; por ahora recibid esta criatura y vástago del Bien en sí. Cuidaos que no os engañe involuntariamente de algún modo, rindiéndoos cuenta fraudulenta del interés.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0328",
+      "stephanus": "507a",
+      "kind": "speech",
+      "text": {
+        "es": "—Nos cuidaremos cuanto podamos; pero tú limítate a hablar.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0329",
+      "stephanus": "507a",
+      "kind": "speech",
+      "text": {
+        "es": "—Para eso debo estar de acuerdo con vosotros y recordaros lo que he dicho antes y a menudo hemos hablado en otras oportunidades.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0330",
+      "stephanus": "507b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Sobre qué?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0331",
+      "stephanus": "507b",
+      "kind": "speech",
+      "text": {
+        "es": "—Que hay muchas cosas bellas, muchas buenas, y así, con cada multiplicidad, decimos que existe y la distinguimos con el lenguaje.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0332",
+      "stephanus": "507b",
+      "kind": "speech",
+      "text": {
+        "es": "—Lo decimos, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0333",
+      "stephanus": "507b",
+      "kind": "speech",
+      "text": {
+        "es": "—También afirmamos que hay algo Bello en sí y Bueno en sí y, análogamente, respecto de todas aquellas cosas que postulábamos como múltiples; a la inversa, a su vez postulamos cada multiplicidad como siendo una unidad, de acuerdo con una Idea única, y denominamos a cada una ‘lo que es’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0334",
+      "stephanus": "507b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0335",
+      "stephanus": "507c",
+      "kind": "speech",
+      "text": {
+        "es": "—Y de aquellas cosas decimos que son vistas pero no pensadas, mientras que, por su parte, las Ideas son pensadas, mas no vistas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0336",
+      "stephanus": "507c",
+      "kind": "speech",
+      "text": {
+        "es": "—Indudablemente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0337",
+      "stephanus": "507c",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora bien, ¿por medio de qué vemos las cosas visibles?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0338",
+      "stephanus": "507c",
+      "kind": "speech",
+      "text": {
+        "es": "—Por medio de la vista.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0339",
+      "stephanus": "507c",
+      "kind": "speech",
+      "text": {
+        "es": "—En efecto, y por medio del oído las audibles, y por medio de las demás percepciones todas las cosas perceptibles. ¿No es así?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0340",
+      "stephanus": "507c",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0341",
+      "stephanus": "507c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, ¿has advertido que el artesano de las percepciones modeló mucho más perfectamente la facultad de ver y de ser visto?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0342",
+      "stephanus": "507c",
+      "kind": "speech",
+      "text": {
+        "es": "—En realidad, no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0343",
+      "stephanus": "507d",
+      "kind": "speech",
+      "text": {
+        "es": "—Examina lo siguiente: ¿hay algo de otro género que el oído necesita para oír y la voz para ser oída, de modo que, si este tercer género no se hace presente, uno no oirá y la otra no se oirá?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0344",
+      "stephanus": "507d",
+      "kind": "speech",
+      "text": {
+        "es": "—No, nada.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0345",
+      "stephanus": "507d",
+      "kind": "speech",
+      "text": {
+        "es": "—Tampoco necesitan de algo de esa índole muchos otros poderes, pienso, por no decir ninguno. ¿O puedes decir alguno?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0346",
+      "stephanus": "507d",
+      "kind": "speech",
+      "text": {
+        "es": "—No, por cierto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0347",
+      "stephanus": "507d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero, al poder de ver y de ser visto, ¿no piensas que le falta algo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0348",
+      "stephanus": "507d",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Qué cosa?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0349",
+      "stephanus": "507e",
+      "kind": "speech",
+      "text": {
+        "es": "—Si la vista está presente en los ojos y lista para que se use de ella, y el color está presente en los objetos, pero no se añade un tercer género que hay por naturaleza específicamente para ello, bien sabes que la vista no verá nada y los colores serán invisibles.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0350",
+      "stephanus": "507e",
+      "kind": "speech",
+      "text": {
+        "es": "—¿A qué te refieres?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0351",
+      "stephanus": "507e",
+      "kind": "speech",
+      "text": {
+        "es": "—A lo que tú llamas ‘luz’.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0352",
+      "stephanus": "507e",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices la verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0353",
+      "stephanus": "508a",
+      "kind": "speech",
+      "text": {
+        "es": "—Por consiguiente, el sentido de la vista y el poder de ser visto se hallan ligados por un vínculo de una especie nada pequeña, de mayor estima que las demás ligazones de los sentidos, salvo que la luz no sea estimable.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0354",
+      "stephanus": "508a",
+      "kind": "speech",
+      "text": {
+        "es": "—Está muy lejos de no ser estimable.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0355",
+      "stephanus": "508a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues bien, ¿a cuál de los dioses que hay en el cielo atribuyes la autoría de aquello por lo cual la luz hace que la vista vea y que las más hermosas cosas visibles sean vistas?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0356",
+      "stephanus": "508a",
+      "kind": "speech",
+      "text": {
+        "es": "—Al mismo que tú y que cualquiera de los demás, ya que es evidente que preguntas por el sol.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0357",
+      "stephanus": "508a",
+      "kind": "speech",
+      "text": {
+        "es": "—Y la vista, ¿no es por naturaleza en relación a este dios lo siguiente?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0358",
+      "stephanus": "508a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0359",
+      "stephanus": "508b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ni la vista misma, ni aquello en lo cual se produce —lo que llamamos ‘ojo’— son el sol.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0360",
+      "stephanus": "508b",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0361",
+      "stephanus": "508b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero es el más afín al sol, pienso, de los órganos que conciernen a los sentidos.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0362",
+      "stephanus": "508b",
+      "kind": "speech",
+      "text": {
+        "es": "—Con mucho.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0363",
+      "stephanus": "508b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y la facultad que posee, ¿no es algo así como un fluido que le es dispensado por el sol?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0364",
+      "stephanus": "508b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ciertamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0365",
+      "stephanus": "508b",
+      "kind": "speech",
+      "text": {
+        "es": "—En tal caso, el sol no es la vista pero, al ser su causa, es visto por ella misma.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0366",
+      "stephanus": "508b",
+      "kind": "speech",
+      "text": {
+        "es": "—Así es.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0367",
+      "stephanus": "508c",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces ya podéis decir qué entendía yo por el vástago del Bien, al que el Bien ha engendrado análogo a sí mismo. De este modo, lo que en el ámbito inteligible es el Bien respecto de la inteligencia y de lo que se intelige, esto es el sol en el ámbito visible respecto de la vista y de lo que se ve.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0368",
+      "stephanus": "508c",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Cómo? Explícate.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0369",
+      "stephanus": "508c",
+      "kind": "speech",
+      "text": {
+        "es": "—Bien sabes que los ojos, cuando se los vuelve sobre objetos cuyos colores no están ya iluminados por la luz del día sino por el resplandor de la luna, ven débilmente, como si no tuvieran claridad en la vista.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0370",
+      "stephanus": "508c",
+      "kind": "speech",
+      "text": {
+        "es": "—Efectivamente.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0371",
+      "stephanus": "508d",
+      "kind": "speech",
+      "text": {
+        "es": "—Pero cuando el sol brilla sobre ellos, ven nítidamente, y parece como si estos mismos ojos tuvieran la claridad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0372",
+      "stephanus": "508d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sin duda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0373",
+      "stephanus": "508d",
+      "kind": "speech",
+      "text": {
+        "es": "—Del mismo modo piensa así lo que corresponde al alma: cuando fija su mirada en objetos sobre los cuales brilla la verdad y lo que es, intelige, conoce y parece tener inteligencia; pero cuando se vuelve hacia lo sumergido en la oscuridad, que nace y perece, entonces opina y percibe débilmente con opiniones que la hacen ir de aquí para allá, y da la impresión de no tener inteligencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0374",
+      "stephanus": "508d",
+      "kind": "speech",
+      "text": {
+        "es": "—Eso parece, en efecto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0375",
+      "stephanus": "508e",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces, lo que aporta la verdad a las cosas cognoscibles y otorga al que conoce el poder de conocer, puedes decir que es la Idea del Bien. Y por ser causa de la ciencia y de la verdad, concíbela como cognoscible; y aun siendo bellos tanto el conocimiento como la verdad, si estimamos correctamente el asunto, tendremos a la Idea del Bien por algo distinto y más bello por ellas. Y así como dijimos que era correcto tomar a la luz y a la vista por afines al sol pero que sería erróneo creer que son el sol, análogamente ahora es correcto pensar que ambas cosas, la verdad y la ciencia, son afines al Bien, pero sería equivocado creer que una u otra fueran el Bien, ya que la condición del Bien es mucho más digna de estima.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0376",
+      "stephanus": "509a",
+      "kind": "speech",
+      "text": {
+        "es": "—Hablas de una belleza extraordinaria, puesto que produce la ciencia y la verdad, y además está por encima de ellas en cuanto a hermosura. Sin duda, no te refieres al placer.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0377",
+      "stephanus": "509a",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Dios nos libre! Más bien prosigue examinando nuestra comparación.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0378",
+      "stephanus": "509b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0379",
+      "stephanus": "509b",
+      "kind": "speech",
+      "text": {
+        "es": "—Pienso que puedes decir que el sol no sólo aporta a lo que se ve la propiedad de ser visto, sino también la génesis, el crecimiento y la nutrición, sin ser él mismo génesis.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0380",
+      "stephanus": "509b",
+      "kind": "speech",
+      "text": {
+        "es": "—Claro que no.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0381",
+      "stephanus": "509b",
+      "kind": "speech",
+      "text": {
+        "es": "—Y así dirás que a las cosas cognoscibles les viene del Bien no sólo el ser conocidas, sino también de él les llega el existir y la esencia, aunque el Bien no sea esencia, sino algo que se eleva más allá de la esencia en cuanto a dignidad y a potencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0382",
+      "stephanus": "509c",
+      "kind": "narration",
+      "text": {
+        "es": "Y Glaucón se echó a reír:",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0383",
+      "stephanus": "509c",
+      "kind": "speech",
+      "text": {
+        "es": "—¡Por Apolo!, exclamó. ¡Qué elevación demoníaca!",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0384",
+      "stephanus": "509c",
+      "kind": "speech",
+      "text": {
+        "es": "—Tú eres culpable —repliqué—, pues me has forzado a decir lo que pensaba sobre ello.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0385",
+      "stephanus": "509c",
+      "kind": "speech",
+      "text": {
+        "es": "—Está bien; de ningún modo te detengas, sino prosigue explicando la similitud respecto del sol, si es que te queda algo por decir.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0386",
+      "stephanus": "509c",
+      "kind": "speech",
+      "text": {
+        "es": "—Bueno, es mucho lo que queda.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0387",
+      "stephanus": "509c",
+      "kind": "speech",
+      "text": {
+        "es": "—Entonces no dejes de lado ni lo más mínimo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0388",
+      "stephanus": "509c",
+      "kind": "speech",
+      "text": {
+        "es": "—Me temo que voy a dejar mucho de lado; no obstante, no omitiré lo que en este momento me sea posible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0389",
+      "stephanus": "509c",
+      "kind": "speech",
+      "text": {
+        "es": "—No, por favor.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0390",
+      "stephanus": "509d",
+      "kind": "speech",
+      "text": {
+        "es": "—Piensa entonces, como decíamos, cuáles son los dos que reinan: uno, el del género y ámbito inteligibles; otro, el del visible, y no digo ‘el del cielo’ para que no creas que hago juego de palabras. ¿Captas estas dos especies, la visible y la inteligible?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0391",
+      "stephanus": "509d",
+      "kind": "speech",
+      "text": {
+        "es": "—Las capto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0392",
+      "stephanus": "509e",
+      "kind": "speech",
+      "text": {
+        "es": "—Toma ahora una línea dividida en dos partes desiguales; divide nuevamente cada sección según la misma proporción, la del género de lo que se ve y otra la del que se intelige, y tendrás distinta oscuridad y claridad relativas; así tenemos primeramente, en el género de lo que se ve, una sección de imágenes. Llamo ‘imágenes’ en primer lugar a las sombras, luego a los reflejos en el agua y en todas las cosas que, por su constitución, son densas, lisas y brillantes, y a todo lo de esa índole. ¿Te das cuenta?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0393",
+      "stephanus": "510a",
+      "kind": "speech",
+      "text": {
+        "es": "—Me doy cuenta.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0394",
+      "stephanus": "510a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pon ahora la otra sección de la que ésta ofrece imágenes, a la que corresponden los animales que viven en nuestro derredor, así como todo lo que crece, y también el género íntegro de cosas fabricadas por el hombre.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0395",
+      "stephanus": "510a",
+      "kind": "speech",
+      "text": {
+        "es": "—Pongámoslo.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0396",
+      "stephanus": "510a",
+      "kind": "speech",
+      "text": {
+        "es": "—¿Estás dispuesto a declarar que la línea ha quedado dividida, en cuanto a su verdad y no verdad, de modo tal que lo opinable es a lo cognoscible como la copia es a aquello de lo que es copiado?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0397",
+      "stephanus": "510b",
+      "kind": "speech",
+      "text": {
+        "es": "—Estoy muy dispuesto.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0398",
+      "stephanus": "510b",
+      "kind": "speech",
+      "text": {
+        "es": "—Ahora examina si no hay que dividir también la sección de lo inteligible.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0399",
+      "stephanus": "510b",
+      "kind": "speech",
+      "text": {
+        "es": "—¿De qué modo?",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0400",
+      "stephanus": "510b",
+      "kind": "speech",
+      "text": {
+        "es": "—De éste. Por un lado, en la primera parte de ella, el alma, sirviéndose de las cosas antes imitadas como si fueran imágenes, se ve forzada a indagar a partir de supuestos, marchando no hasta un principio sino hacia una conclusión. Por otro lado, en la segunda parte, avanza hasta un principio no supuesto, partiendo de un supuesto y sin recurrir a imágenes —a diferencia del otro caso—, efectuando el camino con Ideas mismas y por medio de Ideas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0401",
+      "stephanus": "510b",
+      "kind": "speech",
+      "text": {
+        "es": "—No he aprehendido suficientemente esto que dices.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0402",
+      "stephanus": "510c",
+      "kind": "speech",
+      "text": {
+        "es": "—Pues veamos nuevamente; será más fácil que entiendas si te digo esto antes. Creo que sabes que los que se ocupan de geometría y de cálculo suponen lo impar y lo par, las figuras y tres clases de ángulos y cosas afines, según lo que investigan en cada caso. Como si las conocieran, las adoptan como supuestos, y de ahí en adelante no estiman que deban dar cuenta de ellas ni a sí mismos ni a otros, como si fueran evidentes a cualquiera; antes bien, partiendo de ellas atraviesan el resto de modo consecuente, para concluir en aquello que proponían al examen.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0403",
+      "stephanus": "510d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sí, eso lo sé.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0404",
+      "stephanus": "510d",
+      "kind": "speech",
+      "text": {
+        "es": "—Sabes, por consiguiente, que se sirven de figuras visibles y hacen discursos acerca de ellas, aunque no pensando en éstas sino en aquellas cosas a las cuales éstas se parecen, discurriendo en vista al Cuadrado en sí y a la Diagonal en sí, y no en vista de la que dibujan, y así con lo demás. De las cosas mismas que configuran y dibujan hay sombras e imágenes en el agua, y de estas cosas que dibujan se sirven como imágenes, buscando divisar aquellas cosas en sí que no podrían divisar de otro modo que con el pensamiento.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0405",
+      "stephanus": "511a",
+      "kind": "speech",
+      "text": {
+        "es": "—Dices verdad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0406",
+      "stephanus": "511a",
+      "kind": "speech",
+      "text": {
+        "es": "—A esto me refería como la especie inteligible. Pero en esta su primera sección, el alma se ve forzada a servirse de supuestos en su búsqueda, sin avanzar hacia un principio, por no poder remontarse más allá de los supuestos. Y para eso usa como imágenes a los objetos que abajo eran imitados, y que habían sido conjeturados y estimados como claros respecto de los que eran sus imitaciones.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0407",
+      "stephanus": "511b",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprendo que te refieres a la geometría y a las artes afines.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0408",
+      "stephanus": "511b",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprende entonces la otra sección de lo inteligible, cuando afirmo que en ella la razón misma aprehende, por medio de la facultad dialéctica, y hace de los supuestos no principios sino realmente supuestos, que son como peldaños y trampolines hasta el principio del todo, que es no supuesto, y, tras aferrarse a él, ateniéndose a las cosas que de él dependen, desciende hasta una conclusión, sin servirse para nada de lo sensible, sino de Ideas, a través de Ideas y en dirección a Ideas, hasta concluir en Ideas.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0409",
+      "stephanus": "511c",
+      "kind": "speech",
+      "text": {
+        "es": "—Comprendo, aunque no suficientemente, ya que creo que tienes en mente una tarea enorme: quieres distinguir lo que de lo real e inteligible es estudiado por la ciencia dialéctica, estableciendo que es más claro que lo estudiado por las llamadas ‘artes’, para las cuales los supuestos son principios. Y los que los estudian se ven forzados a estudiarlos por medio del pensamiento discursivo, aunque no por los sentidos. Pero a raíz de no hacer el examen avanzando hacia un principio sino a partir de supuestos, te parece que no poseen inteligencia acerca de ellos, aunque sean inteligibles junto a un principio. Y creo que llamas ‘pensamiento discursivo’ al estado mental de los geómetras y similares, pero no ‘inteligencia’; como si el ‘pensamiento discursivo’ fuera algo intermedio entre la opinión y la inteligencia.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0410",
+      "stephanus": "511d",
+      "kind": "speech",
+      "text": {
+        "es": "—Entendiste perfectamente. Y ahora aplica a las cuatro secciones estas cuatro afecciones que se generan en el alma: inteligencia, a la suprema; pensamiento discursivo, a la segunda; a la tercera asigna la creencia y a la cuarta la conjetura; y ordénalas proporcionadamente, considerando que cuanto más participen de la verdad tanto más participan de la claridad.",
+        "en": ""
+      }
+    },
+    {
+      "id": "b6-0411",
+      "stephanus": "511e",
+      "kind": "speech",
+      "text": {
+        "es": "—Entiendo, y estoy de acuerdo en ordenarlas como dices.",
+        "en": ""
+      }
+    }
+  ]
+}
