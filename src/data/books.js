@@ -5,7 +5,7 @@
 
 export const BOOKS = [
   { n: 1, available: true,  title: { es: "Libro I",    en: "Book I" },    stephanus: "327–354" },
-  { n: 2, available: false, title: { es: "Libro II",   en: "Book II" },   stephanus: "357–383" },
+  { n: 2, available: true,  title: { es: "Libro II",   en: "Book II" },   stephanus: "357–383" },
   { n: 3, available: false, title: { es: "Libro III",  en: "Book III" },  stephanus: "386–417" },
   { n: 4, available: false, title: { es: "Libro IV",   en: "Book IV" },   stephanus: "419–445" },
   { n: 5, available: false, title: { es: "Libro V",    en: "Book V" },    stephanus: "449–480" },
